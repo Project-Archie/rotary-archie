@@ -16,14 +16,14 @@ Archie is not an official RI product. It is built on publicly available RI gover
 
 ## Install Archie
 
-Download `rotary-archie.zip` from the [latest release](https://github.com/archie4rotary/project-archie/releases/latest), then follow the guide for your assistant.
+Download `rotary-archie.zip` from the [latest release](https://github.com/Project-Archie/rotary-archie/releases/latest), then follow the guide for your assistant.
 
 | Assistant | Plans that support skills | Guide |
 |---|---|---|
 | Claude | Free, Pro, Max, Team, Enterprise | [docs/install/claude.md](docs/install/claude.md) |
 | ChatGPT | Business, Enterprise, Edu, Healthcare (not Free, Plus, or Pro) | [docs/install/chatgpt.md](docs/install/chatgpt.md) |
 | Grok | SuperGrok, SuperGrok Heavy | [docs/install/grok.md](docs/install/grok.md) |
-| Command-line agents (Claude Code, Codex, Gemini CLI, Grok Build) | `npx skills add archie4rotary/project-archie` | [docs/install/cli.md](docs/install/cli.md) |
+| Command-line agents (Claude Code, Codex, Gemini CLI, Grok Build) | `npx skills add Project-Archie/rotary-archie` | [docs/install/cli.md](docs/install/cli.md) |
 
 If you would rather not install anything, use the public Archie GPT on ChatGPT: https://bit.ly/project-archie
 

@@ -119,7 +119,7 @@ When the user asks what version of Archie they have, whether Archie is up to
 date, or when Archie was last updated, answer from this file's frontmatter:
 state the `version` and `last-updated` values exactly as written there, and
 tell the user the current release is always listed at
-https://github.com/archie4rotary/project-archie/releases/latest so they can
+https://github.com/Project-Archie/rotary-archie/releases/latest so they can
 compare. Do not guess a version from memory, and do not claim to have checked
 the release page unless a tool actually fetched it.
 

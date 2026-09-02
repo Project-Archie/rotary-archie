@@ -8,7 +8,7 @@ The same file installs on Claude, ChatGPT, and Grok. Pick whichever assistant yo
 
 ## Get the file
 
-1. Open https://github.com/archie4rotary/project-archie/releases/latest in your web browser.
+1. Open https://github.com/Project-Archie/rotary-archie/releases/latest in your web browser.
 2. Scroll down to the heading **Assets**.
 3. Click `rotary-archie.zip`. Your browser saves it to your Downloads folder.
 4. Leave the file zipped. Do not open it, and do not unzip it. Every assistant below wants the zip exactly as you downloaded it.
@@ -49,11 +49,11 @@ A Project with your own district documents in it is also where Tier 3 begins. Se
 Rotary International publishes revised governing documents each July, and Archie gets a new version to match. Here is how to tell whether the copy you installed is still current.
 
 1. Start a conversation and type "What version are you?" Archie answers with a version number and a date.
-2. Compare that number against the one at https://github.com/archie4rotary/project-archie/releases/latest.
+2. Compare that number against the one at https://github.com/Project-Archie/rotary-archie/releases/latest.
 3. If the release is newer, download the new file and install it the same way you installed the first one.
 
 You can also just wait to be told. Your Zone coordinator sends a note whenever a new version is posted.
 
-To have GitHub tell you directly, open https://github.com/archie4rotary/project-archie, click **Watch** near the top right, choose **Custom**, and tick **Releases**. GitHub then emails you when a new version goes up.
+To have GitHub tell you directly, open https://github.com/Project-Archie/rotary-archie, click **Watch** near the top right, choose **Custom**, and tick **Releases**. GitHub then emails you when a new version goes up.
 
 The first part of the version number is the Rotary year the documents come from. Version 2025.3.2 carries the documents Rotary International published for the 2025 Rotary year. When the 2026 documents land, the version becomes 2026 followed by its own numbers.

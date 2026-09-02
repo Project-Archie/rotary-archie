@@ -10,7 +10,7 @@ Archie installs into Claude Code, Codex, Gemini CLI, Grok Build, and any other c
 2. Run this command:
 
 ```
-npx skills add archie4rotary/project-archie
+npx skills add Project-Archie/rotary-archie
 ```
 
 3. Answer the prompts. The installer asks which agent you are installing into and writes the skill there for you.
@@ -18,7 +18,7 @@ npx skills add archie4rotary/project-archie
 
 ## Installing by hand
 
-If you would rather place the files yourself, download `rotary-archie.zip` from https://github.com/archie4rotary/project-archie/releases/latest, unzip it into a folder named `rotary-archie`, and put that folder in the directory for your agent.
+If you would rather place the files yourself, download `rotary-archie.zip` from https://github.com/Project-Archie/rotary-archie/releases/latest, unzip it into a folder named `rotary-archie`, and put that folder in the directory for your agent.
 
 | Agent | Skills directory |
 | --- | --- |
@@ -43,4 +43,4 @@ Archie should answer **2025.3.2** or newer, with a date. If it does not name a v
 
 ## How updates arrive
 
-To update, run `npx skills add archie4rotary/project-archie` again and let it overwrite the old copy. If you cloned the repository instead, run `git pull` in it. Either way, restart your agent afterwards. Every release is listed at https://github.com/archie4rotary/project-archie/releases/latest, and your Zone coordinator announces new versions when Rotary International publishes revised governing documents each July.
+To update, run `npx skills add Project-Archie/rotary-archie` again and let it overwrite the old copy. If you cloned the repository instead, run `git pull` in it. Either way, restart your agent afterwards. Every release is listed at https://github.com/Project-Archie/rotary-archie/releases/latest, and your Zone coordinator announces new versions when Rotary International publishes revised governing documents each July.
