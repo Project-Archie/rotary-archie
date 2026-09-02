@@ -1,0 +1,58 @@
+{
+  "version": "2025.1",
+  "sources": [
+    {
+      "doc_id": "bylaws2025",
+      "file": "5_Rotary_International_Bylaws.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "constitution2025",
+      "file": "6_Rotary_International_Constitution.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "code2025",
+      "file": "4_2025_Code_of_Policies.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "mop2025",
+      "file": "3_2025_Manual_of_Procedure.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "govmanual2025",
+      "file": "1_2025_Lead_Your_District_-_GOV_MANUAL.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "dpg2025",
+      "file": "2_2025_District_Planning_Guide.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "clubconst2025",
+      "file": "7_Rotary_Club_Constitution.md",
+      "year": 2025
+    },
+    {
+      "doc_id": "reference2025",
+      "file": "reference_index.json",
+      "year": 2025
+    }
+  ],
+  "priority_model": "reference_index.json",
+  "unit_counts": {
+    "bylaws2025": 13,
+    "constitution2025": 1,
+    "mop2025": 9,
+    "clubconst2025": 10,
+    "code2025": 21,
+    "govmanual2025": 2,
+    "reference2025": 1
+  },
+  "units_total": 57,
+  "units_expected_min": 400,
+  "units_expected_max": 900
+}

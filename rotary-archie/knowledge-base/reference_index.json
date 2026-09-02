@@ -1,0 +1,12 @@
+{
+  "weights": {
+    "bylaws2025": 0.96,
+    "constitution2025": 0.93,
+    "code2025": 0.9,
+    "mop2025": 0.84,
+    "govmanual2025": 0.75,
+    "dpg2025": 0.7,
+    "clubconst2025": 0.72,
+    "reference2025": 1.0
+  }
+}
