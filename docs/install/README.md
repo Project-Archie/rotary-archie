@@ -4,7 +4,7 @@ A skill is a folder of instructions that an AI assistant carries with it. Archie
 
 You install the skill once. After that it works in every conversation you have with that assistant. You do not have to remember to turn it on, and you do not have to paste anything at the start of a chat.
 
-The same file installs on Claude, ChatGPT, Gemini, and Grok. Pick whichever assistant you already use.
+The same file installs on Claude, ChatGPT, and Grok. Pick whichever assistant you already use.
 
 ## Get the file
 
@@ -21,13 +21,18 @@ If you use the Claude desktop app on a Mac or a Windows PC, download `rotary-arc
 | --- | --- | --- |
 | Claude | Free, Pro, Max, Team, and Enterprise | claude.md |
 | ChatGPT | Business, Enterprise, Edu, and Healthcare workspaces only. Skills are not available on Free, Plus, or Pro. | chatgpt.md |
-| Gemini | Google AI Pro or Google AI Ultra, on a personal Google account. Work and school accounts cannot use skills yet. | gemini.md |
 | Grok | SuperGrok and SuperGrok Heavy | grok.md |
 | A command-line agent | Claude Code, Codex, Gemini CLI, Grok Build | cli.md |
 
 If you are on ChatGPT Free, Plus, or Pro, your account cannot install skills of any kind. You have two good options instead. Use the public Archie GPT, which needs no setup at all and is described in tier-1-use.md. Or set up a ChatGPT Project and upload the seven Rotary documents by hand, which is described in ../add-memory-projects.md.
 
 Setup takes about five minutes.
+
+Gemini is not supported yet. Google's skills feature is in beta, and in our tests it mixed web search results into Archie's answers, including outdated Rotary contact details. We will add Gemini when it passes the same checks as the others.
+
+## When Archie switches on
+
+The skill activates when your question is about Rotary policy, governance, or district work. Ask something general (a recipe, a running pace) and your assistant answers normally, without Archie. If you want every message in a workspace to go through Archie, put the skill inside a Project.
 
 ## Optional: give Archie memory
 

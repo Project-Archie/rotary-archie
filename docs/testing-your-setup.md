@@ -1,6 +1,9 @@
 # Testing your setup
 
-Six checks, one message each. Ask them in a fresh conversation, in any order, and compare what you get against the expected result below each one. If a check fails, look at the Troubleshooting section of the install guide you followed, which is install/claude.md, install/chatgpt.md, install/gemini.md, install/grok.md, or install/cli.md.
+Six checks, one message each. Ask them in a fresh conversation, in any order, and compare what you get against the expected result below each one. If a check fails, look at the Troubleshooting section of the install guide you followed, which is install/claude.md, install/chatgpt.md, install/grok.md, or install/cli.md.
+
+One thing to know first: on its own, the skill switches on when your question is about Rotary policy, governance, or district work. A general question (say, how fast people run a 5K) may get a normal answer from your assistant with no citations, because Archie was never called. If you want every message handled by Archie, put the skill inside a Project (see add-memory-projects.md).
+
 
 ## 1. Retrieval
 
@@ -10,7 +13,7 @@ Archie should answer with a number and cite a specific section of the Rotary Int
 
 ## 2. Not found
 
-> What's the recommended pace for a 5K Rotary fundraiser run?
+> Does Rotary International policy set a recommended pace or time limit for a club 5K fundraiser run?
 
 Rotary International has published nothing on this, so the correct answer is that there is no answer. Archie should return ❌ Not found, tell you which documents it searched, and point you toward a human source such as your district's event committee. Any invented pacing guidance is a failure, and a serious one, since it means Archie will invent policy too.
 

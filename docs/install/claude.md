@@ -12,13 +12,14 @@ Claude offers skills on every plan, including the free one. If you can sign in t
 1. Open https://claude.ai in your web browser and sign in.
 2. Click your name at the bottom left corner of the screen, then click **Settings**.
 3. In the settings list, click **Capabilities**.
-4. Find **Code execution and file creation** and make sure the switch is turned on. If it is off, turn it on now. Archie will not run without it.
-5. Go back to the settings list and click **Customize**.
-6. Click the **Skills** tab. (confirm in Task 8: exact label and whether Skills sits under Settings or Customize)
-7. Click the **+** button, then click **Upload skill**.
-8. Choose `rotary-archie.zip` from your Downloads folder. Claude reads the zip and adds Archie to your skills list.
+4. Find **Cloud code execution and file creation** and make sure the switch is turned on. If it is off, turn it on now. The setting says "Required for skills."
+5. In the same settings list, under the **Customize** heading, click **Skills**.
+6. Click **Add** in the upper right, then **Upload skill**.
+7. Drag `rotary-archie.zip` from your Downloads folder onto the box that says **Drag and drop or click to upload**, or click the box and choose the file. Claude reads the zip and adds Archie to your skills list. A short security scan may run first.
+8. If you installed Archie before, Claude asks **Replace "rotary-archie" skill?** Click **Upload and replace**. Earlier versions stay in the skill's version history.
+9. Confirm **rotary-archie** appears at the top of your skills list with today's date.
 
-If you use the Claude desktop app on a Mac or a Windows PC, you can skip all of that. Download `rotary-archie-v2025.3.2.skill` from the release page and double-click it. The app installs the skill for you.
+Claude Desktop shortcut: download the `.skill` file from the release page instead and double-click it. Claude Desktop installs it directly.
 
 ## Test it
 

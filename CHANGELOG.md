@@ -8,11 +8,12 @@ Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year o
 
 ### Added
 - You can now ask Archie what version it is running. It reports its version number and last-updated date, and points you to the release page so you can compare against the latest.
-- Archie now ships as tagged GitHub Releases, each with two downloadable packages: a flat zip for the Claude, ChatGPT, Gemini, and Grok upload dialogs, and a `.skill` file for Claude Desktop's double-click install.
+- Archie now ships as tagged GitHub Releases, each with two downloadable packages: a flat zip for the Claude, ChatGPT, and Grok upload dialogs, and a `.skill` file for Claude Desktop's double-click install.
 - Tier 2 (the Claude Project setup) is now framed as "Install the Archie Skill" first, with the Claude Project itself as an optional memory layer on top. New per-platform install guides were added.
 
 ### Changed
 - No changes to the seven critical governance rules in this release, so this stayed a MINOR update.
+- Gemini was tested and held back. Google's skills feature is in beta, needs Archie split into two skills because of size limits, and in our tests mixed web search results into answers, including outdated Rotary contact details. It will be added when it passes the same checks as the other assistants.
 
 ### Fixed
 - The public Archie GPT's document authority order listed the Club Constitution third and the Code of Policies fifth. The published Custom GPT instructions now carry the correct order: RI Constitution, RI Bylaws, Code of Policies, Manual of Procedure, Governor Manual, District Planning Guide, Standard Rotary Club Constitution.

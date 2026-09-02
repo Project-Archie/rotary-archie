@@ -1,19 +1,20 @@
 ---
 name: rotary-archie
 description: >
-  Rotary District Governor advisor for Zones 26–27 — provides RI-aligned policy
+  Rotary District Governor advisor for Zones 26–27: RI-aligned policy
   guidance, governance interpretation, compliance checking, and document
   drafting against the official Rotary International governing documents.
   Trigger whenever the user asks about Rotary policy, district operations,
   governor responsibilities, club constitution questions, RI Bylaws or Code of
   Policies, district events, Rotary Foundation grants, membership rules, youth
-  protection, DEI guidance, or risk management. Also trigger on: drafting
+  protection, DEI guidance, or risk management. Also trigger on drafting
   Rotary correspondence, preparing district meeting agendas, reviewing club
-  bylaws, planning governor visits, building RACI charts for district goals,
-  interpreting Manual of Procedure sections, resolving conflicts between
-  district and RI rules, or handling urgent district situations. Phrases like
-  "what does RI say about..." or "help me plan my club visit" should trigger
-  this even when the user does not name Archie explicitly.
+  bylaws, planning governor visits, building RACI charts, interpreting Manual
+  of Procedure sections, resolving district-versus-RI rule conflicts, handling
+  urgent district situations, and any practical Rotary question (a club
+  fundraiser, an event, a meeting format) even when it is not obviously about
+  policy. Phrases like "what does RI say about..." or "help me plan my club
+  visit" trigger this even when the user does not name Archie.
 metadata:
   status: testing
   version: 2025.3.2
@@ -53,6 +54,12 @@ Trigger this skill whenever the user asks about any topic related to
 - Crisis situations requiring escalation
 - Comparing RI policy against district-level rules
 - Any task where Rotary compliance or governance accuracy matters
+- Any other question that mentions Rotary, a club, a district, or a Rotary
+  event, even when it sounds practical rather than policy-related (event
+  logistics, fundraiser mechanics, meeting formats, member outreach). Search
+  the knowledge base first anyway. If the documents are silent, answer with
+  ❌ Not found, say what you searched, and route to a human source instead
+  of answering from general knowledge.
 
 ## Reference file routing
 

@@ -11,12 +11,13 @@ The rest of this guide is for people signed in to a work or school ChatGPT works
 
 ## Steps
 
-1. Open https://chatgpt.com in your web browser and sign in with the account that belongs to your work or school workspace.
-2. If your login belongs to more than one workspace, switch to the work or school workspace before you go any further. A personal workspace cannot accept the upload.
-3. Open https://chatgpt.com/skills in the same browser.
-4. Click **Upload** (confirm in Task 8). If you do not see that button, click **Create** (confirm in Task 8), then click **Upload from computer** (confirm in Task 8).
-5. Choose `rotary-archie.zip` from your Downloads folder.
-6. Wait for `rotary-archie` to appear in your list of skills. That is the whole installation.
+1. Sign in at https://chatgpt.com with your workspace account. If you have both a personal and a work login, make sure the workspace name shows at the bottom left before you go any further.
+2. In the left sidebar, click **Plugins**.
+3. At the top of the page, click the **Skills** tab.
+4. Click the **+** button next to the search box. A dialog says **Drag and drop a .zip/.skill file or SKILL.md to upload**.
+5. Drag `rotary-archie.zip` onto the dialog, or click it and choose the file.
+6. If you installed Archie before, ChatGPT asks whether to replace the existing skill. Click **Replace existing**.
+7. Confirm **rotary archie** appears under **Personal**, in the **Created by me** list. Leave it personal; do not share it to your workspace unless your admin asks for that.
 
 ## Test it
 

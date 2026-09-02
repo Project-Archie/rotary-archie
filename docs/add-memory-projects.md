@@ -31,10 +31,10 @@ Which set of steps you follow depends on your plan. Both end in the same place.
 ### If your workspace has skills (Business, Enterprise, Edu, Healthcare)
 
 1. Install the skill first, following install/chatgpt.md.
-2. In ChatGPT, click **Projects** (confirm in Task 8) in the left sidebar.
-3. Click **New project** (confirm in Task 8) and give it a name.
+2. In ChatGPT, find the **Projects** heading in the left sidebar.
+3. Click the **+** next to that heading to create a project, and give it a name.
 4. Open `instructions/chatgpt-project.md` and copy the text between the two horizontal dividers.
-5. Paste that text into the project's **Instructions** field (confirm in Task 8) and save.
+5. Open the project, find its instructions box (ChatGPT labels it Instructions in the project's settings), paste the text there, and save.
 6. Optional. Add your own district documents to the project.
 7. Start a conversation in the project and tell Archie your district number and your role.
 
@@ -44,8 +44,8 @@ The Rotary documents are already inside the skill, so there is nothing else to u
 
 Your account cannot install skills, so the Project has to carry everything itself. That includes the Rotary documents.
 
-1. In ChatGPT, click **Projects** (confirm in Task 8) in the left sidebar.
-2. Click **New project** (confirm in Task 8) and give it a name.
+1. In ChatGPT, find the **Projects** heading in the left sidebar.
+2. Click the **+** next to that heading to create a project, and give it a name.
 3. Upload the seven Rotary International governing documents from `../rotary-archie/knowledge-base/`:
    - `1_2025_Lead_Your_District_-_GOV_MANUAL.md`
    - `2_2025_District_Planning_Guide.md`
@@ -55,7 +55,7 @@ Your account cannot install skills, so the Project has to carry everything itsel
    - `6_Rotary_International_Constitution.md`
    - `7_Rotary_Club_Constitution.md`
 4. Open `instructions/chatgpt-project-no-skill.md` and copy the text between the two horizontal dividers.
-5. Paste that text into the project's **Instructions** field (confirm in Task 8) and save.
+5. Open the project, find its instructions box (ChatGPT labels it Instructions in the project's settings), paste the text there, and save.
 6. Optional. Add your own district documents to the project alongside the seven.
 7. Start a conversation in the project and tell Archie your district number and your role.
 

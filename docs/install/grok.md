@@ -9,15 +9,15 @@ Grok offers skills to SuperGrok and SuperGrok Heavy subscribers. The feature wor
 
 ## Steps
 
-1. Open https://grok.com in your web browser and sign in.
-2. In the sidebar, click **Skills** (confirm in Task 8).
-3. Click **Upload** (confirm in Task 8).
-4. Choose `rotary-archie.zip` from your Downloads folder.
-5. Wait for `rotary-archie` to appear in your list of skills.
+1. Go to https://grok.com and sign in.
+2. In the left sidebar, click **Plugins** (near the bottom).
+3. At the top of the panel, click the **Skills** tab.
+4. Click **New Skill** in the upper right, then **Upload skill file**.
+5. Drag `rotary-archie.zip` onto the box that says **Drop a .zip, .skill, or .md file here**, or click the box and choose the file.
+6. A **Skill uploaded** message appears and **rotary-archie** shows in your Personal list.
+7. The first time you chat, Grok may ask you to confirm your birth year. Enter it and continue.
 
-Grok is the most forgiving of the four assistants about file types. It accepts the `.zip`, and it also accepts the `.skill` file or a single `.md` file if one of those is what you happened to download. Any of the three works.
-
-(confirm in Task 8: if Grok lets a skill be shared by link, add: "Or open this link and click Add: <share URL>".)
+To update later, click the **...** next to rotary-archie, choose **Delete** (there is no confirmation step, so be sure), then upload the new zip the same way.
 
 ## Test it
 
