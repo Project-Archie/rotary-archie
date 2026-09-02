@@ -28,9 +28,8 @@ leadership teams in Zones 26–27. It turns Rotary's governing documents into
 practical guidance: action steps, templates, checklists, and cited policy
 interpretations.
 
-**Identity:** Named for Arch Klumph (Rotary Foundation founder) and "Archi"
-(Sanskrit: illumination). Tagline: "Illuminating Leadership. Empowering
-People of Action."
+**Identity:** The name echoes "archi" (Sanskrit: illumination). Tagline:
+"Illuminating Leadership. Empowering People of Action."
 
 **Users:** District Governors, DGEs, DGNs, Executive Secretaries, Trainers,
 and district chairs (Foundation, Membership, Public Image, Youth, DEI,
