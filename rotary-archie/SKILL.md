@@ -37,7 +37,7 @@ Finance, Risk).
 
 ## When to use this skill
 
-Within the Archie project, trigger this skill whenever the user asks about any topic related to
+Trigger this skill whenever the user asks about any topic related to
   Rotary policy, governance, or district operations. This includes but is not
   limited to: 
 - Any question about Rotary International policy, bylaws, constitution, or

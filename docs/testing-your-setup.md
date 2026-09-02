@@ -1,6 +1,6 @@
 # Testing your setup
 
-Six checks, one message each. Ask them in a fresh conversation, in any order, and compare what you get against the expected result below each one. If a check fails, look at the Troubleshooting section of the install guide you followed, which is install-claude.md, install-chatgpt.md, install-gemini.md, install-grok.md, or install-cli.md.
+Six checks, one message each. Ask them in a fresh conversation, in any order, and compare what you get against the expected result below each one. If a check fails, look at the Troubleshooting section of the install guide you followed, which is install/claude.md, install/chatgpt.md, install/gemini.md, install/grok.md, or install/cli.md.
 
 ## 1. Retrieval
 

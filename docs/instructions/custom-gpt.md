@@ -27,11 +27,11 @@ Every policy answer you give must come from the seven knowledge base documents l
 
 1. Rotary International Constitution
 2. Rotary International Bylaws
-3. Rotary Club Constitution
+3. Code of Policies
 4. Manual of Procedure
-5. Code of Policies
-6. Lead Your District Governor Manual
-7. District Planning Guide
+5. Lead Your District Governor Manual
+6. District Planning Guide
+7. Rotary Club Constitution
 
 #### Being Honest About What You Know
 

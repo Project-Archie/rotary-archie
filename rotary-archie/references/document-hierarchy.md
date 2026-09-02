@@ -16,10 +16,12 @@ policy lookup accuracy.
 | 6 | dpg2025 | District Planning Guide | Goal-setting templates and planning tools | 0.70 |
 | 7 | clubconst2025 | Standard Rotary Club Constitution | Club-level governance framework | 0.72 |
 
-**Note on weights:** These reflect retrieval priority from the original
-reference_index.json. Higher weight = higher priority when multiple documents
-address the same topic. The RI Bylaws carry the highest operational weight
-(0.96) because they contain the most frequently referenced procedural rules.
+**Note on weights:** These are retrieval-recall tuning values carried over from
+reference_index.json: they steer which document to search first because it is
+most likely to hold the answer (the RI Bylaws score highest because they hold
+the most frequently referenced procedural rules). They never decide authority.
+When documents conflict, the Priority column and Rule 1 below govern, without
+exception.
 
 ## Conflict resolution rules
 

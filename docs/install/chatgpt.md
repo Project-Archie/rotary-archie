@@ -7,7 +7,7 @@ The rest of this guide is for people signed in to a work or school ChatGPT works
 ## Before you start
 
 1. A ChatGPT account on a Business, Enterprise, Edu, or Healthcare workspace. Most Rotarians who have this got it through an employer or a university.
-2. The file `rotary-archie.zip`, downloaded as described in tier-2-install.md. Leave it zipped.
+2. The file `rotary-archie.zip`, downloaded as described in README.md. Leave it zipped.
 
 ## Steps
 

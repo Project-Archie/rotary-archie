@@ -30,7 +30,7 @@ Which set of steps you follow depends on your plan. Both end in the same place.
 
 ### If your workspace has skills (Business, Enterprise, Edu, Healthcare)
 
-1. Install the skill first, following install-chatgpt.md.
+1. Install the skill first, following install/chatgpt.md.
 2. In ChatGPT, click **Projects** (confirm in Task 8) in the left sidebar.
 3. Click **New project** (confirm in Task 8) and give it a name.
 4. Open `instructions/chatgpt-project.md` and copy the text between the two horizontal dividers.

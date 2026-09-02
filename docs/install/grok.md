@@ -5,7 +5,7 @@ Grok offers skills to SuperGrok and SuperGrok Heavy subscribers. The feature wor
 ## Before you start
 
 1. A Grok account with a SuperGrok or SuperGrok Heavy subscription. The free tier cannot install skills.
-2. The file `rotary-archie.zip`, downloaded as described in tier-2-install.md. Leave it zipped.
+2. The file `rotary-archie.zip`, downloaded as described in README.md. Leave it zipped.
 
 ## Steps
 
@@ -17,7 +17,7 @@ Grok offers skills to SuperGrok and SuperGrok Heavy subscribers. The feature wor
 
 Grok is the most forgiving of the four assistants about file types. It accepts the `.zip`, and it also accepts the `.skill` file or a single `.md` file if one of those is what you happened to download. Any of the three works.
 
-(confirm in Task 8: if Grok lets a skill be shared by link, add: "Or open this link and click Add: <share URL>". Decision OI-4.)
+(confirm in Task 8: if Grok lets a skill be shared by link, add: "Or open this link and click Add: <share URL>".)
 
 ## Test it
 

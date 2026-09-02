@@ -30,10 +30,10 @@ Supplementary RI guidance that complements the seven core governing documents. T
 
 | Filename | Size | Format | Source |
 |---|---:|---|---|
-| rotary-ai-guidelines-for-members.md | 10.59 KB | Markdown | Rotary International, June 2025 (converted from official PDF) |
-| rotary-member-faq-on-ai-use.md | 7.86 KB | Markdown | Rotary International, June 2025 (converted from official PDF) |
+| rotary-ai-guidelines-for-members.md | 10.59 KB | Markdown | Rotary International, February 2026 (converted from official PDF) |
+| rotary-member-faq-on-ai-use.md | 7.86 KB | Markdown | Rotary International, February 2026 (converted from official PDF) |
 
-The markdown versions are what the skill searches. The authoritative PDF originals are kept outside the shipped package, in the host project's `source-pdfs/` folder.
+The markdown versions are what the skill searches. The authoritative PDF originals are published by Rotary International and are not included in the package.
 
 ## Format rules
 
@@ -66,5 +66,5 @@ Each year on or after 1 July, RI publishes revised governing documents. To updat
 4. Replace the files in this folder, preserving the filename pattern (year and document name).
 5. Update `manifest.json` to reflect the new year.
 6. Update sizes and line counts in this MANIFEST.md.
-7. Log the refresh in the host project's changelog with the new Rotary year entry.
+7. Log the refresh in CHANGELOG.md with the new Rotary year entry.
 8. Redeploy the updated skill package wherever it is installed.

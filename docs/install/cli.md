@@ -1,6 +1,6 @@
 # Install Archie in a command-line agent
 
-This guide is for people who run an AI agent in a terminal window rather than in a browser. If that is not you, go back to tier-2-install.md and pick a browser guide instead. Nothing here is required.
+This guide is for people who run an AI agent in a terminal window rather than in a browser. If that is not you, go back to README.md and pick a browser guide instead. Nothing here is required.
 
 Archie installs into Claude Code, Codex, Gemini CLI, Grok Build, and any other client that reads skills from agentskills.io.
 

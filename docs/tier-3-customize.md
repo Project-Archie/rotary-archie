@@ -38,7 +38,7 @@ The seven critical rules in `instructions/claude-project.md` are non-negotiable.
 2. Document the example as `tier-3-example-district-XXXX.md` in this folder.
 3. Extract the reusable patterns into a `tier-3-overlay-template.md`.
 4. Add code snippets (instruction overlays, file naming conventions, knowledge upload checklists) to a `tier-3-snippets/` subfolder.
-5. Promote the result onto the Notion hub Tier 3 page.
+5. Publish the result on the project hub.
 
 ## Submit ideas
 

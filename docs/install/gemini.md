@@ -1,11 +1,11 @@
 # Install Archie on Gemini
 
-Gemini keeps its skills inside a feature called **Gemini Spark**. You need a Google AI Pro or Google AI Ultra subscription, and you need to be signed in with a personal Google account. A work or school Google account cannot use skills yet, even on a paid plan, so if your only Google login is a `@yourcompany.com` or `@youruniversity.edu` address, this path is closed to you for now. Use Claude or the public Archie GPT instead. See tier-2-install.md.
+Gemini keeps its skills inside a feature called **Gemini Spark**. You need a Google AI Pro or Google AI Ultra subscription, and you need to be signed in with a personal Google account. A work or school Google account cannot use skills yet, even on a paid plan, so if your only Google login is a `@yourcompany.com` or `@youruniversity.edu` address, this path is closed to you for now. Use Claude or the public Archie GPT instead. See README.md.
 
 ## Before you start
 
 1. A personal Google account with a Google AI Pro or Google AI Ultra subscription.
-2. The file `rotary-archie.zip`, downloaded as described in tier-2-install.md. Leave it zipped.
+2. The file `rotary-archie.zip`, downloaded as described in README.md. Leave it zipped.
 
 ## Steps
 

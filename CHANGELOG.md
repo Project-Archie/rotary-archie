@@ -14,6 +14,11 @@ Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year o
 ### Changed
 - No changes to the seven critical governance rules in this release, so this stayed a MINOR update.
 
+### Fixed
+- The public Archie GPT's document authority order listed the Club Constitution third and the Code of Policies fifth. The published Custom GPT instructions now carry the correct order: RI Constitution, RI Bylaws, Code of Policies, Manual of Procedure, Governor Manual, District Planning Guide, Standard Rotary Club Constitution.
+- Clarified in the skill that retrieval weights never override document authority.
+- Corrected the publication dates of the two Rotary AI-guidance documents to February 2026.
+
 ## [2025.3.1] - 2026-08-05
 
 ### Changed

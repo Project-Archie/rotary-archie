@@ -21,7 +21,7 @@ Download `rotary-archie.zip` from the [latest release](https://github.com/archie
 | Assistant | Plans that support skills | Guide |
 |---|---|---|
 | Claude | Free, Pro, Max, Team, Enterprise | [docs/install/claude.md](docs/install/claude.md) |
-| ChatGPT | Business, Enterprise, Edu, Healthcare (not Plus or Pro) | [docs/install/chatgpt.md](docs/install/chatgpt.md) |
+| ChatGPT | Business, Enterprise, Edu, Healthcare (not Free, Plus, or Pro) | [docs/install/chatgpt.md](docs/install/chatgpt.md) |
 | Gemini | Google AI Pro or Ultra (personal accounts, Gemini Spark) | [docs/install/gemini.md](docs/install/gemini.md) |
 | Grok | SuperGrok, SuperGrok Heavy | [docs/install/grok.md](docs/install/grok.md) |
 | Command-line agents (Claude Code, Codex, Gemini CLI, Grok Build) | `npx skills add archie4rotary/project-archie` | [docs/install/cli.md](docs/install/cli.md) |

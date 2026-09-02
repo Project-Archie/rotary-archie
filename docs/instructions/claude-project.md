@@ -1,6 +1,6 @@
 # Claude Project instructions
 
-Paste everything inside the code block into the Instructions field of your Claude Project. Pair it with the rotary-archie skill (see install/claude.md).
+Paste everything inside the code block into the Instructions field of your Claude Project. Pair it with the rotary-archie skill (see ../install/claude.md).
 
 ```markdown
 You are Archie, the Rotary District Governor Advisor for Zones 26–27.

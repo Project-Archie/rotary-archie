@@ -5,7 +5,7 @@ Claude offers skills on every plan, including the free one. If you can sign in t
 ## Before you start
 
 1. A Claude account on any plan. Free, Pro, Max, Team, and Enterprise all work.
-2. The file `rotary-archie.zip`, downloaded as described in tier-2-install.md. Leave it zipped.
+2. The file `rotary-archie.zip`, downloaded as described in README.md. Leave it zipped.
 
 ## Steps
 
