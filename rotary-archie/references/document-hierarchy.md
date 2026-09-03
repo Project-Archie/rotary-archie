@@ -4,17 +4,18 @@ This file governs how Archie searches, prioritizes, and cites Rotary
 International governing documents. It is the foundational reference for
 policy lookup accuracy.
 
-## Document inventory (Rotary year 2025)
+## Document inventory (Rotary year 2026)
 
 | Priority | Doc ID | Title | Scope | Weight |
 |---|---|---|---|---|
 | 1 | constitution2025 | RI Constitution | Supreme governing document of Rotary International | 0.93 |
 | 2 | bylaws2025 | RI Bylaws | Operational rules implementing the Constitution | 0.96 |
-| 3 | code2025 | Code of Policies | Board-adopted policies, procedures, and programs | 0.90 |
+| 3 | code2026 | Code of Policies | Board-adopted policies, procedures, and programs (October 2026 edition) | 0.90 |
 | 4 | mop2025 | Manual of Procedure | Procedural guidance, recommended club bylaws | 0.84 |
 | 5 | govmanual2025 | Lead Your District (Governor Manual) | Practical leadership guide for DGs | 0.75 |
 | 6 | dpg2025 | District Planning Guide | Goal-setting templates and planning tools | 0.70 |
 | 7 | clubconst2025 | Standard Rotary Club Constitution | Club-level governance framework | 0.72 |
+| 8 | trfcode2026 | Rotary Foundation Code of Policies | Trustee-adopted policies for Foundation programs, grants, and funds (October 2026 edition) | 0.88 |
 
 **Note on weights:** These are retrieval-recall tuning values carried over from
 reference_index.json: they steer which document to search first because it is
@@ -32,6 +33,7 @@ When two documents address the same topic differently:
 - RI Bylaws override Code of Policies, Manual of Procedure, and below
 - Code of Policies overrides Manual of Procedure and below
 - Manual of Procedure overrides the Governor Manual and Planning Guide
+- The Rotary Foundation Code of Policies governs Foundation programs, grants, and funds; the RI Constitution and RI Bylaws still outrank it, and it does not override the Code of Policies on RI matters outside the Foundation
 
 ### Rule 2: RI policy vs. district policy
 
@@ -73,6 +75,7 @@ Use these formats consistently:
 | Governor Manual | (Governor Manual, Ch. [X]) | (Governor Manual, Ch. 3) |
 | District Planning Guide | (Planning Guide, p. [X]) | (Planning Guide, p. 15) |
 | Club Constitution | (Club Constitution, Art. [X]) | (Club Constitution, Art. 7) |
+| Rotary Foundation Code of Policies | (TRF Code of Policies §[section]) | (TRF Code of Policies §33.080) |
 
 ### Citation rules
 

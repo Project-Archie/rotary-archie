@@ -1,5 +1,5 @@
 {
-  "version": "2025.1",
+  "version": "2026.1",
   "sources": [
     {
       "doc_id": "bylaws2025",
@@ -12,9 +12,14 @@
       "year": 2025
     },
     {
-      "doc_id": "code2025",
-      "file": "4_2025_Code_of_Policies.md",
-      "year": 2025
+      "doc_id": "code2026",
+      "file": "4_2026_Code_of_Policies.md",
+      "year": 2026
+    },
+    {
+      "doc_id": "trfcode2026",
+      "file": "8_2026_Rotary_Foundation_Code_of_Policies.md",
+      "year": 2026
     },
     {
       "doc_id": "mop2025",
@@ -44,15 +49,10 @@
   ],
   "priority_model": "reference_index.json",
   "unit_counts": {
-    "bylaws2025": 13,
-    "constitution2025": 1,
-    "mop2025": 9,
-    "clubconst2025": 10,
-    "code2025": 21,
-    "govmanual2025": 2,
+    "clubconst2025": 3,
     "reference2025": 1
   },
-  "units_total": 57,
+  "units_total": 4,
   "units_expected_min": 400,
   "units_expected_max": 900
 }

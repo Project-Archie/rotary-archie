@@ -2,8 +2,8 @@
 
 ## Why this file exists
 
-The seven governing documents bundled in `knowledge-base/` are verbatim Rotary
-International text from the 2025 editions. After those editions were published,
+The eight governing documents bundled in `knowledge-base/` are verbatim Rotary
+International text from the 2025 and 2026 editions. After those editions were published,
 Rotary International restructured several support functions and retired some
 contact channels. The documents themselves are never edited — they remain
 faithful records of the official text. This file is the correction layer:

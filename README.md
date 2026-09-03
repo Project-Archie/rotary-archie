@@ -8,7 +8,7 @@ Archie is not an official RI product. It is built on publicly available RI gover
 
 ## What is in this repository
 
-- `rotary-archie/` is the Archie skill: a folder of instructions plus its own copy of the seven RI governing documents for the 2025 Rotary year. Install it once on any assistant that supports skills and you have Archie.
+- `rotary-archie/` is the Archie skill: a folder of instructions plus its own copy of the eight RI governing documents for the 2026 Rotary year. Install it once on any assistant that supports skills and you have Archie.
 - `docs/install/` has step-by-step install guides per platform.
 - `docs/add-memory-projects.md` explains the optional Projects layer (conversation memory, your own district files).
 - `docs/instructions/` holds the paste-in instruction texts for Projects and the public Custom GPT.
@@ -37,7 +37,7 @@ Get notified: on this page click **Watch**, then **Custom**, then tick **Release
 
 ## Rotary year updates
 
-RI publishes revised governing documents each July. Archie's version number starts with the Rotary year of its documents (2025.x.x means the 2025 Rotary year, July 2025 to June 2026). A new Rotary year is a new first number.
+RI publishes revised governing documents each July. Archie's version number starts with the Rotary year of its documents (2026.x.x means the 2026 Rotary year, July 2026 to June 2027). A new Rotary year is a new first number.
 
 ## License
 

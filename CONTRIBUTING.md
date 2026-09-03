@@ -21,4 +21,4 @@ Fork this repository and open a pull request against `main`. Keep these rules in
 
 ## How releases work
 
-The maintainer publishes from a private working copy. Each release is tagged with the version (for example `v2025.3.2`) and carries `rotary-archie.zip` and a `.skill` file. Version numbers are `ROTARYYEAR.MAJOR.MINOR`: the first number is the Rotary year of the bundled documents, MAJOR changes when the critical rules change, MINOR for everything else.
+The maintainer publishes from a private working copy. Each release is tagged with the version (for example `v2026.1.0`) and carries `rotary-archie.zip` and a `.skill` file. Version numbers are `ROTARYYEAR.MAJOR.MINOR`: the first number is the Rotary year of the bundled documents, MAJOR changes when the critical rules change, MINOR for everything else.

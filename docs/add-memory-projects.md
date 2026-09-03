@@ -22,7 +22,7 @@ Setting up a Project takes about 15 minutes. A Project with your own district do
 6. Optional. Add your own district documents under **Project Knowledge**.
 7. Start a conversation in the Project and tell Archie your district number and your role.
 
-You do not need to upload the seven Rotary International governing documents. They are already inside the skill you installed, and uploading a second copy only makes the Project slower to search.
+You do not need to upload the eight Rotary International governing documents. They are already inside the skill you installed, and uploading a second copy only makes the Project slower to search.
 
 ## ChatGPT
 
@@ -46,17 +46,18 @@ Your account cannot install skills, so the Project has to carry everything itsel
 
 1. In ChatGPT, find the **Projects** heading in the left sidebar.
 2. Click the **+** next to that heading to create a project, and give it a name.
-3. Upload the seven Rotary International governing documents from `../rotary-archie/knowledge-base/`:
+3. Upload the eight Rotary International governing documents from `../rotary-archie/knowledge-base/`:
    - `1_2025_Lead_Your_District_-_GOV_MANUAL.md`
    - `2_2025_District_Planning_Guide.md`
    - `3_2025_Manual_of_Procedure.md`
-   - `4_2025_Code_of_Policies.md`
+   - `4_2026_Code_of_Policies.md`
    - `5_Rotary_International_Bylaws.md`
    - `6_Rotary_International_Constitution.md`
    - `7_Rotary_Club_Constitution.md`
+   - `8_2026_Rotary_Foundation_Code_of_Policies.md`
 4. Open `instructions/chatgpt-project-no-skill.md` and copy the text between the two horizontal dividers.
 5. Open the project, find its instructions box (ChatGPT labels it Instructions in the project's settings), paste the text there, and save.
-6. Optional. Add your own district documents to the project alongside the seven.
+6. Optional. Add your own district documents to the project alongside the eight.
 7. Start a conversation in the project and tell Archie your district number and your role.
 
 Use the no-skill instructions file for this path. It carries the behavior that the skill would otherwise supply, so the ordinary Claude or with-skill text would leave gaps.
@@ -67,7 +68,7 @@ Most people should skip this section. A public Archie GPT already exists at http
 
 1. Create a new Custom GPT in ChatGPT.
 2. Open `instructions/custom-gpt.md` and paste its system message into the GPT's instructions field.
-3. Upload the same seven governing documents listed above as the GPT's Knowledge.
+3. Upload the same eight governing documents listed above as the GPT's Knowledge.
 4. Turn **Code Interpreter** on.
 5. Turn **Web Browsing** on.
 6. Leave **Actions** empty. Archie does not use them.

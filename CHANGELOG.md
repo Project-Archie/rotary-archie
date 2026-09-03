@@ -4,6 +4,19 @@ All notable changes to Project Archie. Rotary years run 1 July to 30 June.
 
 Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
 
+## [2026.1.0] - 2026-09-03
+
+The first Rotary-year update. The first number of the version changes from 2025 to 2026 because the documents inside Archie changed.
+
+### Added
+- The Rotary Foundation Code of Policies (October 2026 edition) is now the eighth document inside Archie. Questions about Foundation grants, funds, and programs can be answered from the Trustees' own policy text, cited by section. It sits below the RI Constitution and RI Bylaws in Archie's authority order.
+
+### Changed
+- The Rotary Code of Policies is now the October 2026 edition (Board decisions through July 2026), replacing the October 2025 edition. That covers the October 2025, January 2026, April 2026, and June 2026 Board meetings, about 60 amended sections in all, verified against RI's published amendments list.
+- The RI Constitution, RI Bylaws, Standard Rotary Club Constitution, Manual of Procedure, Governor Manual, and District Planning Guide are unchanged; RI has not issued new editions of them.
+- Archie's document authority order gained the Foundation Code of Policies. Because that order is one of the seven critical governance rules, every Archie surface is re-tested in full at this version.
+- The Gemini packaging (still unpublished) now arrives as four skill files, because the larger 2026 Code of Policies no longer fits in one Gemini skill.
+
 ## [2025.3.2] - 2026-09-01
 
 ### Added

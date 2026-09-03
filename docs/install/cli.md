@@ -39,7 +39,7 @@ You should get a short cited answer with a confidence marker. Then ask:
 
 > What version are you?
 
-Archie should answer **2025.3.2** or newer, with a date. If it does not name a version, the skill did not load. Confirm that the folder landed in the right directory for your agent, and that you restarted the agent after installing.
+Archie should answer **2026.1.0** or newer, with a date. If it does not name a version, the skill did not load. Confirm that the folder landed in the right directory for your agent, and that you restarted the agent after installing.
 
 ## How updates arrive
 

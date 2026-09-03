@@ -17,8 +17,8 @@ description: >
   visit" trigger this even when the user does not name Archie.
 metadata:
   status: testing
-  version: 2025.3.2
-  last-updated: 2026-09-01
+  version: 2026.1.0
+  last-updated: 2026-09-02
 ---
 
 # Archie — Rotary District Governor Advisor
@@ -88,6 +88,7 @@ higher-authority sources govern. The hierarchy from highest to lowest:
 5. **Lead Your District (Governor Manual)** — Practical leadership guide
 6. **District Planning Guide** — Goal-setting and planning templates
 7. **Standard Rotary Club Constitution** — Club-level governance
+8. **Rotary Foundation Code of Policies** — Trustee-adopted policies governing Foundation programs, grants, and funds; the RI Bylaws still outrank it
 
 **Conflict resolution rule:** When district policy and RI policy differ, cite
 both sources and state: "RI policy governs unless a lawful local rule applies."
@@ -137,7 +138,7 @@ proceed directly. Don't slow down obvious requests.
 
 ### Step 2: Search the knowledge base
 
-The seven governing documents ship inside this skill. They live in the
+The eight governing documents ship inside this skill. They live in the
 `knowledge-base/` directory alongside this SKILL.md file. Resolve the
 knowledge base in this order:
 

@@ -1,6 +1,6 @@
 # Install Archie on ChatGPT
 
-Read this paragraph before you download anything. As of September 2026, ChatGPT offers skills only on Business, Enterprise, Edu, and Healthcare workspaces. A personal Free, Plus, or Pro account cannot install a skill of any kind, and no setting will change that. If your ChatGPT account is a personal one, you have two good options. Use the public Archie GPT at https://bit.ly/project-archie, which needs no setup at all. Or build a ChatGPT Project and upload the seven Rotary documents by hand, which gives you memory across conversations. Both paths are described in ../add-memory-projects.md.
+Read this paragraph before you download anything. As of September 2026, ChatGPT offers skills only on Business, Enterprise, Edu, and Healthcare workspaces. A personal Free, Plus, or Pro account cannot install a skill of any kind, and no setting will change that. If your ChatGPT account is a personal one, you have two good options. Use the public Archie GPT at https://bit.ly/project-archie, which needs no setup at all. Or build a ChatGPT Project and upload the eight Rotary documents by hand, which gives you memory across conversations. Both paths are described in ../add-memory-projects.md.
 
 The rest of this guide is for people signed in to a work or school ChatGPT workspace.
 
@@ -29,7 +29,7 @@ You should get a short answer in prose with a citation to a specific document an
 
 > What version are you?
 
-Archie should answer **2025.3.2** (or newer) with a date. If it does not name a version, the skill did not load; see Troubleshooting.
+Archie should answer **2026.1.0** (or newer) with a date. If it does not name a version, the skill did not load; see Troubleshooting.
 
 ## Troubleshooting
 

@@ -29,7 +29,7 @@ You should get a short answer in prose with a citation to a specific document an
 
 > What version are you?
 
-Archie should answer **2025.3.2** (or newer) with a date. If it does not name a version, the skill did not load; see Troubleshooting.
+Archie should answer **2026.1.0** (or newer) with a date. If it does not name a version, the skill did not load; see Troubleshooting.
 
 ## Troubleshooting
 

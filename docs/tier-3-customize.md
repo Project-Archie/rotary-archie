@@ -25,7 +25,7 @@ Experienced users, district IT volunteers, multi-district committees, and zone l
 
 A Tier 3 build is a Tier 2 build with two additions:
 
-1. **District document overlay.** A `knowledge-base/district-XXXX/` folder (XXXX is the district number) supplied by the workspace or Project, not edited into the skill's bundled corpus. District documents use the same markdown format as the seven RI files. The skill resolves its bundled RI corpus first and treats any workspace-provided `knowledge-base/` as district-level supplements, so the Project knowledge upload carries the overlay alongside the RI files.
+1. **District document overlay.** A `knowledge-base/district-XXXX/` folder (XXXX is the district number) supplied by the workspace or Project, not edited into the skill's bundled corpus. District documents use the same markdown format as the eight RI files. The skill resolves its bundled RI corpus first and treats any workspace-provided `knowledge-base/` as district-level supplements, so the Project knowledge upload carries the overlay alongside the RI files.
 2. **Instruction overlay.** A short block of text appended to the Claude Project Instructions field (after the canonical Archie text). The overlay names the district, lists the district-specific documents, and clarifies how local rules interact with RI rules. The overlay never overrides the document hierarchy. RI policy still governs unless a lawful local rule applies.
 
 ## What does not change at Tier 3
