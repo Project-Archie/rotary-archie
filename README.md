@@ -24,7 +24,7 @@ This repository is also a Claude Code plugin marketplace. In Claude Code:
 /plugin install rotary-archie@project-archie
 ```
 
-Restart Claude Code afterwards. Update later with `/plugin marketplace update project-archie`. The marketplace also carries `rotary-brand-voice`, an optional companion for Rotary writing and design; install it the same way if you want it.
+Restart Claude Code afterwards. Update later with `/plugin marketplace update project-archie`. The marketplace also carries `rotary-brand-voice`, an optional companion for Rotary writing and design; install it the same way if you want it. Outside Claude Code, the companion's packages sit on the same release page as Archie's: `rotary-brand-voice.zip` (Claude, ChatGPT, Grok upload) and `rotary-brand-voice-v0.2.1.skill` (Claude Desktop). Companion versions move independently of Archie's.
 
 ## Install Archie
 

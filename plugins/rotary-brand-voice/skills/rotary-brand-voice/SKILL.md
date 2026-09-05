@@ -19,7 +19,7 @@ description: >
   skill. Do NOT use for content unrelated to Rotary.
 metadata:
   status: draft
-  version: 0.2.0
+  version: 0.2.1
   last-updated: 2026-09-05
 ---
 # Rotary Brand Voice and Visual Identity
@@ -53,7 +53,7 @@ When a request carries a wrong Rotary fact the sources settle, correct it and ad
 - "A Rotary International global grant." Global grants come from The Rotary Foundation.
 - "Rotary International" as a casual synonym for Rotary in body copy.
 - A wrong hex, for example Sky Blue given as `#0067c8`, which is Azure.
-- A club or district theme, anywhere in the piece: as a tagline, caption, subhead, hashtag, or badge line, not only in an official theme slot. The Brand Center says homegrown themes are retired and replaced by the annual presidential message ("Create Lasting Impact" for 2026-27). Offer the presidential message in its place or drop the line; do not keep the theme as a caption.
+- A club or district theme, anywhere in the piece: as a tagline, caption, subhead, hashtag, or badge line, not only in an official theme slot. The Brand Center says homegrown themes are retired and replaced by the annual presidential message ("Create Lasting Impact" for 2026-27). Offer the presidential message in its place or drop the line; do not keep the theme as a caption, and do not suggest moving it to other club materials.
 - The bare Masterbrand Signature on club material. The club, district, or zone logo goes there instead.
 - More than one partner or sponsor in one lockup. One goes in the lockup, the rest are listed separately away from the logo. Equal partners means no lockup.
 - An event or project named "Rotary Picnic" style. Add the club identification: "Rotary Club of Springfield Picnic at the Beach."
