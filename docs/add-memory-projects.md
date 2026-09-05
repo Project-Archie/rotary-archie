@@ -46,7 +46,7 @@ Your account cannot install skills, so the Project has to carry everything itsel
 
 1. In ChatGPT, find the **Projects** heading in the left sidebar.
 2. Click the **+** next to that heading to create a project, and give it a name.
-3. Upload the eight Rotary International governing documents from `../rotary-archie/knowledge-base/`:
+3. Upload the eight Rotary International governing documents from `plugins/rotary-archie/skills/rotary-archie/knowledge-base/`:
    - `1_2025_Lead_Your_District_-_GOV_MANUAL.md`
    - `2_2025_District_Planning_Guide.md`
    - `3_2025_Manual_of_Procedure.md`

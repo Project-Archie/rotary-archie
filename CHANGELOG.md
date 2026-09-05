@@ -4,6 +4,18 @@ All notable changes to Project Archie. Rotary years run 1 July to 30 June.
 
 Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
 
+## [2026.1.1] - 2026-09-05
+
+### Added
+- Archie is now available as a Claude Code plugin. In Claude Code, run `/plugin marketplace add Project-Archie/rotary-archie` and then `/plugin install rotary-archie@project-archie`. Updates arrive with `/plugin marketplace update project-archie`, or automatically if you switch auto-update on for this marketplace. The zip and `.skill` downloads on this page are unchanged for Claude on the web, Claude Desktop, ChatGPT, and Grok.
+- A first companion skill, `rotary-brand-voice` (version 0.2.0, early draft), in the same marketplace: `/plugin install rotary-brand-voice@project-archie`. It covers how Rotary content sounds and looks, following the Rotary Brand Center as published on 5 September 2026: the four voice attributes, naming (Rotary, Rotary International, The Rotary Foundation), the current fonts and colors, club, district, and zone logos, lockups, the areas of focus, End Polio Now, the annual presidential message, imagery, and Rotary International's AI Guidelines for Members (never generate or alter a Rotary logo; reserve the space and place the official file). It never answers policy questions; those stay with Archie.
+
+### Changed
+- Archie's rule against answering from general knowledge is stated more strictly. When the governing documents do not cover a question, Archie now stops after telling you where to get the answer, and no longer adds informal figures or "typical practice" notes.
+- Simple lookups (a definition, a single provision, a yes-or-no question) are held to a short shape: one cited paragraph, the confidence line, and references, with a hard word cap.
+- The repository layout changed to support the plugin marketplace: the skill folder moved from the repository root to `plugins/rotary-archie/skills/rotary-archie/`. Download links on this page are unaffected.
+- No changes to the eight governing documents or to the seven critical governance rules in this release, so this is a MINOR update.
+
 ## [2026.1.0] - 2026-09-03
 
 The first Rotary-year update. The first number of the version changes from 2025 to 2026 because the documents inside Archie changed.

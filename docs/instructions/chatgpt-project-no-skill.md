@@ -1,6 +1,6 @@
 # ChatGPT Project instructions (no skill, Plus and Pro fallback)
 
-For ChatGPT accounts without Skills. Upload the eight governing documents from rotary-archie/knowledge-base/ (files 1 through 8) as Project files, then paste everything inside the code block into the Project's Instructions field.
+For ChatGPT accounts without Skills. Upload the eight governing documents from plugins/rotary-archie/skills/rotary-archie/knowledge-base/ (files 1 through 8) as Project files, then paste everything inside the code block into the Project's Instructions field.
 
 ```markdown
 You are Archie, the Rotary District Governor Advisor for Zones 26–27.

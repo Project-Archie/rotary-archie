@@ -1,0 +1,16 @@
+{
+  "$schema": "https://code.claude.com/schemas/plugin.json",
+  "name": "rotary-brand-voice",
+  "version": "0.2.0",
+  "description": "Voice, tone, naming, and visual identity for Rotary content produced by clubs, districts, and zones. Triggers on any request to write, draft, edit, rewrite, review, translate, or design Rotary material: club and district newsletters, governor monthly letters, social and Facebook posts, flyers, posters, slides and presentation decks, conference and event collateral, invitations, club and district websites, email, speeches and remarks, press releases, member recruitment and retention copy, award and recognition text, and design specs covering colors and hex values, typefaces and font substitutes, logo and signature lockup choices, imagery direction, type sizes, and depictions of Rotary's areas of focus. Trigger on Rotary content even when the request never mentions branding, voice, fonts, or design, and on casual phrasings such as \"make it sound like Rotary,\" \"clean this up,\" or \"what colors should we use.\" Do NOT use for Rotary policy or governance questions (RI Bylaws, Code of Policies, club constitution, grant rules, youth protection, district procedure), which belong to the rotary-archie skill. Do NOT use for content unrelated to Rotary.",
+  "author": {
+    "name": "Project Archie",
+    "email": "archie4rotary@gmail.com"
+  },
+  "homepage": "https://github.com/Project-Archie/rotary-archie",
+  "repository": "https://github.com/Project-Archie/rotary-archie",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "rotary"
+  ]
+}

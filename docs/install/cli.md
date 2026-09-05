@@ -4,7 +4,34 @@ This guide is for people who run an AI agent in a terminal window rather than in
 
 Archie installs into Claude Code, Codex, Gemini CLI, Grok Build, and any other client that reads skills from agentskills.io.
 
+## Claude Code: install as a plugin
+
+If you use Claude Code, this is the easiest way in. Archie is published as a plugin, and Claude Code can fetch it for you and keep track of the version.
+
+1. Open Claude Code.
+2. Type this and press Return:
+
+```
+/plugin marketplace add Project-Archie/rotary-archie
+```
+
+3. Then type this and press Return:
+
+```
+/plugin install rotary-archie@project-archie
+```
+
+4. Restart Claude Code so it picks up the new plugin.
+
+To get a newer version later, run `/plugin marketplace update project-archie` and then restart. Claude Code does not update outside marketplaces on its own, so nothing changes underneath you unless you ask. If you would rather it kept itself current, open `/plugin`, find the project-archie marketplace in the list, and switch auto-update on for it.
+
+There is a second plugin in the same marketplace, `rotary-brand-voice`, which helps with Rotary writing and design rather than policy. Install it the same way if you want it: `/plugin install rotary-brand-voice@project-archie`. It is optional. Archie works on its own.
+
+The version check further down this page still applies. Ask "What version are you?" after you restart.
+
 ## The one command
+
+This works everywhere, including Claude Code if you would rather not use the plugin route above.
 
 1. Open your terminal.
 2. Run this command:
@@ -43,4 +70,6 @@ Archie should answer **2026.1.0** or newer, with a date. If it does not name a v
 
 ## How updates arrive
 
-To update, run `npx skills add Project-Archie/rotary-archie` again and let it overwrite the old copy. If you cloned the repository instead, run `git pull` in it. Either way, restart your agent afterwards. Every release is listed at https://github.com/Project-Archie/rotary-archie/releases/latest, and your Zone coordinator announces new versions when Rotary International publishes revised governing documents each July.
+If you installed the plugin in Claude Code, run `/plugin marketplace update project-archie`, then restart Claude Code. That is the whole update.
+
+Everyone else: run `npx skills add Project-Archie/rotary-archie` again and let it overwrite the old copy. If you cloned the repository instead, run `git pull` in it. Either way, restart your agent afterwards. Every release is listed at https://github.com/Project-Archie/rotary-archie/releases/latest, and your Zone coordinator announces new versions when Rotary International publishes revised governing documents each July.

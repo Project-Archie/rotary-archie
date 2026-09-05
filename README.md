@@ -8,11 +8,23 @@ Archie is not an official RI product. It is built on publicly available RI gover
 
 ## What is in this repository
 
-- `rotary-archie/` is the Archie skill: a folder of instructions plus its own copy of the eight RI governing documents for the 2026 Rotary year. Install it once on any assistant that supports skills and you have Archie.
+- `plugins/rotary-archie/skills/rotary-archie/` is the Archie skill: a folder of instructions plus its own copy of the eight RI governing documents for the 2026 Rotary year. Install it once on any assistant that supports skills and you have Archie.
+- `.claude-plugin/marketplace.json` and `plugins/` make this repository a Claude Code plugin marketplace. Each plugin holds one skill.
 - `docs/install/` has step-by-step install guides per platform.
 - `docs/add-memory-projects.md` explains the optional Projects layer (conversation memory, your own district files).
 - `docs/instructions/` holds the paste-in instruction texts for Projects and the public Custom GPT.
 - `CHANGELOG.md` lists what changed in each version.
+
+## Install as a Claude Code plugin
+
+This repository is also a Claude Code plugin marketplace. In Claude Code:
+
+```
+/plugin marketplace add Project-Archie/rotary-archie
+/plugin install rotary-archie@project-archie
+```
+
+Restart Claude Code afterwards. Update later with `/plugin marketplace update project-archie`. The marketplace also carries `rotary-brand-voice`, an optional companion for Rotary writing and design; install it the same way if you want it.
 
 ## Install Archie
 
@@ -41,4 +53,4 @@ RI publishes revised governing documents each July. Archie's version number star
 
 ## License
 
-Archie's own text (the skill instructions, references, and guides) is licensed under Creative Commons Attribution 4.0. The Rotary International documents inside `rotary-archie/knowledge-base/` are copyright Rotary International, reproduced from publicly available publications, and are not covered by that license. See [LICENSE](LICENSE).
+Archie's own text (the skill instructions, references, and guides) is licensed under Creative Commons Attribution 4.0. The Rotary International documents inside `plugins/rotary-archie/skills/rotary-archie/knowledge-base/` are copyright Rotary International, reproduced from publicly available publications, and are not covered by that license. See [LICENSE](LICENSE).

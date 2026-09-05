@@ -1,0 +1,16 @@
+{
+  "$schema": "https://code.claude.com/schemas/plugin.json",
+  "name": "rotary-archie",
+  "version": "2026.1.1",
+  "description": "Rotary District Governor advisor for Zones 26–27: RI-aligned policy guidance, governance interpretation, compliance checking, and document drafting against the official Rotary International governing documents. Trigger whenever the user asks about Rotary policy, district operations, governor responsibilities, club constitution questions, RI Bylaws or Code of Policies, district events, Rotary Foundation grants, membership rules, youth protection, DEI guidance, or risk management. Also trigger on drafting Rotary correspondence, preparing district meeting agendas, reviewing club bylaws, planning governor visits, building RACI charts, interpreting Manual of Procedure sections, resolving district-versus-RI rule conflicts, handling urgent district situations, and any practical Rotary question (a club fundraiser, an event, a meeting format) even when it is not obviously about policy. Phrases like \"what does RI say about...\" or \"help me plan my club visit\" trigger this even when the user does not name Archie.",
+  "author": {
+    "name": "Project Archie",
+    "email": "archie4rotary@gmail.com"
+  },
+  "homepage": "https://github.com/Project-Archie/rotary-archie",
+  "repository": "https://github.com/Project-Archie/rotary-archie",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "rotary"
+  ]
+}

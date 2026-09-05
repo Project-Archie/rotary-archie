@@ -15,9 +15,9 @@ If you added district policies, standing rules, or role-specific instructions to
 Fork this repository and open a pull request against `main`. Keep these rules in mind:
 
 - The seven critical rules (search before answering, cite everything, confidence signals, hard escalation boundaries, document hierarchy, response format, verification nudges) do not change without discussion. They are Archie's safety rails.
-- Files in `rotary-archie/knowledge-base/` are verbatim Rotary International text. Do not edit them. Corrections to outdated details go in `rotary-archie/references/contact-corrections.md`.
+- Files in `plugins/rotary-archie/skills/rotary-archie/knowledge-base/` are verbatim Rotary International text. Do not edit them. Corrections to outdated details go in `plugins/rotary-archie/skills/rotary-archie/references/contact-corrections.md`.
 - Never add a personal email address or phone number for any Rotary leader. Use only officially published organizational channels.
-- Do not put platform or product names inside `rotary-archie/`. The skill installs on several assistants, so it stays neutral about all of them.
+- Do not put platform or product names inside `plugins/rotary-archie/skills/rotary-archie/`. The skill installs on several assistants, so it stays neutral about all of them.
 
 ## How releases work
 

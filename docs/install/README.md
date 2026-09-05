@@ -24,6 +24,8 @@ If you use the Claude desktop app on a Mac or a Windows PC, download `rotary-arc
 | Grok | SuperGrok and SuperGrok Heavy | grok.md |
 | A command-line agent | Claude Code, Codex, Gemini CLI, Grok Build | cli.md |
 
+Claude Code users have a shorter path: Archie installs as a plugin with two commands and updates with one. See the plugin section at the top of cli.md.
+
 If you are on ChatGPT Free, Plus, or Pro, your account cannot install skills of any kind. You have two good options instead. Use the public Archie GPT, which needs no setup at all and is described in tier-1-use.md. Or set up a ChatGPT Project and upload the eight Rotary documents by hand, which is described in ../add-memory-projects.md.
 
 Setup takes about five minutes.

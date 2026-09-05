@@ -1,0 +1,38 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "project-archie",
+  "owner": {
+    "name": "Project Archie",
+    "email": "archie4rotary@gmail.com",
+    "url": "https://github.com/Project-Archie/rotary-archie"
+  },
+  "description": "Community-built Claude Code plugins for Rotary district, club, and zone leaders.",
+  "plugins": [
+    {
+      "name": "rotary-archie",
+      "displayName": "Archie",
+      "source": "./plugins/rotary-archie",
+      "description": "Cited Rotary policy and governance advisor for district leaders, built on the Rotary International governing documents.",
+      "author": { "name": "Project Archie", "email": "archie4rotary@gmail.com" },
+      "homepage": "https://github.com/Project-Archie/rotary-archie",
+      "repository": "https://github.com/Project-Archie/rotary-archie",
+      "license": "CC-BY-4.0",
+      "keywords": ["rotary"],
+      "category": "rotary",
+      "skills": ["./skills/rotary-archie"]
+    },
+    {
+      "name": "rotary-brand-voice",
+      "displayName": "Rotary Brand Voice",
+      "source": "./plugins/rotary-brand-voice",
+      "description": "Rotary voice, naming, and visual identity for club, district, and zone communications.",
+      "author": { "name": "Project Archie", "email": "archie4rotary@gmail.com" },
+      "homepage": "https://github.com/Project-Archie/rotary-archie",
+      "repository": "https://github.com/Project-Archie/rotary-archie",
+      "license": "CC-BY-4.0",
+      "keywords": ["rotary"],
+      "category": "rotary",
+      "skills": ["./skills/rotary-brand-voice"]
+    }
+  ]
+}
