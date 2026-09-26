@@ -1,0 +1,6 @@
+interface:
+  display_name: "Rotary Archie"
+  short_description: "Cited Rotary policy and district governance guidance"
+  default_prompt: "Use $rotary-archie to answer this Rotary policy question with sources."
+policy:
+  allow_implicit_invocation: true

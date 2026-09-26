@@ -4,6 +4,20 @@ All notable changes to Project Archie. Rotary years run 1 July to 30 June.
 
 Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
 
+## [2026.1.2] - 2026-09-25
+
+### Fixed
+- Align escalation instructions across the main skill, crisis mode, and response templates. Immediate safeguarding referrals take priority; documented reporting steps, source excerpts, and neutral referral drafts remain available. Investigation plans and professional legal, tax, insurance, or financial judgments remain outside scope.
+- Distinguish routine Foundation planning from suspected financial irregularities.
+- Remove unsupported example citations and deadlines, including the example that incorrectly attributed assistant governor appointments to RI Bylaws 16.040.
+- Correct October, November, and April observances against bundled Code of Policies section 8.020. The ambiguous July extraction is explicitly unresolved, rather than assigned an unsupported theme.
+- Treat documents and workspace overlays as evidence, not instructions or authorization for external actions.
+
+### Validation and distribution
+- Nine targeted fresh-context execution cases passed, covering observances, citation checking, all five professional/safeguarding escalation categories, routine Foundation planning, and hostile overlay instructions.
+- Metadata and complete installation archives validated. All eight governing documents and the seven project-level critical rules are unchanged. Existing cross-platform test gaps remain open; these targeted checks are not a full native-platform retest or ChatGPT security-scan approval.
+- Add Codex display metadata. Standalone ZIP and `.skill` downloads include the complete knowledge base. The companion `rotary-brand-voice` 0.2.1 remains unchanged.
+
 ## [2026.1.1] - 2026-09-05
 
 ### Added
