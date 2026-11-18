@@ -1,10 +1,10 @@
 ROTARY
 CODE OF POLICIES
-October 2026
-(Containing Board Decisions Through July 2026)
+January 2027
+(Containing Board Decisions Through October 2026)
 
 Rotary Code of Policies
-October 2026
+January 2027
 Preface
 Rotary Code of Policies
 PURPOSE
@@ -40,31 +40,28 @@ CHAPTER I – GENERAL PROVISIONS ... 1
 ARTICLE 1. THE CODE ... 1
 1.010. Purpose ... 1
 1.020. Citation ... 1
-1.030. Rules of Construction ... 2
+1.030. Rules of Construction ... 1
 1.040. Definitions ... 2
 1.050. Relationship to the Constitutional Documents ... 3
 1.060. Severability ... 3
-1.070. Repeal of Policies ... 4
+1.070. Repeal of Policies ... 3
 1.080. Implementation of Policies ... 4
 1.090. Amendments ... 4
-1.100. Annual Supplements ... 4
-1.110. Revised Editions... 5
-1.120. Authentication ... 5
-CHAPTER II – CLUBS ... 6
-ARTICLE 2. CLUB MEMBERSHIP AND ADMINISTRATION ... 6
-2.010. Membership of Clubs in RI ... 6
-2.020. Club Leadership Plan ... 9
-2.030. Association of Clubs Outside RI ... 11
-2.040. Clubs Chartered Prior to 6 June 1922 ... 11
-2.050. Recommended Club Bylaws ... 11
-2.060. Incorporation of Clubs ... 11
-2.070. Incorporation of Club Activity... 13
-2.080. Club Compliance with National Law ... 13
-2.090. Clubs and Politics... 13
-2.100. Club and District Events Involving Weapons ... 14
-2.110. Legal and Insurance Implications of Events Involving Weapons ... 14
-2.120. Youth Protection ... 14
-2.130. Pilot Projects ... 17
+CHAPTER II – CLUBS ... 5
+ARTICLE 2. CLUB MEMBERSHIP AND ADMINISTRATION ... 5
+2.010. Membership of Clubs in RI ... 5
+2.020. Club Leadership Plan ... 8
+2.030. Association of Clubs Outside RI ... 10
+2.040. Clubs Chartered Prior to 6 June 1922 ... 10
+2.050. Recommended Club Bylaws ... 10
+2.060. Incorporation of Clubs ... 10
+2.070. Incorporation of Club Activity... 12
+2.080. Club Compliance with National Law ... 12
+2.090. Clubs and Politics... 12
+2.100. Club and District Events Involving Weapons ... 13
+2.110. Legal and Insurance Implications of Events Involving Weapons ... 13
+2.120. Youth Protection ... 13
+2.130. Pilot Projects ... 16
 ARTICLE 3. CLUB NAME, LOCALITY, AND ADJUSTMENT TO LOCALITY... 19
 3.010. Club Name ... 19
 3.020. Locality (Geographical Boundaries) of a Club ... 19
@@ -81,11 +78,11 @@ ARTICLE 5. MEMBERSHIP GROWTH AND NEW MEMBERS ... 25
 5.020. New Members ... 26
 5.030. Grow Rotary Membership Operational Plan ... 26
 ARTICLE 6. FORMER ROTARIANS AND FAMILY OF CURRENT ROTARIANS ... 29
-
-Codification Outline B
 6.010. Former Rotarians ... 29
 6.020. Involvement of Partners and Other Family Members of Rotarians ... 29
 ARTICLE 7. CLUB MEETINGS AND ATTENDANCE ... 30
+
+Codification Outline B
 7.010. Club Meeting Location ... 30
 7.020. Programs for Club Meetings ... 30
 7.030. Speakers for Club Meetings ... 31
@@ -135,11 +132,11 @@ ARTICLE 17. ROTARY DISTRICTS ... 68
 17.050. District Records ... 94
 ARTICLE 18. NEW CLUB DEVELOPMENT AND EXTENSION OF ROTARY ... 95
 18.010. New Club Development ... 95
-
-Codification Outline C
 18.020. New Clubs ... 95
 18.030. Non-Districted Rotary Clubs ... 97
 18.040. Extension to Non-Rotary Countries and Geographical Areas ... 97
+
+Codification Outline C
 ARTICLE 19. DISTRICT OFFICERS ... 100
 19.010. Governor’s Specific Duties and Responsibilities ... 100
 19.020. Responsibilities of the Governor-Nominee ... 101
@@ -184,54 +181,53 @@ ARTICLE 27. RI PRESIDENT ... 159
 27.030. Official Activities ... 168
 27.040. Authority to Act on Behalf of Board ... 169
 27.050. Additional Activities ... 172
-27.060. Annual Goals ... 172
-27.070. Staff Support ... 173
-27.080. Finances ... 173
-27.090. President’s Advisory Committee ... 174
-ARTICLE 28. RI BOARD OF DIRECTORS ... 176
+27.060. Staff Support ... 172
+27.070. Finances ... 173
+27.080. President’s Advisory Committee ... 174
+ARTICLE 28. RI BOARD OF DIRECTORS ... 175
+28.005. Policies Relating to the Board ... 175
+28.010. Selection Methods for Directors ... 181
+28.020. Orientation, Governance Training, and Strategic Planning ... 185
+28.030. Meetings ... 186
 
 Codification Outline D
-28.005. Policies Relating to the Board ... 176
-28.010. Selection Methods for Directors ... 182
-28.020. Orientation, Governance Training, and Strategic Planning ... 186
-28.030. Meetings ... 187
-28.040. RI Board of Directors Job Description ... 191
-28.050. Appeals of Board Action ... 193
-28.060. Partner Attendance at Rotary Meetings and Learning Events ... 196
-28.070. Relationship Between Directors and Governors ... 196
-28.080. Relationship Between Directors and Regional Leaders ... 196
-28.090. Conflict of Interest Policy ... 197
-28.100. Indemnification of RI Directors and Officers ... 198
-ARTICLE 29. REGIONAL LEADERS ... 200
-29.010. Regional Leaders ... 200
-29.020. Rotary Membership Coordinators (RMCs) ... 202
-29.030. Rotary Public Image Coordinators (RIPCs) ... 206
-ARTICLE 30. OTHER CURRENT AND PAST OFFICERS OF RI ... 210
-30.010. President-Elect ... 210
-30.020. President-Nominee ... 212
-30.030. Vice-President ... 212
-30.040. Treasurer ... 213
-30.050. Definition of Past Officer of RI ... 213
-30.060. Guidelines for Aides to RI Officers ... 214
-ARTICLE 31. RI COMMITTEES ... 217
-31.010. Purpose of Committees ... 217
-31.020. Types of Committees ... 218
-31.030. Meetings of Committees ... 219
-31.040. Committee Appointments ... 221
-31.050. Liaison Directors to Committees ... 224
-31.060. Executive Committee ... 225
-31.070. Standing Board Committees ... 228
-31.080. Standing Committees ... 230
-31.081. Constitution and Bylaws Committee ... 230
-31.082. Districting Committee ... 230
-31.083. Election Review Committee ... 231
-31.084. Finance Committee ... 231
-31.085. Membership Growth Committee ... 232
-31.086. RI Programs Committee ... 233
-31.087. Joint Operations Review Committee ... 235
-31.088. Joint Strategic Planning Committee ... 237
-31.089. Joint Audit Committee ... 238
-31.090. Joint Committees ... 243
+28.040. RI Board of Directors Job Description ... 190
+28.050. Appeals of Board Action ... 192
+28.060. Partner Attendance at Rotary Meetings and Learning Events ... 195
+28.070. Relationship Between Directors and Governors ... 195
+28.080. Relationship Between Directors and Regional Leaders ... 195
+28.090. Conflict of Interest Policy ... 196
+28.100. Indemnification of RI Directors and Officers ... 197
+ARTICLE 29. REGIONAL LEADERS ... 199
+29.010. Regional Leaders ... 199
+29.020. Rotary Membership Coordinators (RMCs) ... 201
+29.030. Rotary Public Image Coordinators (RIPCs) ... 205
+ARTICLE 30. OTHER CURRENT AND PAST OFFICERS OF RI ... 209
+30.010. President-Elect ... 209
+30.020. President-Nominee ... 211
+30.030. Vice-President ... 211
+30.040. Treasurer ... 212
+30.050. Definition of Past Officer of RI ... 212
+30.060. Guidelines for Aides to RI Officers ... 213
+ARTICLE 31. RI COMMITTEES ... 216
+31.010. Purpose of Committees ... 216
+31.020. Types of Committees ... 217
+31.030. Meetings of Committees ... 218
+31.040. Committee Appointments ... 220
+31.050. Liaison Directors to Committees ... 223
+31.060. Executive Committee ... 224
+31.070. Standing Board Committees ... 227
+31.080. Standing Committees ... 229
+31.081. Constitution and Bylaws Committee ... 229
+31.082. Districting Committee ... 229
+31.083. Election Review Committee ... 230
+31.084. Finance Committee ... 230
+31.085. Membership Growth Committee ... 231
+31.086. RI Programs Committee ... 232
+31.087. Youth Advisory Committee ... 234
+31.088. Joint Operations Review Committee ... 235
+31.089. Joint Strategic Planning Committee ... 237
+31.090. Joint Audit Committee ... 238
 31.091. Joint Enhancing Participant Engagement Committee ... 243
 31.092. Joint Learning Committee ... 244
 31.093. Joint Technology Committee ... 245
@@ -243,13 +239,13 @@ ARTICLE 31. RI COMMITTEES ... 217
 ARTICLE 32. RI GENERAL SECRETARY ... 250
 32.010. Chief Executive Officer of RI ... 250
 32.020. Authority to Act on Behalf of Board ... 253
-
-Codification Outline E
 32.030. General Secretary Authority to Act on Behalf of Board on Matters Relating to Rotary and Rotaract
 Clubs 253
 32.040. General Secretary Authority to Act on Behalf of Board on Matters Relating to Convention, Council
 on Legislation, and Council on Resolutions ... 257
 32.050. General Secretary Authority to Act on Behalf of Board on Matters Relating to Districts ... 258
+
+Codification Outline E
 32.060. General Secretary Authority to Act on Behalf of Board on Matters Relating to Finance ... 258
 32.070. General Secretary Authority to Act on Behalf of Board on Matters Relating to General
 Administration ... 261
@@ -297,13 +293,13 @@ ARTICLE 37. RI GUIDELINES FOR SPONSORSHIP AND COOPERATION ... 323
 ARTICLE 38. TERRITORIAL, REGIONAL, AND SECTIONAL GROUPINGS ... 333
 38.010. Territorial Units-RIBI... 333
 38.020. Limitations on Administrative Units ... 333
-
-Codification Outline F
 CHAPTER V – PROGRAMS ... 334
 ARTICLE 40. GENERAL PROVISIONS ... 334
 40.010. Definitions of Rotary Programs ... 334
 40.020. Evaluation ... 335
 40.030. Evaluation and Implementation of Proposed Rotary Programs ... 336
+
+Codification Outline F
 40.040. RI Corporate Projects ... 338
 40.050. Rotary Alumni ... 338
 ARTICLE 41 ROTARY PROGRAMS... 344
@@ -335,119 +331,119 @@ Organizations ... 398
 44.030. Annual Financial Statement from Rotary Programs/Entities Using Rotary Name or Requesting
 Support or Participation ... 402
 44.040. Guidelines for Clubs to Conduct Projects in Non-Rotary Countries ... 402
-CHAPTER VI – COMMUNICATIONS ... 404
-ARTICLE 48. OFFICIAL LANGUAGE AND TRANSLATION ... 404
-48.010. RI Official Language ... 404
-48.020. Translation of Rotary Literature ... 404
-ARTICLE 49. MEMBERSHIP COMMUNICATIONS... 407
-49.010. Official Notices ... 407
-49.020. Board Minutes ... 407
-49.030. Manual of Procedure... 407
-49.040. Constitutional Documents ... 408
-49.050. Codification Policies ... 408
-ARTICLE 50. PUBLIC RELATIONS AND INFORMATION ... 409
-50.010. Purpose of RI Public Relations ... 409
-50.020. Public Relations Guidelines for Pro Bono Relationships with Corporate Entities ... 409
-ARTICLE 51. PUBLICATIONS ... 412
-51.010. Official Magazine ... 412
+CHAPTER VI – COMMUNICATIONS ... 403
+ARTICLE 48. OFFICIAL LANGUAGE AND TRANSLATION ... 403
+48.010. RI Official Language ... 403
+48.020. Translation of Rotary Literature ... 403
+ARTICLE 49. MEMBERSHIP COMMUNICATIONS... 406
+49.010. Official Notices ... 406
+49.020. Board Minutes ... 406
+49.030. Manual of Procedure... 406
+49.040. Constitutional Documents ... 407
+49.050. Codification Policies ... 407
+ARTICLE 50. PUBLIC RELATIONS AND INFORMATION ... 408
+50.010. Purpose of RI Public Relations ... 408
+50.020. Public Relations Guidelines for Pro Bono Relationships with Corporate Entities ... 408
+ARTICLE 51. PUBLICATIONS ... 411
+51.010. Official Magazine ... 411
+51.020. Rotary Regional Magazines ... 416
+51.030. Guidelines for New Publications ... 424
+51.040. Rotary Leader ... 424
+ARTICLE 52. AUDIO/VISUAL/ELECTRONIC COMMUNICATIONS ... 426
+52.010. Audiovisuals ... 426
+52.020. Internet and Electronic Communications ... 426
 
 Codification Outline G
-51.020. Rotary Regional Magazines ... 417
-51.030. Guidelines for New Publications ... 425
-51.040. Rotary Leader ... 425
-ARTICLE 52. AUDIO/VISUAL/ELECTRONIC COMMUNICATIONS ... 427
-52.010. Audiovisuals ... 427
-52.020. Internet and Electronic Communications ... 427
-ARTICLE 53. OTHER COMMUNICATIONS ... 432
-53.010. Rotary International Archives ... 432
-53.020. Rose Parade Float ... 432
-CHAPTER VII – MEETINGS ... 434
-ARTICLE 57. INTERNATIONAL CONVENTION ... 434
-57.010. Purpose ... 434
-57.020. Host Organization Committee... 434
-57.030. Guidelines ... 436
-57.040. Site Selection ... 436
-57.050. Attendance ... 438
-57.060. Housing ... 441
-57.070. Sergeants-at-Arms at the Convention ... 442
-57.080. International Convention Committee ... 443
-57.090. Public Relations ... 444
-57.100. Finances ... 445
-57.110. Program Features... 448
-57.120. Role of Paid Official Participants and Partners ... 454
-57.130. Role of General Secretary for International Conventions ... 454
-57.140. Post-Convention Activities ... 455
-57.150. Miscellaneous International Convention Matters ... 455
-ARTICLE 58. INTERNATIONAL ASSEMBLY... 457
-58.010. Guidelines and Minimum Standards ... 457
-58.020. Scheduling ... 457
-58.030. Attendance and Participants’ Responsibilities ... 457
-58.040. Learning, Programs, and Sessions ... 462
-58.050. Publications ... 463
-58.060. Finances ... 464
-ARTICLE 59. COUNCIL ON LEGISLATION AND COUNCIL ON RESOLUTIONS ... 468
-59.010. Site Selection for the Council on Legislation ... 468
-59.020. Proposed Legislation and Resolutions ... 469
-59.030. Participants ... 472
-59.040. District Council Representatives ... 473
-59.050. Sergeants-at-Arms ... 473
-59.060. Proceedings and Functions of the Council on Legislation ... 474
-59.070. Proceedings and Functions of the Council on Resolutions ... 475
-59.080. Finances ... 476
-59.090. Support Staff ... 478
-59.100. Post-Council Activities ... 479
-ARTICLE 60. INSTITUTES ... 480
-60.010. Rotary Institutes ... 480
-ARTICLE 61. GENERAL POLICIES OF RI MEETINGS ... 487
-61.010. Manuals for Sergeants-at-Arms ... 487
-61.020. Sergeant-at-Arms Committee ... 488
-61.030. Sergeants-at-Arms Leadership Candidate Book ... 488
-61.040. Recommended Protocol at RI Meetings ... 488
+ARTICLE 53. OTHER COMMUNICATIONS ... 431
+53.010. Rotary International Archives ... 431
+53.020. Rose Parade Float ... 431
+CHAPTER VII – MEETINGS ... 433
+ARTICLE 57. INTERNATIONAL CONVENTION ... 433
+57.010. Purpose ... 433
+57.020. Host Organization Committee... 433
+57.030. Guidelines ... 435
+57.040. Site Selection ... 435
+57.050. Attendance ... 437
+57.060. Housing ... 440
+57.070. Sergeants-at-Arms at the Convention ... 441
+57.080. International Convention Committee ... 442
+57.090. Public Relations ... 443
+57.100. Finances ... 444
+57.110. Program Features... 447
+57.120. Role of Paid Official Participants and Partners ... 453
+57.130. Role of General Secretary for International Conventions ... 453
+57.140. Post-Convention Activities ... 454
+57.150. Miscellaneous International Convention Matters ... 454
+ARTICLE 58. INTERNATIONAL ASSEMBLY... 456
+58.010. Guidelines and Minimum Standards ... 456
+58.020. Scheduling ... 456
+58.030. Attendance and Participants’ Responsibilities ... 456
+58.040. Learning, Programs, and Sessions ... 461
+58.050. Publications ... 462
+58.060. Finances ... 463
+ARTICLE 59. COUNCIL ON LEGISLATION AND COUNCIL ON RESOLUTIONS ... 467
+59.010. Site Selection for the Council on Legislation ... 467
+59.020. Proposed Legislation and Resolutions ... 468
+59.030. Participants ... 471
+59.040. District Council Representatives ... 472
+59.050. Sergeants-at-Arms ... 472
+59.060. Proceedings and Functions of the Council on Legislation ... 473
+59.070. Proceedings and Functions of the Council on Resolutions ... 474
+59.080. Finances ... 475
+59.090. Support Staff ... 477
+59.100. Post-Council Activities ... 478
+ARTICLE 60. INSTITUTES ... 479
+60.010. Rotary Institutes ... 479
+ARTICLE 61. GENERAL POLICIES OF RI MEETINGS ... 486
+61.010. Manuals for Sergeants-at-Arms ... 486
+61.020. Sergeant-at-Arms Committee ... 487
+61.030. Sergeants-at-Arms Leadership Candidate Book ... 487
+61.040. Recommended Protocol at RI Meetings ... 487
+CHAPTER VIII – FINANCES ... 488
+ARTICLE 66. GENERAL FINANCE PROVISIONS ... 488
+66.010. Annual Report ... 488
+66.020. Audited Financial Statements ... 488
+66.030. Banking Procedures ... 489
+66.040. Fiscal Agents ... 489
 
 Codification Outline H
-CHAPTER VIII – FINANCES ... 489
-ARTICLE 66. GENERAL FINANCE PROVISIONS ... 489
-66.010. Annual Report ... 489
-66.020. Audited Financial Statements ... 489
-66.030. Banking Procedures ... 490
-66.040. Fiscal Agents ... 490
-66.050. Contracts ... 491
-66.060. One Rotary Center Real Estate Management Policy ... 491
-66.070. Administrative Services Agreement Between RI and TRF... 491
-ARTICLE 67. AUDITS ... 492
-67.010. Auditing Services Charter ... 492
-67.020. Guidelines for Appointment and Evaluation of the Independent Auditor ... 498
-ARTICLE 68. BUDGETS ... 501
-68.010. Budget Review Process... 501
-68.020. Authority to Exceed RI Budget... 503
-68.030. Capital Expenditures ... 503
-ARTICLE 69. EXPENSES AND REIMBURSEMENTS ... 505
-69.010. Approval of Disbursements ... 505
-69.020. Travel ... 505
-69.030. Rotary Funding for Governors ... 509
-69.040. General Officers’ Expenses ... 511
-69.050. Officer Expenses ... 522
-69.060. Miscellaneous Financial Matters... 522
-ARTICLE 70. INVESTMENTS ... 524
-70.010. Investment Policy Statement – Rotary International General Fund ... 524
-70.020. RI Reserve Policy ... 541
-70.030. Foreign Currency Management Policy ... 541
-70.040. Restricted Currencies ... 542
-70.050. Budgeted Investment Earnings and Investment Earnings Reserve ... 542
-ARTICLE 71. REVENUES ... 544
-71.010. Per Capita and Prorated Dues ... 544
-71.020. Licensing ... 545
-71.030. Publications ... 545
-ARTICLE 72. RISK MANAGEMENT AND INSURANCE ... 546
-72.010. Risk Management ... 546
-72.020. Liability Coverage for RI Directors and Officers ... 547
-72.030. Indemnification of Staff ... 547
-72.040. RI Travel Medical ... 548
-72.050. RI Meetings and Programs ... 548
-72.060. Club and District Liability Insurance ... 549
+66.050. Contracts ... 490
+66.060. One Rotary Center Real Estate Management Policy ... 490
+66.070. Administrative Services Agreement Between RI and TRF... 490
+ARTICLE 67. AUDITS ... 491
+67.010. Auditing Services Charter ... 491
+67.020. Guidelines for Appointment and Evaluation of the Independent Auditor ... 496
+ARTICLE 68. BUDGETS ... 500
+68.010. Budget Review Process... 500
+68.020. Authority to Exceed RI Budget... 502
+68.030. Capital Expenditures ... 502
+ARTICLE 69. EXPENSES AND REIMBURSEMENTS ... 504
+69.010. Approval of Disbursements ... 504
+69.020. Travel ... 504
+69.030. Rotary Funding for Governors ... 508
+69.040. General Officers’ Expenses ... 510
+69.050. Officer Expenses ... 521
+69.060. Miscellaneous Financial Matters... 521
+ARTICLE 70. INVESTMENTS ... 523
+70.010. Investment Policy Statement – Rotary International General Fund ... 523
+70.020. RI Reserve Policy ... 540
+70.030. Foreign Currency Management Policy ... 540
+70.040. Restricted Currencies ... 541
+70.050. Budgeted Investment Earnings and Investment Earnings Reserve ... 541
+ARTICLE 71. REVENUES ... 542
+71.010. Per Capita and Prorated Dues ... 542
+71.020. Licensing ... 543
+71.030. Publications ... 543
+ARTICLE 72. RISK MANAGEMENT AND INSURANCE ... 544
+72.010. Risk Management ... 544
+72.020. Liability Coverage for RI Directors and Officers ... 545
+72.030. Indemnification of Staff ... 545
+72.040. RI Travel Medical ... 546
+72.050. RI Meetings and Programs ... 546
+72.060. Club and District Liability Insurance ... 547
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER I – GENERAL PROVISIONS
 Articles
 Article 1. The Code
@@ -461,9 +457,6 @@ ARTICLE 1. THE CODE
 1.070. Repeal of Policies
 1.080. Implementation of Policies
 1.090. Amendments
-1.100. Annual Supplements
-1.110. Revised Editions
-1.120. Authentication
 1.010. Purpose
 The purpose of this Rotary Code of Policies is to establish a comprehensive document
 containing all of the general and permanent policies of Rotary International. All policies of
@@ -473,28 +466,25 @@ it to remain a single collection of such policies. (June 1998 Mtg., Bd. Dec. 348
 1.020. Citation
 The policies contained in this Rotary Code of Policies shall constitute and be designated the
 Rotary Code of Policies and may be so cited. Such policies may also be cited simply as the
-"Code of Policies" or the "Code." Revised editions, as prepared and authenticated from time
-to time in accordance with this article, shall be designated by listing the year of the revision
-and adding the word "revised" to the title. For example, a revised edition of the Code in 2002
-would be designated as the "2002 Revised Code of Rotary Policies." Such a revised edition
-also may be cited simply as the "2002 Revised Code" or the "2002 Code." (June 1998 Mtg.,
-Bd. Dec. 348)
-
-Rotary International Code of Policies
-October 2026
+"Code of Policies" or the "Code." (October 2026 Mtg., Bd. Dec. 24)
+Source: June 1998 Mtg., Bd. Dec. 348
+Amended by October 2026 Mtg., Bd. Dec 24
 1.030. Rules of Construction
 All general provisions, terms, phrases and expressions contained in this Code are to be
 construed in a manner that allows for the implementation of policies. Words and phrases are
 to be taken in their plain or usual sense, but technical words and phrases having a particular
 or appropriate meaning in law or in the constitutional documents are to be understood
 according to their technical import. As used in this Code, the words "shall," "is," and "are"
+
+Rotary International Code of Policies
+January 2027
 are mandatory, and the words "may" and "should" are permissive. (June 1998 Mtg., Bd. Dec.
 348)
 1.040. Definitions
 In the construction of this Code, the following definitions are to be observed unless the
 context clearly requires otherwise:
-• Adult person: In the context of Rotary club membership, a person at least
-18 years old.
+• Adult person: In the context of Rotary club membership, a person at least 18
+years old.
 • Board: The Board of Directors of Rotary International.
 • Club: A Rotary club.
 • Code or Code of Policies: The Rotary Code of Policies as contained in this
@@ -511,8 +501,8 @@ International.
 • Legislation: Enactment and position statement proposed for the Council on
 Legislation
 • Member: A member, other than an honorary member, of a Rotary club.
-• Partner: One of a couple of the same or opposite sex, with legally married
-or civil union status or in a mutually recognised relationship.
+• Partner: One of a couple of the same or opposite sex, with legally married or
+civil union status or in a mutually recognised relationship.
 • Presidential Initiative: Added events, programmatic elements, projects, or
 messaging campaigns for Rotary and Rotaract members and participants
 suggested by the president.
@@ -521,15 +511,15 @@ suggested by the president.
 • RI: Rotary International.
 • Rotary Entity/Rotary Entities: Rotary International, The Rotary
 Foundation, a Rotary club or group of clubs, a Rotary district or group of
-
-Rotary International Code of Policies
-October 2026
 districts, a Rotary Fellowship, Rotary Action Groups, and administrative
 territorial units of Rotary International. Individual RI Programs are not
 considered Rotary Entities.
 • Rotary Marks: The intellectual property owned by RI. See Section 34.005.
-• Rotary Senior Leaders: Those individuals serving as current, incoming,
-and past RI presidents; current, incoming, and past RI directors; and current,
+
+Rotary International Code of Policies
+January 2027
+• Rotary Senior Leaders: Those individuals serving as current, incoming, and
+past RI presidents; current, incoming, and past RI directors; and current,
 incoming, and past Foundation trustees.
 • Rotary youth program participants: current and former participants of
 Interact, Youth Exchange, and RYLA whoa re between the ages of 12-18
@@ -558,13 +548,13 @@ or other agency of competent jurisdiction, such invalidity shall not affect any 
 remaining chapters, articles, sections, or subsections of this Code. If any part of this Code is
 declared invalid by any court or agency of competent jurisdiction, it shall be invalid only
 within the jurisdiction of such court or agency. (June 1998 Mtg., Bd. Dec. 348)
-
-Rotary International Code of Policies
-October 2026
 1.070. Repeal of Policies
 When an action repealing a former policy is itself repealed or rescinded, such repeal or
 rescission shall not be construed to revive the former policy, unless such policy is expressly
 reinstated. (June 1998 Mtg., Bd. Dec. 348)
+
+Rotary International Code of Policies
+January 2027
 1.080. Implementation of Policies
 Unless noted to the contrary in a particular provision, the general secretary shall have both
 the duty and the authority to implement the policies set forth in this Code. For that purpose,
@@ -573,61 +563,24 @@ schedules and other documents to implement the policies. The general secretary a
 delegate authority for the implementation of various policies to one or more members of the
 staff, either by name or title. (June 1998 Mtg., Bd. Dec. 348)
 1.090. Amendments
-Amendments to this Code may be made through action of a Council on Legislation, in
-accordance with the provisions of the constitutional documents for actions by the Council on
-Legislation. Amendments to the Code also may be made by the Board, in accordance with
-the constitutional documents for actions by the Board. Amendments made by a Council on
-Legislation shall become effective on 1 July following the action, subject to the limitations
-of the constitutional documents. All other amendments shall become effective upon their
-adoption by the Board, unless a later date is specified in such action. When appropriate, the
-Board will delay the effective date of amendments to the Code in order to provide adequate
-notice of the changes or additions to the policies.
+Amendments to the Code also may be made by the Board, in accordance with the
+constitutional documents for actions by the Board. All amendments shall become effective
+upon their adoption by the Board, unless a later date is specified in such action. When
+appropriate, the Board will delay the effective date of amendments to the Code in order to
+provide adequate notice of the changes or additions to the policies.
 When amending this Code, the Board shall endeavor to specify the chapter, article, section,
 or subsection being amended or to designate the place in the Code for the new policies to be
 inserted. Failure to make such references shall not affect the validity of actions by the Board
 to adopt new or different policies. The general secretary has the duty and authority to make
 technical corrections in the amendments adopted by the Board and to incorporate such
 corrections into the Code. Such corrections, if any, shall be reported to the Board at its next
-meeting. (September 2016 Mtg., Bd. Dec. 28)
+meeting. (October 2026 Mtg., Bd. Dec. 24)
 Source: June 1998 Mtg., Bd. Dec. 348
 Amended by February 2000 Mtg., Bd. Dec. 275, August 2000 Mtg., Bd. Dec. 42, September 2016 Mtg., Bd.
-Dec. 28
-1.100. Annual Supplements
-This Code shall be updated by the general secretary after each board meeting. An annual
-cumulative supplement to this Code shall be prepared by the general secretary following the
-end of each Rotary year. Such cumulative supplements shall contain all amendments to the
-Code, and all other changes or additions of general and permanent policies, since the Code’s
-adoption or its last revision. (June 1998 Mtg., Bd. Dec. 348)
+Dec. 28; October 2026 Mtg., Bd. Dec. 24
 
 Rotary International Code of Policies
-October 2026
-1.110. Revised Editions
-Revised editions of this Code shall be prepared by the general secretary from time-to-time,
-but not less than once every four years. Revised editions shall merge the Code (or the latest
-revised edition), the latest cumulative annual supplement and any subsequent amendments
-of the Code, and all other changes or additions of general and permanent policies, into a
-single integrated document. Revised editions of the Code will bear the year of publication as
-part of the title, such as the 2001 Revised Code of Rotary Policies. Revised editions, when
-duly prepared and authenticated, will replace earlier editions of the Code. When a revised
-edition of the Code is prepared and authenticated, the revised edition shall be presented to
-the Board at a regular meeting, and its receipt shall be noted in the minutes.
-The new edition of the Code will become effective at the time of such presentation to the
-Board with the proviso that any policies inadvertently omitted or altered in their transfer from
-the previous edition of the Code to the new edition will remain effective as stated in the
-earlier edition for six-months. During the six-month period after its presentation to the Board,
-the new edition may be corrected by the general secretary to reflect accurately the transfer of
-policies from the previous edition, and such corrections shall be reported to the Board at its
-next meeting. After the expiration of the six-month period, the new edition will become as
-fully effective as if adopted in toto by the Board, and the text of the policies in such revised
-edition may not be changed thereafter except by action of the Board. (June 1998 Mtg., Bd.
-Dec. 348)
-1.120. Authentication
-The general secretary has the duty to prepare, and the authority to authenticate, the
-cumulative annual supplements and the revised editions of the Code as they are issued in
-accordance with this article. (June 1998 Mtg., Bd. Dec. 348)
-
-Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER II – CLUBS
 Articles
 Article 2 Club Membership and Administration
@@ -666,7 +619,7 @@ Source: May-June 1976 Mtg., Bd. Dec. 265
 Amended by October 2019 Mtg., Bd. Dec. 57
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2.010.1. Failure to Function
 In accordance with the RI Bylaws, the RI Board is responsible for ensuring that all member
 clubs of the association are functioning, and defines a functioning club as
@@ -705,7 +658,7 @@ Amended by May 2000 Mtg., Bd. Dec. 425; August 2000 Mtg., Bd. Dec. 79; November 
 178; November 2009 Mtg., Bd. Dec. 93; June 2013 Mtg., Bd. Dec. 196; October 2013 Mtg., Bd. Dec. 31; January
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2014 Mtg., Bd. Dec. 96; May 2014 Mtg., Bd. Dec. 113; May 2014 Mtg., Bd. Dec. 121; September 2016 Mtg.,
 Bd. Dec. 28; October 2018 Mtg., Bd. Dec. 68; October 2019 Mtg., Bd. Dec. 48; October 2022 Mtg., Bd. Dec. 30;
 January 2023 Mtg., Bd. Dec. 80
@@ -742,7 +695,7 @@ With advance notice, convene a meeting of the entire membership and vote to deci
 club should resign its membership in Rotary International.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 If a majority of the members present votes to resign the club’s membership, the club’s
 president and secretary should send a written communication to the district governor and the
 general secretary summarizing the club’s vote and indicating the final date that the club will
@@ -766,8 +719,8 @@ administrative framework of an effective club. Club leaders should implement the
 Leadership Plan in consultation with district leaders as described by the District Leadership
 Plan. The Club Leadership Plan should be reviewed annually. Effective clubs:
 • Sustain and/or increase their membership base
-• Implement successful projects that address the needs of their community
-and communities in other countries
+• Implement successful projects that address the needs of their community and
+communities in other countries
 • Support The Rotary Foundation through both financial contributions and
 program participation
 • Develop leaders capable of serving in Rotary beyond the club level
@@ -780,7 +733,7 @@ informed of the activities of Rotary
 members, district governor, assistant governors, and district committees
 
 Rotary International Code of Policies
-October 2026
+January 2027
 5. Provide for continuity in leadership, including the concept of succession planning to
 ensure development of future leaders
 6. Amend bylaws to reflect the club committee structure and roles and responsibilities of
@@ -815,7 +768,7 @@ Amended by November 2006 Mtg., Bd. Dec. 104; June 2010 Mtg., Bd. Dec. 223; Janua
 118; September 2016 Mtg., Bd. Dec. 28; April 2024 Mtg., Bd. Dec. 119; October 2025 Mtg., Bd. Dec. 19
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2.030. Association of Clubs Outside RI
 A club does not have the authority to bind its members to any other organization nor establish
 a formal association of clubs outside of the framework of RI. (October 2013 Mtg., Bd. Dec.
@@ -851,12 +804,11 @@ For purposes of this section the following words shall have the following meanin
 company, or other similar entity recognized by a local jurisdiction.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • “Incorporate” shall mean the process of establishing a corporation.
 • “Corporate Documents” shall mean the documents formally adopted by a
-corporation establishing its processes for governance and operation,
-including its articles of incorporation or association, bylaws and similar
-documents.
+corporation establishing its processes for governance and operation, including
+its articles of incorporation or association, bylaws and similar documents.
 (October 2013 Mtg., Bd. Dec. 31)
 Source: July 1940 Mtg., Bd. Dec. 36; November 1983 Mtg., Bd. Dec. 93; November 2008 Mtg., Bd. Dec. 104;
 October 2013 Mtg., Bd. Dec. 31.
@@ -890,7 +842,7 @@ Source: July 1940 Mtg., Bd. Dec. 36
 Amended by November 2004 Mtg., Bd. Dec. 59
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2.060.3. General Secretary Authority Regarding Club Incorporations
 The general secretary shall review all proposed incorporation documents on behalf of the
 Board for compliance with the policies of RI. In the event of unusual circumstances requiring
@@ -925,7 +877,7 @@ likewise are prohibited from adopting statements with a view to exerting any cor
 pressure on governments or political authorities. (October 2013 Mtg., Bd. Dec. 31)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: February-March 1983 Mtg., Bd. Dec. 288
 Cross-References
 34.040.1. Use of Name or Emblem for Political Means
@@ -961,7 +913,7 @@ Source: November 2002 Mtg., Bd. Dec. 98
 Amended by November 2006 Mtg., Bd. Dec. 72; October 2019 Mtg., Bd. Dec. 58
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2.120.2. Abuse and Harassment Prevention and Reporting Procedure
 To uphold the Statement of Conduct for Working with Youth all clubs and districts must
 ensure the abuse and harassment prevention and reporting requirements are followed as
@@ -1004,7 +956,7 @@ or is otherwise known to have engaged in sexual abuse or sexual harassment or ot
 of moral turpitude must be prohibited from working with youth in a Rotary context. A
 
 Rotary International Code of Policies
-October 2026
+January 2027
 club may not grant membership to a person who is known to have violated Rotary’s youth
 protection policies. (Upon obtaining information that a club has knowingly failed to
 terminate the membership of such an individual, the RI Board may terminate the club for
@@ -1044,7 +996,7 @@ Clubs and districts:
 travel outside the local community or involve overnight stays in advance;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. shall provide parents or legal guardians with specific details about the program, location
 of event, travel itineraries, sleeping accommodations, and contact information for
 program organizers before departure;
@@ -1078,7 +1030,7 @@ The general secretary shall arrange for electronic voting to be used wherever a 
 needed in district and zone elections in Philippines and in District 3220 (Sri Lanka and
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Maldives) as a pilot project for elections held through 2029-30. Districts subject to the pilot
 should conduct all district elections by nominating committee or electronic voting. (June
 2022 Mtg., Bd. Dec. 154)
@@ -1093,30 +1045,37 @@ Bd. Dec. 34)
 Source: April 2018 Mtg., Bd. Dec. 161
 2.130.3. District Election Pilot
 The RI Board has established a district election pilot for all districts in Bangladesh, Bhutan,
-India, Maldives, Nepal, Pakistan, Philippines, and Sri Lanka for a six-year period beginning
-1 July 2020 with following provisions:
-• clubs chartered or reinstated during the Rotary year in which the election
-takes place, or from January to June of the year prior to the year in which
-the election takes place, will be ineligible to participate in any aspect of the
+India, Maldives, Nepal, Pakistan, Philippines, and Sri Lanka for a three-year period ending
+30 June 2029 with following provisions:
+• Clubs chartered or reinstated during the Rotary year in which the election
+takes place, or from January to June of the year prior to the year in which the
+election takes place, will be ineligible to participate in any aspect of the
 election process;
-• when a club ballot is necessary, the voting strength of each club will be
-based on the number of members on the July invoice of the year prior to the
-year in which the club ballot takes place or the July invoice of the year in
-which the club ballot takes place, whichever is lower.
-(May 2023 Mtg., Bd. Dec. 138)
+• When a club ballot is necessary, the voting strength of each club will be based
+on the number of members on the July invoice of the year prior to the year in
+which the club ballot takes place or the July invoice of the year in which the
+club ballot takes place, whichever is lower.
+• If the governor approves, a club may designate a proxy for an absent elector,
+who must be a member of the same club in the district.
+• (Effective 1 January 2027) All clubs must have 15 or more members to be
+eligible to vote in district elections.
+(October 2026 Mtg., Bd. Dec. 48)
 Source: June 2020 Mtg., Bd. Dec. 189
 Amended by September 2020 Mtg., Bd. Dec. 47; June 2021 Mtg., Bd. Dec. 193; June 2022 Mtg., Bd. Dec. 153;
-May 2023 Mtg., Bd. Dec. 138
+May 2023 Mtg., Bd. Dec. 138; October 2026 Mtg., Bd. Dec. 48
 2.130.4. District Conference Voting Pilot
 All districts in Bangladesh, Bhutan, India, Nepal, and Pakistan shall use only voting at a
 district conference or district legislation meeting for all district elections through 2027-28.
 The district conference or district legislative meeting where the voting takes place shall be
 held within the district boundaries. (May 2024 Mtg., Bd. Dec. 163)
+
+Rotary International Code of Policies
+January 2027
 Source: April 2022 Mtg., Bd. Dec. 125
 Amended by October 2023 Mtg., Bd. Dec. 24; May 2024 Mtg., Bd. Dec. 163
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 3. CLUB NAME, LOCALITY, AND ADJUSTMENT TO LOCALITY
 3.010. Club Name
 3.020. Locality (Geographical Boundaries) of a Club
@@ -1154,7 +1113,7 @@ Each Rotary club shall be organized and exist in a locality. The club shall desi
 locality in the constitution of the club. (October 2022 Mtg., Bd. Dec. 30)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: January 1939 Mtg., Bd. Dec. 105
 Amended by November 2001 Mtg., Bd. Dec. 45; February 2003 Mtg., Bd. Dec. 194; November 2004 Mtg., Bd.
 Dec. 59; October 2019 Mtg., Bd. Dec. 29; October 2022 Mtg., Bd. Dec. 30
@@ -1172,7 +1131,7 @@ Bd. Dec. 31)
 Source: May-June 1965 Mtg., Bd. Dec. 260; Amended by November 2001 Mtg., Bd. Dec. 45
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 4. GENERAL MEMBERSHIP GUIDELINES AND CLASSIFICATIONS
 4.010. Community Membership
 4.020. Personal Nature of Club Membership
@@ -1207,7 +1166,7 @@ Source: November 1995 Mtg., Bd. Dec. 84
 Amended by June 2007 Mtg., Bd. Dec. 226; October 2013 Mtg., Bd. Dec. 31; October 2019 Mtg., Bd. Dec. 29
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4.030.1. Membership of Retired Persons
 Retired persons being inducted into active membership in a Rotary club shall use their former
 profession as their classification. (October 2019 Mtg., Bd. Dec. 29)
@@ -1244,7 +1203,7 @@ Rotary Foundation contributions are credited, and district voting privileges are
 Source: January 2017 Mtg., Bd. Dec. 124
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by June 2017 Mtg., Bd. Dec. 149
 4.070. Termination of a Member or Rotaractor for Good Cause
 The Board may terminate a member or Rotaractor for good cause in accordance with
@@ -1261,9 +1220,9 @@ or other members, Rotaractors, or staff;
 or participating in other activities intended to influence district elections;
 • being convicted of a crime;
 • initiating or maintaining litigation against RI, TRF, or the district, including
-their directors, trustees, officers, agents, and employees, before exhausting
-all remedies in the constitutional documents, any relevant sections of the
-Rotary Code of Policies, and any district-written rules; and
+their directors, trustees, officers, agents, and employees, before exhausting all
+remedies in the constitutional documents, any relevant sections of the Rotary
+Code of Policies, and any district-written rules; and
 • other disruptive behavior as may be determined by the Board
 To request termination for good cause:
 1. A request to terminate a member or Rotaractor for good cause shall be submitted
@@ -1286,7 +1245,7 @@ decision, and advises that they have 30 days to show reason why they should not
 be terminated.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 a. Only information and documentation submitted by the member or Rotaractor
 to the general secretary (or the person whom the general secretary designates)
 shall be considered. Communications sent directly to Board members will be
@@ -1312,7 +1271,7 @@ Rotary International event.
 Source: October 2025 Mtg., Bd. Dec. 47
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 5. MEMBERSHIP GROWTH AND NEW MEMBERS
 5.010. Membership Growth and Development
 5.020. New Members
@@ -1348,7 +1307,7 @@ strongly encouraged to reduce the per capita district dues for new members in th
 by at least 70%.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The general secretary may grant an exception to the chartering fee for new Rotary clubs
 established by Rotaractors, provided that at least 30% of the members are Rotaractors or
 former Rotaractors who have been registered in Rotary’s database and have held valid
@@ -1384,12 +1343,12 @@ Priority: Increase Impact
 Membership Initiatives:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Ensure a consistent message that growing Rotary is the highest internal
 organizational priority of Rotary International while polio eradication
 remains Rotary’s highest program priority.
-• Continued and coordinated vision, a unified focus and engagement of RI
-and TRF Senior Leadership and staff.
+• Continued and coordinated vision, a unified focus and engagement of RI and
+TRF Senior Leadership and staff.
 • Enhance membership initiatives evaluation and membership reporting and
 measurement.
 Priority: Expand Reach
@@ -1410,8 +1369,8 @@ members.
 • Encourage clubs to offer opportunities that engage participants, personally
 and professionally.
 • Encourage clubs to offer local and international service opportunities,
-including The Rotary Foundation, to engage current and prospective
-members and participants.
+including The Rotary Foundation, to engage current and prospective members
+and participants.
 • Develop indices to measure member engagement and incentivize clubs to
 maximize their results.
 • Increase resources, curriculum, and partnerships focused on leadership and
@@ -1426,12 +1385,12 @@ improvements as warranted.
 recommendations. (April 2025 Mtg., Bd. Dec. 147)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: October 2019 Mtg., Bd. Dec. 67
 See Also April 2025 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 6. FORMER ROTARIANS AND FAMILY OF CURRENT ROTARIANS
 6.010. Former Rotarians
 6.020. Involvement of Partners and Other Family Members of Rotarians
@@ -1460,7 +1419,7 @@ attend and participate. (October 2013 Mtg., Bd. Dec. 31)
 Source: August 1999 Mtg., Bd. Dec. 71. See Also COL 89-139.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 7. CLUB MEETINGS AND ATTENDANCE
 7.010. Club Meeting Location
 7.020. Programs for Club Meetings
@@ -1497,7 +1456,7 @@ from language barriers and differences in cultural and social backgrounds. (Nove
 Mtg., Bd. Dec. 59)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: January 1964 Mtg., Bd. Dec. 149
 Amended by November 2004 Mtg., Bd. Dec. 59
 7.020.4. Club Programs: The Rotary Foundation
@@ -1530,7 +1489,7 @@ Source: January 1973 Mtg., Bd. Dec. 125; See Also January 1916 Mgt. Bd. Dec. 16
 Amended by November 2004 Mtg., Bd. Dec. 59.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 7.050.2. Students as Club Guests
 Clubs are encouraged to invite students to be guests at club meetings. Clubs are encouraged
 to take an active interest in students at universities and schools and to see that they are
@@ -1551,7 +1510,7 @@ Source: June 1924 Mtg. Bd. Dec. IX (c); See Also February 1923 Mtg. Bd. Dec. IX 
 Amended by May 1943 Mtg. Bd. Dec. 221; November 2004 Mtg., Bd. Dec. 59.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 8. CLUB PROGRAMS
 8.010. Club Autonomy of Activities
 8.020. Special Observances
@@ -1589,7 +1548,7 @@ Area of Focus: Disease Prevention and Treatment Month December
 Vocational Service Month January
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Area of Focus: Peacebuilding and Conflict Prevention Month February
 Rotary’s Anniversary: World Understanding and Peace Day 23 February
 Area of Focus: Water, Sanitation and Hygiene Month March
@@ -1628,7 +1587,7 @@ Vocational service is both the responsibility of a club and of its members. The 
 club is to implement and encourage the objective by frequent demonstration, by application
 
 Rotary International Code of Policies
-October 2026
+January 2027
 to its own actions, by example and by development of projects that help members contribute
 their vocational talents. The role of the members is to conduct themselves, their businesses,
 their occupations, and their professions in accordance with Rotary principles and to respond
@@ -1667,7 +1626,7 @@ personal ones), prohibit and restrict the disclosure, communication, and use of 
 information, and take precautions against any accidental disclosures.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 In addition to meeting the expectations for all members and for governors, directors will:
 14. Act in the best interests of all members and of RI as a whole (not just of the zones they
 were elected from), adhere to their duty of loyalty to RI, act independently of any
@@ -1709,13 +1668,13 @@ recruitment and induction
 • Identify means of emphasizing vocation in club activities
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Create a stronger emphasis on business networking with integrity in Rotary
 at the club and district level
 • Focus more attention on business networking with integrity as a means of
 attracting and mentoring the new generation
-• Emphasize the connection between the Four Way Test and the Rotarian
-Code of Conduct and their importance to the values of Rotary
+• Emphasize the connection between the Four Way Test and the Rotarian Code
+of Conduct and their importance to the values of Rotary
 (January 2012 Mtg., Bd. Dec. 158)
 Source: May 2011 Mtg., Bd. Dec. 204;
 Amended by September 2011 Mtg., Bd. Dec. 87
@@ -1747,7 +1706,7 @@ a. for the protection, development and worldwide propagation of the Rotary ideal
 service;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 b. for the establishment, encouragement, assistance and administrative supervision of
 Rotary clubs;
 c. as a clearinghouse for the study of their problems and, by helpful suggestion but not
@@ -1791,7 +1750,7 @@ as a means of extending Rotary’s influence, proper publicity should be given t
 worthwhile club project well carried out;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 d. A Rotary club should avoid duplication of effort and in general should not engage in
 an activity that is already being well handled by some other agency;
 e. A Rotary club in its activities should preferably cooperate with existing agencies, but
@@ -1831,7 +1790,7 @@ member in an assessment of community needs
 their Community Service projects
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. initiate projects in accordance with the needs of the community and commensurate with
 the club’s standing and potential in the community, recognizing that every Community
 Service activity, however small, is important
@@ -1870,7 +1829,7 @@ in and familiarity with community needs.
 (November 2004 Mtg., Bd. Dec. 59)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: January 1964 Mtg., Bd. Dec. 148.
 Amended by June 1990 Mtg., Bd. Dec. 259; November 2004 Mtg., Bd. Dec. 59
 8.040.4. Preserve Planet Earth
@@ -1906,7 +1865,7 @@ professional life and developing future club leaders.
 Participants:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Any interested Rotarian may attend
 Suggested topics:
 • Communication skills
@@ -1926,7 +1885,7 @@ Source: November 2006 Mtg., Bd. Dec. 107
 Amended by April 2023 Mtg., Bd. Dec. 106
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 9. CLUB FINANCES AND PUBLIC RELATIONS
 9.010. Club Finances
 9.020. Rotary and Rotaract Clubs in Arrears to RI
@@ -1965,7 +1924,7 @@ officers, directors, and committee chairs at all relevant and necessary district
 events. (April 2024 Mtg., Bd. Dec. 119)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: January 2018 Mtg., Bd. Dec. 103
 Amended by April 2024 Mtg., Bd. Dec. 119
 Cross-References
@@ -2000,7 +1959,7 @@ in the general secretary's judgment are warranted, based on special or unique ci
 Source: May-June 1986 Mtg., Bd. Dec. 268
 
 Rotary International Code of Policies
-October 2026
+January 2027
 9.020.3. Notice of Termination to Governors and Directors
 District governors will receive a listing of Rotary and Rotaract clubs terminated for non-
 payment within their districts, and RI directors will receive a listing of Rotary and Rotaract
@@ -2041,7 +2000,7 @@ such as the acceptance of new, or the processing of current program applications
 recognition of clubs as sponsors or hosts of active Rotary Foundation program awards
 
 Rotary International Code of Policies
-October 2026
+January 2027
 6. Club will not receive the following services from the governor: a monthly letter, inclusion
 on district mailing lists, and an official visit.
 (October 2019 Mtg., Bd. Dec. 29)
@@ -2077,7 +2036,7 @@ improve and expand Rotary growth and service. (October 2013 Mtg., Bd. Dec. 31)
 Source: November 1995 Mtg., Bd. Dec. 82
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by October 2013 Mtg., Bd. Dec. 31
 9.050.2. Publicity for Club Projects and Activities
 Clubs are expected to seek publicity for successful service projects and activities which
@@ -2112,7 +2071,7 @@ Clubs should encourage Rotarians to pass their copy of the magazine along to non
 subscribe for the magazine for the local newspaper editor who is not a Rotarian; place the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 magazine in the public school libraries; and pass along to the editor’s suggestions for articles,
 and news of club activities. (October 2013 Mtg., Bd. Dec. 31)
 Source: January 1936 Mtg., Bd. Dec. 197;
@@ -2141,7 +2100,7 @@ can effectively talk about Rotary. (June 1998 Mtg., Bd. Dec. 348)
 Source: January 1973 Mtg., Bd. Dec. 209; June 1998 Mtg., Bd. Dec. 348
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 10. CLUB OFFICERS
 10.010. Club Officers
 10.020. Qualifications of the Club President
@@ -2179,7 +2138,7 @@ In addition to the qualifications listed in the Standard Rotary Club Constitutio
 president should:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. possess leadership skills
 2. have sufficient time to lead and carry out the work of the club
 3. have served in the club as a board member or as chair or member of one or more of the
@@ -2215,7 +2174,7 @@ financial information
 of the new administration and to provide continuity of administrations.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (April 2023 Mtg., Bd. Dec. 106)
 Source: January 1947 Mtg., Bd. Dec. 164; November 2004 Mtg., Bd. Dec. 59;
 Amended by November 2006 Mtg., Bd. Dec. 104; January 2008 Mtg., Bd. Dec. 142; October 2013 Mtg., Bd.
@@ -2248,7 +2207,7 @@ officers for RI's administrative purposes. (November 2007 Mtg., Bd. Dec. 98)
 Source: November 2007 Mtg., Bd. Dec. 98
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 11 CLUB RELATIONSHIPS WITH ROTARIANS AND OTHERS
 11.010. Circularization
 11.010. Circularization
@@ -2286,7 +2245,7 @@ for use of the Rotary Marks, including use of proper identification and qualifyi
 regarding the multidistrict entity(ies).
 
 Rotary International Code of Policies
-October 2026
+January 2027
 No multidistrict entity shall solicit financial assistance or participation in any commercial
 venture from any Rotary club or from Rotarians other than its own members without
 authorization from the RI Board.
@@ -2323,7 +2282,7 @@ secure his, her or their approval;
 district(s) or other Rotary Entity(ies) to be represented.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The general secretary shall request the governors of any districts that are not in compliance
 with the above policy to take action to end such activities. Continued non-compliance with
 this policy shall be reported to the RI Board for possible discipline for cause, including
@@ -2360,7 +2319,7 @@ meetings and only within the districts directly involved. (October 2019 Mtg., Bd
 Source: October 2019 Mtg., Bd. Dec. 57
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 12. ROTARACT CLUBS
 12.010. Membership in a Rotaract Club
 12.020. Sponsorship
@@ -2397,7 +2356,7 @@ a. be exempt from paying dues;
 b. not vote;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 c. not hold any club office;
 d. be entitled to attend all meetings and enjoy all other privileges in the club, but
 community members who are not active Rotaract members shall have no rights or
@@ -2433,7 +2392,7 @@ Amended by January 1971 Mtg., Bd. Dec.164; January 1976 Mtg., Bd. Dec. 171; Octo
 A Rotaract club may be community or university-based. (October 2019 Mtg., Bd. Dec. 57)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: January 1968 Mtg., Bd. Dec. 150
 Amended by October 2019 Mtg., Bd. Dec. 57
 12.030.2. University-based Clubs
@@ -2466,7 +2425,7 @@ Dec. 57)
 Source: January 1968 Mtg., Bd. Dec. 150
 
 Rotary International Code of Policies
-October 2026
+January 2027
 12.050. Rotaract Club Suspension and Termination
 12.050.1. Suspension of Rotaract Club
 1. The general secretary may suspend any club that fails to report club and membership
@@ -2497,7 +2456,7 @@ Source: January 1968 Mtg., Bd. Dec. 150; January 2015 Mtg., Bd. Dec. 136;
 Amended by October 2022 Mtg., Bd. Dec. 30 and 53
 
 Rotary International Code of Policies
-October 2026
+January 2027
 12.060. Rotaract Marks
 Rotaract club members shall be entitled to use and display the Rotaract name and logo in an
 appropriate and dignified manner during their period of membership in a Rotaract club and
@@ -2534,7 +2493,7 @@ Amended by February 2004 Mtg., Bd. Dec. 182; June 2004 Mtg., Bd. Dec. 236; Janua
 12.080. Rotaract District Meetings and Activities
 
 Rotary International Code of Policies
-October 2026
+January 2027
 12.080.1. District Rotaract Committee
 District Governors are encouraged to appoint a district Rotaract committee as noted in Rotary
 Code of Policies section 17.030.2. (October 2019 Mtg., Bd. Dec. 57)
@@ -2573,7 +2532,7 @@ Amended by January 1973 Mtg., Bd. Dec. 172; May 1988 Mtg., Bd. Dec. 392; March 1
 June 2009 Mtg., Bd. Dec. 217; June 2010 Mtg., Bd. Dec. 214; October 2012 Mtg., Bd. Dec. 92; January 2015
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Mtg., Bd. Dec. 136; October 2019 Mtg., Bd. Dec. 57; January 2024 Mtg., Bd. Dec. 81; April 2024 Mtg., Bd. Dec.
 119; October 2024 Mtg., Bd. Dec. 33
 12.080.3. District Rotaract Meetings and Activities
@@ -2613,7 +2572,7 @@ fund is the property of the district Rotaract organization and not the personal 
 any individual Rotaractor or Rotaract club.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (October 2019 Mtg., Bd. Dec. 57)
 Source: January 1968 Mtg., Bd. Dec. 150;
 Amended by January 1973 Mtg., Bd. Dec. 172; February 1981 Mtg., Bd. Dec. 307; June 2010 Mtg., Bd. Dec.
@@ -2623,13 +2582,13 @@ Amended by January 1973 Mtg., Bd. Dec. 172; February 1981 Mtg., Bd. Dec. 307; Ju
 Districts may develop a multidistrict organization between Rotaract clubs in the districts
 concerned, provided that:
 • there is no objection by the governors of each of the districts concerned;
-authorization is secured from the general secretary, acting on behalf of the
-RI Board of Directors, to develop and maintain such an organization
+authorization is secured from the general secretary, acting on behalf of the RI
+Board of Directors, to develop and maintain such an organization
 • the organization complies with RI policy or is subject to termination of its
 status by the general secretary on behalf of the RI Board of Directors
 • each member district is represented by its district Rotaract representative.
-Alternatively, a district may appoint a proxy, as needed, to carry out
-activities within the multidistrict organization
+Alternatively, a district may appoint a proxy, as needed, to carry out activities
+within the multidistrict organization
 • funds needed to implement the organization’s activities (i.e. production and
 distribution of regional club directories and newsletters, dissemination of
 Rotaract program information, general correspondence) cannot be made
@@ -2651,21 +2610,21 @@ district,
 zone, and regional level.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (April 2021 Mtg., Bd. Dec. 156)
 Source: April 2021 Mtg., Bd. Dec. 156
 12.090.3. Objectives of a Rotaract MDIO
 The objectives of a Rotaract Multidistrict Information Organization may include, but are not
 limited to:
 • disseminate information to the member district,
-• facilitate communication between the member districts, Rotaract clubs
-within the member districts, and other Rotaract MDIOs,
+• facilitate communication between the member districts, Rotaract clubs within
+the member districts, and other Rotaract MDIOs,
 • provide leadership or professional development opportunities to officers or
 individuals within the member districts,
 • support and facilitate multidistrict service projects in accordance with the
 policy for Rotaract multidistrict service projects,
-• plan and organize events to promote networking, fellowship, and
-professional development for the member districts.
+• plan and organize events to promote networking, fellowship, and professional
+development for the member districts.
 (April 2024 Mtg., Bd. Dec. 119)
 Source: April 2021 Mtg., Bd. Dec. 156
 Amended by April 2024 Mtg., Bd. Dec. 119
@@ -2688,7 +2647,7 @@ carried out under the direct supervision of Rotaractors and Rotarians;
 meetings with coverage and limits appropriate for the geographic location. Evidence of
 
 Rotary International Code of Policies
-October 2026
+January 2027
 such coverage must be provided to RI or the governor of any participating district upon
 request.
 3. The district Rotaract representative shall inform the RI director(s) for the zone(s).
@@ -2726,7 +2685,7 @@ from the host district governor(s), district governor(s)-elect, and district gov
 nominee. The winning INTEROTA bid shall be submitted by the host district Rotaract
 
 Rotary International Code of Policies
-October 2026
+January 2027
 representative to the general secretary for approval on behalf of the Board no later than
 one year prior to the event. Complete proposals shall include:
 a. written approval of the host governor(s) and the RI director for the region
@@ -2762,7 +2721,7 @@ April 2024 Mtg., Bd. Dec. 119
 Rotaract representative, in conjunction with the district Rotaract committee chair, the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 district learning facilitator, the district governor-elect, and the district governor, shall
 promote Rotaract needs during planning for Rotaract learning events, and other district
 events.
@@ -2791,17 +2750,16 @@ The plan also seeks to expand Rotaract’s reach with innovative models that wel
 participants and gives them meaningful ways to unite and take action.
 Priority: Increase Impact
 Membership Initiatives:
-• Ensure a consistent message that Rotaract is a unique and valued
-membership type for young adults.
+• Ensure a consistent message that Rotaract is a unique and valued membership
+type for young adults.
 • Foster a perception shift, where Rotarians see value in Rotaract and believe
-their Rotary experience is better as a result of collaboration with
-Rotaractors.
+their Rotary experience is better as a result of collaboration with Rotaractors.
 • Expand the awareness and understanding of The Rotary Foundation for
 Rotaractors, including access to funding and evaluation of the success and
 sustainability of their district and global grant projects.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Encourage greater giving to and fundraising for The Rotary Foundation by
 Rotaract based on a tailored donor engagement and recognition strategy that
 resonates with this target audience.
@@ -2816,8 +2774,8 @@ appeal to younger and diverse participants.
 connect with existing and prospective Rotaractors and participants.
 • Encourage, monitor, and measure transitions from Rotary’s youth programs
 to Rotaract club membership.
-• Encourage, monitor, and measure transitions from Rotaract club
-membership to Rotary club membership.
+• Encourage, monitor, and measure transitions from Rotaract club membership
+to Rotary club membership.
 Priority: Enhance Engagement
 Membership Initiatives:
 • Encourage Rotary and Rotaract clubs to offer opportunities for greater
@@ -2828,8 +2786,8 @@ available to Rotaract clubs and members.
 • Better define the value and member benefits of Rotaract while creating a
 distinctly appealing, flexible, and innovative club experience tailored for
 young adults
-• Strengthen Rotary’s learning opportunities, including in-person volunteer-
-led events, to support the Rotaract club experience.
+• Strengthen Rotary’s learning opportunities, including in-person volunteer-led
+events, to support the Rotaract club experience.
 Priority: Increase Ability to Adapt
 Membership Initiatives:
 • Update RI Code of Policies to fully integrate Rotaract as a membership type,
@@ -2842,7 +2800,7 @@ Source: April 2022 Mtg., Bd. Dec. 138
 Amended by April 2024 Mtg., Bd. Dec. 119; October 2024 Mtg., Bd. Dec. 52
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER III – DISTRICTS
 Articles
 Article 17. Rotary Districts
@@ -2877,9 +2835,9 @@ clubs and 2,700 members.
 Larger districts have:
 
 Rotary International Code of Policies
-October 2026
-• A larger pool of qualified Rotarians from which to select governors,
-assistant governors, and other district leaders
+January 2027
+• A larger pool of qualified Rotarians from which to select governors, assistant
+governors, and other district leaders
 • More resources for carrying out large-scale, sustainable service projects
 • Greater potential for raising Rotary’s visibility
 • Larger and more dynamic district conferences and meetings
@@ -2918,7 +2876,7 @@ elected governors.
 to the Board.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 7. The District Reorganization Form asks for:
 a. The proposal
 b. Description of the new district boundaries
@@ -2951,11 +2909,11 @@ b. Have demonstrated potential for growth to at least 75 clubs and 2,700 members
 within 10 years, based on their five-year membership history
 c. Have at least 90 percent of its clubs be clubs that were chartered at least three years
 before the date of the proposal
-d. Have more than 20 members in at least 80 percent of their clubs
+d. Have more than 15 members in at least 80 percent of their clubs
 4. For districts that have 1,200 members or fewer:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • The districting committee will request an annual membership development
 plan from the district and share district consolidation information.
 • The director and the district’s governor-elect, governor-nominee, and
@@ -2968,16 +2926,16 @@ authorized to approve the changes on behalf of the Board.
 6. The general secretary is authorized to act on behalf of the Board to approve district
 boundary changes that involve the transfer of up to 10 clubs, or of an area where there is
 no Rotary club, from one district to another. The current governors of the districts that
-are involved must agree to the change.
-The approved boundary modification will take effect the next 1 July. (October 2019 Mtg.,
-Bd. Dec. 29)
+are involved must agree to the change unless the RI Board approves the change.
+The approved boundary modification will take effect the next 1 July. (October 2026 Mtg.,
+Bd. Dec. 47)
 Source: August 1999 Mtg., Bd. Dec. 80;
 Amended by February 2003 Mtg., Bd. Dec. 271; February 2004 Mtg., Bd. Dec. 204; November 2004 Mtg., Bd.
 Dec. 58; February 2007 Mtg., Bd. Dec. 189; June 2007 Mtg., Bd. Dec. 226; January 2008 Mtg., Bd. Dec. 196;
 September 2011 Mtg., Bd. Dec. 117; January 2012 Mtg., Bd. Dec. 211; June 2013 Mtg., Bd. Dec. 196; June
 2013 Mtg., Bd. Dec. 236; January 2015 Mtg., Bd. Dec. 118; September 2016 Mtg., Bd. Dec. 28; January 2017
 Mtg., Bd. Dec. 130; April 2018 Mtg., Bd. Dec. 160; October 2018 Mtg., Bd. Dec. 63; October 2019 Mtg., Bd.
-Dec. 29
+Dec. 29; October 2026 Mtg., Bd. Dec. 47
 17.010.7. Additionally-Supported Districts
 The board may authorize the general secretary to assign additionally-supported status to
 certain districts identified by the Board to provide additional support because of unique
@@ -2996,9 +2954,9 @@ leadership
 other benchmarks designated by the general secretary
 
 Rotary International Code of Policies
-October 2026
-• An exemption from having to hold their district governor selection process
-24 months in advance of the term of office
+January 2027
+• An exemption from having to hold their district governor selection process 24
+months in advance of the term of office
 Additionally-supported districts will be reviewed annually by the Districting Committee. In
 the second year of the districts’ additionally-supported status the Districting Committee will
 recommend to the Board whether to extend or remove the additionally-supported status. This
@@ -3036,7 +2994,7 @@ be consistent with the constitution, bylaws, and policies of RI.
 The district governor shall be responsible for supervising the incorporation process.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The incorporated district should be structured in furtherance of the District Leadership Plan.
 The corporate documents of each incorporated district shall include provisions assuring that
 the district corporations comply with the following requirements:
@@ -3075,7 +3033,7 @@ Source: March 2005 Mtg., Bd. Dec. 199;
 Amended by January 2015 Mtg., Bd. Dec. 118
 
 Rotary International Code of Policies
-October 2026
+January 2027
 17.020.2. Districts with Clubs in More Than One Jurisdiction
 A district with clubs in more than one jurisdiction may incorporate in any of the jurisdictions
 and shall take such further steps to register in the other jurisdiction(s) as appropriate.
@@ -3109,7 +3067,7 @@ The required components of the DLP are as follows:
 “district committees,” and “club leadership plan”
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Defined responsibilities and duties for assistant governors, district learning facilitators,
 district committee members, and club leadership
 3. District committees that ensure continuity of leadership within the district
@@ -3147,7 +3105,7 @@ necessary
 7. Methodology used to appoint and/or remove assistant governors
 
 Rotary International Code of Policies
-October 2026
+January 2027
 8. A corresponding Club Leadership Plan for clubs in the district
 The current district governor, governor-elect, and governor-nominee should reach consensus
 on the following:
@@ -3183,7 +3141,7 @@ Minimum criteria in selecting assistant governors include:
 Additional criteria in selecting assistant governors should include:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. knowledge of clubs, district and Rotary including relevant policies and Rotary’s online
 tools
 2. demonstrated leadership skills and qualities including, listening, communication,
@@ -3222,7 +3180,7 @@ The following district committees may be appointed:
 • Convention Promotion
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • District Conference
 • Enhancing Participant Engagement
 • Interact
@@ -3264,7 +3222,7 @@ Dec. 127; June 2021 Mtg., Bd. Dec. 184; April 2023 Mtg., Bd. Dec. 106; January 2
 See Also: April 2025 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 17.030.2.1. Finance Committee
 1. Purpose: The district finance committee shall safeguard the assets of the district fund by
 reviewing and studying the amount of the per capita levy and necessary expenses of
@@ -3303,7 +3261,7 @@ in inviting new members to join Rotary or Rotaract, implementing membership
 programs and who are members of clubs that have diversified membership.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 c. Consideration should be given to those who have served as chairs of club
 committee(s) related to membership.
 d. Preference should be given to individuals who have been active and successful in
@@ -3342,7 +3300,7 @@ their year in office. It is recommended that subcommittee chairs serve three-yea
 terms to help ensure continuity.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 I. District Membership Attraction Subcommittee Chair and District Membership
 Attraction Subcommittee
 Purpose: The district membership attraction subcommittee chair is responsible for leading
@@ -3381,7 +3339,7 @@ leading the district new club development subcommittee. The district new club
 development subcommittee is responsible for identifying opportunities to develop
 
 Rotary International Code of Policies
-October 2026
+January 2027
 new clubs and nurture any new clubs formed so they can provide an excellent club
 experience.
 Duties and Responsibilities: The new club development subcommittee shall:
@@ -3420,7 +3378,7 @@ about district projects and activities.
 e. Liaise and collaborate with the Rotary Public Image Coordinator.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 f. Share RI public image materials with clubs.
 g. Seek opportunities to speak to individual clubs about the importance of club public
 image.
@@ -3456,7 +3414,7 @@ vi. Logistics
 vii. Marketing to target audiences
 
 Rotary International Code of Policies
-October 2026
+January 2027
 c. If the district is part of a multidistrict PELS, work in accordance with the policies and
 procedures of that multidistrict PELS.
 (October 2025 Mtg., Bd. Dec. 19)
@@ -3495,7 +3453,7 @@ experience in planning and implementing local, sustainable service efforts of va
 sizes.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. Duties and Responsibilities:
 a. help identify new trends, issues or problems within the district that clubs may want
 to address
@@ -3532,7 +3490,7 @@ Amended by April 2020 Mtg., Bd. Dec. 127; October 2025 Mtg., Bd. Dec. 19
 throughout the district.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Additional Qualifications of Members: Preference should be given to Rotarians and
 Rotaractors who have attended a minimum of one previous RI Convention and/or with
 marketing skills.
@@ -3568,7 +3526,7 @@ e. Provide relevant, motivational, and informative programs
 Source: February 2001 Mtg., Bd. Dec. 261;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by January 2015 Mtg., Bd. Dec. 118; September 2017 Mtg., Bd. Dec. 51; April 2020 Mtg., Bd. Dec.
 127
 17.030.2.10. Enhancing Participant Engagement Committee
@@ -3609,7 +3567,7 @@ selected) for each of the remaining years of the three-year term.
 Source: June 2021 Mtg., Bd. Dec. 184;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by November 2021 Mtg., Bd. Dec. 34; April 2023 Mtg., Bd. Dec. 106; April 2024 Mtg., Bd. Dec. 119
 See Also April 2025 Mtg., Bd. Dec. 147
 17.030.2.11. Interact Committee
@@ -3649,7 +3607,7 @@ Source: May 1967 Mtg., Bd. Dec. 253; April 2020 Mtg., Bd. Dec. 127; February 202
 international service projects and helps enhance the quality of the district’s humanitarian
 
 Rotary International Code of Policies
-October 2026
+January 2027
 efforts by identifying resources and experts to advise on international service projects
 and global grants.
 2. Additional Qualifications of Members: Preference should be given to members who are
@@ -3690,7 +3648,7 @@ potential. Where feasible and practicable there should be provision for continui
 membership by appointing one or more members for a second term.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. Duties and Responsibilities:
 a. Collaborate on districtwide activities related to Rotaract including joint activities
 between Rotary and Rotaract clubs.
@@ -3728,7 +3686,7 @@ approval to ensure that no personal financial profit is being made from Rotary
 Friendship Exchange activities.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 f. Submit a report with exchange summaries to the general secretary after the
 completion of each exchange.
 4. Appointment of Chair: The district governor should appoint an individual with
@@ -3766,7 +3724,7 @@ learn important procedures and policies from their predecessors.
 (January 2021 Mtg., Bd. Dec. 84)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: April 2020 Mtg., Bd. Dec. 127;
 Amended by January 2021 Mtg., Bd. Dec. 84
 17.030.2.16. District Youth Exchange Committee
@@ -3807,7 +3765,7 @@ Amended by January 2016 Mtg., Bd. Dec. 121; April 2020 Mtg., Bd. Dec. 12; Novemb
 17.030.3. Additional Committees
 
 Rotary International Code of Policies
-October 2026
+January 2027
 17.030.3.1. District Rules and Procedures Committee
 Districts are encouraged to form a district “Rules and Procedures” committee to advise and
 assist governors on nominations and elections and other matters involving RI’s constitutional
@@ -3844,7 +3802,7 @@ be no fewer than three members of the nominating committee and members should se
 no more than three one-year terms when a district has adopted a procedure for selecting
 
 Rotary International Code of Policies
-October 2026
+January 2027
 members on the nominating committee for governor under RI Bylaws section 12.030.1.
 (January 2017 Mtg., Bd. Dec. 86)
 Source: September 2016 Mtg., Bd. Dec. 73
@@ -3873,7 +3831,7 @@ Source: January 1947 Mtg., Bd. Dec. E25;
 Amended by November 2004 Mtg., Bd. Dec. 59; January 2015 Mtg., Bd. Dec. 118
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 18. NEW CLUB DEVELOPMENT AND EXTENSION OF ROTARY
 18.010. New Club Development
 18.020. New Clubs
@@ -3907,7 +3865,7 @@ constitution the name chosen, subject to the approval of RI. (January 2015 Mtg.,
 Source: January 1939 Mtg., Bd. Dec. 105; January 2015 Mtg., Bd. Dec. 118
 
 Rotary International Code of Policies
-October 2026
+January 2027
 18.020.3. Charter Membership List
 The list of members submitted to the RI Board as part of the club’s application for
 membership shall be considered the club’s complete charter membership list. Pending the
@@ -3946,7 +3904,7 @@ When a new club applying for admission submits a falsified membership list the g
 secretary shall take the following action:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. withhold admission of the new club;
 2. notify the district governor that the club will not be admitted until all names on the new
 club membership list have been verified, and that all future new club applications from
@@ -3981,7 +3939,7 @@ following criteria have been met:
 government
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Rotary clubs would be able to function freely as non-political entities of an international
 organization
 3. The location has a sufficient number of community leaders in businesses, professions
@@ -4020,12 +3978,12 @@ Mtg., Bd. Dec. 348)
 Source: May 1991 Mtg., Bd. Dec. 357; June 1998 Mtg., Bd. Dec. 348
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Cross-References
 32.030.1. Waiver or Remittance of Charter Fee
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 19. DISTRICT OFFICERS
 19.010. Governor’s Specific Duties and Responsibilities
 19.020. Responsibilities of the Governor-Nominee
@@ -4059,7 +4017,7 @@ Amended by November 2010 Mtg., Bd. Dec. 100; January 2011 Mtg., Bd. Dec. 117; Oc
 Dec. 81; January 2015 Mtg., Bd. Dec. 118; October 2018 Mtg., Bd. Dec. 68
 
 Rotary International Code of Policies
-October 2026
+January 2027
 19.010.4. Governors’ Responsibilities for Club Membership Reporting
 Governors will work with club secretaries in the district to ensure clubs send timely
 membership updates to Rotary International. (January 2014 Mtg., Bd. Dec. 96)
@@ -4095,7 +4053,7 @@ district organization
 2. attend as an observer any or all district meetings
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. be part of the organizing committee as an observer
 4. participate in all strategic planning efforts and long-term appointments in the district.
 5. serve as an ex-officio member of the district Youth Exchange committee.
@@ -4132,7 +4090,7 @@ and/or assignment(s) in Rotary (elective or appointed); former position(s) and/o
 assignment(s) (elective or appointed)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. special Rotary services and/or particular Rotary activities in which candidate has been
 engaged, i.e. what candidate has done to advance Rotary
 3. most significant honors or achievements in business, occupational, and professional
@@ -4167,7 +4125,7 @@ for the possibility for combining meetings where appropriate):
 Source: July 1997 Mtg., Bd. Dec. 55; November 1999 Mtg., Bd. Dec. 218;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by October 2014 Mtg., Bd. Dec. 75; January 2015 Mtg., Bd. Dec. 118; September 2017 Mtg., Bd.
 Dec. 51; October 2018 Mtg., Bd. Dec. 57; January 2020 Mtg. Bd. Dec. 85; January 2024 Mtg., Bd. Dec. 76;
 October 2025 Mtg., Bd. Dec. 19
@@ -4206,7 +4164,7 @@ Governors-nominee and governors-elect should meet jointly to learn about
 (January 2020 Mtg., Bd. Dec. 85)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 2017 Mtg., Bd. Dec. 182
 19.040.4. Excusing Governor-elect Attendance at International Assembly
 The president-elect may excuse attendance on behalf of the board in extenuating and
@@ -4241,7 +4199,7 @@ Governor-elect learning will not include district organization. (June 2025 Mtg.,
 155)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 1999 Mtg., Bd. Dec. 311; November 1999 Mtg., Bd. Dec. 213; June 2004 Mtg., Bd. Dec. 270; April
 2024 Mtg., Bd. Dec. 119
 Amended by November 2004 Mtg., Bd. Dec. 52; September 2011 Mtg., Bd. Dec. 126; January 2013 Mtg., Bd.
@@ -4280,7 +4238,7 @@ of governors being developed, upon recommendation by the convener. Exceptions ca
 made if there is no recent Rotary International Learning Facilitator for the zone.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. Conveners may appoint additional team members if necessary. Additional facilitators
 will not be funded.
 2. The selected regional Rotary Foundation coordinator, Rotary membership coordinator
@@ -4321,7 +4279,7 @@ governors-elect at least 60 days prior to their attendance at GELS. Governors-el
 complete an evaluation immediately following the meeting. The GELS team shall be asked
 
 Rotary International Code of Policies
-October 2026
+January 2027
 to complete an evaluation that addresses the success of the session, support from RI,
 logistical issues, as well as recommendations on how it might be improved in the future.
 (April 2024 Mtg., Bd. Dec. 119)
@@ -4359,7 +4317,7 @@ relevant online courses in the Rotary Learning Center to ensure all learners rec
 messaging and can begin at the same level of basic knowledge;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Key leadership roles, including club presidents, district governors, and district membership
 chairs, should complete the relevant online courses for their roles. (April 2024 Mtg., Bd. Dec.
 119)
@@ -4394,7 +4352,7 @@ current and past governors about the issues debated and presented at the Interna
 Assembly.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The authority and/or the responsibility of the governor shall in no way be impaired or
 impeded by the advice or actions of the past governors. (January 2015 Mtg., Bd. Dec. 118)
 Source: February 2002 Mtg., Bd. Dec. 195; COL 92-278;
@@ -4433,7 +4391,7 @@ beyond the club
 Increase our Ability to Adapt
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Encourage clubs and districts to test and evaluate new ideas
 • Support clubs and districts in bringing diverse perspectives and evidence to
 decision-making
@@ -4444,7 +4402,7 @@ April 2026 Mtg., Bd. Dec. 106
 See Also: April 2025 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 20. DISTRICT MEETINGS
 20.005. Location of District Meetings
 20.010. District Conference Overview
@@ -4481,7 +4439,7 @@ seminar or district presidents-elect learning seminar
 appropriate
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4. elect the district’s Council representative during the Rotary year two years prior to the
 Council on Legislation, if the district chooses not to utilize the nominating committee
 procedure.
@@ -4519,7 +4477,7 @@ of the conference
 Source: November 1999 Mtg., Bd. Dec. 203
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by February 2003 Mtg., Bd. Dec. 275; June 1999 Mtg., Bd. Dec. 295; June 1999 Mtg. Bd. Dec. 298;
 January 2015 Mtg., Bd. Dec. 118; October 2019 Mtg., Bd. Dec. 44.
 See Also March 1992 Mtg., Bd. Dec. 215; June 2021 Mtg., Bd. Dec. 178
@@ -4558,7 +4516,7 @@ efforts that may coincide with the conference
 10. refrain from involvement in district disputes
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (May 2024 Mtg., Bd. Dec. 171)
 Source: November 1990 Mtg., Bd. Dec. 149.
 Amended by June 1999 Mtg., Bd. Dec. 298; November 1999 Mtg., Bd. Dec. 206; November 1999 Mtg., Bd.
@@ -4596,7 +4554,7 @@ district conference shall assume the hotel and other conference expenses of the 
 representative and partner during their attendance at the conference.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 RI will not fund the expenses of a president’s representative to a district conference where
 the average conference attendance in the previous three years was less than 200 or when the
 scheduled conference program is not more than one day. (October 2024 Mtg., Bd. Dec. 35)
@@ -4619,9 +4577,9 @@ Amended by May 2011 Mtg., Bd. Dec. 182
 The purpose of the club leadership learning seminar is to
 • Prepare incoming club leaders for their year in office and build their
 leadership team
-• Give the district governor-elect, and incoming assistant governors and
-district committees the opportunity to motivate club leadership teams and
-build their working relationship.
+• Give the district governor-elect, and incoming assistant governors and district
+committees the opportunity to motivate club leadership teams and build their
+working relationship.
 (October 2025 Mtg., Bd. Dec. 19)
 Source: November 2005 Mtg., Bd. Dec. 104;
 Amended by June 2013 Mtg., Bd. Dec. 196; October 2025 Mtg., Bd. Dec. 19
@@ -4632,7 +4590,7 @@ in the upcoming Rotary year. (October 2025 Mtg., Bd. Dec. 19)
 Source: November 1999 Mtg., Bd. Dec. 218;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by June 2013 Mtg., Bd. Dec. 196; October 2025 Mtg., Bd. Dec. 19
 20.060.3. Club Leadership Learning Seminar Components
 The following components will be included in the club leadership learning seminar for each
@@ -4668,7 +4626,7 @@ Amended by November 2001 Mtg., Bd. Dec. 45; May 2003 Mtg., Bd. Dec. 325; Novembe
 113; June 2010 Mtg., Bd. Dec. 182; June 2013 Mtg., Bd. Dec. 196; October 2025 Mtg., Bd. Dec. 19
 
 Rotary International Code of Policies
-October 2026
+January 2027
 20.060.5. Club Leadership Learning Seminar Leaders
 The governor-elect is responsible for the overall program of the club leadership learning
 seminar. The district learning facilitator is responsible for planning and conducting the
@@ -4706,7 +4664,7 @@ relationship.
 (October 2025 Mtg., Bd. Dec. 19)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: November 2005 Mtg., Bd. Dec. 104
 Amended by October 2025 Mtg., Bd. Dec. 19
 20.070.2. Program of PELS
@@ -4746,7 +4704,7 @@ elect. The PELS leadership team consists of qualified past governors and distric
 chairs.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Governors-elect are encouraged to utilize the members of the district Rotary Foundation
 committee in developing and delivering Foundation topics in appropriate sessions. (April 2023
 Mtg., Bd. Dec. 106)
@@ -4786,7 +4744,7 @@ shall notify the general secretary and the governors-elect of the other district
 its decision within 60 days prior to the date of termination.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. Transition to Multidistrict Format
 Governors-elect shall initially conduct a multidistrict PELS only after approval of two-thirds
 of the clubs in the district. The Board authorizes two or more districts to hold their PELS
@@ -4826,7 +4784,7 @@ The purpose of the district team learning seminar is to
 members and chairs for their year in office
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Give district governors-elect the opportunity to motivate and build their
 district leadership team to support clubs.
 (January 2024 Mtg., Bd. Dec. 76)
@@ -4864,7 +4822,7 @@ Amended by November 2007 Mtg., Bd. Dec. 113; January 2015 Mtg., Bd. Dec. 118; Ja
 Dec. 76
 
 Rotary International Code of Policies
-October 2026
+January 2027
 20.080.5. District Team Learning Seminar Leaders
 The governor-elect is responsible for the overall program of the District Team Learning
 Seminar. The district learning facilitator is responsible for planning and conducting the
@@ -4902,7 +4860,7 @@ responsible for planning and conducting the seminar in consultation with the dis
 membership committee chair, district public image committee chair, and district Rotary
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Foundation committee chair. Districts are encouraged to seek input from the Regional Rotary
 Foundation Coordinator, Rotary Membership Coordinator, Rotary Public Image
 Coordinator, and Endowment/Major Gifts Adviser. (June 2025 Mtg., Bd. Dec. 155)
@@ -4911,7 +4869,7 @@ Amended by November 2002 Mtg., Bd. Dec. 55; October 2018 Mtg., Bd. Dec. 57; Janu
 85; April 2023 Mtg., Bd. Dec. 106; June 2025 Mtg., Bd. Dec. 155
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 21. MULTIDISTRICT ACTIVITIES
 21.010. Guidelines for Multidistrict Activities, Projects, and Organizations
 21.020. Intercountry Committees
@@ -4921,39 +4879,38 @@ encouraged, subject to the following:
 Multidistrict activities, projects and organizations:
 • shall be, in nature and scope, within the capability of the clubs and Rotarians
 in the districts to be undertaken successfully without interfering with or
-detracting from the scope and effectiveness of club activities in furthering
-the program of Rotary at the club level
+detracting from the scope and effectiveness of club activities in furthering the
+program of Rotary at the club level
 • shall not be undertaken initially unless each governor concerned has agreed
-to such a joint activity and then, only after approval of two-thirds of the
-clubs in each district. Any participating district that seeks to terminate its
-participation in a multidistrict activity, project or organization must secure
-the approval of two-thirds of the clubs in the district to withdraw.
+to such a joint activity and then, only after approval of two-thirds of the clubs
+in each district. Any participating district that seeks to terminate its
+participation in a multidistrict activity, project or organization must secure the
+approval of two-thirds of the clubs in the district to withdraw.
 • shall be under the direct supervision of the governors concerned; the custody
 of all funds contributed or collected for such activities, projects or
 organizations shall be the responsibility of the governors concerned, though
-a committee of Rotarians from within the districts involved may be
-appointed to assist in administering any such activity, project or
-organization and related funds. The governors involved in any multidistrict
-activity, project or organization shall also be responsible for ensuring that an
-annual financial review by a qualified person or an audited financial
-statement of multidistrict finances is prepared for the activity, project or
-organization and distributed to the participating clubs. (Please see section
-34.040.7., point 9 for a further definition of “full control of a Rotary
-Entity.”)
+a committee of Rotarians from within the districts involved may be appointed
+to assist in administering any such activity, project or organization and related
+funds. The governors involved in any multidistrict activity, project or
+organization shall also be responsible for ensuring that an annual financial
+review by a qualified person or an audited financial statement of multidistrict
+finances is prepared for the activity, project or organization and distributed to
+the participating clubs. (Please see section 34.040.7., point 9 for a further
+definition of “full control of a Rotary Entity.”)
 • shall involve participation by Rotary clubs and/or individual Rotarians on a
 voluntary basis, clearly presented as such; the cost of participation by a club
-or individual Rotarian, if any, should be kept to a minimum, and not
-implicitly or directly be made an obligation in the form of a per capita
-assessment or otherwise
-• shall adhere to all applicable RI policies, including RI’s circularization
-policy and policies for use of the Rotary Marks.
+or individual Rotarian, if any, should be kept to a minimum, and not implicitly
+or directly be made an obligation in the form of a per capita assessment or
+otherwise
+• shall adhere to all applicable RI policies, including RI’s circularization policy
+and policies for use of the Rotary Marks.
 • in order to clarify that the activity, project or organization is not one of RI or
-TRF, the promotional materials, printed and electronic, and especially on
+TRF, the promotional materials, printed and electronic, and especially on any
+donation page, shall state that the activity, project or organization is one of a
+local nature.
 
 Rotary International Code of Policies
-October 2026
-any donation page, shall state that the activity, project or organization is one
-of a local nature.
+January 2027
 This policy does not include projects involving cooperation between districts partnering for
 an international service project.
 Multidistrict PELS organizations are exempt from these Multidistrict Guidelines. Rather,
@@ -4991,11 +4948,11 @@ the Rotary Marks
 21.010.1. Multidistrict Programmatic Activities
 A multidistrict program or project shall define the program or project objective and
 anticipated outcomes. Participating districts shall monitor progress against expected
-
-Rotary International Code of Policies
-October 2026
 outcomes. Districts are responsible for tracking progress against the objectives and
 publishing an annual progress report at the conclusion of each Rotary year.
+
+Rotary International Code of Policies
+January 2027
 Districts shall recognize the accomplishments of their multidistrict programmatic or
 project activities as appropriate in their districts. (October 2025 Mtg., Bd. Dec. 33)
 Source: October 2025 Mtg., Bd. Dec. 33
@@ -5028,12 +4985,12 @@ Amended by September 2011 Mtg., Bd. Dec. 34; October 2019 Mtg., Bd. Dec. 45; Oct
 Intercountry Committees can be national or sub-national relationships between two
 countries. National intercountry committees require the consensus of all districts in a country.
 Sub-national intercountry committees require the consensus of all districts participating in
-
-Rotary International Code of Policies
-October 2026
 the relationship. An established Intercountry Committee shall inform the Executive Council
 of its formation.
 1. Establishing a national Intercountry Committee
+
+Rotary International Code of Policies
+January 2027
 To form an Intercountry Committee between two or more countries, approval from all of
 the countries’ district governors must be obtained. District governors from a given
 country who wish to delegate decision-making authority for establishing new national
@@ -5070,13 +5027,13 @@ Amended by June 2007 Mtg., Bd. Dec. 281; October 2019 Mtg., Bd. Dec. 45; June 20
 An Intercountry Committee is led by an Intercountry Committee chair, elected from
 participating districts for a three-year term. Intercountry Committees must abide by the rules
 governing organizations in their country and shall have officers including a chair, secretary,
-
-Rotary International Code of Policies
-October 2026
 and treasurer. The chair should serve for three years while the other leaders should rotate on
 an annual basis. (October 2019 Mtg., Bd. Dec. 45)
 Source: June 2007 Mtg., Bd. Dec. 281;
 Amended by May 2015 Mtg., Bd. Dec. 178; October 2019 Mtg., Bd. Dec. 45
+
+Rotary International Code of Policies
+January 2027
 21.020.4. Relationships with District
 Intercountry Committees are encouraged to collaborate with the district governors of
 participating districts as well as their district international service committees, if one is
@@ -5110,14 +5067,14 @@ Amended by October 2019 Mtg., Bd. Dec. 45
 21.020.6. Relationship with Rotary International
 Establishing an Intercountry Committee in no way implies legal, financial or other obligation
 or responsibility on the part of RI, or any district or club. An Intercountry Committee may
-
-Rotary International Code of Policies
-October 2026
 not act on behalf of RI, or represent or imply that it has authority to act on behalf of RI. An
 Intercountry Committee is not an agency of RI. Intercountry Committees
 must be self-sustaining financially, administratively, and otherwise. Intercountry
 Committees may not exist or function in any country in violation of the laws of such country.
 (October 2019 Mtg., Bd. Dec. 45)
+
+Rotary International Code of Policies
+January 2027
 Source: January 1938 Mtg., Bd. Dec. 105;
 Amended by October 2019 Mtg., Bd. Dec. 45
 21.020.7. Finances
@@ -5138,7 +5095,7 @@ Source: June 2007 Mtg., Bd. Dec. 281;
 Amended by October 2019 Mtg., Bd. Dec. 45
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER IV – ADMINISTRATION
 Articles
 Article 26. Rotary International
@@ -5177,7 +5134,7 @@ Source: June 2007 Mtg., Bd. Dec. 228;
 Amended by November 2009 Mtg., Bd. Dec. 42
 
 Rotary International Code of Policies
-October 2026
+January 2027
 26.010.2. Core Values
 The Board has adopted “core values” as part of the strategic plan of Rotary International:
 Service, Fellowship, Diversity, Integrity, and Leadership (November 2010 Mtg., Bd. Dec.
@@ -5191,30 +5148,31 @@ Increase Our Impact
 • Improve our ability to achieve and measure impact
 Expand Our Reach
 • Grow and diversify our membership and participation
-• Create new channels into Rotary
-• Increase Rotary’s openness and appeal
-• Build awareness of our impact and brand
+• Create new ways for participants to experience Rotary
+• Increase club flexibility and appeal
+• Build understanding of our impact and brand
 Enhance Participant Engagement
 • Support clubs to better engage their members
-• Develop a participant-centered approach to deliver value
+• Improve understanding and support of individual participants
 • Offer new opportunities for personal and professional connection
-• Provide leadership development
+• Provide learning opportunities for leadership development and skill building
 Increase our Ability to Adapt
 • Build a culture of research, innovation, and willingness to take risks
 • Streamline governance, structure, and processes
 • Review governance to foster more diverse perspectives in decision-making
-(April 2024 Mtg., Bd. Dec. 119)
+(May 2024 Mtg., Bd. Dec. 155)
 Source: November 2009 Mtg., Bd. Dec. 42;
 Amended by January 2010 Mtg., Bd. Dec. 118; November 2010 Mtg., Bd. Dec. 46; June 2013 Mtg., Bd. Dec.
 196; May 2014 Mtg., Bd. Dec. 122; April 2016 Mtg., Bd. Dec. 157; June 2018 Mtg., Bd. Dec. 178; April 2024
 Mtg., Bd. Dec. 119
+See Also: May 2024 Mtg., Bd. Dec. 155
 26.010.4. Alignment with RI Strategic Plan and RI Board Performance Goals
 The work of Rotary shall be in alignment with the RI Strategic Plan. In furtherance of such
 goal, the Board, in collaboration with the current RI president, shall establish RI Board
 performance goals, to be aligned with the RI Strategic Plan and the presidential goals and
 
 Rotary International Code of Policies
-October 2026
+January 2027
 vision. The general secretary shall support a mechanism for creating and reporting on goals,
 for review by the Board at its regular meetings each year. (April 2022 Mtg., Bd. Dec. 123)
 Source: September 2011 Mtg., Bd. Dec. 43;
@@ -5248,7 +5206,7 @@ is the official Rotary anthem that can be played at appropriate occasions, such 
 ceremonies. (February 2000 Mtg., Bd. Dec. 298)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: November 1999 Mtg., Bd. Dec. 222;
 Amended by February 2004 Mtg., Bd. Dec. 209
 26.050. Rotary Protocol
@@ -5291,7 +5249,7 @@ Regional and zone-level committee members
 Assistant governors
 
 Rotary International Code of Policies
-October 2026
+January 2027
 District secretaries/treasurers
 District committee members
 Club presidents
@@ -5332,7 +5290,7 @@ electioneering or canvassing in the RI Bylaws. The report of all nominating comm
 also contain the names and signatures of all committee members in attendance. Such report
 
 Rotary International Code of Policies
-October 2026
+January 2027
 should be forwarded to the general secretary along with the name of the nominee of the
 committee. (April 2016 Mtg., Bd. Dec. 157)
 Source: November 1990 Mtg., Bd. Dec. 80;
@@ -5374,7 +5332,7 @@ give serious consideration to submitting their names for a position covered by t
 rules for nominations and elections. Commencing at that time, candidates should be
 
 Rotary International Code of Policies
-October 2026
+January 2027
 particularly careful to avoid any actions designed to publicize their names or
 achievements, to call attention to the applicable nominations or elections, or to give
 candidates an unfair advantage over other candidates for the same position.
@@ -5414,7 +5372,7 @@ In all other situations, the president shall, in consultation with the chair of 
 committee, select three members of that committee (one of whom shall be designated as
 
 Rotary International Code of Policies
-October 2026
+January 2027
 convener) to serve as a panel to evaluate the complaint. Any member of the committee,
 however, may disqualify himself or herself from considering a particular complaint. Any
 vacancy on the panel shall be filled in the same manner. A member of the Election Review
@@ -5457,7 +5415,7 @@ confidentiality requirements to the extent it believes is necessary to ascertain
 information. (April 2016 Mtg., Bd. Dec. 157)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: March 1992 Mtg., Bd. Dec. 183; February 2007 Mtg., Bd. Dec. 149.
 Amended by June 2001 Mtg., Bd. Dec. 326; April 2016 Mtg., Bd. Dec. 157
 26.070.6. Review of Elections for President and Director
@@ -5495,7 +5453,7 @@ Source: March 1992 Mtg., Bd. Dec. 183.
 Amended by November 1995 Mtg., Bd. Dec. 81; February 1996 Mtg., Bd. Dec. 174
 
 Rotary International Code of Policies
-October 2026
+January 2027
 26.070.10. Other Election Issues
 In the event that the general secretary or president become aware of alleged irregularities
 within the election process that require immediate resolution, but that are not the subject of
@@ -5533,7 +5491,7 @@ and other materials
 • Supporting the programs and membership of Rotary
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Complying with the law or acting in good faith belief that such an action is
 necessary to conform with the requirements of the law.
 (October 2018 Mtg., Bd. Dec. 37)
@@ -5568,7 +5526,7 @@ to be followed. (June 2008 Mtg., Bd. Dec. 242)
 Source: June 2008 Mtg., Bd. Dec. 242
 
 Rotary International Code of Policies
-October 2026
+January 2027
 26.100.2. Methods of Resolution
 Should one party refuse to agree to mediation, the dispute may be settled by arbitration
 pursuant to section 24.030. of the RI Bylaws. Should all parties agree to mediation, they may
@@ -5604,7 +5562,7 @@ resolution method and encourages clubs and districts to use conciliation when ap
 Source: June 2026 Mtg., Bd. Dec. 150
 
 Rotary International Code of Policies
-October 2026
+January 2027
 26.110. Relationship Between Directors and Trustees of The Rotary Foundation
 26.110.1. Future RI General Officers Serving as Trustees
 It is not appropriate for a general officer of Rotary International to serve at the same time as
@@ -5641,7 +5599,7 @@ meeting each year, the names of the individuals he or she nominates as Rotary Fo
 Trustees.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Prior to nominating candidates for election by the Board, the president-elect shall consult
 with the Foundation chair-elect. The president-elect shall not nominate, and the board shall
 not elect, any Rotarian as trustee who has previously been sanctioned or otherwise found by
@@ -5680,7 +5638,7 @@ reasonable timeframe, typically one month. If the alleged offender is a member o
 or Rotaract club board, the individual is expected to remove oneself from the discussion. The
 
 Rotary International Code of Policies
-October 2026
+January 2027
 review and/or investigation shall be dependent on the circumstances including the severity
 and pervasiveness of the behavior. Concerns that allegations of harassment were not
 adequately addressed by the Rotary or Rotaract club, may be referred with appropriate
@@ -5720,7 +5678,7 @@ failed to terminate the membership of such an individual, the RI Board may termi
 club for failure to function.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Rotary and Rotaract club, district, and zone leaders must promptly report sexual abuse,
 sexual harassment, and severe and/or pervasive harassment and any resulting membership
 terminations to the general secretary. Failure to adequately address findings of harassment
@@ -5761,7 +5719,7 @@ Amended by January 2020 Mtg., Bd. Dec. 85; April 2024 Mtg., Bd. Dec. 119; Octobe
 26.130. Enforcement Levels for Rotary Code of Policies (RCOP) Violations
 
 Rotary International Code of Policies
-October 2026
+January 2027
 26.130.1. Guiding Principles
 1. Article-Specific Consequences Take Priority: If an article of the Rotary Code of
 Policies specifies its own enforcement mechanism, that consequence applies
@@ -5799,14 +5757,14 @@ Individuals
 (October 2025 Mtg., Bd. Dec. 49)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: October 2025 Mtg., Bd. Dec. 49
 26.130.2. Entities
 26.130.2.1. Rotary and Rotaract Club Non-Compliance with RI Policies
 Responsible Authority
 • Level 1 – District Governor: Primary oversight of clubs within their district
-• Level 2 – RI Board of Directors: Final authority in cases of major
-governance failures
+• Level 2 – RI Board of Directors: Final authority in cases of major governance
+failures
 1. Level 1 – District Governor
 a. Allegations
 i. Club-level violations of RCOP or ethics
@@ -5835,7 +5793,7 @@ If the allegation is not substantiated or is inconclusive, the District Governor
 contacts the complainant and the respondent to share the findings.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The General Secretary shall have the authority to intervene at any stage in a
 matter arising from a violation of the RCOP and, upon due evaluation, render
 a binding decision that shall be final and not subject to appeal.
@@ -5872,7 +5830,7 @@ district inclusive of but not limited to appointing a past leader to have
 oversight over the district and placing the clubs into non-districted status.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 If the complainant or respondent wishes to appeal a finding, the RI Director shall
 appoint a new three-person panel composed of membership outside of the district to
 review the materials of the first panel or investigation by the individual. The findings
@@ -5908,7 +5866,7 @@ i. Review concerns, educate members, and correct behavior.
 ii. May request support from the District Interact Committee.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Level 2 – District Interact Committee
 a. Allegations
 i. Sponsoring Rotary Club requests support
@@ -5941,7 +5899,7 @@ b. Available Actions
 i. Issue formal warning and request confirmation (optional).
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ii. Initiate club termination.
 (October 2025 Mtg., Bd. Dec. 49)
 Source: October 2025 Mtg., Bd. Dec. 49
@@ -5978,7 +5936,7 @@ forward the findings to the district governor for a panel to review these findin
 second review by the district is considered final.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 If the allegation is not substantiated or is inconclusive, the club contacts the
 complainant and the respondent to share the findings
 The General Secretary shall have the authority to intervene at any stage in a matter
@@ -6016,7 +5974,7 @@ vi. Issue a formal warning and request compliance.
 vii. Recommend temporary removal from duties, if allowed by club bylaws.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 viii. Escalate the matter to the RI Board to request additional penalties,
 including removal from office or ineligibility for future leadership roles.
 If the complainant or respondent wishes to appeal a finding, the District Governor
@@ -6051,7 +6009,7 @@ Responsible Authority
 a. Allegations
 
 Rotary International Code of Policies
-October 2026
+January 2027
 i. Complaints or reports of policy violations by district leadership
 b. Available Actions
 i. Appoint a panel of three respected members from the district to investigate
@@ -6089,7 +6047,7 @@ ii. Declare the individual ineligible for future international, regional, or dis
 leadership positions.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 iii. In the most serious cases, the RI Board may disqualify the individual from
 serving as District Governor.
 (October 2025 Mtg., Bd. Dec. 49)
@@ -6122,7 +6080,7 @@ i. Peer deliberation; possibly to include:
 5. Decision to proceed with a formal review
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. Level 3 – RI Board (Formal Review)
 a. Allegations
 i. Severe violates such as:
@@ -6156,7 +6114,7 @@ v. Refer the matter to the RI Board
 2. Level 2- RI Board (Peer Accountability)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 a. Allegations
 i. Repeated or serious issues such as
 1. Misconduct
@@ -6186,7 +6144,7 @@ iii. Adopt Board resolution as per RI Regulations
 Source: October 2025 Mtg., Bd. Dec. 49
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 27. RI PRESIDENT
 27.010. Regulations Governing Candidates for RI President and the Nominating Committee for
 President
@@ -6194,10 +6152,9 @@ President
 27.030. Official Activities
 27.040. Authority to Act on Behalf of Board
 27.050. Additional Activities
-27.060. Annual Goals
-27.070. Staff Support
-27.080. Finances
-27.090. President’s Advisory Committee
+27.060. Staff Support
+27.070. Finances
+27.080. President’s Advisory Committee
 27.010. Regulations Governing Candidates for RI President and the Nominating Committee
 for President
 27.010.1. Declaration of Duties and Responsibilities of President
@@ -6223,11 +6180,11 @@ time discuss or divulge any of the deliberations or discussions of the committee
 they may participate in the deliberations of the committee at the time of its meeting. This
 confidentiality may be waived solely by the Board, or the RI Election Review Committee
 acting on its behalf, in order to investigate any duly filed election complaint. Names of
-
-Rotary International Code of Policies
-October 2026
 members of the nominating committee may not be made public until after 30 June of the year
 in which they are selected.
+
+Rotary International Code of Policies
+January 2027
 Preparation for the Committee Meeting
 1. The general secretary will assign a member of the Secretariat staff to work with and for
 the committee with instructions that all aspects of the work of the committee are to be
@@ -6267,11 +6224,11 @@ President.
 secretary shall forward to committee members an alphabetical list of the past directors
 who have notified the general secretary that they wish to have their names listed as being
 willing and able to serve as president with the name of the Rotary club in which each
-
-Rotary International Code of Policies
-October 2026
 holds membership indicated in capital letters. If there are more than six candidates,
 committee members will be required to vote on their top six candidates within the
+
+Rotary International Code of Policies
+January 2027
 following five days. Any committee members not voting by the deadline shall not attend
 the committee meeting. The top six vote getters shall be considered the “finalists” and
 invited by the general secretary to be interviewed in-person by the committee. In the
@@ -6307,10 +6264,10 @@ iii. a copy of written answers to interview questions developed by the RI Board
 iv. a copy of the written statement of vision and goals for Rotary
 v. a chronological list of RI committees on which the candidate has served
 vi. a copy of the general biographical data on record in the secretariat
+vii. a signed statement by the candidate stating:
 
 Rotary International Code of Policies
-October 2026
-vii. a signed statement by the candidate stating:
+January 2027
 1. that to the best of their knowledge and belief, except as disclosed to the
 nominating committee, they have no health issues, legal issues (including
 limitations on travel), or financial issues that would limit or impact their
@@ -6351,10 +6308,10 @@ and shall work under the direct supervision of the chair of the committee.
 member of the committee has been contacted by, or on behalf of, any candidate related
 in any way whatsoever to his or her candidacy for RI President, or is aware of any effort
 to influence members of the nominating committee, either directly or indirectly, and, if
+so, to bring these to the attention of committee at this time. The chair shall at this time
 
 Rotary International Code of Policies
-October 2026
-so, to bring these to the attention of committee at this time. The chair shall at this time
+January 2027
 ask all committee members to review and sign a written disclosure statement of any
 attempt to influence members of the committee. Any member of the committee who is
 later found to have failed to properly report campaigning or electioneering activity on
@@ -6391,17 +6348,18 @@ deliberation process until the nominee has been selected.
 the committee to vote for four candidates. All voting conducted under this paragraph
 shall be conducted by secret ballot using electronic voting technology provided by the
 general secretary. After the secretary announces the results of this ballot, similar steps
-shall be followed to reduce the number of candidates to two and, finally, to one.
-Notwithstanding the foregoing, a candidate eliminated during a previous round of
-balloting may be reconsidered at any point if requested by at least six members of the
-committee. Voting must continue until there are two candidates remaining and one of the
-final two candidates receives at least ten votes, regardless of whether any candidate
-received ten or more votes in a previous round of voting. The committee shall not select
+shall be followed to reduce the number of candidates to two and, finally, to one. The
+number of votes received by each candidate in any round of voting shall not be made
+known to the members of the committee. Notwithstanding the foregoing, a candidate
+eliminated during a previous round of balloting may be reconsidered at any point if
+requested by at least six members of the committee. Voting must continue until there are
+two candidates remaining and one of the final two candidates receives at least ten votes,
+regardless of whether any candidate received ten or more votes in a previous round of
 
 Rotary International Code of Policies
-October 2026
-an alternate, and the candidate who finishes second in the final vote shall not be
-considered to be an alternate.
+January 2027
+voting. The committee shall not select an alternate, and the candidate who finishes second
+in the final vote shall not be considered to be an alternate.
 20. In the event of a tie in voting for the final four or two candidates, the candidates involved
 in the tie shall proceed to the next round of voting. If there are more than two candidates
 in the final round of voting and no candidate receives 10 votes in the initial vote, the
@@ -6431,7 +6389,7 @@ members should not plan to depart until the day following the committee’s meet
 26. The vision and goals statement and written answers to the interview questions developed
 by the RI Board submitted by the candidate chosen by the Nominating Committee for RI
 President shall be made available to Rotarians.
-(April 2026 Mtg., Bd. Dec. 104)
+(October 2026 Mtg., Bd. Dec. 28)
 Source: October-November 1977 Mtg., Bd. Dec.97;
 Amended by February 1999 Mtg., Bd. Dec. 190; March 2005 Mtg., Bd. Dec. 182; June 2005 Mtg., Bd. Dec. 275;
 July 2005 Mtg., Bd. Dec. 13; November 2005 Mtg., Bd. Dec. 54; June 2007 Mtg., Bd. Dec. 226; June 2007 Mtg.,
@@ -6444,9 +6402,9 @@ Bd. Dec. 84; October 2019 Mtg., Bd. Dec. 29; April 2020 Mtg., Bd. Dec. 127; June
 September 2020 Mtg., Bd. Dec. 23; June 2021 Mtg., Bd. Dec. 185; April 2022 Mtg., Bd. Dec. 121; April 2023
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Mtg., Bd. Dec. 112; May 2023 Mtg., Bd. Dec. 140; July 2024 Mtg., Bd. Dec. 12; October 2025 Mtg., Bd. Dec.
-26; April 2026 Mtg., Bd. Dec. 104
+26; April 2026 Mtg., Bd. Dec. 104; October 2026 Mtg., Bd. Dec. 28
 27.010.3. Selection of Nominee for President by Nominating Committee
 The selection of a nominee for the office of RI president is solely the responsibility of the
 nominating committee for president. Any efforts from persons not on the committee to
@@ -6482,7 +6440,7 @@ In addition to the duties and responsibilities of an RI director in Rotary Code 
 the RI president also:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. Shall be a positive and motivational leader for Rotarians worldwide
 2. Is the principal person to speak on behalf of RI
 3. Presides at all conventions, meetings of the Board, and other international RI meetings
@@ -6517,7 +6475,7 @@ meetings in advance of serving as president-elect and president.
 President Terms/participation
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The Rotary International president serves a one-year term. In the year before taking office,
 the president serves as president-elect. Both the president and president-elect are members
 of the RI Board. As such, the president and president-elect are expected to attend and
@@ -6556,7 +6514,7 @@ Source: April 2016 Mtg., Bd. Dec. 164;
 Amended by June 2017 Mtg., Bd. Dec. 149; June 2017 Mtg., Bd. Dec. 161; May 2024 Mtg., Bd. Dec. 171
 
 Rotary International Code of Policies
-October 2026
+January 2027
 27.030. Official Activities
 As the highest officer of the organization, the RI president shall perform the following
 activities
@@ -6587,7 +6545,7 @@ secretary upon such terms as the president may determine. (June 1998 Mtg., Bd. D
 Source: October 1993 Mtg., Bd. Dec. 48; June 1998 Mtg., Bd. Dec. 348
 
 Rotary International Code of Policies
-October 2026
+January 2027
 27.030.7. President to Act as Principal Spokesperson
 The president is the principal person to speak on behalf of RI, and shall be a positive and
 motivational leader for Rotarians worldwide. (September 2016 Mtg., Bd. Dec. 28)
@@ -6622,7 +6580,7 @@ Amended by November 2005 Mtg., Bd. Dec. 38; November 2007 Mtg., Bd. Dec. 106; Ap
 157
 
 Rotary International Code of Policies
-October 2026
+January 2027
 27.040.4. Ballot by Mail to Elect Governor Nominee in New District
 The board, the president acting on its behalf, shall authorize a ballot-by-mail, and shall
 designate a district governor to conduct the ballot-by-mail, to select the governor-nominee
@@ -6649,8 +6607,8 @@ The president is authorized, on behalf of the Board, to alter the dates for sele
 nominee. (June 2007 Mtg., Bd. Dec. 226)
 Source: June 2007 Mtg., Bd. Dec. 226
 27.040.8. Appointment of Members of Joint Audit Committee
-The president is authorized to act on behalf of the Board to appoint members of the RI Audit
-Committee, in accordance with RI Bylaws section 17.020. and Rotary Code of Policies
+The president is authorized to act on behalf of the Board to appoint members of the Joint
+Audit Committee, in accordance with RI Bylaws section 17.020. and Rotary Code of Policies
 section 31.089. (September 2011 Mtg., Bd. Dec. 140)
 Source: July 2009 Mtg., Bd. Dec. 14;
 Amended by September 2011 Mtg., Bd. Dec. 140;
@@ -6660,7 +6618,7 @@ to the RI Finance Committee, in accordance with RI Bylaws section 17.010. (July 
 Bd. Dec. 14)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: July 2009 Mtg., Bd. Dec. 14
 27.040.10 Appointment of Members of Executive Committee
 The Board has authorized the president to appoint the members of the Executive Committee
@@ -6698,7 +6656,7 @@ hold higher office in RI under the provisions of the RI Bylaws and in accordance
 Source: June 2021 Mtg., Bd. Dec. 194
 
 Rotary International Code of Policies
-October 2026
+January 2027
 27.050. Additional Activities
 27.050.1. Committee Chairs
 It is recommended that the president appoint as chair of a RI committee a Rotarian who has
@@ -6720,23 +6678,8 @@ Source: November 2005 Mtg., Bd. Dec. 100;
 Amended by February 2006 Mtg., Bd. Dec. 137; June 2010 Mtg., Bd. Dec. 182; April 2016 Mtg., Bd. Dec. 157
 Cross-References
 31.040. Committee Appointments
-27.060. Annual Goals
-It is the prerogative of the president-elect to announce annual goals for the upcoming year.
-Continuity is encouraged. The president’s annual goals must be in alignment with the RI
-Strategic Plan.
-RI and TRF goals for each Rotary year will be developed by the RI president-elect in
-collaboration with the Trustee chair-elect. Continuity with prior year goals is desirable.
-The president-elect will announce joint RI/TRF annual goals for the upcoming year, which
-shall be reviewed and approved at the first Board meeting in the year preceding his or her
-year as president. (May 2024 Mtg., Bd. Dec. 171)
-Source: January 1961 Mtg., Bd. Dec. 76;
-Amended by September 2011 Mtg., Bd. Dec. 37; July 2016 Mtg., Bd. Dec. 13; April 2019 Mtg., Bd. Dec. 140;
-October 2019 Mtg., Bd. Dec. 29; May 2024 Mtg., Bd. Dec. 171
-
-Rotary International Code of Policies
-October 2026
-27.070. Staff Support
-27.070.1. President’s Support from General Secretary and Senior Managers
+27.060. Staff Support
+27.060.1. President’s Support from General Secretary and Senior Managers
 1. be informed by the general secretary as to the respective roles, functions and
 responsibilities of senior staff, present or proposed plans for the management of their
 departments, and of any changes in the status of their employment;
@@ -6747,8 +6690,11 @@ changes in the revenues and expenses as set forth in the budget
 (April 2016 Mtg., Bd. Dec. 157)
 Source: May-June 1976 Mtg., Bd. Dec. 234;
 Amended by April 2016 Mtg., Bd. Dec. 157
-27.080. Finances
-27.080.1. Review of Payments to President and President-Elect
+
+Rotary International Code of Policies
+January 2027
+27.070. Finances
+27.070.1. Review of Payments to President and President-Elect
 In order to assure compliance with United States' income tax statutes, the Board shall, in a
 manner consistent with United States Treasury Regulation Section 53.4958-6, or any
 successor regulations that may be in effect from time to time, review any amounts paid to
@@ -6763,20 +6709,17 @@ Committee's report by the Board as it pertains to each of them respectively. (No
 Mtg., Bd. Dec. 58)
 Source: June 2001 Mtg., Bd. Dec. 450;
 Amended by November 2004 Mtg., Bd. Dec. 58
-27.080.2. Travel for Club Visits
+27.070.2. Travel for Club Visits
 Districts and clubs which extend invitations to the RI president shall be informed that the
 financial obligations covered by expense allocations in the annual RI budget are: travel
 expense to and from the district for the president and partner; travel expenses within the
 district for an aide if specifically requested by the president; and personal expenses.
-
-Rotary International Code of Policies
-October 2026
 The financial obligations of the clubs and/or districts issuing invitations for visits by the
 president and president-elect are hotel accommodations, surface transportation and meal
 expenses. (June 1998 Mtg., Bd. Dec. 348)
 Source: May 1981 Mtg., Bd. Dec. 452.; June 1998 Mtg., Bd. Dec. 348
 Amended by July 1991 Mtg., Bd. Dec. 2
-27.080.3. Partners of President, President-Elect, President-Nominee, and General Secretary to
+27.070.3. Partners of President, President-Elect, President-Nominee, and General Secretary to
 Accompany on Travel
 The partner of the president, the partner of the president-elect, the partner of the president-
 nominee and the partner of the general secretary are requested to accompany their respective
@@ -6786,36 +6729,36 @@ partners, assisting in fund development efforts on behalf of The Rotary Foundati
 additional publicity for Rotary and its programs in local media, conveying Rotary’s
 commitment to family, encouraging involvement of partners in Rotary and appealing to
 Rotarians of both genders. Such partner travel shall be funded if it has a bona fide business
+
+Rotary International Code of Policies
+January 2027
 purpose for Rotary International and when accompanied by proper business documentation.
 The General Secretary shall develop a procedure to ensure compliance with this policy.
 (September 2020 Mtg., Bd. Dec. 25)
 Source: January 2010 Mtg., Bd. Dec. 167;
 Amended by January 2012 Mtg., Bd. Dec. 160; September 2020 Mtg., Bd. Dec. 25
-27.080.4. Compensation to Family Members of “Disqualified Persons”
+27.070.4. Compensation to Family Members of “Disqualified Persons”
 The general secretary shall review annually the compensation of any family members related
 to individuals identified as “disqualified persons,” defined as president, president-elect,
 general secretary, deputy general secretary, all general managers, and chief investment
 officer, as required by law. (January 2018 Mtg., Bd. Dec. 73)
 Source: September 2017 Mtg., Bd. Dec. 31
 Amended by January 2018 Mtg., Bd. Dec. 73
-27.080.5. Expenditures Exceeding Operating Budgets
+27.070.5. Expenditures Exceeding Operating Budgets
 Any proposed expenditure exceeding the president’s, president-elect’s, and president-
 nominee’s operating budgets must be approved in advance by the Board’s Executive
 Committee and subsequently reported to the Board. (October 2019 Mtg., Bd. Dec. 29)
 Source: April 2019 Mtg., Bd. Dec. 140
 Amended by October 2019 Mtg., Bd. Dec. 29
-27.090. President’s Advisory Committee
+27.080. President’s Advisory Committee
 The president may select a small advisory committee of independent highly experienced
 Rotarians, which may consist of or include past presidents, to provide counsel to the
 president. (May 2003 Mtg., Bd. Dec. 325)
-
-Rotary International Code of Policies
-October 2026
 Source: June 2001 Mtg., Bd. Dec. 317;
 Amended by May 2003 Mtg., Bd. Dec. 325
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 28. RI BOARD OF DIRECTORS
 28.005. Policies Relating to the Board
 28.010. Selection Methods for Directors
@@ -6842,8 +6785,8 @@ necessary for:
 • the furtherance of the purposes of Rotary International
 • the attainment of the Object of Rotary
 • the study and teaching of its fundamentals
-• the preservation of its ideals, its ethics, and its unique features of
-organization and its extension throughout the world
+• the preservation of its ideals, its ethics, and its unique features of organization
+and its extension throughout the world
 Article 2 of the RI Constitution provides that RI’s purpose is to:
 • Support clubs, Rotaract clubs, and districts in their pursuit of programs and
 activities that promote the Object of Rotary and
@@ -6853,15 +6796,15 @@ each zone, and report on the plan’s progress at each Council on Legislation. (
 5.010.3.) The Board shall review the strategic plan regularly.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The Board is responsible for:
 • establishing policy for the organization;
 • evaluating implementation of policy by the general secretary;
-• exercising general control and supervision over all officers, officers-elect,
-and officers-nominee, and committees of Rotary International. (RI Bylaws
-section 5.010.2.)
-• exercising other powers conferred by the constitution, by the bylaws, and
-the Illinois General Not-for-Profit Corporation Act of 1986, and their
+• exercising general control and supervision over all officers, officers-elect, and
+officers-nominee, and committees of Rotary International. (RI Bylaws section
+5.010.2.)
+• exercising other powers conferred by the constitution, by the bylaws, and the
+Illinois General Not-for-Profit Corporation Act of 1986, and their
 amendments. (RI Bylaws section 5.010.2.)
 The Board elects the general secretary. (RI Bylaws section 6.040.)
 Clubs are administered under the general supervision of the board. (RI Constitution, Article
@@ -6893,7 +6836,7 @@ Amended by April 2016 Mtg., Bd. Dec. 157; September 2016 Mtg., Bd. Dec. 28; Octo
 30
 
 Rotary International Code of Policies
-October 2026
+January 2027
 III. The Board of Directors and the Legislative Process of RI
 As provided in the RI Bylaws, the RI President, President-elect, and one other RI Director
 are non-voting members of the Councils. A director cannot serve at a Council as the
@@ -6931,7 +6874,7 @@ and program matters for the association, not on administrative matters or matter
 authority has been delegated to the general secretary.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. Items for consideration by the Board may come from the following sources:
 • Individual Rotary clubs (by petition)
 • Rotary District Conferences
@@ -6968,7 +6911,7 @@ j. considering matters brought to the Board’s attention by the general secreta
 attention and, as needed, for decision.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 6. Program proposals from clubs or individuals requiring Board approval should be referred
 to appropriate advisory committees for the Board’s consideration.
 (October 2019 Mtg., Bd. Dec. 30)
@@ -7007,7 +6950,7 @@ The Board may also consider a second list of consent items from recommended draf
 decisions from the Board’s Committees. Any director may ask to have one or more of the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 recommended decisions removed from the list for full discussion and decision by the Board.
 (October 2019 Mtg., Bd. Dec. 30)
 Source: July 1999 Mtg., Bd. Dec. 9;
@@ -7048,7 +6991,7 @@ particular subject would assist the committee in its deliberations.
 (October 2019 Mtg., Bd. Dec. 30)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: July 1999 Mtg., Bd. Dec. 9;
 Amended by August 1999 Mtg., Bd. Dec. 37; February 2000 Mtg., Bd. Dec. 275; June 2002 Mtg., Bd. Dec. 247;
 November 2002 Mtg., Bd. Dec. 61; November 2004 Mtg., Bd. Dec. 37; November 2005 Mtg., Bd. Dec. 41; July
@@ -7087,7 +7030,7 @@ The general secretary shall budget US$1,500 for each convener of a director nomi
 committee, which may be used to offset costs of meeting room rental, coffee breaks, and one
 
 Rotary International Code of Policies
-October 2026
+January 2027
 meal for the committee during its meeting, as well as for out-of-pocket postage, copying,
 telephone and miscellaneous expenses incurred in making arrangements for the committee
 meeting, and which may be reimbursed upon submission of an expense report form.
@@ -7129,7 +7072,7 @@ II. The Meeting
 committee and the work at hand, the first order of business should be the selection of a
 
 Rotary International Code of Policies
-October 2026
+January 2027
 chair from among the members of the committee. The election of the chair shall be
 conducted by secret ballot. Each member of the committee shall cast one vote for the
 chair. The convener and an assistant appointed by the convener shall count the votes and
@@ -7173,7 +7116,7 @@ Committee for RI President in selecting its candidate
 c. The candidate’s vision and goals for Rotary
 
 Rotary International Code of Policies
-October 2026
+January 2027
 d. How the candidate’s skills, competencies, and experience could bring specific or
 unique talents to the RI Board
 14. Following the discussion of all of the candidates, the chair shall distribute ballots
@@ -7220,7 +7163,7 @@ person's willingness and ability to serve as director of RI if nominated and ele
 III. Subsequent to the Meeting
 
 Rotary International Code of Policies
-October 2026
+January 2027
 18. Immediately following the meeting of the committee, the chair shall notify all the
 candidates of its selection of the candidate for nomination as director of RI.
 19. As soon as possible following the adjournment of the meeting of the committee, the chair
@@ -7259,7 +7202,7 @@ Each orientation program shall have a session on staff/volunteer roles and expec
 a director’s ethical responsibilities. This session shall be presented by the chair of the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Operations Review Committee, or his/her designee, in conjunction with the general secretary
 or a staff member designated by the general secretary. (June 2017 Mtg., Bd. Dec. 159)
 Source: June 1987 Mtg., Bd. Dec. 334; November 1995 Mtg., Bd. Dec. 63; June 2001 Mtg., Bd. Dec. 318;
@@ -7296,7 +7239,7 @@ The Board shall meet as follows:
 • One day immediately before the International Convention
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The Board shall review and determine the specific dates and places of meetings of the Board
 annually at its first meeting preceding the Rotary year in which the meetings will be held.
 (April 2019 Mtg., Bd. Dec. 140)
@@ -7334,7 +7277,7 @@ some information which such director is reasonably certain was not available to 
 committee during its consideration of the matter, Directors should normally be content with
 
 Rotary International Code of Policies
-October 2026
+January 2027
 a brief discussion of items that have already been fully considered by a committee of their
 peers. (January 2012 Mtg., Bd. Dec. 158)
 Source: January-February 1989 Mtg., Bd. Dec. 168;
@@ -7375,7 +7318,7 @@ can demand an electronic vote on any item without requiring a second or debate. 
 2017 Mtg., Bd. Dec. 24)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 2017 Mtg., Bd. Dec. 159
 Amended by September 2017 Mtg., Bd. Dec. 24
 28.030.8. Board Interactions with Staff
@@ -7415,7 +7358,7 @@ those appendices that are designated “to be filed only with the official copy 
 which shall be made available to Rotarians upon request, in accordance with RI Bylaws
 
 Rotary International Code of Policies
-October 2026
+January 2027
 section 5.020. Minutes posted prior to their approval by the Board shall contain notice that
 the minutes are in draft form only, subject to approval by the Board. (June 2007 Mtg., Bd.
 Dec. 226)
@@ -7451,7 +7394,7 @@ president, and oversee all preparations for such meetings
 prepare for and attend meetings
 
 Rotary International Code of Policies
-October 2026
+January 2027
 13. Collaborate with other Board members to set policy, strategic direction and vision for
 Rotary
 14. Follow RI’s “Conflict of Interest Policy,” “Code of Ethics,” “Harassment-free
@@ -7492,7 +7435,7 @@ nonprofit sector. His/her accomplishments will allow him/her to work collaborati
 other well-qualified, high-performing board members.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. Ideal candidates should have the following qualifications:
 2. Professional experience with significant executive leadership accomplishments in
 business, government, philanthropy, or the nonprofit sector
@@ -7527,7 +7470,7 @@ appeals received shall be regarded as concurrences. (June 2008 Mtg., Bd. Dec. 23
 Source: June 2008 Mtg., Bd. Dec. 239
 
 Rotary International Code of Policies
-October 2026
+January 2027
 28.050.2. Withdrawal of Appeal or Concurrence
 An appeal that is later withdrawn will be considered invalid. A concurrence that is later
 withdrawn by a club will not count toward the number of concurrences required. If the
@@ -7566,7 +7509,7 @@ Source: June 2008 Mtg., Bd. Dec. 239;
 Amended by January 2023 Mtg., Bd. Dec. 83
 
 Rotary International Code of Policies
-October 2026
+January 2027
 28.050.7. Translation of Documents and Ballot
 The general secretary shall provide translated versions of all position statements and ballots
 in all the languages used by RI for essential club and district information. (June 2008 Mtg.,
@@ -7604,7 +7547,7 @@ of the Council on Legislation shall be adopted by the Council for such purposes.
 Mtg., Bd. Dec. 239)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 2008 Mtg., Bd. Dec. 239
 28.050.13. Other Issues
 Any issues not covered by the appeals process outlined above shall be decided by the
@@ -7638,7 +7581,7 @@ Amended by April 2020 Mtg., Bd. Dec. 129
 Directors’ responsibilities to their regional leader team include but are not limited to:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Identify and recommend eligible and effective candidates to serve in these
 roles (including any necessary replacements), monitor individual regional
 leader performance towards goals and mentor as appropriate
@@ -7679,7 +7622,7 @@ of interest in a proposed transaction with Rotary International, he or she must 
 President as soon as possible.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 6. Any member of the Board or of a committee who is aware that he or she has a potential
 conflict of interest with respect to any matter coming before the Board or a committee
 shall not be present for any discussion of or vote in connection with the matter. The
@@ -7720,7 +7663,7 @@ said General Not for Profit Corporation Act. Rotary International shall also cau
 purchased insurance for such indemnification of its officers and directors to the full extent
 
 Rotary International Code of Policies
-October 2026
+January 2027
 determined from time to time by the directors of Rotary International. (March 2005 Mtg.,
 Bd. Dec. 178)
 Source: March 1997 Mtg., Bd. Dec. 206
@@ -7729,7 +7672,7 @@ Cross-References
 72.020. Liability Coverage for RI Directors and Officers
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 29. REGIONAL LEADERS
 29.010. Regional Leaders
 29.020. Rotary Membership Coordinators (RMCs)
@@ -7738,10 +7681,12 @@ ARTICLE 29. REGIONAL LEADERS
 Regional leaders is the term used for the team of Regional Rotary Foundation Coordinator
 (RRFC), Rotary Membership Coordinator (RMC), Rotary Public Image Coordinator (RPIC),
 the Endowment/Major Gifts Adviser (E/MGA), and the End Polio Now Coordinator (EPNC)
-that works together in the districts they serve to improve membership, giving, program
-participation, and public image. (June 2025 Mtg., Bd. Dec. 155)
+that works together in the districts they serve to improve membership, fund development and
+major gifts, program/project participation, and public image. (October 2026 Mtg., Bd. Dec.
+24)
 Source: June 2018 Mtg., Bd. Dec. 172;
-Amended by September 2020 Mtg., Bd. Dec. 22; June 2025 Mtg., Bd. Dec. 155
+Amended by September 2020 Mtg., Bd. Dec. 22; June 2025 Mtg., Bd. Dec. 155; October 2026 Mtg., Bd. Dec.
+24
 29.010.1. Teamwork
 The regional leader team supports the interrelated priorities of Rotary’s strategic plan and
 goals working under the direction of the RI Director with support from either a Trustee that
@@ -7759,15 +7704,15 @@ The regional team is strongly encouraged to jointly:
 • develop shared goals and visions for their districts and zones
 • hold learning events whenever possible in their geographic area of
 responsibility
-• send communications to district leadership to facilitate better
-communication within the districts and zone
+• send communications to district leadership to facilitate better communication
+within the districts and zone
 • encourage positive change in the districts they serve.
 (April 2024 Mtg., Bd. Dec. 119)
 Source: June 2018 Mtg., Bd. Dec. 172
-Amended by April 2024 Mtg., Bd. Dec. 119
 
 Rotary International Code of Policies
-October 2026
+January 2027
+Amended by April 2024 Mtg., Bd. Dec. 119
 29.010.2. Regional Leader Learning Event
 Incoming regional leaders attend one of two in-person learning events to orient them to their
 role and build capacity based on the skills their role requires. This event is planned by a
@@ -7786,31 +7731,30 @@ Amended by June 2018 Mtg., Bd. Dec. 172; January 2023 Mtg., Bd. Dec. 86
 Regional leaders organize, lead, and/or participate in learning events year-round. Events
 should be relevant to the audience. Learning events include:
 • Regional Team Learning Seminar – Assistants and others attend a learning
-event before 1 July in this meeting convened by the Director that will
-oversee the regional team in the coming Rotary year. Incoming regional
-leaders work in close collaboration with both the current Director and the
-current regional leaders for all regional team learning seminar. E/MGAs are
-encouraged to provide a learning event for District Endowment/Major Gifts
-Subcommittee Chairs. End Polio Now Coordinators are to provide learning
-events for District PolioPlus Subcommittee Chairs.
+event before 1 July in this meeting convened by the Director that will oversee
+the regional team in the coming Rotary year. Incoming regional leaders work
+in close collaboration with both the current Director and the current regional
+leaders for all regional team learning seminar. E/MGAs are encouraged to
+provide a learning event for District Endowment/Major Gifts Subcommittee
+Chairs. End Polio Now Coordinators are to provide learning events for
+District PolioPlus Subcommittee Chairs.
 • Governors-elect learning seminars (GELS) and Rotary Institutes – Serve as
 an introduction of regional leaders as resources to district leaders and their
 district chairs. While not all regional leaders may be invited to be on the
 official GELS team, all regional leaders are encouraged to attend GELS and
-Rotary Institutes to establish and strengthen relationships with district
-leaders.
+Rotary Institutes to establish and strengthen relationships with district leaders.
 • Regional Seminars – Held in collaboration with other regional leaders to
-inspire Rotarians, especially district leaders, with new information,
-resources, tools, and an opportunity to share best practices.
+inspire Rotarians, especially district leaders, with new information, resources,
+tools, and an opportunity to share best practices.
 • President-elect Learning Seminar and other District Seminars –Regional
 leaders and their teams should work with the governor and governor-elect to
 support preparing club presidents-elect and other district leaders for their
 roles, including providing assistance to the learning event and curriculum
-development, and, if invited, facilitating or participating in district learning
-events.
 
 Rotary International Code of Policies
-October 2026
+January 2027
+development, and, if invited, facilitating or participating in district learning
+events.
 • Online – Use of webinars, on-line meetings, teleconferences, and
 videoconferences is strongly encouraged for the broadest reach and impact
 within clubs and districts. E-learning resources on Rotary’s website are also
@@ -7845,10 +7789,10 @@ The purpose of RMCs is to proactively promote Rotary’s strategic plan by facil
 support and strengthening of existing clubs and the establishment of new clubs and satellite
 clubs. RMCs work in collaboration with the district structure to support and encourage
 Rotarians and clubs to increase member attraction and engagement, develop new clubs and
-satellite clubs, and promote participation in Rotary programs. RMCs also inspire, motivate,
 
 Rotary International Code of Policies
-October 2026
+January 2027
+satellite clubs, and promote participation in Rotary programs. RMCs also inspire, motivate,
 train, advise, strategize, communicate, and promote Rotary in the districts they serve. (June
 2018 Mtg., Bd. Dec. 172)
 Source: November 2009 Mtg., Bd. Dec. 79;
@@ -7880,14 +7824,13 @@ announced. (June 2018 Mtg., Bd. Dec. 172)
 Source: June 2018 Mtg., Bd. Dec. 172
 29.020.4. Role Responsibilities
 RMCs understand and effectively communicate Rotary’s:
-• Strategic plan
-• Annual goals and priorities
+• Strategic plan and priorities
 • Regionally appropriate membership attraction and engagement strategies
 • New club and satellite club creation strategies
 • Programs
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Focus on alumni importance
 RMCs lead by example locally and regionally by:
 • Inviting at least one candidate to join their Rotary club each year
@@ -7915,18 +7858,19 @@ team, are strongly encouraged to attend GELS to further deepen
 communication and collaboration with governors-elect and district
 leadership.
 • Regional and other district seminars as needed
-(April 2024 Mtg., Bd. Dec. 119)
+(October 2026 Mtg., Bd. Dec. 24)
 Source: June 2018 Mtg., Bd. Dec. 172;
-Amended by October 2019 Mtg., Bd. Dec. 29; January 2024 Mtg. Bd. Dec. 76; April 2024 Mtg., Bd. Dec. 119
+Amended by October 2019 Mtg., Bd. Dec. 29; January 2024 Mtg. Bd. Dec. 76; April 2024 Mtg., Bd. Dec. 119;
+October 2026 Mtg., Bd. Dec. 24
 29.020.5. Primary Audience
 RMCs work in collaboration with district governors and the district structure to connect
 Rotarians with resources that support Rotary’s goals, priorities, and strategic plan to help
 strengthen and support clubs.
-RMCs work most closely with District Membership Committee Chairs to support
-membership attraction and engagement strategies, new club and satellite club development,
 
 Rotary International Code of Policies
-October 2026
+January 2027
+RMCs work most closely with District Membership Committee Chairs to support
+membership attraction and engagement strategies, new club and satellite club development,
 strategic planning, and promotion of Rotary programs in the districts they serve. (June 2018
 Mtg., Bd. Dec. 172)
 Source: June 2018 Mtg., Bd. Dec. 172
@@ -7964,7 +7908,7 @@ Source: June 2018 Mtg., Bd. Dec. 172
 Amended by April 2024 Mtg., Bd. Dec. 119; June 2025 Mtg., Bd. Dec. 155
 
 Rotary International Code of Policies
-October 2026
+January 2027
 29.030. Rotary Public Image Coordinators (RIPCs)
 RPICs serve as a resource to districts to ensure that clubs have a positive public image at the
 local level. They champion a consistent Rotary brand and visual identity and help identify
@@ -8004,7 +7948,7 @@ as a District Public Image Chair or the District Rotary Foundation Committee Cha
 Source: June 2018 Mtg., Bd. Dec. 172;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by November 2020 Mtg., Bd. Dec. 68; June 2021 Mtg., Bd. Dec. 177; November 2021 Mtg., Bd. Dec.
 51; April 2024 Mtg., Bd. Dec. 119; April 2025 Mtg., Bd. Dec. 117
 29.030.3. Selection Process
@@ -8017,8 +7961,7 @@ announced. (June 2018 Mtg., Bd. Dec. 172)
 Source: June 2018 Mtg., Bd. Dec. 172
 29.030.4. Role Responsibilities
 RPICs understand and effectively communicate Rotary’s:
-• Strategic plan
-• Annual goals and priorities
+• Strategic plan and priorities
 • Coordinated public image building activities in a regionally-appropriate
 manner
 • Need for a consistent and unified Rotary brand and message
@@ -8026,8 +7969,7 @@ manner
 • Value of Rotarians and alumni in telling Rotary’s story
 RPICs lead by example, locally and regionally by:
 • Championing Rotary’s public image campaigns in their own club
-• Using Rotary’s online tools, including the Brand Center, to tell Rotary’s
-story
+• Using Rotary’s online tools, including the Brand Center, to tell Rotary’s story
 • Sharing examples of club and district successes and challenges in public
 image building to help facilitate improvement
 • Having a visible and vibrant traditional media and/or social media presence
@@ -8040,13 +7982,13 @@ Rotary’s story
 • Use of a consistent and unified Rotary message
 • Clubs and districts telling stories about their community impact, by
 leveraging various communication channels, including media relations, on-
-line, social and digital media, local advocacy, community engagement
+line, social and digital media, local advocacy, community engagement events,
+thought leadership, speaking engagements, marketing and advertising
+channels, etc.
+• Well-maintained club and district websites
 
 Rotary International Code of Policies
-October 2026
-events, thought leadership, speaking engagements, marketing and
-advertising channels, etc.
-• Well-maintained club and district websites
+January 2027
 • The need for clubs and districts to have a robust social media presence
 • Ways to highlight Rotarian and Rotary alumni stories
 • Best practices for marketing Rotary special events and activities in local
@@ -8057,13 +7999,14 @@ RPICs, working with their assistants and in collaboration with their regional le
 plan and conduct the following learning events:
 • Regional team learning seminar for their assistants
 • Governors-elect learning seminars. Those not invited to serve on the GELS
-training team are strongly encouraged to attend GELS to further deepen
-their communication and collaboration with governors-elect and district
+training team are strongly encouraged to attend GELS to further deepen their
+communication and collaboration with governors-elect and district
 leadership.
 • Regional and other district seminars as needed
-(April 2024 Mtg., Bd. Dec. 119)
+(October 2026 Mtg., Bd. Dec. 24)
 Source: June 2018 Mtg., Bd. Dec. 172;
-Amended by October 2019 Mtg., Bd. Dec. 29; January 2024 Mtg., Bd. Dec. 76; April 2024 Mtg., Bd. Dec. 119
+Amended by October 2019 Mtg., Bd. Dec. 29; January 2024 Mtg., Bd. Dec. 76; April 2024 Mtg., Bd. Dec. 119;
+October 2026 Mtg., Bd. Dec. 24
 29.030.5. Primary Audience
 RPICs work in collaboration with district governors and the district structure to connect
 Rotarians with resources that support Rotary’s goals, priorities, and strategic plan, with the
@@ -8081,10 +8024,10 @@ RI Directors lead regional leader teams in reaching their goals within the distr
 RPICs are expected to regularly communicate, plan, collaborate, and cooperate with their RI
 Director and either a Trustee that resides in the zones of that Director or within the greater
 geographical region as appropriate, as well as with their fellow regional leaders.
+Regional Leaders
 
 Rotary International Code of Policies
-October 2026
-Regional Leaders
+January 2027
 RPICs lead their assistants in collaboration and communication with their predecessor and
 successor to promote Rotary’s brand and ensure continuity, consistency, and successful
 knowledge management. Additionally, RPICs plan, communicate and collaborate with their
@@ -8108,7 +8051,7 @@ Source: June 2018 Mtg., Bd. Dec. 172
 Amended by April 2024 Mtg., Bd. Dec. 119
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 30. OTHER CURRENT AND PAST OFFICERS OF RI
 30.010. President-Elect
 30.020. President-Nominee
@@ -8144,7 +8087,7 @@ c. may include in the International Assembly program specific directives for the
 governors-elect to promote the convention in their year as governors
 
 Rotary International Code of Policies
-October 2026
+January 2027
 13. By careful appointment of a moderator, ensures that incoming district governors are
 properly instructed at the International Assembly
 14. excuses governor-elect attendance at the International Assembly
@@ -8182,7 +8125,7 @@ Source: April 1991 Mtg., Bd. Dec. 10
 Amended by May 2003 Mtg., Bd. Dec. 325
 
 Rotary International Code of Policies
-October 2026
+January 2027
 30.010.5. Appointment of Vice-President and Treasurer
 Prior to appointing the vice-president and treasurer for the ensuing year, the president-elect
 shall consult privately with individual directors regarding the selection. The vice-president
@@ -8217,7 +8160,7 @@ event the president is unable for any reason to serve
 5. assist the president in Board meetings as directed by the president
 
 Rotary International Code of Policies
-October 2026
+January 2027
 6. inform the president about the vice-president’s whereabouts at all times including how
 the vice-president can be reached
 7. serve at the International Convention in such roles as may be determined by the president.
@@ -8251,7 +8194,7 @@ or activity that the Board considers to be inconsistent with the standard of con
 considers to be appropriate for a past officer.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Prior to submission for consideration, the matter must have been reviewed at the appropriate
 Rotary club, district or zone level, consistent with Rotary policies, with the findings
 presented to the Board.
@@ -8290,7 +8233,7 @@ e. Inquire about any special accommodation needs or preferences the officer may 
 f. Check hotel arrangements
 
 Rotary International Code of Policies
-October 2026
+January 2027
 i. Pre-register officer (and partner, if appropriate)
 ii. Have key to deliver to the officer personally
 iii. Check room to make sure that it is ready for occupancy
@@ -8330,7 +8273,7 @@ the officer.
 3. Following the event, the aide’s responsibilities are to:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 a. Provide (or arrange) transportation back to the airport (or other point of departure)
 for the officer and partner, including assistance with baggage
 b. If needed, ship large gifts or mementos to the officer.
@@ -8364,7 +8307,7 @@ Source: October 2003 Mtg., Bd. Dec. 60;
 Amended by April 2016 Mtg., Bd. Dec. 157
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 31. RI COMMITTEES
 31.010. Purpose of Committees
 31.020. Types of Committees
@@ -8380,10 +8323,10 @@ ARTICLE 31. RI COMMITTEES
 31.084. Finance Committee
 31.085. Membership Growth Committee
 31.086. RI Programs Committee
-31.087. Joint Operations Review Committee
-31.088. Joint Strategic Planning Committee
-31.089. Joint Audit Committee
-31.090. Joint Committees
+31.087. Youth Advisory Committee
+31.088. Joint Operations Review Committee
+31.089. Joint Strategic Planning Committee
+31.090. Joint Audit Committee
 31.091. Joint Enhance Participant Engagement
 31.092. Joint Learning Committee
 31.093. Joint Technology Committee
@@ -8407,7 +8350,7 @@ Committees are, by their nature, solely advisory to the RI Board with no adminis
 function, except as their prescribed terms of reference may otherwise provide. Each
 
 Rotary International Code of Policies
-October 2026
+January 2027
 committee within the scope of the responsibilities assigned to it, should actively advise the
 RI Board and, if appropriate, bring forward proposed decisions for the RI Board to consider.
 RI committee chairs and members shall not approach other organizations on behalf of Rotary
@@ -8444,7 +8387,7 @@ A “Standing Committee” is a committee mandated in Article 17 of the RI Bylaw
 directors.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 31.020.3. Joint Committees
 “Joint Committees” are established by the Board and Trustees together with reporting
 obligations to each.
@@ -8481,7 +8424,7 @@ statement detailing the total costs and other financial implications of their re
 Source: January-February 1989 Mtg., Bd. Dec. 171
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by October 2022 Mtg., Bd. Dec. 39
 31.030.2. Committee Minutes and Reports
 Minutes or other reports from a committee shall be distributed to all members and liaisons
@@ -8521,7 +8464,7 @@ the year
 • Format of committee meetings
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Brief biographies of all committee members and key staff
 • Standard of Conduct for Interactions with Secretariat Staff
 In addition to the above orientation, each committee member shall be required to take Rotary
@@ -8558,7 +8501,7 @@ president-elect’s presidency. (June 1998 Mtg., Bd. Dec. 348)
 Source: June 1995 Mtg., Bd. Dec. 220; June 1998 Mtg., Bd. Dec. 348
 
 Rotary International Code of Policies
-October 2026
+January 2027
 31.040.3. Multi-year Appointments
 For appointments, including appointments to fill vacancies, which become effective in one
 Rotary year and continue into one or more subsequent years, the president or president-elect
@@ -8600,7 +8543,7 @@ application are encouraged to participate in the evaluation of candidates for pr
 the task force.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 In order to comply with RI Bylaws section 17.040., at the board’s third meeting, the
 president-elect shall submit to the board for approval the names of those proposed for
 appointment to committees for the following year. (October 2022 Mtg., Bd. Dec. 39)
@@ -8612,8 +8555,8 @@ Any member (Rotarian or Rotaractor) who has been notified by the general secreta
 they have a financial obligation to RI or TRF more than US$100 that has been outstanding
 for more than 90 days
 • shall be ineligible for any Rotary and Rotary Foundation appointments or
-assignments that require the approval of the Board until these obligations
-have been met to the satisfaction of the general secretary.
+assignments that require the approval of the Board until these obligations have
+been met to the satisfaction of the general secretary.
 • shall be ineligible to have any payments made on their behalf by RI or TRF
 or to receive reimbursement for expenses incurred on RI or TRF business
 until such financial obligation has been repaid.
@@ -8641,7 +8584,7 @@ A two-thirds vote of the Board is required to add an adviser to a committee. (Oc
 Mtg., Bd. Dec. 39)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: October 2019 Mtg., Bd. Dec. 37; October 2019 Mtg., Bd. Dec. 57;
 Amended by October 2022 Mtg., Bd. Dec. 39
 31.050. Liaison Directors to Committees
@@ -8678,7 +8621,7 @@ trustee to such joint committees and other committees as set forth in the terms 
 set forth in this Article. (October 2022 Mtg., Bd. Dec. 39)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: February 2003 Mtg., Bd. Dec. 201
 Amended by October 2022 Mtg., Bd. Dec. 39
 31.060. Executive Committee
@@ -8697,14 +8640,14 @@ Source: October 2022 Mtg., Bd. Dec. 39
 • Makes decisions on behalf of the Board where the policy of the Board or of
 RI has been established or where an emergency exists, or as otherwise may
 be determined by the Board
-• Reviews governance procedures used by the Board to ensure its
-effectiveness and strategic focus
+• Reviews governance procedures used by the Board to ensure its effectiveness
+and strategic focus
 • Explore matters requiring the attention of the Board and offer
 recommendations thereon to the Board and, when appropriate, refer a Board
 agenda item to the appropriate Board committee when the matter is outside
 the terms of reference of the Executive Committee
-• Review reports of committees and, when necessary, take action upon
-matters contained therein
+• Review reports of committees and, when necessary, take action upon matters
+contained therein
 • Consider and respond to petitions on behalf of the Board
 • Evaluate the performance of the general secretary (see 31.060.6)
 • Serve as the personnel committee of the Board (see 31.060.7)
@@ -8717,7 +8660,7 @@ additional amounts as may be recognizable as emergency requirements
 appropriate, recommends action by the Board
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The committee collaborates with the Executive Committee of the Trustees, the Joint
 Operations Review Committee, Joint Audit Committee, and the Joint Strategic Planning
 Committee. (October 2022 Mtg., Bd. Dec. 39)
@@ -8758,7 +8701,7 @@ attend this meeting as observers. As part of its annual review, the Executive Co
 will review and evaluate the compensation of the general secretary, and will approve any
 
 Rotary International Code of Policies
-October 2026
+January 2027
 adjustments that it is authorized to make under general secretary’s employment contract.
 Any adjustments or modifications to compensation or benefits for the general secretary
 outside of the employment contract must be approved by the Board.
@@ -8798,7 +8741,7 @@ of the organization. (May 2011 Mtg., Bd. Dec. 198)
 Source: May 2011 Mtg., Bd. Dec. 198
 
 Rotary International Code of Policies
-October 2026
+January 2027
 31.060.9. Executive Committee Chair Transition: Meeting with General Secretary
 To ensure that there is a transition of knowledge from year to year, the outgoing executive
 committee chair and incoming executive committee chair should meet toward the end of each
@@ -8837,7 +8780,7 @@ Responsibilities: The committee is responsible for reviewing and advising the Bo
 matters of an administrative, operational, or legal nature as are referred to the committee by
 
 Rotary International Code of Policies
-October 2026
+January 2027
 the president, the Board, or general secretary to permit the Board to conduct high-level work
 focused on strategic and transformational matters.
 The committee should consider issues that come to the Board of an administrative,
@@ -8874,7 +8817,7 @@ November 2004 Mtg., Bd. Dec. 45; June 2005 Mtg., Bd. Dec. 340; November 2005 Mtg
 See Also: April 2025 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 31.080. Standing Committees
 31.081. Constitution and Bylaws Committee
 Purpose: Advises the Board with respect to the constitutional documents and legislative
@@ -8909,7 +8852,7 @@ district boundaries for optimum effectiveness and monitor and communicate with d
 that fall below 1,200 members. The committee shall also evaluate districting proposals in
 
 Rotary International Code of Policies
-October 2026
+January 2027
 accordance with RI Board policy, carefully monitors and communicates with districts that
 fall below 1,200 members, considers need for additionally-supported districts, and sends its
 recommendation to the Board. (October 2022 Mtg., Bd. Dec. 39)
@@ -8943,7 +8886,7 @@ leaving the RI Board; other members may be reappointed only if they have served 
 a full term.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The committee shall not have a Board or Trustee liaison.
 Expertise: Members should have financial and/or accounting background including some
 members with experience in current US accounting principles.
@@ -8979,7 +8922,7 @@ penetrations, multi-channel marketing and growth, and innovation.
 Members shall be selected to allow for a balance in Rotary leadership experience
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Responsibilities: The committee shall
 • Make recommendations for Rotary and Rotaract clubs regarding new Rotary
 member development and attraction
@@ -8991,8 +8934,8 @@ connection in collaboration with the RI Programs Committee
 Rotary, including new product lines
 • Identify innovative new member and participant attraction methods and
 channels into the organization
-• Provide guidance and advice on matters related to measuring engagement
-and satisfaction.
+• Provide guidance and advice on matters related to measuring engagement and
+satisfaction.
 • Review levels of engagement of our Rotary members and participants and
 make recommendations to improve engagement across participant types
 through programs, initiatives, and events
@@ -9002,8 +8945,8 @@ sources of new membership and participation in Rotary and Rotaract
 Communications Committee and Joint Enhancing Participant Engagement
 Committee
 • Collaborate with the RI and TRF Programs Committees to identify
-opportunities to support, promote or enhance those programs that exhibit
-high levels of participant engagement
+opportunities to support, promote or enhance those programs that exhibit high
+levels of participant engagement
 • Collaborate with the Learning Committee to identify professional and
 leadership development opportunities for members and participants
 The Committee should collaborate with RI and TRF Programs Committees, Joint Learning
@@ -9020,7 +8963,7 @@ service, including the operations, effectiveness, and impact of those programs a
 offerings.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Composition: 6 members, including a chair and vice-chair, appointed by the president
 for three-year, staggered terms, with two members appointed each year. Members
 may be reappointed.
@@ -9046,11 +8989,11 @@ opportunities
 RI service-oriented program efforts
 • on new and existing multi-district organizations that focus on participant
 engagement and/or RI service-oriented program efforts.
-• Identify innovative ways to enhance engagement of participants and
-improve service impact
+• Identify innovative ways to enhance engagement of participants and improve
+service impact
 • Review nominations for key RI service awards
-• Report to the Board annually on alignment of RI Programs with the
-Strategic Action Plan and RI goals
+• Report to the Board annually on alignment of RI Programs with the Strategic
+Action Plan and RI goals
 The Committee should collaborate with the Membership Growth Committee, TRF
 Programs Committee, Joint Learning Committee and the Joint Enhancing Participant
 Engagement Committee. (April 2025 Mtg., Bd. Dec. 147)
@@ -9058,8 +9001,48 @@ Source: February 2025 Mtg., Bd. Dec. 75
 See Also: April 2025 Mtg., Bd Dec. 147
 
 Rotary International Code of Policies
-October 2026
-31.087. Joint Operations Review Committee
+January 2027
+31.087. Youth Advisory Committee
+Purpose: Advises the Board on matters related to equitable youth engagement, youth
+service, youth leadership, and elevating youth voice throughout all aspects of
+decision making in Rotary.
+Composition: 11 members, including two co-chairs, appointed annually by the
+president. Members may be reappointed for up to three years. All members should
+represent and have experience with youth leadership development through Rotary
+youth programs.
+At least three members should be current or recent interactors, recent RYLA
+participants, and current or recent Rotary Youth Exchange students. Two members
+should be adult mentors with experience in youth leadership development. One
+member shall be a Rotaractor.
+The Committee shall have one board and one Trustee liaison.
+Expertise: Youth members will have current or recent active involvement in Interact,
+RYLA, and Youth Exchange; adult mentors will have had youth program or youth
+leadership roles at the club or district levels.
+Responsibilities: The committee shall
+• advise the Board on matters related to equitable youth engagement, youth
+service, youth leadership development, and integrating youth voice in
+Rotary’s strategies, policies, and decisions
+• provide recommendations to the Board or other committees on existing and
+proposed strategies, policies, and initiatives that affect young people or where
+youth perspective would enhance decision making, effectiveness, and impact
+• review and provide insight on practices, structures, and approaches that
+promote meaningful youth participation and intergenerational collaboration
+across events, programs, service, and organizational frameworks
+• inform the board of emerging trends, opportunities, and challenges related to
+youth engagement and leadership that may influence Rotary’s relevance,
+effectiveness, and long-term sustainability
+• provide feedback on the extent to which Rotary’s governance, policies, and
+systems reflect its stated commitment to youth leadership, inclusion, and
+shared decision making.
+The committee should collaborate with the Joint Enhancing Participant Engagement
+Committee, RI Programs Committee, Joint Strategic Planning Committee, Joint
+Communications Committee, and Membership Growth Committee. (October 2026
+Mtg., Bd. Dec. 24)
+Source: October 2026 Mtg., Bd. Dec. 24
+
+Rotary International Code of Policies
+January 2027
+31.088. Joint Operations Review Committee
 Purpose: Advises the Board and the Trustees on effectiveness of operations, administrative
 procedures and standards of conduct. Serves as the advisory compensation committee to the
 Executive Committee of the RI Board
@@ -9080,8 +9063,7 @@ Expertise: Members shall be selected to balance experience in management, leader
 development, and financial management
 Responsibilities: The Committee shall:
 • Review operational matters, including, but not limited to, effectiveness and
-efficiency of operations, administrative procedures, and standards of
-conduct.
+efficiency of operations, administrative procedures, and standards of conduct.
 • Serve as the advisory compensation committee to the Executive Committee.
 • Monitor the effectiveness and efficiency of operations, including
 management structure, work practices and productivity measures
@@ -9098,13 +9080,10 @@ items identified above
 compensation matters and recommends action as needed (See 31.086.1.)
 
 Rotary International Code of Policies
-October 2026
-• Has primary responsibility for overseeing an evaluation framework to
-determine if programs are aligned with Rotary’s strategic plan. (See
-40.020.1.)
+January 2027
 The Committee should collaborate with the Executive Committees of the Board and
 Trustees, Joint Audit Committee, and Joint Strategic Planning Committee as appropriate.
-31.087.1. Compensation Advisory Committee to the Executive Committee of the Board
+31.088.1. Compensation Advisory Committee to the Executive Committee of the Board
 The timeline and process for the Operations Review Committee in its role as an advisory
 compensation committee to the Executive Committee of the Board is as follows:
 Meeting One (August/September):
@@ -9114,9 +9093,9 @@ for the disqualified persons analysis conducted at Meeting Two
 budget increase projections; the average percentage increase projection shall
 be the basis for the salary increase budget pool.
 • Every third year, conduct a thorough review of Rotary’s employee
-compensation strategy and comprehensive market survey data for
-employees. Compare the survey data with policy goals. Report findings to
-the Executive Committee for approval
+compensation strategy and comprehensive market survey data for employees.
+Compare the survey data with policy goals. Report findings to the Executive
+Committee for approval
 • In intervening years, confirm the existing employee compensation strategy
 Following Meeting One, the chair of the Operations Review Committee (or the chair’s
 designee) will report the committee’s recommendations with respect to compensation
@@ -9137,11 +9116,11 @@ Following Meeting Two, the chair of the Operations Review Committee (or the chai
 designee) will report the committee’s recommendations with respect to reasonableness of the
 pay ranges for disqualified persons and will present the summary report of compensation
 paid to all staff, to the next meeting of the Executive Committee. The committee chair or the
-
-Rotary International Code of Policies
-October 2026
 chair’s designee will also report on the reasonableness of pay ranges for disqualified persons
 to the Trustees Executive Committee.
+
+Rotary International Code of Policies
+January 2027
 Reporting Responsibilities
 The Joint Operations Review Committee reports to the Board of Directors and to the Trustees
 regarding operational matters of RI or TRF, respectively. Following each meeting of the
@@ -9156,7 +9135,7 @@ president-elect, Trustee chair, Trustee chair-elect, general secretary, and seni
 (October 2022 Mtg., Bd. Dec. 39)
 Source: October 2014 Mtg., Bd. Dec. 43;
 Amended by April 2021 Mtg., Bd. Dec. 144; October 2022 Mtg., Bd. Dec. 39
-31.088. Joint Strategic Planning Committee
+31.089. Joint Strategic Planning Committee
 Purpose: Advises the Board and Trustees on matters regarding the strategic plan for the
 organizations
 Composition: 8 to 9 members, with at least one member being a Rotaractor at the time of
@@ -9174,12 +9153,12 @@ Members shall be selected to provide for a balance in Rotary leadership experien
 Responsibilities: The Committee shall develop, recommend, and update a strategic plan for
 consideration by the board and the trustees including consideration of the mission, vision,
 values, priorities, and goals. The Committee shall also:
-
-Rotary International Code of Policies
-October 2026
 • Survey Rotary members and clubs every 3 to 5 years relative to the strategy
 • Develop measurements on the success of the plan
 • Monitor and evaluate the success of the strategic plan
+
+Rotary International Code of Policies
+January 2027
 • Review pertinent internal and external data in the development and updating
 of the plan
 • Assure the organization has a detailed plan of implementation
@@ -9195,7 +9174,7 @@ term financial stability, Joint Operations Review Committee, and Membership Grow
 Committee, as appropriate. (January 2026 Mtg. Bd. Dec. 63)
 Source: October 2022 Mtg., Bd. Dec. 39.
 Amended by October 2023 Mtg., Bd. Dec. 31; January 2026 Mtg., Bd. Dec. 63
-31.088.1. Role of Board of Directors and Foundation Trustees to Strategic Planning and Strategic
+31.089.1. Role of Board of Directors and Foundation Trustees to Strategic Planning and Strategic
 Planning Committee
 The boards of directors and trustees each have defined roles as outlined in the bylaws and
 code of policies in regard to Rotary’s strategic plan. RI and TRF will have one strategic plan
@@ -9204,7 +9183,7 @@ organization, the plan will generally cover a 3–5-year period, but it can be a
 current needs of Rotary International and/or The Rotary Foundation. (October 2015 Mtg.,
 Bd. Dec. 37)
 Source: May 2015 Mtg., Bd. Dec. 164
-31.089. Joint Audit Committee
+31.090. Joint Audit Committee
 Purpose: Advises the Board and the Trustees with respect to audited financial reports,
 internal and external audits, and internal control systems.
 Composition: 8 members, two current RI directors, two current TRF trustees, four non-
@@ -9214,11 +9193,11 @@ Trustee Chair-elect. One Director appointed annually by the RI President, and on
 appointed annually by the Trustee Chair. Chair and Vice Chair appointed jointly by the RI
 President and the Trustee Chair in consultation with the RI President-elect and the Trustee
 Chair-elect.
-
-Rotary International Code of Policies
-October 2026
 Terms shall be four years for members who are not directors or trustees, two-years for
 directors and trustees.
+
+Rotary International Code of Policies
+January 2027
 Members who are not Directors or Trustees may not be reappointed unless they have served
 less than a full term. Current Trustees may be reappointed as long as they are still Trustees.
 Director and Trustee members may be appointed for a full term after leaving the RI Board
@@ -9240,7 +9219,7 @@ The Committee should collaborate with the Joint Operations Review Committee and 
 and RI Finance Committees, as appropriate. (October 2023 Mtg., Bd. Dec. 61)
 Source: October 2022 Mtg., Bd. Dec. 39.
 Amended by May 2023 Mtg., Bd. Dec. 160; October 2023 Mtg., Bd. Dec. 61
-31.089.1. Joint Audit Committee Charter
+31.090.1. Joint Audit Committee Charter
 I. Authority
 The Joint Audit Committee has authority to conduct or authorize investigations into any
 matters within its scope of responsibility. It is empowered to:
@@ -9251,11 +9230,11 @@ financial reporting
 3. Retain independent counsel, accountants, or others to advise the committee or assist in
 the conduct of an investigation
 4. Meet with Rotary Senior Leaders, external auditors, or outside counsel, as necessary.
-
-Rotary International Code of Policies
-October 2026
 5. Seek any information it requires from employees, or external parties, all of whom are
 directed to cooperate with the committee's requests.
+
+Rotary International Code of Policies
+January 2027
 II. Composition
 All members of the committee shall be independent and shall be financially literate. At least
 one member shall have financial expertise ─ one who has financial knowledge and ability
@@ -9288,11 +9267,11 @@ difficulties encountered.
 3. Review the annual financial statements, and consider whether they are complete,
 consistent with information known to committee members, and reflect appropriate
 accounting principles.
-
-Rotary International Code of Policies
-October 2026
 4. Review with management and the external auditors all matters required to be
 communicated to the committee under generally accepted auditing standards.
+
+Rotary International Code of Policies
+January 2027
 5. Review and provide oversight regarding Rotary’s annual Forms 990 tax filings with the
 Internal Revenue Service in the United States.
 Internal Control
@@ -9326,12 +9305,12 @@ Global Internal Auditing Standards.
 the committee or general auditor believes should be discussed privately.
 18. Provide performance feedback relative to the general auditor to the general secretary for
 consideration for merit increases.
-
-Rotary International Code of Policies
-October 2026
 19. Receive, review and concur a remuneration range for the general auditor from the general
 secretary, which shall be consistent with the compensation methodology applicable to all
 World Headquarters employees.
+
+Rotary International Code of Policies
+January 2027
 20. Ensure a quality assurance and improvement program has been established and review
 the results annually.
 External Auditors
@@ -9368,8 +9347,7 @@ Bd. Dec. 182; June 2010 Mtg., Bd. Dec. 265; September 2011 Mtg., Bd. Dec. 140; J
 39; May 2023 Mtg., Bd. Dec. 160; October 2025 Mtg., Bd. Dec. 53
 
 Rotary International Code of Policies
-October 2026
-31.090. Joint Committees
+January 2027
 31.091. Joint Enhancing Participant Engagement Committee
 Purpose: Advises the Boards on enhancing participant engagement and fostering a
 welcoming and accessible club culture rooted in respect that values different perspectives
@@ -9393,9 +9371,9 @@ The Committee shall also:
 Rotary to a more diverse participant base
 • Identify support and learning for leaders, clubs, members, and other
 participants
-• Recommend learning materials to assist Rotary leaders in appropriate
-conduct and communication to enhance a welcoming and accessible culture
-for all of our participants, existing membership, and potential membership.
+• Recommend learning materials to assist Rotary leaders in appropriate conduct
+and communication to enhance a welcoming and accessible culture for all of
+our participants, existing membership, and potential membership.
 • Recommend modifications to processes and structures that create barriers to
 participation in Rotary from underrepresented groups
 The Committee should collaborate with the Membership Growth Committee, the RI
@@ -9406,7 +9384,7 @@ Amended by October 2023 Mtg., Bd. Dec. 24; April 2024 Mtg., Bd. Dec. 119
 See Also: April 2025 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 31.092. Joint Learning Committee
 Purpose: Advises the Board and Trustees with respect to creating effective learning
 opportunities for Rotary leaders and members.
@@ -9430,8 +9408,8 @@ opportunities for Rotary leaders and members
 • Provides guidance on the roles and responsibilities for district leaders and
 advise on the district leadership plan
 • Pro-actively consult with members and clubs to identify learning needs
-• Review, monitor, and evaluate existing learning cycle and methods and
-tools to train Rotary members including Rotary leaders
+• Review, monitor, and evaluate existing learning cycle and methods and tools
+to train Rotary members including Rotary leaders
 • Advise on learning strategies to support our strategic plan
 • Develop learning plans for the International Assembly, convention, and
 learning events for all regional leaders
@@ -9443,7 +9421,7 @@ Amended by April 2024 Mtg., Bd. Dec. 119
 See Also: April 2025 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 31.093. Joint Technology Committee
 Purpose: Advises the Board and the Trustees with respect to enhancing technology practice,
 products, and strategy to improve the member and participant experience at Rotary.
@@ -9464,8 +9442,8 @@ effectiveness. The Committee shall also:
 • Survey and provide insight into the user experience
 • Benchmark best practices around use of technologies focused on supporting
 membership and service organizations and the work they do
-• Analyze the landscape on technology used at all levels of Rotary,
-particularly the club level
+• Analyze the landscape on technology used at all levels of Rotary, particularly
+the club level
 • Recommend technology enhancements to the Board and Trustees that
 encourage innovation
 The Committee should collaborate with the RI Programs Committee and TRF Programs
@@ -9480,7 +9458,7 @@ Composition: 8 members, 2-3 members appointed jointly annually by the RI preside
 the Trustee Chair in consultation with the RI president-elect and the Trustee Chair-elect.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Chair and Vice Chair appointed jointly by the RI President and the Trustee Chair in
 consultation with the RI President-elect and the Trustee Chair-elect.
 Terms shall be staggered, 3-year terms. Members may be re-appointed.
@@ -9513,7 +9491,7 @@ Vice Chair can be reappointed.
 Membership shall be limited as specified above and is limited to Rotarians.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The Committee shall have no specific Board liaison and no specific Trustee liaison. Board
 and Trustee liaisons to the Constitution & Bylaws Committee may be invited to attend
 Council Operations Committee meetings.
@@ -9550,15 +9528,15 @@ year’s Convention Committee.
 The RI President is the Board liaison. The Trustee Chair is the Trustee liaison.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Expertise: The chair must have been a Director or have served on an RI or TRF committee
 in the previous ten years. The chair must have knowledge of and experience in planning the
 RI convention. The chair must have the ability to communicate in English.
 Responsibilities: Shall assist the RI President in planning the convention for the current fiscal
 year. The committee shall also:
 • Stimulate, inspire, and inform all members at an international level, as well
-as serve as a forum for advancing the strategic goals of RI in accordance
-with RI policies governing conventions
+as serve as a forum for advancing the strategic goals of RI in accordance with
+RI policies governing conventions
 • Create a program that helps promote the priorities and goals of the RI
 Strategic Plan
 • Oversee Convention program and logistics including pre-Convention and
@@ -9586,15 +9564,15 @@ year’s Convention Committee.
 The RI President is the Board liaison. The Trustee Chair is the Trustee liaison.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Expertise: The chair must have been a Director or have served on an RI or TRF committee
 in the previous ten years. The chair must have knowledge of and experience in planning the
 RI convention. The chair must have the ability to communicate in English.
 Responsibilities: Shall assist the RI President in planning the convention for the next fiscal
 year. The committee shall also:
 • Stimulate, inspire, and inform all members at an international level, as well
-as serve as a forum for advancing the strategic goals of RI in accordance
-with RI policies governing conventions
+as serve as a forum for advancing the strategic goals of RI in accordance with
+RI policies governing conventions
 • Create a program that helps promote the priorities and goals of the RI
 Strategic Plan
 • Oversee Convention program and logistics including pre-Convention and
@@ -9606,7 +9584,7 @@ Convention Host Organizing Committee. (October 2022 Mtg., Bd. Dec. 39)
 Source: October 2022 Mtg., Bd. Dec. 39.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 32. RI GENERAL SECRETARY
 32.010. Chief Executive Officer of RI
 32.020. Authority to Act on Behalf of Board
@@ -9645,7 +9623,7 @@ The General Manager of the area substantially involved in the contract, or the g
 secretary, shall execute all legal documents and contracts on behalf of the association and its
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Foundation. Changes to contracts must be approved by the general secretary or the General
 Manager. (October 2013 Mtg., Bd. Dec. 30)
 Source: March 1994 Mtg., Bd. Dec. 124;
@@ -9685,7 +9663,7 @@ summaries of the resumes will be forwarded to the Search Committee along with an
 analysis and recommendation of each candidate;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 c. The Search Committee will determine which candidates will be interviewed. Such
 candidates’ expenses associated with the interview process will be covered pursuant
 to the RI Travel and Expense Policy;
@@ -9726,7 +9704,7 @@ before the full Board. If the Board subsequently concurs by majority vote to ter
 employment, the President will inform the general secretary in writing.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4. The Executive Committee shall finalize any details regarding termination and report back
 to the Board.
 (April 2016 Mtg., Bd. Dec. 157)
@@ -9760,7 +9738,7 @@ Source: January 1938 Mtg., Bd. Dec. 170;
 Amended by October 2014 Mtg., Bd. Dec. 105; April 2016 Mtg., Bd. Dec. 157; April 2022 Mtg., Bd. Dec. 139
 
 Rotary International Code of Policies
-October 2026
+January 2027
 32.030.3. Excusing Financial Obligations in Merging Clubs
 To facilitate and promote the merging of small clubs (20 or fewer members), the general
 secretary may excuse such clubs from payment of their past due financial obligations to RI.
@@ -9791,15 +9769,15 @@ Amended by January 2014 Mtg., Bd. Dec. 79; September 2016 Mtg., Bd. Dec. 28; Oct
 32.030.5. Amendments to Club Constitutions
 The general secretary may approve amendments to club constitutions in the following
 circumstances:
-• when such amendments tend to bring the document into closer harmony
-with the Standard Rotary Club Constitution.
+• when such amendments tend to bring the document into closer harmony with
+the Standard Rotary Club Constitution.
 • where necessary to comply with local laws.
 (April 2016 Mtg., Bd. Dec. 157)
 Source: October 1922 Mtg., Bd. Dec. 2(b); January 1961 Mtg., Bd. Dec. 117
 Amended by April 2016 Mtg., Bd. Dec. 157
 
 Rotary International Code of Policies
-October 2026
+January 2027
 32.030.6. Changes in Rotary and Rotaract Club Names and Locality
 The general secretary may approve changes in a Rotary club's name and/or locality, and a
 Rotaract club’s name and/or base. (April 2023 Mtg., Bd. Dec. 127)
@@ -9838,7 +9816,7 @@ Amended by February 2001 Mtg., Bd. Dec. 219; September 2011 Mtg., Bd. Dec. 34; A
 127
 
 Rotary International Code of Policies
-October 2026
+January 2027
 32.030.11. Merger of Rotary Clubs
 The general secretary may act on behalf of the Board to approve applications for the merger
 of clubs submitted pursuant to RI Bylaws section 2.060. (March 2005 Mtg., Bd. Dec. 178)
@@ -9875,7 +9853,7 @@ The general secretary or the president is authorized to act on behalf of the Boa
 from election to office any Rotarian candidate on whose behalf a Rotarian or club takes legal
 
 Rotary International Code of Policies
-October 2026
+January 2027
 action in a manner inconsistent with the requirements of RI Bylaws section 13.030.5.
 (September 2016 Mtg., Bd. Dec. 28)
 Source: June 2013 Mtg., Bd. Dec. 209;
@@ -9913,7 +9891,7 @@ Cross-References
 57.050.1. Guidelines for Convention Registration
 
 Rotary International Code of Policies
-October 2026
+January 2027
 58.020. Scheduling
 59.020.4. Financial Impact Statement
 60.010.4. Organization
@@ -9948,7 +9926,7 @@ The general secretary may authorize reallocations of the approved budget in acco
 68.010.2. (June 2017 Mtg., Bd. Dec. 195)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: May 1944 Mtg., Bd. Dec. 244;
 Amended by June 2017 Mtg., Bd. Dec. 195
 32.060.2. Safeguarding RI Funds and Financial Obligations
@@ -9986,7 +9964,7 @@ approved travel agency staff to improve service levels and economies in the RI T
 Service. (February 1999 Mtg., Bd. Dec. 196)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 1994 Mtg., Bd. Dec. 288.
 Amended by February 1999 Mtg., Bd. Dec. 196
 32.060.7. Changing the Payment and Receipt of Money to US Dollars
@@ -10024,7 +10002,7 @@ Cross-References
 69.030. Rotary Funding for Governors
 
 Rotary International Code of Policies
-October 2026
+January 2027
 32.070. General Secretary Authority to Act on Behalf of Board on Matters Relating to General
 Administration
 32.070.1. Delegation of Duties to Secretariat Staff
@@ -10054,7 +10032,7 @@ November 2008 Mtg., Bd. Dec. 49
 Amended by January 2009 Mtg., Bd. Dec. 132
 
 Rotary International Code of Policies
-October 2026
+January 2027
 32.080. General Secretary Authority to Act on Behalf of Board on Matters Relating to Rotary
 Literature, Documents, and Translation
 32.080.1. Publication Production
@@ -10092,7 +10070,7 @@ Amended by January 1974 Mtg., Bd. Dec. 149.
 Reaffirmed by November 1997 Mtg., Bd. Dec. 108
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Cross-References
 48.020.1. Role of General Secretary in Translations of Rotary Literature
 48.020.2. Use of Rotarian Volunteers in Translating
@@ -10126,7 +10104,7 @@ upon request of the multidistrict organization’s governing body with or withou
 of the district governor of the district being removed.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The general secretary may remove a district from a multidistrict Youth Exchange activity
 upon notice that they have failed to comply with the district certification program with or
 without the consent of the district governor. (January 2017 Mtg., Bd. Dec. 87)
@@ -10161,7 +10139,7 @@ Source: November 2005 Mtg., Bd. Dec. 78;
 Amended by June 2017 Mtg., Bd. Dec. 149
 
 Rotary International Code of Policies
-October 2026
+January 2027
 32.090.10. Suspension of Rotary Action Groups
 The general secretary, acting on behalf of the Board, may suspend services provided to a
 Rotary Action Group, with or without the consent of the group's officers or members, for
@@ -10199,7 +10177,7 @@ circumstances that warrant such action. The general secretary may also rescind t
 awards from past recipients provided there are extraordinary circumstances that warrant such
 
 Rotary International Code of Policies
-October 2026
+January 2027
 action. The general secretary shall notify the president whenever a service award is rescinded.
 (October 2019 Mtg., Bd. Dec. 67)
 Source: June 2005 Mtg., Bd. Dec. 301;
@@ -10215,7 +10193,7 @@ Cross-References
 42.020.13. Suspension and Termination of Recognition
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 33. RI SECRETARIAT
 33.010. Policies and Benefits Affecting Secretariat Staff
 33.020. Staff Outside Involvement with Rotary
@@ -10254,7 +10232,7 @@ Rotary International is an equal opportunity employer, and, accordingly, in its 
 and personnel practices and procedures, does not discriminate because of race, color,
 
 Rotary International Code of Policies
-October 2026
+January 2027
 religion, national origin, ancestry, sex, sexual orientation, gender identity, gender expression,
 marital status, veteran status, disability, or age, and is in full compliance with all other
 applicable federal, state and local laws where Rotary has employees.
@@ -10291,13 +10269,13 @@ Plan), to the Rotary International World Headquarters Retirement Plan Committee 
 The committee is constituted as follows:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • The RPC shall be responsible for the Plan’s operation and administration in
 accordance with applicable law and the Plan’s legal documents, shall be the
-Plan’s “named fiduciary” (within the meaning of the United States’
-Employee Retirement Income Security Act of 1974 (ERISA)), and shall
-exercise its rights and duties for the Plan’s administration and operation as
-specified under applicable law or the applicable Plan documents
+Plan’s “named fiduciary” (within the meaning of the United States’ Employee
+Retirement Income Security Act of 1974 (ERISA)), and shall exercise its
+rights and duties for the Plan’s administration and operation as specified
+under applicable law or the applicable Plan documents
 • The RPC shall be responsible for deciding (in accordance with the Plan’s
 terms) benefit claims and appeals of benefit claim decisions under the Plan
 • Effective 1 January 2016, individuals maintaining the following RI positions
@@ -10330,7 +10308,7 @@ health insurance program. (June 1998 Mtg., Bd. Dec. 348)
 Source: June 1981 Mtg., Bd. Dec. 455
 
 Rotary International Code of Policies
-October 2026
+January 2027
 33.010.10. Recognition Event for Staff
 A recognition event for staff having been employed at RI for specified periods will be held
 annually. An appropriate amount shall be included annually in the RI budget to cover the
@@ -10367,7 +10345,7 @@ Source: June 1998 Mtg., Bd. Dec. 398;
 Amended by February 2007 Mtg., Bd. Dec. 214; June 2008 Mtg., Bd. Dec. 227; April 2021 Mtg., Bd. Dec. 146
 
 Rotary International Code of Policies
-October 2026
+January 2027
 33.010.16. Employee Vacation Pay for Time Not Taken
 The general secretary may authorize, under certain circumstances and where allowed by local
 laws, employee vacation pay for time not taken. (August 1999 Mtg., Bd. Dec. 43)
@@ -10405,7 +10383,7 @@ Source: May 2011 Mtg., Bd. Dec. 198;
 Amended by May 2014 Mtg., Bd. Dec. 113; April 2016 Mtg., Bd. Dec. 157; April 2021 Mtg., Bd. Dec. 146
 
 Rotary International Code of Policies
-October 2026
+January 2027
 33.010.19. Standard of Conduct for Interactions with Secretariat Staff
 RI is committed to maintaining a professional work environment for its employees. Rotarians
 are expected to interact with staff members in a professionally respectful, collaborative, and
@@ -10446,7 +10424,7 @@ could be considered complementary to the public relations, field service or othe
 objectives or the association.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 For Rotary institutes, RI normally will pay the expenses of only one staff member to such
 institute, except for staff attending to conduct seminars or other events arranged by RI, or
 when the attendance of additional staff is consistent with the achievement of any authorized
@@ -10483,7 +10461,7 @@ office as necessary, based on a risk assessment approach supervised and authoriz
 general auditor, general secretary, and the Joint Audit Committee. All offices should be
 
 Rotary International Code of Policies
-October 2026
+January 2027
 audited not less than once every seven years, with interim limited reviews as necessary.
 (October 2013 Mtg., Bd. Dec. 30)
 Source: February 2001 Mtg., Bd. Dec. 276;
@@ -10502,7 +10480,7 @@ Source: February 1984 Mtg., Bd. Dec. 284
 Amended by February 2003 Mtg., Bd. Dec. 194
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 34. ROTARY MARKS
 34.005. Definition of Rotary Marks
 34.010. Registration of Rotary Marks
@@ -10546,7 +10524,7 @@ Design
 Jornal Do Rotariano ® One Profits Most Who Serves Best
 
 Rotary International Code of Policies
-October 2026
+January 2027
 KALEIÇI ROTARY KULÜBÜ Paul Harris Fellow ®
 AKDENIZ ULUSLARARASI
 YÜKSEKÖGRETIM TANITIM
@@ -10593,7 +10571,7 @@ Rotary Polska ® Rotary Suisse Liechtenstein ®
 Rotary Samachar Rotary Youth Leadership Awards
 
 Rotary International Code of Policies
-October 2026
+January 2027
 โรตารปี ระเทศไทย (Rotary Thailand in RYE
 Thai Characters)
 RWMP Service Above Self ®
@@ -10623,7 +10601,7 @@ the Rotary Marks as trademarks and service marks in countries in which RI has a 
 Neither Rotary Entities nor individual Rotarians may register 40.050.8.any of the Rotary
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Marks or any translations, abbreviations or portions thereof. Any Rotary Entities or Rotarians
 that may have obtained trademark registrations on the Rotary Marks or any translations,
 abbreviations or portions thereof are asked to transfer ownership to RI in order to comply
@@ -10660,7 +10638,7 @@ The official emblem of RI is a gear wheel of six spokes or arms, 24 teeth or cog
 keyway; one tooth is placed on the center line of each arm and three in between the center
 
 Rotary International Code of Policies
-October 2026
+January 2027
 lines of arms. The wheel is designed in accordance with the proportions given in the table
 below. The two words “Rotary International” appear in depressed spaces in the rim. With
 the wheel standing on edge, the word “Rotary” appears in the depression at the top which
@@ -10706,7 +10684,7 @@ Amended by November 2000 Mtg., Bd. Dec. 133; June 2001 Mtg., Bd. Dec. 380; Novem
 Dec. 32; June 2013 Mtg., Bd. Dec. 242; May 2015 Mtg., Bd. Dec. 166; February 2022 Mtg., Bd. Dec. 76
 
 Rotary International Code of Policies
-October 2026
+January 2027
 34.030.2. Authorized Use of the Rotary Emblem
 The use of the Rotary Emblem is authorized
 1. On all stationery and printed matter issued by RI or member clubs thereof
@@ -10744,7 +10722,7 @@ The Rotary emblem may not be included on the business stationery or business car
 individual Rotary members. (June 2026 Mtg., Bd. Dec. 138)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: COL 80-102, November 1996 Mtg., bd. Dec. 69
 Amended by June 2026 Mtg., Bd. Dec. 138
 34.030.5. Use of Distinctive Regalia to Indicate Position in Rotary
@@ -10787,7 +10765,7 @@ Rotary Marks may not be depicted in combination with images of guns, weapons, or
 armaments. (June 2022 Mtg., Bd. Dec. 159)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: May 2000 Mtg., Bd. Dec. 399;
 Amended by June 2013 Mtg., Bd. Dec. 242; January 2015 Mtg., Bd. Dec. 117; May 2015 Mtg., Bd. Dec. 166;
 May 2015 Mtg., Bd. Dec. 195; July 2015 Mtg., Bd. Dec. 16; October 2015 Mtg., Bd. Dec. 37; June 2017 Mtg.,
@@ -10826,7 +10804,7 @@ the four depressed spaces in the rim of royal blue. The words "Rotary" and "Inte
 in the depressions should be of gold. The hub and the keyway white. A Rotary club
 
 Rotary International Code of Policies
-October 2026
+January 2027
 displaying this flag as a club flag may use in large blue letters above the wheel the words
 "Rotary Club" and below the wheel the names of the city and State [state], or province, or
 country. (June 1998 Mtg., Bd. Dec. 348)
@@ -10865,7 +10843,7 @@ current Board policy regarding the use of the Rotary Marks. (September 2016 Mtg.
 28)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: November 1995 Mtg., Bd. Dec. 74; February 1996 Mtg., Bd. Dec. 194;
 Amended by August 2000 Mtg., Bd. Dec. 64; October 2014 Mtg., Bd. Dec. 60; September 2016 Mtg., Bd. Dec.
 28.
@@ -10908,7 +10886,7 @@ with the sponsorship or partnership or other third-party relationship in any and
 including, but not limited to, for publicity and promotional purposes. Other Organization
 
 Rotary International Code of Policies
-October 2026
+January 2027
 further recognizes that each use contemplated herein will be subject to a pre-publication
 review and approval process by Rotary or Rotary’s legal counsel. RI retains the sole right
 to specific denial or authorization of such use or, in the case of alteration (of copy or
@@ -10953,7 +10931,7 @@ not be depicted in combination with images of guns, weapons, or other armaments.
 (October 2025 Mtg., Bd. Dec. 19)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: October 1998 Mtg., Bd. Dec. 86;
 Amended by August 2000 Mtg., Bd. Dec. 64; November 2000 Mtg., Bd. Dec. 133; November 2001 Mtg., Bd.
 Dec. 71; June 2002 Mtg., Bd. Dec. 245; November 2006 Mtg., Bd. Dec. 35; November 2007 Mtg., Bd. Dec. 32;
@@ -10994,7 +10972,7 @@ Amended by January 2024 Mtg. Bd. Dec. 76
 51.010.5. Use of Emblem in Magazine Advertising
 
 Rotary International Code of Policies
-October 2026
+January 2027
 51.020.1. Guidelines for Rotary Club, District, and other Rotary Entity Electronic
 Publications
 34.040. Use of Name
@@ -11019,21 +10997,21 @@ other Rotary Entity which contemplates the construction or acquisition of a buil
 permanent structure:
 • should ensure that neither the name of such venture nor any legal documents
 in connection therewith reference either the name, “Rotary," without the
-further identifying language of the Rotary club, Rotary district or other
-Rotary Entity involved or the name, "Rotary International."
+further identifying language of the Rotary club, Rotary district or other Rotary
+Entity involved or the name, "Rotary International."
 • should not affix any of the Rotary Marks thereto in any permanent manner,
 such as etching the Rotary name or emblem into the facade of a building or
 inlaying the Rotary name or emblem into a floor. The Board will not require
 the removal of any Rotary Marks which have been permanently affixed to a
-building prior to 2001 where the removal of such would cause permanent
-and irreparable damage to the building, and/or incur unreasonable costs to a
+building prior to 2001 where the removal of such would cause permanent and
+irreparable damage to the building, and/or incur unreasonable costs to a
 Rotary club, Rotary district or other Rotary Entity.
 (See Rotary Code of Policies section 34.040.6.) (July 2015 Mtg., Bd. Dec. 16)
 Source: July 1944 Mtg., Bd. Dec. 26;
 Amended by November 2001 Mtg., Bd. Dec. 68; May 2011 Mtg., Bd. Dec. 202; July 2015 Mtg., Bd. Dec. 16
 
 Rotary International Code of Policies
-October 2026
+January 2027
 34.040.3. Use of Rotary Marks by RI Officers in Publications
 Incoming, current, and past officers of RI and those Rotarians appointed by the president or
 the Board to serve in various capacities are authorized to use the Rotary Marks in
@@ -11074,7 +11052,7 @@ foregoing. For the purposes of this section the definition of “incorporate” 
 incorporation of a club or district. (November 2008 Mtg., Bd. Dec. 104)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: May-June 1964 Mtg., Bd. Dec. 220; November 2008 Mtg., Bd. Dec. 104
 34.040.6. Use of Name “Rotary,” or other Rotary Marks by Rotary Entities
 When used by itself, the word “Rotary” or the Rotary Emblem normally refers to the entire
@@ -11119,7 +11097,7 @@ Bd. Dec. 16; October 2015 Mtg., Bd. Dec. 37; June 2017 Mtg., Bd. Dec. 172; Septe
 2022 Mtg., Bd. Dec. 76; June 2022 Mtg., Bd. Dec. 159; October 2025 Mtg., Bd. Dec. 19
 
 Rotary International Code of Policies
-October 2026
+January 2027
 34.040.7. Requests for Exception to Guidelines for Use of “Rotary” Name or Other of the Rotary Marks
 When considering requests for exception to policy set forth in section 34.040.6., the Board
 may consider:
@@ -11155,7 +11133,7 @@ Under the “full control of a Rotary Entity” shall be defined as follows:
 responsible for the governance of the project, activity or organization
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. This level of Rotary Entity governance must be demonstrated by the requesting group to
 the satisfaction of RI and may come in a number of different forms, including, but not
 limited to:
@@ -11196,7 +11174,7 @@ Except as concerns groups organizing to form Rotary clubs under the direction of
 governor, the use of the word "Rotary" or any abbreviation or portion thereof by any group
 
 Rotary International Code of Policies
-October 2026
+January 2027
 in such manner as to indicate or imply status as a Rotary club or as an affiliate of a Rotary
 club or of RI is not authorized and shall not be permitted.
 Inasmuch as the constitution and bylaws contain no provisions to cover the situation, it is
@@ -11239,7 +11217,7 @@ under full control of a Rotary club or group of Rotary clubs or in connection wi
 name of any organization, the membership of which includes non-Rotarian individuals or
 
 Rotary International Code of Policies
-October 2026
+January 2027
 organizations. (See Rotary Code of Policies section 34.040.6.) (September 2017 Mtg., Bd.
 Dec. 24)
 Source: March 1961 Mtg., Bd. Dec. 206;
@@ -11283,7 +11261,7 @@ It also means the ideals and principles of the organization. Rotary Alumni assoc
 are chartered by the general secretary are permitted to use the name “Rotary” in their
 
 Rotary International Code of Policies
-October 2026
+January 2027
 organizational name but only together with identifiers of the Rotary district or Rotary zone.
 Such identifier must immediately precede or follow “Rotary.” An acceptable example would
 be “Rotary District XXXX Alumni Association.” In limited instances and otherwise in
@@ -11326,7 +11304,7 @@ or modifications of the Rotary Marks are permitted. The simplified wheel is to b
 together with “Rotary” as part of the simplified signature lock-up. RI allows for overwriting
 
 Rotary International Code of Policies
-October 2026
+January 2027
 of the Rotary emblem or other Rotary Mark (watermarked, printed, screened or embossed),
 provided the Rotary emblem or other Rotary Mark is not otherwise partially covered and/or
 obstructed.
@@ -11363,7 +11341,7 @@ emblem of the association. (June 1998 Mtg., Bd. Dec. 348)
 Source: May 1919 Mtg., Bd. Dec. 3
 
 Rotary International Code of Policies
-October 2026
+January 2027
 34.050.2. Use of Rotary Marks by RI Officers on Letterhead Stationery of RI and Other Organizations,
 or for Commercial Purposes
 The use of the RI letterhead is restricted to incoming, current and past officers of RI, or those
@@ -11402,7 +11380,7 @@ Source: October 1993 Mtg., Bd. Dec. 103; January 2011 Mtg., Bd. Dec. 127;
 Amended by May 2011 Mtg., Bd. Dec. 178; October 2015 Mtg., Bd. Dec. 37; May 2024 Mtg. Bd. Dec. 171
 
 Rotary International Code of Policies
-October 2026
+January 2027
 34.060.4. Interact and Rotaract Marks
 The Interact and Rotaract Marks are for the exclusive use of the Interact and Rotaract clubs
 bearing those names and the members of those clubs:
@@ -11439,7 +11417,7 @@ Of the things we think, say or do
 4) Will it be BENEFICIAL to all concerned?
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The sole purpose of the reproduction should be the development and maintenance of high
 ethical standards in human relations. Any reproduction should not be a direct part of any
 advertisement intended to increase sales or profits. It may, however, be used in a letterhead
@@ -11457,7 +11435,7 @@ Cross-References
 Article 12. Rotaract Clubs
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 35. LICENSING
 35.010. General RI Licensing Principles
 35.020. Granting of an RI License
@@ -11497,7 +11475,7 @@ products in the license agreement. Such alterations shall be made so as not to d
 Rotary emblem or detract from its essential dignity. (June 1998 Mtg., Bd. Dec. 348)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: May 1962 Mtg., Bd. Dec. 183; November 1996 Mtg., Bd. Dec. 69
 35.010.4. Watches and Clocks
 RI may license watches and clocks containing the Rotary emblem as the entire face of the
@@ -11535,7 +11513,7 @@ Cross-References
 35.040.1. Districts and Clubs Purchasing Merchandise Bearing the Rotary Marks
 
 Rotary International Code of Policies
-October 2026
+January 2027
 35.020. Granting of an RI License
 35.020.1. License Types and Royalty Rates
 Type 1
@@ -11575,7 +11553,7 @@ to the Rotarian Market, to the general public and/or to other RI licensees. A Ty
 makes a reduced one-time application fee of US$250, makes semiannual royalty payments
 
 Rotary International Code of Policies
-October 2026
+January 2027
 and has no annual minimum royalty payment obligation. Any royalty fees received by Rotary
 International from this license type shall be transferred to The Rotary Foundation Annual
 Fund.
@@ -11610,7 +11588,7 @@ limited to the following:
 14. willingness to network with other licensees
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The meeting of any or all of these standards does not guarantee a license from RI. RI
 maintains, in its sole discretion, the right to grant or deny any license application. (June 2026
 Mtg., Bd. Dec. 138)
@@ -11646,7 +11624,7 @@ not complied with their agreement with RI, including, where appropriate, termina
 existing agreements. (June 1998 Mtg., Bd. Dec. 348)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 1996 Mtg., Bd. Dec. 296; November 1996 Mtg., Bd. Dec. 69. See also October 1993 Mtg., Bd.
 Dec. 56
 35.030.5. Audits of Licensees
@@ -11680,7 +11658,7 @@ Neither Rotary clubs, Rotary districts, other Rotary Entities nor individual Rot
 license or otherwise sell goods or services bearing the Rotary Marks or any abbreviations or
 
 Rotary International Code of Policies
-October 2026
+January 2027
 portions thereof, unless specifically excepted by the other sections herein or by the RI Board.
 (September 2017 Mtg., Bd. Dec. 24)
 Source: September 2017 Mtg., Bd. Dec. 24
@@ -11720,7 +11698,7 @@ sales of goods bearing the Rotary Marks will be permitted at the RI Convention f
 project booth area in the House of Friendship beginning with the 2021 RI Convention, as is
 
 Rotary International Code of Policies
-October 2026
+January 2027
 required of all other Rotary Entities. Fundraising for TRF may be permitted contingent upon
 convention venue rules, local laws, and approval by the general secretary. (October 2024
 Mtg., Bd. Dec. 22)
@@ -11759,7 +11737,7 @@ June 1996 Mtg., Bd. Dec. 298; November 1996 Mtg., Bd. Dec. 69;
 Amended by October 2015 Mtg., Bd. Dec. 37
 
 Rotary International Code of Policies
-October 2026
+January 2027
 35.050.3. Prohibition Against “Rotary” as a Brand Name
 Except as permitted under RI’s licensing procedures, none of the Rotary Marks, nor any
 abbreviations or portions thereof, may be used as trademarks or special brands of
@@ -11794,7 +11772,7 @@ Amended by October 2012 Mtg., Bd. Dec. 41
 See also June 1996 Mtg., Bd. Dec. 299; November 1996 Mtg., Bd. Dec. 69;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 35.050.8. Licensing of “Paul Harris” Items
 Licensees are not authorized to sell recognition items using the likeness of Paul Harris or the
 terms “Paul Harris Fellow,” “Rotary Foundation Sustaining Member” or “Benefactor”
@@ -11831,7 +11809,7 @@ licensed products shall be required to use the following disclaimer in any of th
 “Not licensed to reproduce the Rotary Marks,” or other such disclaimer as the general
 
 Rotary International Code of Policies
-October 2026
+January 2027
 secretary finds appropriate. The general secretary reserves the right to determine which
 advertisements shall require a disclaimer. (January 2019 Mtg., Bd. Dec. 80)
 Source: November 1994 Mtg., Bd. Dec. 65; June 2004 Mtg., Bd. Dec. 236;
@@ -11867,7 +11845,7 @@ or otherwise used by others without the permission of RI.
 Source: June 1995 Mtg., Bd. Dec. 240; May 2000 Mtg., Bd. Dec. 400;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by May 2003 Mtg., Bd. Dec. 324; May 2003 Mtg., Bd. Dec. 416
 35.070.3. Use of Rotary Name and Emblem on Vehicle License Plates
 A Rotary club or district may collaborate with a government monopoly to offer a vehicle
@@ -11905,7 +11883,7 @@ project;
 current, incoming, and past district governors) must approve the project;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 5. the commemorative item must meet all RI specifications regarding the reproduction of
 its intellectual property and a prototype of the commemorative item and any promotional
 materials, such as the first day cover, must be submitted to the general secretary for
@@ -11927,7 +11905,7 @@ Cross-References
 37.030.4. Inner Wheel
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 36. PARTNERSHIPS
 36.010. General Guidelines
 36.020. Strategic Partners
@@ -11969,7 +11947,7 @@ will exert any influence to advance the partner’s interests outside the partic
 arrangements made for the joint initiative, event, or activity. Promotional materials and
 
 Rotary International Code of Policies
-October 2026
+January 2027
 communications cannot include any wording or design that suggests endorsement or
 approval of a product or service, policy or position by Rotary.
 The general secretary shall provide an annual report on all partnerships to the Board and the
@@ -12005,7 +11983,7 @@ partnership’s activities and results
 (April 2018 Mtg., Bd. Dec. 159)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: November 2007 Mtg., Bd. Dec. 70; September 2011 Mtg., Bd. Dec. 32;
 Amended by May 2014 Mtg., Bd. Dec. 136; April 2018 Mtg., Bd. Dec. 159
 36.010.2. Benefits Provided to Other Organizations
@@ -12043,7 +12021,7 @@ general secretary, who will consult with the RI president and Trustee chair as a
 before responding to the requestor.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 This should not be construed as prohibiting clubs, districts and multidistrict groups from
 developing partnerships with local organizations; on the contrary, they are encouraged to
 develop these local relationships. Rotary does not endorse its partners, their products or
@@ -12084,7 +12062,7 @@ government agency, charitable foundation, corporation, or university, to facilit
 club or district projects. Strategic partnerships are large scale, multiyear programmatic
 
 Rotary International Code of Policies
-October 2026
+January 2027
 relationships in support of the strategic plan for which both entities provide substantial
 financial resources, technical expertise/resources, advocacy, or a combination thereof.
 (September 2017 Mtg., Bd. Dec. 34)
@@ -12121,7 +12099,7 @@ relate specifically to either the areas of focus or the RI Strategic Plan. (Sept
 Bd. Dec. 32)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: September 2011 Mtg., Bd. Dec. 32
 36.020.4. Review and Approval of New Strategic Partners
 Proposals for new strategic partners must be approved by both the RI Board of Directors and
@@ -12158,7 +12136,7 @@ government agency, corporation, or university, to provide opportunities or exper
 enhance Rotary club or district projects at the local, national, and international levels. Service
 
 Rotary International Code of Policies
-October 2026
+January 2027
 partnerships are global, flexible, scalable, and may range from small to large in scope, and
 from short to long term in duration. Service partners add measurable value to the
 humanitarian activities undertaken by Rotary members, including increased sustainable
@@ -12200,7 +12178,7 @@ with Rotary members on project implementation. Project partner-ships receive no 
 from the Secretariat. The role of the Secretariat is to manage the partnership and facilitate
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Rotary member engagement with partners. Project partner activities will be promoted to
 clubs and districts through a dedicated page on the RI website. (April 2019 Mtg., Bd. Dec.
 146)
@@ -12239,7 +12217,7 @@ Level 5: US$2,500,000 - $4,999,999
 Level 6: US$5,000,000 and above
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4. Suggested benefits for each level are subject to negotiation with the organization.
 (October 2018 Mtg., Bd. Dec. 47)
 Source: October 2018 Mtg., Bd. Dec. 47
@@ -12273,7 +12251,7 @@ The general secretary shall respond to invitations for RI or TRF to attend meeti
 organizations in the following manner:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. Evaluate the meetings in terms of both potential program information and Rotary
 visibility
 2. Identify Rotarians -- such as general officers, members of RI committees, as well as other
@@ -12310,7 +12288,7 @@ other organization, Rotarians or Trustees (1–3 months).
 (2–3 months).
 
 Rotary International Code of Policies
-October 2026
+January 2027
 10. Prepare draft memorandum of understanding and finalize negotiations with partner (2–4
 months).
 11. Concurrent with step 9, prepare web and strategic partnership application materials (1–2
@@ -12324,7 +12302,7 @@ Source: October 2014 Mtg., Bd. Dec. 64;
 Amended by June 2021 Mtg., Bd. Dec. 177; November 2021 Mtg., Bd. Dec. 34
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 37. RI GUIDELINES FOR SPONSORSHIP AND COOPERATION
 37.010. Guidelines for Sponsorship of RI Meetings, Events, Projects, and Programs
 37.020. Cooperation with United Nations
@@ -12365,7 +12343,7 @@ International, The Rotary Foundation, or the specific Rotary club, district or o
 Rotary Entity
 
 Rotary International Code of Policies
-October 2026
+January 2027
 g. Involves any subject matter which is not in accord with the Object of Rotary
 4. Further to point 3.c., above, where culturally appropriate, convention host organizing
 committees may solicit alcoholic beverage companies as sponsors, recognizing that the
@@ -12409,7 +12387,7 @@ presiding over an International Assembly. Such approval shall include but not be
 to the following aspects of each sponsorship proposal:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 a. Appropriateness of the sponsor
 b. Nature of the sponsorship plan
 c. Extent of the sponsorship relationship
@@ -12451,7 +12429,7 @@ project or program will not be considered.
 or with the completion of the sponsored meeting, event, project or program.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 17. Except by Board authorization, individual member data must not be used for sponsorship
 purposes and must stay within the control of RI. However, any determination to allow
 access to individual member data must respect the individual rights of Rotarians,
@@ -12487,7 +12465,7 @@ specialized agencies. (June 1998 Mtg., Bd. Dec. 348)
 Source: July 1948 Mtg., Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 37.020.3. Support for RI Principal and Alternate Representatives to UN
 RI principal and alternate representatives to the three UN offices should have the best
 possible orientation and support which should include, at a minimum, basic tools such as
@@ -12527,7 +12505,7 @@ Within the framework of an approved budget, representatives shall conduct activi
 further communication between RI and their assigned organization(s) or agency(ies). These
 
 Rotary International Code of Policies
-October 2026
+January 2027
 activities must be authorized by the president and coordinated by the general secretary. (June
 1998 Mtg., Bd. Dec. 348)
 Source: March 1994 Mtg., Bd. Dec. 201
@@ -12566,7 +12544,7 @@ provided that such does not contravene RI’s Constitution and Bylaws. (June 199
 Dec. 348)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: November 1991 Mtg., Bd. Dec. 140
 37.030. Cooperation with Other Organizations and Groups
 37.030.1. RI Representatives to the United Nations and Other Organizations
@@ -12598,7 +12576,7 @@ RI representatives to other organizations should have the best possible orientat
 support which should include, at a minimum, basic tools such as business cards and
 
 Rotary International Code of Policies
-October 2026
+January 2027
 stationery. RI shall provide annual reimbursement of their allowable expenses upon receipt
 of appropriate invoices.
 The RI president may appoint Rotaractors to serve as youth representatives, where
@@ -12635,7 +12613,7 @@ its emblem, consistent with RI’s obligation to protect and preserve the RI emb
 (September 2011 Mtg., Bd. Dec. 34)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: July 1991 Mtg., Bd. Dec. 54;
 Amended by May 2000 Mtg., Bd. Dec. 410; September 2011 Mtg., Bd. Dec. 34
 37.030.5. PROBUS Clubs
@@ -12675,7 +12653,7 @@ RI meetings and do not otherwise by right have access to RI or its officers or t
 clubs and their officers or to RI publications.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 10. RI shall not provide financial assistance to any group of former Rotarians, nor shall such
 group seek financial assistance from RI or its member clubs.
 11. A meeting of the group shall not be the basis for attendance credit for Rotarians.
@@ -12687,7 +12665,7 @@ Source: May 1965 Mtg., Bd. Dec. 247;
 Amended by January 2020 Mtg., Bd. Dec. 99
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 38. TERRITORIAL, REGIONAL, AND SECTIONAL GROUPINGS
 38.010. Territorial Units-RIBI
 38.020. Limitations on Administrative Units
@@ -12712,7 +12690,7 @@ RIBI territorial unit. (June 1998 Mtg., Bd. Dec. 348)
 Source: November 1984, Mtg. Bd. Dec. 60
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER V – PROGRAMS
 Articles
 Article 40. General Provisions
@@ -12747,7 +12725,7 @@ September 2020 Mtg., Bd. Dec. 23; April 2023 Mtg., Bd. Dec. 111; May 2023 Mtg., 
 Mtg., Bd. Dec. 22
 
 Rotary International Code of Policies
-October 2026
+January 2027
 40.010.2. Definition of Program Participants
 Program participants are those individuals who currently participate in RI and Rotary
 Foundation programs, including:
@@ -12785,7 +12763,7 @@ a. Program attractiveness
 b. Competitive position
 
 Rotary International Code of Policies
-October 2026
+January 2027
 c. Alternate coverage in the market
 5. The Operations Review Committee reviews results of the evaluations and makes
 recommendations to the Board or Trustees regarding the strategic alignment, or lack
@@ -12822,7 +12800,7 @@ review.
 The Board and Trustees may consider adopting new Rotary programs only when:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. the new program aligns with Rotary’s strategic plan
 2. an existing program of similar cost has been eliminated or reduced
 3. the boards have has identified tangible expected results with defined measures of success
@@ -12860,7 +12838,7 @@ to Rotary’s strategic plan for the proposed program.
 Source: January 1969 Mtg., Bd. Dec. 142; March 1993 Mtg., Bd. Dec. 187;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by August 1999 Mtg., Bd. Dec. 61; October 2015 Mtg., Bd. Dec. 50; January 2017 Mtg., Bd. Dec. 87;
 April 2023 Mtg., Bd. Dec. 111
 40.030.2. Adoption of New Programs
@@ -12895,7 +12873,7 @@ limited to:
 • Rotary Youth Leadership Awards (RYLA)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Rotary Peace Fellowships
 • Global Grant Scholarships
 • Vocational training teams (members and leaders)
@@ -12932,7 +12910,7 @@ outbound program participants;
 participants in the district;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 14. encourage invitations to Rotary Alumni to attend or participate as speakers at special
 district and club functions.
 (October 2019 Mtg., Bd. Dec. 29)
@@ -12970,7 +12948,7 @@ negatively affect health or safety, or subjects that are not in accord with the 
 or the overall policy and program of RI/TRF.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 A Rotary Alumni association shall have a governing document (charter, constitution, bylaws,
 or similar document) which must be consistent with RI/TRF policy. All governing
 documents, and amendments thereto, must be reviewed and approved by the general
@@ -13012,7 +12990,7 @@ association operates in accordance with the policies of Rotary International and
 Foundation, but is not an agency of or endorsed by, Rotary International or The Rotary
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Foundation. Neither Rotary International nor The Rotary Foundation of Rotary International
 endorse the content hereof or the activities of this Rotary Alumni Association and accept no
 liability therefore.” Following is an example of how such language may be incorporated into
@@ -13052,7 +13030,7 @@ in their activities and comply with Rotary International’s youth protection po
 Alumni Association may not grant membership or affiliation to a person who is known to
 
 Rotary International Code of Policies
-October 2026
+January 2027
 have engaged in sexual abuse or harassment or who is prohibited from being a member of a
 Rotary club. (Upon obtaining information that an alumni association has knowingly failed to
 terminate the membership or affiliation of such an individual, the RI Board may terminate
@@ -13079,7 +13057,7 @@ members. (January 2015 Mtg., Bd. Dec. 117)
 Source: January 2015 Mtg., Bd. Dec. 117
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 41 ROTARY PROGRAMS
 41.010. Interact
 41.020. Rotary Community Corps (RCC)
@@ -13117,7 +13095,7 @@ d. fulfill Rotary’s commitment to youth service by engaging our members to pro
 safe, meaningful, and impactful opportunities for young people to learn and grow.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (April 2025 Mtg., Bd. Dec. 147)
 Source: February 2022 Mtg., Bd. Dec. 103
 See Also: April 2025 Mtg., Bd. Dec. 147
@@ -13156,7 +13134,7 @@ the Rotary clubs, Rotaract clubs, and the Interact club concerned would be effec
 served.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 A joint Interact committee should be created with representation from each of the
 sponsor clubs.
 2. Sponsor clubs are responsible for organizing the Interact club and for providing it with
@@ -13192,7 +13170,7 @@ youth protection policies.
 Source: February 2022 Mtg., Bd. Dec. 103
 
 Rotary International Code of Policies
-October 2026
+January 2027
 41.010.6. Standard Interact Club Constitution and Recommended Interact Club Bylaws
 1. There shall be a “Standard Interact Club Constitution” prescribed by Rotary International
 and subject to amendment only by the Board of Directors of Rotary International. As a
@@ -13231,7 +13209,7 @@ Amended by February 2022 Mtg., Bd. Dec. 103
 club administration, as provided for in their club bylaws.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Any fees, dues or assessments on the membership of any Interact club shall be nominal
 and shall be only for the purpose of covering the cost of administering the club.
 3. Funds for activities and projects undertaken by Interact clubs shall be raised by such
@@ -13271,7 +13249,7 @@ Source: May 1967 Mtg., Bd. Dec. 255;
 Amended by January 2012 Mtg., Bd. Dec. 190; April 2020 Mtg., Bd. Dec. 127; October 2025 Mtg., Bd. Dec. 33
 
 Rotary International Code of Policies
-October 2026
+January 2027
 41.010.11. Interact District Meetings and Activities
 1. District Governor authority: The governor is responsible for all Interact events within the
 district, and the district Interact committee shall report to the governor.
@@ -13310,7 +13288,7 @@ and committee chairs.
 a. All district Interact activities shall be financed by the Interact clubs in the district.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 b. No part of the expenses of district Interact representatives, district Interact
 conferences, meetings of Interact clubs, or groups of Interact clubs shall be paid by
 Rotary International.
@@ -13351,7 +13329,7 @@ are traveling 150 miles away from home residence or out of the home country, req
 parents or legal guardians of each Interactor to provide travel insurance for the Interactor,
 
 Rotary International Code of Policies
-October 2026
+January 2027
 which includes such coverages as medical (when traveling outside home country),
 emergency medical evacuation, repatriation of remains, and legal liability, in amounts
 satisfactory to the club or district organizing the event, with coverage from the time of the
@@ -13389,7 +13367,7 @@ a. To develop partnerships between Rotarians and non-Rotarians in a joint effort
 enhance their community
 
 Rotary International Code of Policies
-October 2026
+January 2027
 b. To support community members who proactively address community needs,
 recognizing their unique ability to identify the most pressing concerns and suitable
 methods of implementation
@@ -13431,7 +13409,7 @@ Failure to report the RCC representative to RI may result in the termination of 
 RCC.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 7. Rotary Community Corps name and visual identity
 a. The name of a Rotary Community Corps shall include the wording “Rotary
 Community Corps” to show the corps’ affiliation with Rotary. The name should be
@@ -13474,7 +13452,7 @@ administration, vocational service, community service, and finance are recommend
 for each corps.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 10. District community service chairs are highly encouraged to appoint a district Rotary
 Community Corps subcommittee.
 The role and responsibilities of this subcommittee are to:
@@ -13510,7 +13488,7 @@ Amended by June 2010 Mtg., Bd. Dec. 222; May 2011 Mtg., Bd. Dec. 205; January 20
 October 2019 Mtg., Bd. Dec. 60; October 2022 Mtg., Bd. Dec. 30; October 2025 Mtg., Bd. Dec. 33
 
 Rotary International Code of Policies
-October 2026
+January 2027
 41.020.1. RI Secretariat Service to Rotary Community Corps
 The general secretary charters new Rotary Community Corps, develops program resources,
 and distributes annual communications to all sponsor Rotary clubs and district community
@@ -13548,7 +13526,7 @@ for young business and professional people in the initial years of professional 
 exchanges are designed to develop professional and leadership skills among young people to
 
 Rotary International Code of Policies
-October 2026
+January 2027
 prepare them to address the needs of their communities and an increasingly global workplace.
 These vocational exchanges will follow an extensive and rigorous program of international
 travel and participatory activities involving:
@@ -13587,7 +13565,7 @@ Amended by June 2010 Mtg., Bd. Dec. 182; May 2014 Mtg., Bd. Dec. 144; September 
 January 2017 Mtg., Bd. Dec. 87; October 2025 Mtg. Bd. Dec. 33
 
 Rotary International Code of Policies
-October 2026
+January 2027
 41.040. Rotary Youth Exchange
 Rotary Youth Exchange is a program of Rotary International, adopted by the Board in 1974.
 The Rotary Youth Exchange program provides young people with the opportunity to meet
@@ -13627,7 +13605,7 @@ evidence that they have adopted the certification requirements in their Long-ter
 term exchange programs (including any tours or camps). Failure by individual Rotarians,
 
 Rotary International Code of Policies
-October 2026
+January 2027
 clubs, or districts to administer the program in accordance with these requirements may result
 in termination of a district’s Youth Exchange certification.
 The general secretary may grant waivers to districts that have implemented alternative policy
@@ -13667,7 +13645,7 @@ Districts must secure liability insurance for the district Youth Exchange progra
 coverage and limits appropriate for their location. Clubs and districts are strongly encouraged
 
 Rotary International Code of Policies
-October 2026
+January 2027
 to consult legal counsel regarding liability issues before undertaking Youth Exchange
 activities.
 Youth Exchange programs in districts located entirely within the United States meet this
@@ -13706,7 +13684,7 @@ committee for approval and inclusion in the Annual Statement and Report of Distr
 Finances. The district Youth Exchange committee and district treasurer shall prepare and
 
 Rotary International Code of Policies
-October 2026
+January 2027
 distribute a financial report on Youth Exchange to the district governor on a semi-annual
 basis. (January 2021 Mtg., Bd. Dec. 91)
 Source: June 1992 Mtg., Bd. Dec. 328, Appendix G;
@@ -13747,7 +13725,7 @@ The club counselor must not be in a position of authority over the student’s e
 as a member of the student’s host family, district or club Youth Exchange officer, school
 
 Rotary International Code of Policies
-October 2026
+January 2027
 principal, etc. and must be trained in responding to any problems or concerns which may
 arise during the exchange, including the prevention of physical, sexual and psychological
 abuse.
@@ -13788,7 +13766,7 @@ People with disabilities may participate where and when this is possible and agr
 between the sending and host clubs or districts. (October 2019 Mtg., Bd. Dec. 58)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: March 1997 Mtg., Bd. Dec. 275;
 Amended by November 2002 Mtg., Bd. Dec. 99; January 2009 Mtg., Bd. Dec. 152; October 2012 Mtg., Bd.
 Dec. 96; January 2017 Mtg., Bd. Dec. 87; October 2019 Mtg., Bd. Dec. 58
@@ -13829,7 +13807,7 @@ complete and prompt payment. The parent or legal guardian of the Youth Exchange 
 is responsible for the payment of all medical and accident costs.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The parent or legal guardian of each student shall obtain travel insurance, including, but not
 limited to, medical and dental coverage for accidental injury and illness, repatriation of
 remains, emergency evacuation, 24-hour emergency assistance services, and personal legal
@@ -13869,7 +13847,7 @@ incidents of kidnap or threats to kill, injure, or kidnap a student where ransom
 demanded and pays for costs of ransom.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Where it is a statutory or legal requirement for travel insurance to be purchased in the host
 country, such insurance shall be in accordance with these limits and benefits. In all other
 cases dual insurance should be avoided unless agreed to by all parties.
@@ -13909,7 +13887,7 @@ The host and sending club or districts must provide students with a list of indi
 contact in the case of a problem or emergency. These lists must include the name and contact
 
 Rotary International Code of Policies
-October 2026
+January 2027
 information for the student’s Rotarian counselor, club presidents, district chairs, governors,
 and two non-Rotarian resource persons (one male and one female). This list must also include
 local resources for medical, dental and mental health care and law enforcement. Where
@@ -13949,7 +13927,7 @@ Amended by November 2002 Mtg., Bd. Dec. 99; November 2004 Mtg. Bd. Dec. 108; Jan
 Dec. 152; January 2017 Mtg., Bd. Dec. 87; October 2019 Mtg., Bd. Dec. 58
 
 Rotary International Code of Policies
-October 2026
+January 2027
 41.040.17. Student Debriefing
 Due to the likely effects of reverse culture shock, following their return, students and their
 parents or legal guardians should be encouraged to attend a debriefing meeting for the
@@ -13989,7 +13967,7 @@ supervisory and parental responsibility to ensure the student’s well-being. (J
 Mtg., Bd. Dec. 152)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: March 1997 Mtg., Bd. Dec. 275;
 Amended by January 2009 Mtg., Bd. Dec. 152
 41.040.21. Early Returns
@@ -14028,7 +14006,7 @@ The Board has no objection to the formation of regional groups for the purpose o
 disseminating information, facilitating communication, organizing learning events or
 
 Rotary International Code of Policies
-October 2026
+January 2027
 conferences, or sharing best practices between certified districts and multidistricts provided
 that:
 1. there is no objection by the governors of each of the districts that may be the intended
@@ -14066,7 +14044,7 @@ program participants must amicably resolve internal disagreements. RI will not
 intervene.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: October 2025 Mtg., Bd. Dec. 33
 41.050. Rotary Youth Leadership Awards
 Rotary Youth Leadership Awards, also known as RYLA, is a program of Rotary International,
@@ -14102,7 +14080,7 @@ difference in their communities;
 the continuing engagement opportunities available through Rotary International
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. Fulfill Rotary’s commitment to youth service by empowering young people through
 leadership development.
 (January 2021 Mtg., Bd. Dec. 84)
@@ -14139,7 +14117,7 @@ development and leadership development.
 collaborative partnerships with local organizations
 
 Rotary International Code of Policies
-October 2026
+January 2027
 5. Evaluate impact of RYLA program by collecting data from participants and facilitators
 and utilize findings to shape future programming.
 (April 2025 Mtg., Bd. Dec. 147)
@@ -14169,7 +14147,7 @@ RI will not intervene.
 Source: October 2025 Mtg., Bd. Dec. 33
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 42. GLOBAL NETWORKING GROUPS
 42.010. Rotary Fellowships
 42.020. Rotary Action Groups
@@ -14206,7 +14184,7 @@ To be recognized as a fellowship, a group shall:
 Foundation program.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. Not be utilized as a tactic to promote a service project or program.
 4. Utilize a commonly understood name reflecting the fellowships’ interest, vocation, or
 recreational activity.
@@ -14241,7 +14219,7 @@ Source: January 2019 Mtg., Bd. Dec. 115;
 Amended by November 2021 Mtg., Bd. Dec. 52; June 2026 Mtg., Bd. Dec. 144
 
 Rotary International Code of Policies
-October 2026
+January 2027
 42.010.4. Governance
 Rotary Fellowships must adhere to standard bylaws as approved by the RI Board. Rotary
 Fellowships shall be governed by a board of directors with at least three members and up to
@@ -14280,7 +14258,7 @@ Rotary Fellowships must prominently display the statement “This fellowship is 
 of, or controlled by, Rotary International” or similar language approved by the general
 
 Rotary International Code of Policies
-October 2026
+January 2027
 secretary in newsletters, publications, brochures, and websites. Following is an approved
 example of how such language may be incorporated into a statement describing the
 fellowship.
@@ -14320,7 +14298,7 @@ and approval by the general secretary. (April 2023 Mtg., Bd. Dec. 121)
 Source: May 2012 Mtg., Bd. Dec. 244;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by October 2019 Mtg., Bd. Dec. 29; November 2021 Mtg., Bd. Dec. 52; April 2023 Mtg., Bd. Dec.
 121
 Cross-References
@@ -14360,7 +14338,7 @@ may be occupied by independent outside board member(s) who is not a Rotarian, Ro
 or a Peace Fellow.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Membership in the Rotary Action Group is open to any interested individual. Membership may
 also be offered to Rotaract clubs, Rotary clubs, and districts on an annual basis at the discretion
 of the Rotary Action Groups’ board of directors. (October 2022 Mtg., Bd. Dec. 47)
@@ -14399,7 +14377,7 @@ for their projects
 4. Meet all of the requirements and policies for Rotary Action Groups
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Provisionally recognized Rotary Action Groups shall have all the rights and responsibilities
 of Rotary Action Groups. At the end of the two-year period, the Board may recognize or
 terminate the provisional Rotary Action Group. Groups that are denied recognition may not
@@ -14438,7 +14416,7 @@ Amended by January 2011 Mtg., Bd. Dec. 137; January 2016 Mtg., Bd. Dec. 123; Jan
 2021 Mtg., Bd. Dec. 157; October 2025 Mtg., Bd. Dec. 33
 
 Rotary International Code of Policies
-October 2026
+January 2027
 42.020.7. Rotary Action Group Communication Policies
 1. Websites - Rotary Action Groups must maintain websites that promote their activities
 and inform their members. Groups in formation that have not yet received recognition
@@ -14479,7 +14457,7 @@ facilitate collaboration opportunities between clubs and Rotary Action Groups on
 and activities pertaining to the groups’ respective areas of specialty.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Governors-elect and club presidents-elect shall be trained in the purpose, operation,
 composition, and targeted expertise of Rotary Action Groups. This should include how to
 use Rotary Action Groups to assist clubs and districts in supporting RI strategic plan
@@ -14515,7 +14493,7 @@ administrative expenses incurred as a result supporting chapters. (April 2021 Mt
 Source: April 2021 Mtg., Bd. Dec. 157
 
 Rotary International Code of Policies
-October 2026
+January 2027
 42.020.11. Services
 Services include use of the Rotary Marks and listing in program publications and on the RI
 website. (November 2021 Mtg., Bd. Dec. 53)
@@ -14554,7 +14532,7 @@ on their membership application materials. Rotary Action Groups shall prepare an
 a statement of income and expenses annually to their members.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Rotary Action Groups may have paid staff. Groups may pay staff salaries and other
 administrative costs through membership dues, through project administrative fees paid as
 part of a grant, or through donations designated for such expenses.
@@ -14564,8 +14542,7 @@ organizations, provided that donations are for the purpose of supporting:
 • The Rotary Foundation
 • a separate implementing organization working with Rotary or Rotaract clubs
 on a project (provided there is no conflict of interest between the Rotary
-Action Group, its officers and/or directors, and the entity receiving the
-funds)
+Action Group, its officers and/or directors, and the entity receiving the funds)
 Rotary Action Groups may hold donations for the groups listed above in an amount not to
 exceed US$100,000. Rotary Action Groups seeking to hold funds in excess of US$100,000
 shall first obtain approval from the general secretary. (November 2021 Mtg., Bd. Dec. 53)
@@ -14592,10 +14569,10 @@ Cross-References
 The advisability of incorporation is a matter the members of a Rotary Action Group should
 determine in light of their activities. Applications for incorporation must be submitted to the
 general secretary for review prior to submission. The articles of incorporation, or equivalent
+corporate document, of a Rotary Action Group must include a statement to the effect that the
 
 Rotary International Code of Policies
-October 2026
-corporate document, of a Rotary Action Group must include a statement to the effect that the
+January 2027
 group is not an activity or agency of RI and must be in accordance with RI policy. (January
 2011 Mtg., Bd. Dec. 137)
 Source: June 2005 Mtg., Bd. Dec. 302;
@@ -14633,10 +14610,10 @@ Rotary Action Groups are strongly encouraged to be inclusive:
 shared area of concentration by incorporating their expertise, creating leadership
 opportunities, and helping elevate their cause through subcommittees, campaigns, or
 signature programs.
+(April 2025 Mtg., Bd. Dec. 147)
 
 Rotary International Code of Policies
-October 2026
-(April 2025 Mtg., Bd. Dec. 147)
+January 2027
 Source: April 2021 Mtg., Bd. Dec. 157
 See Also: April 2025 Mtg., Bd. Dec. 147
 Cross-References
@@ -14675,7 +14652,7 @@ Rotarian, Rotaractor, or a Peace Fellow. The Global Networking Group may elect s
 other officers as required by local law and as provided for in its corporate documents
 
 Rotary International Code of Policies
-October 2026
+January 2027
 9. The chair shall report annually to the members on the status of the Global Networking
 Group incorporation
 10. The Global Networking Group corporation is not an activity or agency of RI.
@@ -14692,7 +14669,7 @@ Cross-References
 32.090.5. Global Networking Groups
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 43. AWARDS
 43.010. Club Excellence Award
 43.020. Significant Service Award
@@ -14729,7 +14706,7 @@ The current club president may forward to the current governor for consideration
 description undertaken during their year of service. Upon receipt, the governor may
 
 Rotary International Code of Policies
-October 2026
+January 2027
 determine that the achievement is worthy of recognition by certificate. (April 2020 Mtg., Bd.
 Dec. 139)
 Source: July 1991 Mtg., Bd. Dec. 22;
@@ -14768,7 +14745,7 @@ Silver Level: Sponsored 30-49 members
 Gold Level: Sponsored 50-74 members
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Platinum Level: Sponsored 75+ members
 (June 2021 Bd. Mtg., Dec. 190)
 Source: June 2021 Bd. Mtg., Dec. 190
@@ -14809,7 +14786,7 @@ November 2009 Mtg., Bd. Dec. 58; October 2015 Mtg., Bd. Dec. 61; January 2017 Mt
 2018 Mtg., Bd. Dec. 109; April 2020 Mtg., Bd. Dec. 139; June 2021 Mtg., Bd. Dec. 177
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Cross-References
 32.090.15. Service Awards
 43.050. Avenues of Service Award
@@ -14848,9 +14825,9 @@ governmental, or nongovernmental entity to work on a service project
 together
 
 Rotary International Code of Policies
-October 2026
-• Participating in World Community Service, Friendship Exchange,
-Vocational Training Team, or Intercountry Committees
+January 2027
+• Participating in World Community Service, Friendship Exchange, Vocational
+Training Team, or Intercountry Committees
 • Organizing the club's participation in a local or international project faire
 • Participating in a Rotary Action Group’s support of a service project
 Vocational Service: Having exhibited significant support of vocational service by
@@ -14861,8 +14838,8 @@ vocational talents to serve the community.
 others to take action
 • Teaching other club members about their vocation by participating in a
 classification talk
-• Participating in a business networking event that introduces non-Rotarians
-to the principles of vocational service
+• Participating in a business networking event that introduces non-Rotarians to
+the principles of vocational service
 • Implementing an activity to celebrate Vocational Service Month in January
 • Participating in a Vocational Training Team
 Youth Service: Having exhibited significant support of youth service by empowering youth
@@ -14876,8 +14853,8 @@ opportunities
 • Actively mentoring and coaching Interactors’ and Rotaractors’ personal,
 professional, and leadership development
 • Hosting a youth exchange student
-• Implementing a service project to recognize World Interact or Rotaract
-Week or Youth service month
+• Implementing a service project to recognize World Interact or Rotaract Week
+or Youth service month
 Upon receipt, the governor may determine that the achievement is worthy of recognition by
 certificate. At such time as a Rotarian or Rotaractor has achieved recognition in all five
 avenues of service a governor may nominate that Rotarian or Rotaractor for recognition by
@@ -14889,7 +14866,7 @@ January 2017 Mtg., Bd. Dec. 115; April 2018 Mtg., Bd. Dec. 162; April 2020 Mtg.,
 Mtg., Bd. Dec. 30
 
 Rotary International Code of Policies
-October 2026
+January 2027
 43.060. The Sylvia Whitlock Leadership Award
 The Sylvia Whitlock Leadership Award honors one Rotary member per year who has
 actively worked to advance women in Rotary.
@@ -14926,7 +14903,7 @@ community.
 Source: October 2014 Mtg., Bd. Dec. 65
 
 Rotary International Code of Policies
-October 2026
+January 2027
 43.070.2. Eligibility Criteria
 1. Candidates must accept the award in person at the Rotary International Convention, with
 exception being granted in special circumstances.
@@ -14964,7 +14941,7 @@ authorized to designate the selected alternate as the award recipient if the pri
 recipient cannot receive the award at the Rotary convention.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4. Presentation of the award will be made jointly by the trustee chair and RI president during
 a plenary session at the Rotary International Convention.
 (February 2022 Mtg., Bd. Dec. 81)
@@ -15000,7 +14977,7 @@ current officers
 4. Involve a majority of association members
 
 Rotary International Code of Policies
-October 2026
+January 2027
 5. Complete a project or activity over the past twelve months that has impact on either a
 local or international community
 6. Have an online presence through social media, such as Facebook, LinkedIn, or other site
@@ -15038,7 +15015,7 @@ at the Rotary convention.
 (February 2022 Mtg., Bd. Dec. 81)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: October 2018 Mtg., Bd. Dec. 34;
 Amended by October 2019 Mtg., Bd. Dec. 44; October 2019 Mtg., Bd. Dec. 67; January 2020 Mtg., Bd. Dec.
 85; February 2022 Mtg., Bd. Dec. 81
@@ -15075,7 +15052,7 @@ and/or manufacturer’s cost, the expense of which will be the financial respons
 the requestor.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. RI staff will ensure the integrity of the award replacement by confirming for the
 producer/manufacturer the validity of the request and facilitate the ordering of these
 items.
@@ -15098,7 +15075,7 @@ of the program
 Source: January 2017 Mtg., Bd. Dec. 87
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 44. ROTARY CLUBS, ROTARY DISTRICTS, AND OTHER ROTARY ENTITIES AND
 OTHER ORGANIZATIONS
 44.010. Development of Service Projects
@@ -15135,7 +15112,7 @@ service activities. (January 2017 Mtg., Bd. Dec. 96)
 Source: February 2002 Mtg., Bd. Dec. 213;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by January 2017 Mtg., Bd. Dec. 96
 44.020. Guidelines for Rotary Clubs, Rotary Districts, and Other Rotary Entities for
 Interacting with Other Organizations
@@ -15175,7 +15152,7 @@ participation or financial support of such projects or activities at board meeti
 district conferences, annual meetings or by other appropriate means
 
 Rotary International Code of Policies
-October 2026
+January 2027
 i. such activity or cooperative agreement entered into by a club, district or other Rotary
 Entity does not in any way bind or commit Rotary International or The Rotary
 Foundation to said activity or agreement.
@@ -15219,7 +15196,7 @@ Rotary club(s), Rotary district(s) or other Rotary Entity, as further set out in
 10, below.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 11. When one of the Rotary Marks is used in combination with the name or logo of another
 organization, further identifying language of the name of the Rotary club(s), Rotary
 district(s) or other Rotary Entity must also be used in close proximity to and in equal
@@ -15263,7 +15240,7 @@ licensed vendor. If the desired goods are not reasonably available from a RI lic
 release must be obtained from the RI Licensing Section.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 15. Each use of any of the Rotary Marks in combination with the name or logo of another
 organization should be subject to a pre-publication review and approval process on the
 part of the Rotary club(s), Rotary district(s) or other Rotary Entity or by RI. RI, the Rotary
@@ -15305,7 +15282,7 @@ other organizations, except:
 Executive Committee may not furnish such lists in violation of any applicable laws.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (February 2001 Mtg., Bd. Dec. 219)
 Source: January 1941 Mtg., Bd. Dec. 103, January 1955 Mtg., Bd. Dec. 87; October 1988 Mtg. Bd. Dec. 114;
 Amended by February 2001 Mtg., Bd. Dec. 219
@@ -15328,27 +15305,21 @@ informal extension activities in the project country. Extension is the responsib
 Board.
 2. The purpose, scope, time frame, beneficiaries, and role of the club should be clearly
 explained to the leaders of the community in which the project is undertaken, as well as
-to government authorities in the area.
-3. A complete outline of the project prospectus, including purposes, objectives, in-country
-contacts, extent and kind of involvement of other organizations and government
-agencies, timetable for completion, and whether Foundation grant funding is being
-sought should be provided to the governor with a copy to the general secretary before the
-project is implemented.
-4. A project status report should be provided to the governor with a copy to the general
-secretary on a semiannual basis.
-5. The club should ensure that the project does not violate the laws of the country of the
-club, or the project country, and has received approval from the appropriate government
-authority of the project country to undertake the project.
-6. If working in cooperation with another organization(s) the club should determine that
+to government authorities in the area. The club shall ensure that the project does not
+violate the laws of the country of the club, or the project country, and has received
+approval from the Extension Representative appointed by the RI President and
+appropriate government authority of the project country to undertake the project.
+3. The club should inform the district international service committee of its activities, and
+work through the district Rotary Foundation committee if it seeks Foundation grant
+funding.
+4. If working in cooperation with another organization(s) the club should determine that
 such organization(s) is registered and acts within the laws of the project country.
-(June 1998 Mtg., Bd. Dec. 348)
-
-Rotary International Code of Policies
-October 2026
+(October 2026 Mtg., Bd. Dec. 24)
 Source: November 1996 Mtg., Bd. Dec. 94
+Amended by October 2026 Mtg., Bd. Dec. 24
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER VI – COMMUNICATIONS
 Articles
 Article 48. Official Language and Translation
@@ -15384,7 +15355,7 @@ information to the clubs in their district(s). Publications translated by volunt
 be considered official RI translations.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The Board has approved a plan for a project for translation of publications by volunteers and
 recommends that language groups other than those listed above participate in the ongoing
 Translation Project under which RI reimburses for the printing and distribution of publications
@@ -15423,7 +15394,7 @@ Manual of Procedure or downloading an electronic copy from the Rotary website.
 Source: January 1976 Mtg., Bd. Dec. 80; Amended by September 2016 Mtg., Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 48.020.5. Translation of Name “Rotary Club of”
 A club may use the language of the country in which it is located to designate the name of
 the club so long as the name in translation reflects accurately the designation as given in
@@ -15434,7 +15405,7 @@ Cross-References
 58.040.2. Simultaneous Interpretation/Language Support
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 49. MEMBERSHIP COMMUNICATIONS
 49.010. Official Notices
 49.020. Board Minutes
@@ -15470,7 +15441,7 @@ Amended by February 1999 Mtg., Bd. Dec. 208; November 1999 Mtg., Bd. Dec. 201; S
 Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 49.040. Constitutional Documents
 The revised English edition of the constitutional documents should be mailed to all districts
 within two months of adjournment of the Council. Adopted enactments should be reproduced
@@ -15507,7 +15478,7 @@ Amended by May 2011 Mtg., Bd. Dec. 252; January 2012 Mtg., Bd. Dec. 158; May 201
 January 2017 Mtg., Bd. Dec. 86; January 2018 Mtg., Bd. Dec. 97; April 2018 Mtg., Bd. Dec. 135
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 50. PUBLIC RELATIONS AND INFORMATION
 50.010. Purpose of RI Public Relations
 50.020. Public Relations Guidelines for Pro Bono Relationships with Corporate Entities
@@ -15544,7 +15515,7 @@ agreement with the corporate entity. Terms of the agreement will include, but no
 to, the following:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. Message development: Standing key messages exist within RI/TRF. Altering or adapting
 these messages must gain approval by the general secretary to deter the release of
 misinformation to the general public and RI membership.
@@ -15588,7 +15559,7 @@ messages and media placement activities will need prior approval from the genera
 The general secretary will update the Board of Directors on a quarterly basis on the results
 
 Rotary International Code of Policies
-October 2026
+January 2027
 of the agreement. RI/TRF retains the right to terminate the agreement at any time. (October
 2013 Mtg., Bd. Dec. 30)
 Source: May 2000 Mtg., Bd. Dec. 441;
@@ -15598,7 +15569,7 @@ Cross-References
 57.090. Public Relations
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 51. PUBLICATIONS
 51.010. Official Magazine
 51.020. Rotary Regional Magazines
@@ -15634,7 +15605,7 @@ which Rotary works and serves, with the understanding that there will be no comm
 published, no matter by whom submitted, which might reasonably be expected by the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 editors to be offensive to the citizens of any nationality or be adverse to the best interests
 of any country.
 7. To help strengthen the fabric of society by treating family-life topics, including helpful
@@ -15672,7 +15643,7 @@ business and professional interests and that such competition should not be the 
 rejection of legitimate advertising.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 5. RI does not endorse any advertiser and does not assume financial responsibility or
 obligation in connection with advertised goods and services.
 II. Standard for Acceptance
@@ -15711,7 +15682,7 @@ Products.
 V. Unacceptable Advertising
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Each case is to be decided on its merits. The following types of advertising are not acceptable:
 1. Fraudulent or misleading advertising; false, unwarranted or exaggerated claims; vulgar,
 suggestive or offensive copy; and "bait" advertising where the reader is denied a fair
@@ -15748,7 +15719,7 @@ Bd. Dec. 49; June 2004 Mtg., Bd. Dec. 236;
 Amended by May 2003 Mtg., Bd. Dec. 325; January 2008 Mtg., Bd. Dec. 203; October 2018 Mtg., Bd. Dec. 68
 
 Rotary International Code of Policies
-October 2026
+January 2027
 51.010.6. Advertising Content of Rotary Magazine
 The advertising content of Rotary should not exceed 35% of pages on an annual basis. (June
 1998 Mtg., Bd. Dec. 348)
@@ -15788,7 +15759,7 @@ Amended by January 2008 Mtg., Bd. Dec. 200; November 2008 Mtg., Bd. Dec. 109; Ja
 Dec. 132; May 2023 Mtg., Bd. Dec. 147
 
 Rotary International Code of Policies
-October 2026
+January 2027
 51.010.9. Gratis Subscription to the Official Magazine for Surviving Partner of a Past RI General
 Officer
 The general secretary shall ensure that the surviving partner of a past general officer shall
@@ -15825,7 +15796,7 @@ provides that each member of a club subscribe to a Rotary licensed publication. 
 Source: November 2002 Mtg., Bd. Dec. 145;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by January 2009 Mtg., Bd. Dec. 132; June 2010 Mtg., Bd. Dec. 182; April 2018 Mtg., Bd. Dec. 164;
 October 2018 Mtg., Bd. Dec. 68
 51.020.1. Rotary Regional Magazine Criteria
@@ -15864,7 +15835,7 @@ Rotary regional magazines.
 license agreement with RI;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 15. Before a new magazine may be considered for licensing, it must complete a two-year
 pilot program.
 16. Only licensed Rotary regional magazines shall receive RI support and services;
@@ -15907,7 +15878,7 @@ Dec. 182; November 2010 Mtg., Bd. Dec. 100; May 2014 Mtg., Bd. Dec. 163; January
 April 2018 Mtg., Bd. Dec. 164
 
 Rotary International Code of Policies
-October 2026
+January 2027
 51.020.4. Guidelines for Rotary Regional Magazine Licensing
 The Board has approved the following guidelines for Rotary regional magazine licensing:
 I. Qualifications
@@ -15948,7 +15919,7 @@ for publishing a licensed Rotary regional magazine. Once the agreement is signed
 regional magazines may announce or publish news of their licensed status.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 6. RI shall review every regional magazine. Should any noncompliance with RI guidelines
 be discovered, the regional magazine may be placed on probation or terminated, as set
 forth in the license agreement with RI.
@@ -15986,7 +15957,7 @@ improvements for the licensed period;
 g. a report of advertising policy and rates;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 h. a financial stability letter, signed by the chair of the regional magazine advisory board.
 The statement will verify that the regional magazine is financially viable and in a
 position to maintain publication.
@@ -16028,7 +15999,7 @@ impacted magazine (to both the publisher and the advisory board chair) and solic
 response within sixty (60) days. Thereafter, the resolution will be researched and considered
 
 Rotary International Code of Policies
-October 2026
+January 2027
 by the general secretary. At the general secretary’s discretion, once sufficient information
 has been gathered and if a meritorious case exists, the general secretary will bring the matter
 to the board for its consideration. The board, in deciding the issue, will consider the
@@ -16068,7 +16039,7 @@ roles, whether elected or appointed
 authorized club ballot
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4. Club is not authorized to concur with any proposed legislation submitted to the Council
 on Legislation or resolutions to the Council on Resolutions
 5. Club is not authorized to concur with a challenge to the nomination of a candidate for
@@ -16106,7 +16077,7 @@ Cross-References
 58.030.11. Regional Magazine Editors
 
 Rotary International Code of Policies
-October 2026
+January 2027
 51.030. Guidelines for New Publications
 Any proposal for a new RI publication must be submitted to the Board through the general
 secretary. The general secretary shall be charged with the responsibility of developing
@@ -16142,12 +16113,12 @@ Rotary Leader will be published in eight languages – English, French, German, 
 Japanese, Korean, Portuguese and Spanish. (January 2026 Mtg., Bd. Dec. 62))
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: June 2010 Mtg., Bd. Dec. 182
 Amended by June 2025 Mtg., Bd. Dec. 155; January 2026 Mtg., Bd. Dec. 62
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 52. AUDIO/VISUAL/ELECTRONIC COMMUNICATIONS
 52.010. Audiovisuals
 52.020. Internet and Electronic Communications
@@ -16185,7 +16156,7 @@ Rotarians with timely and accurate information about the programs of Rotary Inte
 and The Rotary Foundation. Editors of Rotary publications in all media are encouraged to
 
 Rotary International Code of Policies
-October 2026
+January 2027
 use this information in their respective Rotary organs, provided they adhere to the copyright
 policies posted on the RI site. Furthermore Rotarians in charge of club, district, and other
 Rotary Entity websites shall, when feasible, include a link to the RI website for the benefit
@@ -16226,7 +16197,7 @@ to include the plural, as well as the singular uses thereof):
 • serviceaboveself
 
 Rotary International Code of Policies
-October 2026
+January 2027
 To the extent possible, each Rotary Mark should be maintained as a domain name (in
 conjunction with each major TLD such as .com, .org, .net, .info, .biz and others, as they
 become available), a TLD or other major identifier of Rotary on the Internet.
@@ -16266,7 +16237,7 @@ Property area of the Office of the General Counsel shall handle the registration
 maintenance of TLDs and domain names for Rotary International and The Rotary
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Foundation, with technical and substantive support from IT, Communications and CDS, as
 necessary.
 IV. Rotary Clubs, Rotary Districts and Other Rotary Entities
@@ -16307,7 +16278,7 @@ RI Web language communities will be developed and maintained in Japanese, Portug
 Spanish, French, German, Korean, Italian and Swedish.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 RI Web language communities are the only official language websites of Rotary
 International. (February 2006 Mtg., Bd. Dec. 137)
 Source: November 1999 Mtg., Bd. Dec. 226; May 2000 Mtg., Bd. Dec. 436.
@@ -16329,7 +16300,7 @@ Cross-References
 34.040.15. Use of the Word “Rotarian” in Club Publications
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 53. OTHER COMMUNICATIONS
 53.010. Rotary International Archives
 53.020. Rose Parade Float
@@ -16367,7 +16338,7 @@ indemnity as deemed necessary by the general secretary;
 gives notice on or before 31 January of any given year.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 (January 2011 Mtg., Bd. Dec. 164)
 Source: January-February 1989 Mtg., Bd. Dec. 235; January 2008 Mtg., Bd. Dec. 157;
 Amended by June 2009 Mtg., Bd. Dec. 217; January 2011 Mtg., Bd. Dec. 164.
@@ -16381,7 +16352,7 @@ message from the president without his or her prior approval. (June 1998 Mtg., B
 Source: April 1991 Mtg., Bd. Dec. 304
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER VII – MEETINGS
 Articles
 Article 57. International Convention
@@ -16418,7 +16389,7 @@ The Board will define an area consisting of one or more districts, which shall b
 as the host area. (January 2012 Mtg., Bd. Dec. 201)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: February 1981 Mtg., Bd. Dec. 292;
 Amended by November 2007 Mtg., Bd. Dec. 87
 57.020.2. Host Organization Advised of Guidelines
@@ -16456,7 +16427,7 @@ location, and that is in accordance with local insurance laws and requirements. 
 Source: October 2023 Mtg., Bd. Dec. 24
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.030. Guidelines
 A manual for the general guidance of the convention committee has been approved and is
 revised from time to time by the Board and distributed as detailed in the manual for
@@ -16494,7 +16465,7 @@ Source: June 1977 Mtg., Bd. Dec. 362; November 1991 Mtg., Bd. Dec. 98; October 1
 Amended by June 2007 Mtg., Bd. Dec. 289; January 2011 Mtg., Bd. Dec. 150
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.040.3. Cost Control Measures in Convention Site Selection
 To control Convention expenses, negotiations to reduce costs in the following areas may
 be conducted before the selection of the convention city: housing, meeting places, and other
@@ -16535,7 +16506,7 @@ years. The general secretary will alert the Board to any serious problems encoun
 convention planning.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 In the event information is received which indicates that the location of a meeting which
 has already been determined has become inaccessible, the Board shall consider changing
 such location. (June 2002 Mtg., Bd. Dec. 266)
@@ -16570,7 +16541,7 @@ Registration at RI Conventions shall be open to
 • Youth Exchange students
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • Foundation scholars
 • non-Rotarian Rotary alumni
 • Rotary club/district employees
@@ -16612,7 +16583,7 @@ US$100 per badge. Convention sponsors will be provided with convention badges as
 indicated in their agreements.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 RI projects and Global Networking Groups exhibitors that do not pay a booth rental fee
 may obtain House of Friendship access badges for their booth staff for US$50 per badge if
 requested before the March pre-registration deadline. All badges requested after the March
@@ -16648,7 +16619,7 @@ Source: February-March 1985 Mtg., Bd. Dec. 246;
 Amended by June 2007 Mtg., Bd. Dec. 289; September 2016 Mtg., Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.050.7. Registration Fees for Preconvention Meetings
 When determining registration fees for preconvention meetings, the president, convention
 chair, and general secretary for that year’s convention, in consultation with the trustee chair
@@ -16686,7 +16657,7 @@ Source: May-June 1977 Mtg., Bd. Dec. 362.
 Amended by November 1999 Mtg., Bd. Dec. 197
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.060.2. Registration/Housing Forms
 Official Convention registration/housing forms shall be distributed one year in advance at
 the preceding Convention and be available online for downloading in official languages.
@@ -16726,7 +16697,7 @@ Amended by November 2007 Mtg., Bd. Dec. 87; November 2010 Mtg., Bd. Dec. 81; Jan
 Dec. 201; October 2025 Mtg., Bd. Dec. 38
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Cross-References
 61.010. Manuals for Sergeants-at-Arms
 57.080. International Convention Committee
@@ -16763,7 +16734,7 @@ purposes, but not for budgeting purposes. This should be done in close associati
 general secretary and the Host Organization, who are responsible to the Convention
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Committee. The Convention Committee will advise, receive instructions from, and work
 with the president of the relevant year to include such president's desires and ideas in the
 program format. The final authority will be the Board. The members of the Convention
@@ -16801,7 +16772,7 @@ work at each Convention. (November 1999 Mtg., Bd. Dec. 197)
 Source: November 1987 Mtg., Bd. Dec. 153;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by November 1999 Mtg., Bd. Dec. 197
 57.100. Finances
 57.100.1. Convention Budget
@@ -16836,7 +16807,7 @@ convention of Rotary International and as such be designated official participan
 • President and partner (to be funded by the current year convention budget)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 • General secretary and partner (to be funded by the current year convention
 budget)
 • Sergeants-at-arms and partners (includes chief and assistant chief SAAs) (to
@@ -16846,10 +16817,10 @@ following year convention budget)
 • Future Year Convention Committee Chair (to be funded by the current year
 convention budget)
 • Deputy sergeants-at-arms (hotel, registration fee, and meals only)
-• Current year Convention Committee and partners (to be funded by the
-current year convention budget)
-• Secretariat staff as assigned by the general secretary to support the
-convention activities
+• Current year Convention Committee and partners (to be funded by the current
+year convention budget)
+• Secretariat staff as assigned by the general secretary to support the convention
+activities
 • Any person assigned by the president or the Board to a place on the program
 of the convention, but who is not included in the above, may have his/her
 expenses paid by RI with the approval of the president
@@ -16878,7 +16849,7 @@ functions held in conjunction with the convention
 no more than 20 such members are paid by RI over a two-year period for the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 same officer serving first as president-elect and then as president at two
 consecutive conventions
 • Following year’s President-elect’s immediate family, provided that the
@@ -16916,7 +16887,7 @@ deliberately established so as to anticipate subvention by this amount. Such res
 intended to reduce the impact of conventions on RI’s general administrative reserve funds.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 In the event that a convention’s revenues exceed expenses, the convention expense reserve
 fund shall be increased by the excess amount. Amounts in this reserve fund exceeding
 US$500,000 may be used to reduce the cost of future RI Conventions. The reserve fund
@@ -16953,7 +16924,7 @@ Source: January 1973 Mtg., Bd. Dec. 169;
 Amended by November 1999 Mtg., Bd. Dec. 197; January 2012 Mtg., Bd. Dec. 201
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.110.1. Plenary Sessions
 All plenary sessions should be directed to achieve the purposes stated in Rotary Code
 section 57.010. Speakers should be knowledgeable regarding Rotary and speak on subjects
@@ -16994,7 +16965,7 @@ Amended by January 2017 Mtg., Bd. Dec. 87; June 2017 Mtg., Bd. Dec. 176; October
 58
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.110.3.2. Council of Past Presidents Preconvention Meeting
 The annual meeting of the Council of Past Presidents, as part of the official convention
 program, shall be scheduled by the Convention Committee in conjunction with the chair of
@@ -17031,7 +17002,7 @@ Convention may also provide simultaneous interpretation in additional languages 
 registration numbers at the December registration deadline warrant adding such
 
 Rotary International Code of Policies
-October 2026
+January 2027
 simultaneous interpretation and if space and budgetary constraints allow RI to do so, at the
 discretion of the general secretary.
 The provision of simultaneous interpretation and the translation of printed matter in
@@ -17071,7 +17042,7 @@ has official status the opportunity to exhibit at conventions, provided that:
 2. the organization's exhibit will not involve fund-raising or on-site sales
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Preference shall be given to strategic partners. Project partners with a direct affiliation to a
 Rotary club or district may apply for space through the Club and District Project
 Exhibition. Organizations exhibiting at the RI Convention shall pay a rental fee for the
@@ -17111,7 +17082,7 @@ Source: November 2005 Mtg., Bd. Dec. 94;
 Amended by February 2007 Mtg., Bd. Dec. 166; January 2012 Mtg., Bd. Dec. 201
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.110.10. Reserved Seating
 Reserved seats at convention plenary sessions will be held in accordance with Board-
 approved protocol (RCOP 26.050, RCOP 61.040). Reserved seating is customarily
@@ -17152,7 +17123,7 @@ Amended by November 2010 Mtg., Bd. Dec. 38; May 2011 Mtg., Bd. Dec. 182; January
 2023 Mtg., Bd. Dec. 106; January 2024 Mtg. Bd. Dec. 76; June 2025 Mtg., Bd. Dec. 155
 
 Rotary International Code of Policies
-October 2026
+January 2027
 57.110.11. Elections at the International Convention
 The Board, consistent with RI Bylaws section 6.010., which provides that no election of
 officers is necessary at the annual convention if the Board determines that the selection of
@@ -17190,7 +17161,7 @@ delegate, will act as the liaison to the president and the RI Board in all matte
 the convention and shall act as liaison for the host organization and host city municipal
 
 Rotary International Code of Policies
-October 2026
+January 2027
 officials. During this period, the general secretary will act as the principal contact to the
 host organization.
 After the Board has tentatively selected the city for the convention, the general secretary
@@ -17227,7 +17198,7 @@ convention and in compliance with existing Board policy, the “Guidelines for S
 of RI Meetings, Events, Projects and Programs” (Code 37.010.), the “RI and TRF
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Guidelines for Use of the Rotary Marks by Other Organizations” (Code 34.030.15.), the
 “Guidelines for Rotary Clubs, Rotary Districts and Other Rotary Entities for Interacting
 with Other Organizations” (Code 44.020.) and the RI Manual for Conventions. (October
@@ -17243,7 +17214,7 @@ Source: June 2007 Mtg., Bd. Dec. 289;
 Amended by November 2007 Mtg., Bd. Dec. 87; January 2009 Mtg., Bd. Dec. 164
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 58. INTERNATIONAL ASSEMBLY
 58.010. Guidelines and Minimum Standards
 58.020. Scheduling
@@ -17277,7 +17248,7 @@ mandatory for participants. Participants are encouraged to bring their partners.
 president-elect is authorized to determine whether persons other than participants and their
 
 Rotary International Code of Policies
-October 2026
+January 2027
 partners, for whom special requests are made to attend the assembly, also may accompany
 designated participants. (April 2018 Mtg., Bd. Dec. 155)
 Source: January 1975 Mtg., Bd. Dec. 96;
@@ -17317,7 +17288,7 @@ the International Assembly by sharing the presiding functions at each plenary se
 the International Assembly. However, the president-elect may appoint additional presiders
 
 Rotary International Code of Policies
-October 2026
+January 2027
 for plenary sessions and major activities at the International Assembly. (May 2000 Mtg.,
 Bd. Dec. 412)
 Source: November 1997 Mtg., Bd. Dec. 107; July 1991 Mtg., Bd. Dec. 40; August 1999 Mtg., Bd. Dec. 72;
@@ -17354,7 +17325,7 @@ Source: October 2023 Mtg., Bd. Dec. 24
 Amended by January 2024 Mtg. Bd. Dec. 76
 
 Rotary International Code of Policies
-October 2026
+January 2027
 58.030.7. Selection Criteria of Assembly Leadership Roles
 Several leadership roles are selected annually by the president-elect. The qualifications are
 detailed in the Manual for the International Assembly for the following:
@@ -17394,7 +17365,7 @@ the governor-elect registers them for the meal plan and/or purchases tickets for
 events which will be sold on a space-available basis. Children may attend the general
 
 Rotary International Code of Policies
-October 2026
+January 2027
 sessions, but are not permitted to attend the breakout sessions. (January 2018 Mtg., Bd.
 Dec. 105)
 Source: January 2018 Mtg., Bd. Dec. 105
@@ -17434,7 +17405,7 @@ Cross-References
 61.010. Manuals for Sergeants-at-Arms
 
 Rotary International Code of Policies
-October 2026
+January 2027
 58.040. Learning, Programs, and Sessions
 The instructional and informational programs shall be approved by the president-elect, as
 recommended by the International Assembly moderator. Plenary presentations shall be
@@ -17473,7 +17444,7 @@ for partners of governors-elect. The partner program should be complementary to 
 program developed for governors-elect by featuring similar content, yet should be tailored
 
 Rotary International Code of Policies
-October 2026
+January 2027
 to address an audience with varying degrees of Rotary knowledge and experience. (January
 2021 Mtg., Bd. Dec. 84)
 Source: November 2008 Mtg., Bd. Dec. 82; October 2012 Mtg., Bd. Dec. 100;
@@ -17496,8 +17467,7 @@ The following individuals shall be introduced individually during one of the ple
 sessions:
 • Current and incoming members of the Board, with their partners
 • Past presidents, with their partners
-• Current and incoming Trustees of The Rotary Foundation, with their
-partners
+• Current and incoming Trustees of The Rotary Foundation, with their partners
 (January 2012 Mtg., Bd. Dec. 201)
 Source: November 2005 Mtg., Bd. Dec. 94; Amended by January 2012 Mtg., Bd. Dec. 201
 58.050. Publications
@@ -17507,10 +17477,10 @@ International Assembly in English, French, Japanese, Korean, Spanish, and Portug
 Specific content-related materials will be provided to the governors-elect in Italian. All
 publications must have the prior approval of the assembly moderator, and the concurrence
 of the president-elect. (June 2006 Mtg., Bd. Dec. 254)
+Source: July 1991 Mtg., Bd. Dec. 40;
 
 Rotary International Code of Policies
-October 2026
-Source: July 1991 Mtg., Bd. Dec. 40;
+January 2027
 Amended by May 2000 Mtg., Bd. Dec. 412; June 2006 Mtg., Bd. Dec. 254
 58.060. Finances
 58.060.1. International Assembly Attendance Expenses Paid by RI and TRF
@@ -17535,8 +17505,8 @@ Official participants for the International Assembly whose expenses are paid by 
 • First Aid Officer
 • Sergeants-at-arms and partners (including Chief Sergeant-at-arms)
 • Convention chairs and partners (for following two conventions)
-• Secretariat staff as the general secretary in consultation with the president
-and president-elect deem necessary
+• Secretariat staff as the general secretary in consultation with the president and
+president-elect deem necessary
 • Any person assigned by the president-elect to a place on the program of the
 Assembly, but who is not included in the above list
 • Any person approved by the president-elect to attend the assembly in a
@@ -17548,15 +17518,14 @@ Foundation include:
 • International PolioPlus Committee Chair
 
 Rotary International Code of Policies
-October 2026
-• Secretariat staff as the general secretary in consultation with the president
-and president-elect deems necessary
+January 2027
+• Secretariat staff as the general secretary in consultation with the president and
+president-elect deems necessary
 Those participants officially authorized to attend the International Assembly as an official
 participant at no cost to Rotary International or its Foundation include:
 • Directors-nominee and partners
 • Officers and officers-nominee of the General Council of RIBI and partners
-• Chairs of committees of Rotary International and its Foundation and
-partners
+• Chairs of committees of Rotary International and its Foundation and partners
 • Past presidents of RI and partners
 • Past general secretaries and partners
 • Past Trustee chair who has not served as an RI president and partner
@@ -17588,7 +17557,7 @@ his or her partner, to attend the International Assembly for a second time at th
 RI only with the consent of the President-elect.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 A past governor who has been selected to serve temporarily or to complete a term of office
 as governor shall be provided strong support from Secretariat staff. (April 2024 Mtg., Bd.
 Dec. 119)
@@ -17627,7 +17596,7 @@ The payment of the expenses of the designated official participants and others i
 the International Assembly is authorized only on the basis of attendance for the entire
 
 Rotary International Code of Policies
-October 2026
+January 2027
 period of the assembly, unless specifically excused by the president-elect. (June 2007 Mtg.,
 Bd. Dec. 290)
 Source: July 1998 Mtg., Bd. Dec. 47;
@@ -17656,7 +17625,7 @@ whose registration fee will be waived. (June 2007 Mtg., Bd. Dec. 290)
 Source: June 2007 Mtg., Bd. Dec. 290
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 59. COUNCIL ON LEGISLATION AND COUNCIL ON RESOLUTIONS
 59.010. Site Selection for the Council on Legislation
 59.020. Proposed Legislation and Resolutions
@@ -17689,7 +17658,7 @@ Source: February 2003 Mtg., Bd. Dec. 221;
 Amended by September 2016 Mtg., Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 59.020. Proposed Legislation and Resolutions
 59.020.1. Publishing Proposed Legislation and Resolutions
 English shall be the official language of the Councils and all enactments, position
@@ -17729,7 +17698,7 @@ the opinion of the general secretary, have a significant financial impact if the
 legislation or resolution is adopted, and such financial impact statements shall be
 
 Rotary International Code of Policies
-October 2026
+January 2027
 published. In drafting financial impact statements, the general secretary should consult with
 the Constitution and Bylaws Committee, including attending the Committee’s meetings as
 appropriate, to ensure that financial impact statements are written with a complete
@@ -17769,7 +17738,7 @@ advise the Board on Council matters, including proposed legislation and resoluti
 and responsibilities at the Councils, and, in the year of the Council on Legislation,
 
 Rotary International Code of Policies
-October 2026
+January 2027
 statements of support and opposition for consideration by the Board. In addition, in the
 year of the Council on Legislation, a Rotarian experienced in Council matters may be
 designated by the president to assist the Board with Council procedures and the Board’s
@@ -17810,7 +17779,7 @@ Source: June 2005 Mtg., Bd. Dec. 288;
 Amended by September 2016 Mtg., Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 59.020.12. Defective Legislation
 The Constitution and Bylaws Committee and general secretary should not devote undue
 time and attention to any proposed legislation that involves fundamental and extensive
@@ -17845,7 +17814,7 @@ Source: November 1999 Mtg., Bd. Dec. 201;
 Amended by September 2016 Mtg., Bd. Dec. 28; October 2019 Mtg., Bd. Dec. 29
 
 Rotary International Code of Policies
-October 2026
+January 2027
 59.040. District Council Representatives
 59.040.1. Selection of Representatives
 Each district is encouraged to select as its representative to the Councils the best-qualified
@@ -17885,7 +17854,7 @@ There should be a minimum of ten sergeants-at-arms at the Council on Legislation
 addition to the chief sergeant. There should be at least one sergeant for each language for
 
 Rotary International Code of Policies
-October 2026
+January 2027
 which simultaneous interpretation is provided at the Council. (September 2016 Mtg., Bd.
 Dec. 28)
 Source: November 1999 Mtg., Bd. Dec. 201;
@@ -17921,7 +17890,7 @@ Source: February 1999 Mtg., Bd. Dec. 207;
 Amended by June 2005 Mtg., Bd. Dec. 289; September 2016 Mtg., Bd. Dec. 28
 
 Rotary International Code of Policies
-October 2026
+January 2027
 59.060.4. Pre-Council on Legislation Workshop
 The Council leadership shall plan for a workshop for Council members prior to the
 convening of the Council on Legislation. (September 2016 Mtg., Bd. Dec. 28)
@@ -17959,7 +17928,7 @@ To the extent possible, the Council on Resolutions should be planned and maintai
 that representatives are able to carry out their responsibilities within a reasonable time
 
 Rotary International Code of Policies
-October 2026
+January 2027
 period so they are effective in the manner in which they represent the clubs in their
 respective districts. The Council shall be conducted in English, with translation provided
 as needed in French, Japanese, Korean, Portuguese, and Spanish.
@@ -17997,7 +17966,7 @@ manner. (April 2024 Mtg., Bd. Dec. 119)
 Source: November 1997 Mtg., Bd. Dec. 202;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by February 2003 Mtg., Bd. Dec. 221; May 2014 Mtg., Bd. Dec. 126; September 2016 Mtg., Bd.
 Dec. 28; April 2024 Mtg., Bd. Dec. 119
 Affirmed by November 1999 Mtg., Bd. Dec 198
@@ -18032,20 +18001,19 @@ Mtg., Bd. Dec. 182; May 2014 Mtg., Bd. Dec. 128; September 2016 Mtg., Bd. Dec. 2
 Dec. 135; January 2024 Mtg. Bd. Dec. 76; October 2025 Mtg., Bd. Dec. 31
 
 Rotary International Code of Policies
-October 2026
+January 2027
 59.080.4. Expenses of Incoming Members of the Constitution and Bylaws Committee to Attend
 Council on Legislation and Committee Meetings
 RI shall pay the following travel, lodging and meal expenses related to the holding of the
 Council on Legislation:
 • The incoming member of the Constitution and Bylaws Committee whose
-term of office commences on 1 July in the year of the Council on
-Legislation shall be invited to attend as an observer at the last meeting of
-such committee prior to the 1 July appointment. Such attendance will be at
-RI expense.
-• The member of the Constitution and Bylaws Committee whose term of
-office commences on 1 July following the Council on Legislation shall be
-invited to attend both the pre- and post- Council Operations Committee
-meetings, and the Council as an observer at RI expense.
+term of office commences on 1 July in the year of the Council on Legislation
+shall be invited to attend as an observer at the last meeting of such committee
+prior to the 1 July appointment. Such attendance will be at RI expense.
+• The member of the Constitution and Bylaws Committee whose term of office
+commences on 1 July following the Council on Legislation shall be invited to
+attend both the pre- and post- Council Operations Committee meetings, and
+the Council as an observer at RI expense.
 (September 2016 Mtg., Bd. Dec. 28)
 Source: February 1988 Mtg., Bd. Dec. 236.
 Amended by November 1999 Mtg., Bd. Dec 201; September 2016 Mtg., Bd. Dec. 28
@@ -18070,7 +18038,7 @@ Cross-References
 32.040.2. Examining Proposed Legislation and Resolutions
 
 Rotary International Code of Policies
-October 2026
+January 2027
 59.100. Post-Council Activities
 59.100.1. Club Review of Council Action
 As part of the legislative process of RI, clubs are free to contact other clubs to discuss the
@@ -18088,7 +18056,7 @@ Cross-References
 49.030. Manual of Procedure
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 60. INSTITUTES
 60.010. Rotary Institutes
 60.010. Rotary Institutes
@@ -18126,7 +18094,7 @@ Mtg., Bd. Dec. 119
 The purpose of institutes is to provide:
 
 Rotary International Code of Policies
-October 2026
+January 2027
 1. current, incoming, and past RI officers with updates on RI and Rotary Foundation
 policies and programs;
 2. a forum for Rotary leaders to make comments and recommendations to the Board of
@@ -18164,7 +18132,7 @@ latter’s departure for the institute that the institute will not bear such exp
 Source: April 1991 Mtg., Bd. Dec. 265;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by March 1993 Mtg., Bd. Dec. 188; May 1993 Mtg., Bd. Dec. 225; March 1994 Mtg., Bd. Dec. 164;
 February 1995 Mtg., Bd. Dec. 183; July 1995 Mtg., Bd. Dec. 32; June 1996 Mtg., Bd. Dec. 290; April 1999
 Trustees Mtg., Dec. 129; February 2000 Mtg., Bd. Dec. 298; November 2000 Mtg., Bd. Dec. 114; February
@@ -18206,7 +18174,7 @@ Amended by March 1994 Mtg., Bd. Dec. 164; February 1995 Mtg., Bd. Dec. 183; June
 Bd. Dec. 248; January 2012 Mtg., Bd. Dec. 159; May 2023 Mtg., bd. Dec. 143
 
 Rotary International Code of Policies
-October 2026
+January 2027
 60.010.5. Program
 1. Institutes should be engaging, interactive meetings with ample time (approximately 40-
 50 percent) for the exchange of views among participants through panels, open forums
@@ -18246,7 +18214,7 @@ d. be consistent with RI policy and information developed by RI;
 e. be promoted and financed as distinct from the institute itself.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. However, any events coming before or after an institute - such as governors-elect
 learning seminars (GELS), governor-nominee training, training for district learning
 facilitator, or recreational events - should be clearly described as pre- (or post-) institute
@@ -18285,7 +18253,7 @@ a. securing reasonably priced facilities and accommodations;
 b. minimizing the number and cost of social functions;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 c. minimizing the cost of speakers and any others invited from outside Rotary or the
 zone;
 d. offering lower-cost or hosted lodging in the area, corporate sponsorships, and/or
@@ -18329,7 +18297,7 @@ general secretary within ninety days after the conclusion of an institute. Failu
 comply with these requirements, after having been notified by the general secretary,
 
 Rotary International Code of Policies
-October 2026
+January 2027
 shall result in the convener being ineligible to receive any future RI or Rotary
 Foundation volunteer appointment or assignment until compliance is confirmed.
 2. The general secretary shall provide a status report regarding past due institute financial
@@ -18344,7 +18312,7 @@ Cross-References
 72.010.1. Risk Management Guidelines for Rotary Institutes
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 61. GENERAL POLICIES OF RI MEETINGS
 61.010. Manuals for Sergeants-at-Arms
 61.020. Sergeants-at-Arms Committee
@@ -18380,7 +18348,7 @@ Source: January 2020 Mtg., Bd. Dec. 105
 Amended by February 2025 Mtg., Bd. Dec. 91
 
 Rotary International Code of Policies
-October 2026
+January 2027
 61.020. Sergeant-at-Arms Committee
 The RI Board has approved the establishment of a Sergeant-at-Arms Committee every
 three years, such committee to be appointed by the RI president who serves during a
@@ -18404,7 +18372,7 @@ Source: November 2007 Mtg., Bd. Dec. 87;
 Amended by May 2011 Mtg., Bd. Dec. 182; September 2011 Mtg., Bd. Dec. 34
 
 Rotary International Code of Policies
-October 2026
+January 2027
 CHAPTER VIII – FINANCES
 Articles
 Article 66. General Finance Provisions
@@ -18437,7 +18405,7 @@ Source: November 1990 Mtg., Bd. Dec. 199;
 Amended by May 2000 Mtg., Bd. Dec. 439; June 2001 Mtg., Bd. Dec. 310; January 2013 Mtg., Bd. Dec. 141
 
 Rotary International Code of Policies
-October 2026
+January 2027
 66.030. Banking Procedures
 66.030.1. Resolutions on Financial Accounts and Services
 The Board regularly reviews and amends, where necessary, the “Resolutions on Financial
@@ -18473,7 +18441,7 @@ Mtg., Bd. Dec. 348)
 Source: March 1994 Mtg., Bd. Dec. 208
 
 Rotary International Code of Policies
-October 2026
+January 2027
 66.040.2. Term of Appointment of Fiscal Agents
 The office of a fiscal agent shall be for a period of two Rotary years with the provision that
 the fiscal agent may be reappointed on a biennial basis for a period not to exceed six years,
@@ -18507,7 +18475,7 @@ Cross-References
 to Finance
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 67. AUDITS
 67.010. Auditing Services Charter
 67.020. Guidelines for Appointment and Evaluation of the Independent Auditor
@@ -18531,8 +18499,8 @@ The internal audit function is most effective when:
 with The Institute of Internal Auditors (“The IIA”) Global Internal Audit
 Standards.
 • The internal audit function is independently positioned with direct
-accountability to the Boards of Directors and Board of Trustees, via the
-Joint Audit Committee.
+accountability to the Boards of Directors and Board of Trustees, via the Joint
+Audit Committee.
 • Internal auditors are free from undue influence and committed to making
 objective assessments.
 III. Commitment to Adhering to the Global Internal Audit Standards
@@ -18545,7 +18513,7 @@ and improvement program.
 IV. Scope of work
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The scope of work of Auditing Services is to assist in determining whether the Secretariat’s
 governance, risk management practices, and internal control structure, as designed and
 represented by management, are adequate and functioning in a manner to reasonably assure
@@ -18570,22 +18538,21 @@ Trustees, and its responsibilities are governed by the Joint Audit Committee as 
 committee’s oversight role. Such authority allows for unrestricted access to the boards and
 the Joint Audit Committee. As necessary to accomplish its responsibilities, Auditing
 Services shall:
-• Have unrestricted access to any functions, data, records, information,
-physical property, and personnel pertinent to carrying out its responsibilities.
-Internal auditors are accountable for appropriate confidentiality and
-safeguarding records and information.
-• Allocate resources, set frequencies, select subjects, determine scopes of
-work, apply techniques, and issue communications to accomplish its
-objectives.
+• Have unrestricted access to any functions, data, records, information, physical
+property, and personnel pertinent to carrying out its responsibilities. Internal
+auditors are accountable for appropriate confidentiality and safeguarding
+records and information.
+• Allocate resources, set frequencies, select subjects, determine scopes of work,
+apply techniques, and issue communications to accomplish its objectives.
 • Obtain assistance from the necessary personnel of the Secretariat and other
 specialized services from within or outside the Secretariat to complete
 internal audit services.
 VI. Independence, Organizational Position, and Reporting Relationships
-
-Rotary International Code of Policies
-October 2026
 Subject to the authority of the RI Board of Directors, TRF Trustees, and the Audit
 Committee, the Auditing Services function will remain free from interference by any
+
+Rotary International Code of Policies
+January 2027
 element in the organization, including matters of audit selection, scope, procedures,
 frequency, timing, or report content to permit maintenance of a necessary independent and
 objective mental attitude.
@@ -18621,12 +18588,12 @@ of the Secretariat, including potential improvements to those processes.
 d. Information on the status and results of the annual audit plan and the sufficiency of
 Auditing Services resources.
 4. Auditing Services has responsibility to:
-
-Rotary International Code of Policies
-October 2026
 a. Annually develop a flexible rolling three-year, risk-based audit plan taking into
 account any risks or control concerns identified by senior management and
 leadership, as well as projected benefits and costs of each planned engagement. The
+
+Rotary International Code of Policies
+January 2027
 general auditor will communicate the impact of resource limitations and significant
 interim changes to senior management and the Audit Committee.
 The plan is reviewed with the general secretary and Audit Committee for necessary
@@ -18664,12 +18631,12 @@ Internal auditors will have no direct operational responsibility or authority ov
 of the activities they review. Accordingly, internal auditors will not implement
 internal controls, develop procedures, install systems, or engage in other activities
 that may impair their judgement, including:
-
-Rotary International Code of Policies
-October 2026
 • Assessing specific operations for which they had responsibility within the
 previous year
 • Performing operational duties for RI, TRF, or its affiliates
+
+Rotary International Code of Policies
+January 2027
 • Initiating or approving transactions external to the internal audit function
 • Directing the activities of any employee that is not employed by the internal
 audit function, except to the extent that such employees have been
@@ -18679,8 +18646,7 @@ Internal auditors will:
 appearance, to the general auditor
 • Exhibit professional objectivity in gathering, evaluating, and communicating
 information
-• Make balanced assessments of available and relevant facts and
-circumstances
+• Make balanced assessments of available and relevant facts and circumstances
 • Take necessary precautions to avoid conflicts of interest, bias, and undue
 influence
 IX. Reporting and Monitoring
@@ -18705,13 +18671,13 @@ well as performance relative to its plan. Reporting will also include significan
 exposures and control issues, including fraud risks, governance issues, and other matters
 needed or requested by senior management and the Joint Audit Committee.
 At a minimum, audit report distribution should comply with the following guidelines:
-
-Rotary International Code of Policies
-October 2026
 1. Audit Reports
 Final audit reports will include reportable observations, as defined by Auditing
 Services, and will be distributed to the following:
 a. Joint Audit Committee members
+
+Rotary International Code of Policies
+January 2027
 b. Operations Review Committee members
 c. President and president-elect
 d. General secretary
@@ -18744,13 +18710,13 @@ Amended by June 1999 Mtg., Bd. Dec. 346; May 2003 Mtg., Bd. Dec. 325; November 2
 162; June 2007 Mtg., Bd. Dec. 226; November 2009 Mtg., Bd. Dec. 102; June 2010 Mtg., Bd. Dec. 265;
 October 2013 Mtg., Bd. Dec. 30; May 2014 Mtg., Bd. Dec. 171; June 2017 Mtg., Bd. Dec. 200; October 2025
 Mtg., Bd. Dec. 53
-
-Rotary International Code of Policies
-October 2026
 67.020. Guidelines for Appointment and Evaluation of the Independent Auditor
 The RI Board of Directors is responsible for appointment and evaluation of the independent
 auditor. The Joint Audit Committee assists the Board in executing this responsibility by
 • defining and communicating performance expectations;
+
+Rotary International Code of Policies
+January 2027
 • monitoring and assessing performance;
 • making recommendations to the Board regarding services, fees and
 appointment; and
@@ -18784,14 +18750,14 @@ performance trends over time. Examples of potential performance evaluation crite
 include, but are not limited to:
 • Audit plan expected and actual results
 • Quality of audit services
-
-Rotary International Code of Policies
-October 2026
 • Timeliness of audit and deliverables
 • Audit fees (actual versus agreed)
 • Independence
 • Understanding of Rotary
 • Type, frequency and quality of information and communication
+
+Rotary International Code of Policies
+January 2027
 • Availability and transparency
 The Joint Audit Committee should discuss with the independent auditor (in closed session
 if necessary):
@@ -18825,13 +18791,13 @@ The general secretary will coordinate the competitive selection process in consu
 the Joint Audit Committee. The general manager of The Rotary Foundation, or a designee,
 will be included in correspondence with management, and will be invited to participate in
 any management group involved in the selection process.
-
-Rotary International Code of Policies
-October 2026
 Specific selection procedures will be defined in detail at the time the actual selection
 process begins. Generally, the process should include the following:
 1. Establish selection process procedures and timeline
 2. Define service requirements
+
+Rotary International Code of Policies
+January 2027
 3. Select evaluation group(s) and communicate responsibilities
 4. Establish audit firm evaluation criteria and scoring methodology
 5. Research audit firms and develop audit firm selection universe
@@ -18845,7 +18811,7 @@ Source: February 2007 Mtg., Bd. Dec. 208;
 Amended by June 2010 Mtg., Bd. Dec. 265; October 2025 Mtg., Bd. Dec. 53
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 68. BUDGETS
 68.010. Budget Review Process
 68.020. Authority to Exceed RI Budget
@@ -18882,7 +18848,7 @@ organization's chart of accounts and cost centers
 her authority in the implementation of this policy
 
 Rotary International Code of Policies
-October 2026
+January 2027
 8. The general secretary shall recognize the priority of integrating the budget process with
 the Secretariat Strategic Plan and shall maintain accountability for budgets through the
 staff evaluation process.
@@ -18920,7 +18886,7 @@ Cross-References
 31.084. Finance Committee
 
 Rotary International Code of Policies
-October 2026
+January 2027
 68.020. Authority to Exceed RI Budget
 The general secretary has the authority to pay the outstanding obligations of Rotary
 International, even though in excess of the appropriated budget, for any fiscal year,
@@ -18956,7 +18922,7 @@ c. The amount of permitted debt plus capital leases is subject to the following:
 i. Total debt and capital leases shall not exceed 15% of RI's unrestricted net assets.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ii. Income available for debt service should be equal to or greater than two times the
 annual debt service (principal and interest) and lease payments. Income available
 for debt service equals revenues less adjusted operating expenses. Adjusted
@@ -18980,7 +18946,7 @@ Cross-References
 40.030. Evaluation and Implementation of Proposed Rotary Programs
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 69. EXPENSES AND REIMBURSEMENTS
 69.010. Approval of Disbursements
 69.020. Travel
@@ -19017,7 +18983,7 @@ travelers who fail to fulfill their duties and responsibilities shall not be rei
 for any expenses associated with the travel and shall return to RI all amounts paid to them
 
 Rotary International Code of Policies
-October 2026
+January 2027
 or on their behalf by RI in connection with the travel. The general secretary shall report
 any failure to comply with the requirements of this policy to the RI Audit Committee. (June
 2009 Mtg., Bd. Dec. 276)
@@ -19055,7 +19021,7 @@ of exceptions that may not be applied for include:
 opportunity to take advantage of lower fare or incentive programs on other airlines;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. the selection of specific airlines where Rotary needs to fulfill its contractual
 commitments with its preferred airlines;
 3. the selection of full economy/coach class fares (for the benefit of personal first or
@@ -19096,7 +19062,7 @@ October 2019 Mtg., Bd. Dec. 53;
 Amended by November 2006 Mtg., Bd. Dec. 35; September 2020 Mtg., Bd. Dec. 25
 
 Rotary International Code of Policies
-October 2026
+January 2027
 69.020.11. Master Account Billing Procedures
 For all individuals traveling at RI expense, the general secretary shall limit the use of master
 account billing procedures to the costs of the hotel room and tax only. All other individual
@@ -19124,7 +19090,7 @@ Cross-References
 72.010.2. Risk Management for Travel Operations
 
 Rotary International Code of Policies
-October 2026
+January 2027
 69.030. Rotary Funding for Governors
 69.030.1. Rotary Funding for Governors
 Governors are provided with funding to reimburse a portion of their reasonable and
@@ -19164,7 +19130,7 @@ RI will be added to the list of Rotarians with Outstanding Obligations to RI and
 to the RI Audit Committee and shall be ineligible for RI or TRF appointments,
 
 Rotary International Code of Policies
-October 2026
+January 2027
 reimbursement, or Rotary awards until payment or substantiation of eligible expenses
 is made.
 6. reimbursement is capped at 100% of the DG’s individual the funding amount
@@ -19195,7 +19161,7 @@ of the past governor’s year in office, and shall include confirmation that the
 independently reviewed and provided to each club for discussion and adoption in
 accordance with RI Bylaws section 15.060.4.
 Any past governor who fails to fulfill the reporting requirements of RI Bylaws 15.060.4.
-within one year of serving as governor shall be ineligible to receive for a 7-year period:
+within one year of serving as governor shall be ineligible to receive:
 • any additional expense reimbursements from RI
 • any RI or Rotary Foundation volunteer appointment or assignment to a
 position with financial oversight, including but not limited to the RI director,
@@ -19205,7 +19171,7 @@ interim governor, COL representative, district Rotary Foundation chair
 • any RI or Rotary Foundation award
 
 Rotary International Code of Policies
-October 2026
+January 2027
 unless and until the past governor completes the requirements.
 In accordance with the RI Bylaws, governors must provide for the discussion and vote to
 adopt a previous governors’ financial statement at a district meeting or conduct a club
@@ -19245,7 +19211,7 @@ Directors (excluding the president and the president-elect) may be reimbursed fo
 of US$27,500 each year totaling US$55,000 for their two-year term as director. This
 
 Rotary International Code of Policies
-October 2026
+January 2027
 amount is known as the annual expense allocation. The president and the president-elect
 shall not receive the annual expense allocation. Directors-elect may be reimbursed for
 expenses of up to US$5,000 from their annual expense allocation in the five months prior
@@ -19280,7 +19246,7 @@ c. Hotel
 d. Meals and reasonable incidentals
 
 Rotary International Code of Policies
-October 2026
+January 2027
 4. Costs associated with the Rotary institute the director is responsible for convening not
 otherwise covered by RI budget or institute budget, including partner expenses when
 accompanied by proper business purpose documentation.
@@ -19317,7 +19283,7 @@ beyond the authorized allocation amounts shall seek the authorization of the Boa
 Source: June 1997 Mtg., Bd. Dec. 393;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Amended by June 1999 Mtg., Bd. Dec. 348; August 1999 Mtg., Bd. Dec. 48; August 1999 Mtg., Bd. Dec. 50;
 November 1999 Mtg., Bd. Dec. 251; July 2000 Mtg., Bd. Dec. 28; June 2002 Mtg., Bd. Dec. 293; November
 2004 Mtg., Bd. Dec. 158; November 2004 Mtg., Bd. Dec. 160; June 2008 Mtg., Bd. Dec. 232; June 2009 Mtg.,
@@ -19347,7 +19313,7 @@ Amended by June 1999 Mtg., Bd. Dec. 348; June 2002 Mtg., Bd. Dec. 293; November 
 158
 69.040.1.3. Reimbursements to the President and the President-elect
 The president and president-elect are provided with the use of a condominium while in
-Evanston (see Section 69.040.1.6.). However, they typically maintain their principal
+Evanston (see Section 69.040.1.5.). However, they typically maintain their principal
 residence while in office and may incur some expenses directly related to their absence
 from the residence. Additionally, they incur other extraordinary expenses directly related
 to their role as president and president-elect while traveling on official RI business, and
@@ -19357,7 +19323,7 @@ be considered taxable compensation to the president and president-elect and ther
 requires that they have authorization to be employed in the United States.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 No taxable reimbursements or other compensation shall be paid to or for the benefit of a
 president-elect or president until the L-1 visa (or other US work visa or authorization) has
 been obtained without the express authorization of the Board Executive Committee. The
@@ -19399,7 +19365,7 @@ stepchildren, grandchildren, step-grandchildren, nieces, nephews, and siblings, 
 partners of each, of the president, president-elect and their respective partners. The president
 
 Rotary International Code of Policies
-October 2026
+January 2027
 and president-elect shall provide the list of persons for whom expenses are to be paid to the
 general secretary, who shall confirm eligibility hereunder. The expenses include any taxes
 payable by the recipient with respect to the costs reimbursed in this section (tax rate not to
@@ -19437,7 +19403,7 @@ unique to each president and president-elect. The general secretary shall retain
 tax consultant to meet annually with the president, president-elect and president-nominee
 
 Rotary International Code of Policies
-October 2026
+January 2027
 to evaluate the relevant factors and determine whether these items will be taxable. If it is
 determined that these values are taxable to the president and/or the president-elect, RI shall
 reimburse any taxes payable. (April 2025 Mtg., Bd. Dec. 122)
@@ -19451,11 +19417,11 @@ before or during their term as president. This non-taxable funding is limited to
 diagnostic procedures that meet all of the following requirements:
 • The procedures must be performed at a facility that provides only medical or
 ancillary services.
-• The procedures must be for routine medical examinations, blood tests, X-
-rays, or similar test.
-• The procedures cannot be for the treatment, cure, or testing of a known
-illness or disability, or the treatment or testing for a physical injury,
-complaint, or specific symptom
+• The procedures must be for routine medical examinations, blood tests, X-rays,
+or similar test.
+• The procedures cannot be for the treatment, cure, or testing of a known illness
+or disability, or the treatment or testing for a physical injury, complaint, or
+specific symptom
 They are strongly encouraged to undertake this executive physical before their term as
 president begins, ideally during their nominee term. (April 2024 Mtg., Bd. Dec. 124)
 Source April 2024 Mtg., Bd. Dec. 124
@@ -19467,8 +19433,8 @@ When developing their operating budgets, the following limits will apply, assumi
 originates from within the United States:
 • Up to 32 international trips and 18 domestic (US) trips for the president and
 their partner
-• Up to 12 international trips and 30 domestic (US) trips for the president-
-elect and their partner
+• Up to 12 international trips and 30 domestic (US) trips for the president-elect
+and their partner
 • Production of funded items to include only the tie, governor-elect badge,
 scarf, bag, pocket square, and bowtie
 • Up to US$7,000 for special gifts to distribute during the presidential term,
@@ -19478,7 +19444,7 @@ Once the operating budget is finalized, the president or president-elect can adj
 needed within the budgeted total dollar amount. Any proposed expenditure exceeding the
 
 Rotary International Code of Policies
-October 2026
+January 2027
 operating budget is subject to the process outlined in Rotary Code of Policies Section
 27.080.7. (October 2024 Mtg., Bd. Dec. 22)
 Source: September 2020 Mtg., Bd. Dec. 25
@@ -19490,10 +19456,10 @@ Assembly, International Convention, planning meetings in Evanston, and other tra
 assigned by the president or president-elect. When developing the president’s and
 president-elect’s operating budgets, the following limits will apply:
 • Up to six trips to Evanston for planning meetings and two international trips
-for the President’s Aide and partner, excluding their travel to the
-International Assembly and International Convention
-• Up to eight trips to Evanston for planning meetings and one international
-trip for the President-elect’s Aide and partner, excluding their travel to the
+for the President’s Aide and partner, excluding their travel to the International
+Assembly and International Convention
+• Up to eight trips to Evanston for planning meetings and one international trip
+for the President-elect’s Aide and partner, excluding their travel to the
 International Assembly and International Convention
 Once the operating budget is finalized, the president or president-elect can adjust plans as
 needed within the budgeted total dollar amount. Any proposed expenditure exceeding the
@@ -19518,7 +19484,7 @@ operating budget is subject to the process outlined in Rotary Code of Policies s
 27.080.7. (April 2023 Mtg., Bd. Dec. 109)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Source: September 2020 Mtg., Bd. Dec. 25
 Amended by April 2023 Mtg., Bd. Dec. 109
 69.040.1.10. Master Account
@@ -19557,7 +19523,7 @@ premises, unless it is temporarily located elsewhere, for example, for maintenan
 because of a mechanical failure;
 
 Rotary International Code of Policies
-October 2026
+January 2027
 3. No individual may use the vehicle for personal purposes, except for de minimus
 personal use;
 4. RI reasonably believes that, except for de minimus use, neither an employee, nor any
@@ -19598,7 +19564,7 @@ The executive committee may make interim decisions as to the interpretation of t
 Any interim decision made by the executive committee shall be reported to the Board at its
 
 Rotary International Code of Policies
-October 2026
+January 2027
 next meeting. The Board shall make all final decisions regarding the interpretation of this
 policy. (June 2002 Mtg., Bd. Dec. 293)
 Source: June 2002 Mtg., Bd. Dec. 293
@@ -19634,10 +19600,10 @@ programs use Rotary credit cards to pay for all RI reimbursable expenses. (June 
 Bd. Dec. 217)
 Source: November 2004 Mtg., Bd. Dec. 151
 Cross-References
-27.080. Finances
+27.070. Finances
 
 Rotary International Code of Policies
-October 2026
+January 2027
 30.010.4. President-elect’s Travel Expenses
 30.020.2. President-Nominee Expenses
 69.050. Officer Expenses
@@ -19671,7 +19637,7 @@ statement within 60 days of when the expenses were incurred. All expenses in exc
 US$75 must be substantiated with a receipt. Expense statements received after 60 days will
 
 Rotary International Code of Policies
-October 2026
+January 2027
 not be reimbursed unless authorized by the general secretary in exceptional cases where
 circumstances warrant such action. (November 2004 Mtg., Bd. Dec. 159)
 Source: February 1999 Mtg., Bd. Dec. 272;
@@ -19688,7 +19654,7 @@ Cross-References
 60.010.7. Finances (Institutes)
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 70. INVESTMENTS
 70.010. Investment Policy Statement – Rotary International General Fund
 70.020. RI Reserve Policy
@@ -19728,7 +19694,7 @@ Committee and a member of the RI Finance Committee appointed at the discretion o
 Chair will attend meetings of the IC when investment matters affecting RI are discussed.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 The RI Finance Committee attendees have voting rights with respect to matters that impact
 RI’s investment portfolio.
 The Office of Investment (“ROI”) is comprised of the Chief Investment Officer and
@@ -19768,7 +19734,7 @@ Index Asset Class/Strategy
 MSCI ACWI IMI Global Equities
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Dow Jones US Total Stock Market US Equities
 MSCI ACWI IMI ex US Non-US Equities
 MSCI Emerging Markets Small Cap Index Emerging Market Equities
@@ -19808,7 +19774,7 @@ Cash investments will be invested in accordance with section 70.010.18. of this 
 Public Equity
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Public equity consists of U.S. equity, non-U.S. equity, global equity, and emerging market
 equity mandates as further described below.
 U.S. Equity Investment Mandates
@@ -19850,7 +19816,7 @@ Compliance with classifications provided by rating agencies (Moody’s, S&P, and
 not sufficient for an issue to be deemed an appropriate investment. The investment manager
 
 Rotary International Code of Policies
-October 2026
+January 2027
 is responsible for making an independent analysis of the credit-worthiness of securities and
 their appropriateness as an investment for this Fund.
 Fixed Income Investment Mandates (credit)
@@ -19889,7 +19855,7 @@ business. (September 2017 Mtg., Bd. Dec. 64)
 Source: September 2017 Mtg., Bd. Dec. 64
 
 Rotary International Code of Policies
-October 2026
+January 2027
 70.010.7. Derivatives Policy
 Derivative instruments are permitted only as specified in this Investment Policy Statement.
 Where appropriate, investment managers may use derivative securities for the following
@@ -19927,7 +19893,7 @@ Source: June 2010 Mtg., Bd. Dec. 260;
 Amended by September 2016 Mtg., Bd. Dec. 21
 
 Rotary International Code of Policies
-October 2026
+January 2027
 70.010.8. Rebalancing Policy
 The Fund will be rebalanced when an asset class reaches the minimum or maximum
 allocation specified above if routine cash flows are available. Routine cash flows, or
@@ -19966,7 +19932,7 @@ lending unless approved by the Board, based on recommendations from the ROI. Any
 authorization for securities lending in separate accounts must be reported as an information
 
 Rotary International Code of Policies
-October 2026
+January 2027
 item at the next Board meeting. Commingled funds and mutual funds are exempt from this
 restriction. (September 2017 Mtg., Bd. Dec. 64)
 Source: June 2010 Mtg., Bd. Dec. 260;
@@ -20005,7 +19971,7 @@ evaluated on the following factors and criteria to determine if a manager has
 1. Performed satisfactorily when compared with the specific objectives for its portfolio
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Produced results that compare favorably to other investment management
 organizations managing similar portfolios
 3. Exceeded the returns of appropriate market indices
@@ -20042,7 +20008,7 @@ information potentially affecting performance
 5. List of the securities in the portfolio at the end of the quarter
 
 Rotary International Code of Policies
-October 2026
+January 2027
 On an annual basis, the investment manager will provide Part II of the Form ADV for the
 most recent year. (September 2017 Mtg., Bd. Dec. 64)
 Source: November 1996 Mtg., Bd. Dec. 151;
@@ -20076,13 +20042,13 @@ Cash
 Exceed the rate of return of 30-day T-bills.
 U.S. Equity Performance Measurement Standards
 All Cap Growth Equity
-• exceed the rate of return of the Russell 3000 Growth Index over a full
-market cycle
+• exceed the rate of return of the Russell 3000 Growth Index over a full market
+cycle
 
 Rotary International Code of Policies
-October 2026
-• rank in the upper 50 percent of the consultant’s all cap growth equity
-manager universe
+January 2027
+• rank in the upper 50 percent of the consultant’s all cap growth equity manager
+universe
 All Cap Value Equity
 • exceed the rate of return of the Russell 3000 Value Index over a full market
 cycle
@@ -20090,8 +20056,8 @@ cycle
 universe
 S/Mid Cap Core Equity
 • exceed the rate of return of the Russell 2000 Index over a full market cycle
-• rank in the upper 50 percent of the consultant’s small cap core equity
-manager universe
+• rank in the upper 50 percent of the consultant’s small cap core equity manager
+universe
 Non-U.S. Equity Performance Measurement Standards
 • exceed the rate of return of the MSCI ACWI IMI ex-U.S. Index over a full
 market cycle
@@ -20116,11 +20082,10 @@ Non-Core Bonds
 cycle
 
 Rotary International Code of Policies
-October 2026
+January 2027
 * 50% Barclays Capital Aggregate / 25% JP Morgan EMBI + / 25% Barclays
 Capital HY -2% Issuer Cap
-• rank in the upper third of the consultant’s core fixed income manager
-universe
+• rank in the upper third of the consultant’s core fixed income manager universe
 Hedge Fund Performance Measurement Standards
 • exceed the rate of return of the Credit Suisse Hedge Fund Index over a full
 market cycle
@@ -20151,10 +20116,10 @@ The goals of the hedge fund assets are
 2. Dampen the volatility of the overall General Fund portfolio
 3. Achieve attractive long-term risk-adjusted return in a variety of capital market
 conditions
+Delegation of Responsibilities
 
 Rotary International Code of Policies
-October 2026
-Delegation of Responsibilities
+January 2027
 The investment consultant has discretion to select the allocation exposure, set strategic
 targets and hire and terminate investment managers within the preferences defined herein.
 The investment consultant will communicate to the Investment Committee and general
@@ -20194,7 +20159,7 @@ Treasury and Investment Services will oversee the investments in accordance with
 guidelines.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Maturities
 1. As the assets in this fund represent the temporary investment of operating funds of
 Rotary International, a substantial portion of the portfolio will consist of overnight and
@@ -20230,10 +20195,10 @@ Investment Criteria
 the funds are on deposit.
 3. With respect to commercial paper and other short-term obligations, investments and
 reinvestments shall be limited to obligations rated (or issued by an issuer that has been
+rated) at the time of purchase in a “Tier One” ratings category by the nationally
 
 Rotary International Code of Policies
-October 2026
-rated) at the time of purchase in a “Tier One” ratings category by the nationally
+January 2027
 recognized statistical rating organizations (“NRSROs”) followed by the credit
 committee of the bank where the funds are on deposit.
 4. With respect to bonds and other long-term obligations, investment and reinvestment
@@ -20274,7 +20239,7 @@ consultant evaluate current investment managers in a timely manner and recommend
 termination as needed.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 2. Quality and accuracy of quarterly investment reports, including performance
 measurement.
 3. Ability to provide specialized studies and reports on specific investment matters.
@@ -20304,15 +20269,15 @@ responsibly and create lasting positive change.
 [Rotary International/TRF] will invest its financial resources and:
 • promote alignment with its mission to act responsibly and create lasting
 positive change.
-• incorporate environmental, social and governance factors into the
-investment analysis and decision-making process.
+• incorporate environmental, social and governance factors into the investment
+analysis and decision-making process.
 • consider investments which deliver tangible, measurable positive social and
 environmental impact in addition to the required financial return.
 • be active and engaged owners and incorporate environmental, social and
 governance factors into the exercise of shareholder rights.
 
 Rotary International Code of Policies
-October 2026
+January 2027
 Selection and retention of investments
 Maximum economic return is the primary criteria for selection and retention of
 investments, except in cases relating to the disposition of securities in certain circumstances
@@ -20341,21 +20306,19 @@ Where a finding has been made that a company’s activities cause societal harm 
 injury,
 • [Rotary International/TRF] will vote, or cause its shares to be voted, for a
 proposition which seeks to eliminate or reduce the societal harm or social
-injury caused by a company’s activities or develop a risk management
-regime,
+injury caused by a company’s activities or develop a risk management regime,
 • [Rotary International/TRF] will vote against a proposition which seeks to
 prevent such elimination, reduction, where a finding has been made that the
-activities which are the subject of the proposition cause societal harm or
-social injury, except in cases in which the proposition seeks to eliminate or
-reduce social injury by means which are found to be ineffective or
-unreasonable.
+activities which are the subject of the proposition cause societal harm or social
+injury, except in cases in which the proposition seeks to eliminate or reduce
+social injury by means which are found to be ineffective or unreasonable.
 [Rotary International/TRF] will not vote its shares on any resolution which advances a
 position on a social or political question unrelated to the conduct of the company’s business
 or the disposition of its assets.
+Divestment (sale) of individual securities held
 
 Rotary International Code of Policies
-October 2026
-Divestment (sale) of individual securities held
+January 2027
 Where applicable, [Rotary International/TRF] will sell a security in circumstances where
 a finding has been made that a company’s activities cause grave societal harm or social
 injury and:
@@ -20363,12 +20326,12 @@ injury and:
 shareholder rights will succeed in modifying the company’s activities
 sufficiently to eliminate the societal harm or social injury, or
 • it is unlikely that modification of the company’s activities will, within the
-near future, have a sufficiently unfavorable economic impact on the
-company to cause [Rotary International/the Foundation] to sell the security
-under maximum economic return criterion, or
-• it is likely that, in the normal course of portfolio management, the security
-in question will be sold before the action initiated by [Rotary
-International/the Foundation] can be completed.
+near future, have a sufficiently unfavorable economic impact on the company
+to cause [Rotary International/the Foundation] to sell the security under
+maximum economic return criterion, or
+• it is likely that, in the normal course of portfolio management, the security in
+question will be sold before the action initiated by [Rotary International/the
+Foundation] can be completed.
 The office of investment will implement these guidelines in a commercially prudent
 manner based on its reasoned judgment and consideration of the facts and circumstances.
 (February 2022 Mtg., Bd. Dec. 110)
@@ -20390,11 +20353,11 @@ The general secretary, through delegation to the chief financial officer, will e
 internal foreign currency management procedures in accordance with this policy. The
 Finance Committee will be responsible for reviewing the procedures from time to time as
 deemed necessary. (June 2017 Mtg., Bd. Dec. 196)
-
-Rotary International Code of Policies
-October 2026
 Source: June 1998 Mtg., Bd. Dec. 395;
 Amended by June 2017 Mtg., Bd. Dec. 196
+
+Rotary International Code of Policies
+January 2027
 70.040. Restricted Currencies
 It is the policy of RI to minimize funds in countries where the transfer and investment of
 RI funds are restricted. (June 1998 Mtg., Bd. Dec. 348)
@@ -20429,10 +20392,7 @@ Amended by November 2004 Mtg., Bd. Dec. 58; November 2007 Mtg., Bd. Dec. 121; Ju
 Dec. 271
 
 Rotary International Code of Policies
-October 2026
-
-Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 71. REVENUES
 71.010. Per Capita and Prorated Dues
 71.020. Licensing
@@ -20469,7 +20429,7 @@ Cross-References
 9.020. Rotary and Rotaract Clubs in Arrears to RI
 
 Rotary International Code of Policies
-October 2026
+January 2027
 71.020. Licensing
 (See also Article 35 “Licensing”)
 71.020.1. Licensee Royalties
@@ -20501,7 +20461,7 @@ Cross-References
 51.010.5. Official Magazine Advertising Policy
 
 Rotary International Code of Policies
-October 2026
+January 2027
 ARTICLE 72. RISK MANAGEMENT AND INSURANCE
 72.010. Risk Management
 72.020. Liability Coverage for RI Directors and Officers
@@ -20542,7 +20502,7 @@ interests of Rotary for institute organizers to understand the venue’s rules a
 our organization does not introduce hazards in the course of our event. It should also be
 
 Rotary International Code of Policies
-October 2026
+January 2027
 noted that venues may be able to assess fines or other penalties to organizations violating
 their requirements.
 6. In the event that the institute plans to pay the expenses of institute speakers or other
@@ -20580,7 +20540,7 @@ Source: October 2019 Mtg., Bd. Dec. 28
 Cross-References
 
 Rotary International Code of Policies
-October 2026
+January 2027
 28.100. Indemnification of RI Directors and Officers
 72.040. RI Travel Medical
 72.040.1. Travel-Related Insurance Funded by RI
@@ -20613,7 +20573,7 @@ detailed underwriting information to RI and its insurance carriers on a timely b
 Source: March 1997 Mtg., Bd. Dec. 202
 
 Rotary International Code of Policies
-October 2026
+January 2027
 72.060. Club and District Liability Insurance
 72.060.1. Maintenance of Liability Insurance
 Each club shall maintain liability insurance for its activities as appropriate for its
@@ -20629,8 +20589,8 @@ either a primary or an excess basis with clubs that have unique insurance risks,
 including but not limited to clubs that possess all of the following risks:
 • Permanent, full-time employees;
 • Ownership of real property with substantial acreage;
-• Services provided to persons with physical and mental disabilities on this
-real property.
+• Services provided to persons with physical and mental disabilities on this real
+property.
 3. Each club covered by this policy will be billed annually an amount sufficient to pay for
 the insurance coverage and related administrative expenses. The amount billed each
 club will be based on membership statistics stated in the semiannual club invoices. The
@@ -20648,6 +20608,6 @@ Cross-References
 41.040. Rotary Youth Exchange
 
 Rotary International Code of Policies
-October 2026
+January 2027
 End of Rotary Code of Policies
-October 2026
+January 2027

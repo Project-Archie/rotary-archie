@@ -13,4 +13,8 @@ To hear about new versions, open the [GitHub page](https://github.com/Project-Ar
 
 ## What the version number means
 
-The first number is the Rotary year of the documents inside. 2026.x.x means the 2026 Rotary year, which runs July 2026 to June 2027. The Rotary Code of Policies changes after each RI Board meeting, so Archie can update more than once a year.
+The first number is the Rotary year of the documents inside. 2026.x.x means the 2026 Rotary year, which runs July 2026 to June 2027. The third number goes up when Archie is updated during the year, for example when Rotary International publishes a new edition of the Rotary Code of Policies after a Board meeting.
+
+## How updates happen
+
+Once a month, the project checks My Rotary for new editions of the documents Archie carries. When one changes, a new version of Archie is published on GitHub. [Where Archie's documents come from](/rotary-archie/about/sources/) lists each document, its edition, and a link to Rotary International's copy.

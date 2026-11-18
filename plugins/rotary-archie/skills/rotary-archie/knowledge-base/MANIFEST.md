@@ -9,19 +9,19 @@ Expected files in this folder, with size and provenance. Use this manifest to ve
 | 1_2025_Lead_Your_District_-_GOV_MANUAL.md | 190.92 KB | 4,821 | 1 2025 Lead Your District - GOV MANUAL.pdf | 2025 |
 | 2_2025_District_Planning_Guide.md | 4.70 KB | 89 | 2 2025 District Planning Guide.pdf | 2025 |
 | 3_2025_Manual_of_Procedure.md | 241.66 KB | 3,795 | 3 2025 Manual of Procedure.pdf | 2025 |
-| 4_2026_Code_of_Policies.md | 1.22 MB | 20,654 | code-of-policies-rotary-international-en-2026-10.pdf (Rotary Code of Policies, October 2026) | 2026 |
+| 4_2026_Code_of_Policies.md | 1.22 MB | 20,614 | code-of-policies-rotary-international-en-2027-01.pdf (Rotary Code of Policies, January 2027) | 2026 |
 | 5_Rotary_International_Bylaws.md | 136.29 KB | 2,352 | 5 Rotary International Bylaws.pdf | 2025 |
 | 6_Rotary_International_Constitution.md | 9.89 KB | 189 | 6 Rotary International Constitution.pdf | 2025 |
 | 7_Rotary_Club_Constitution.md | 30.29 KB | 513 | 7 Rotary Club Constitution.pdf | 2025 |
-| 8_2026_Rotary_Foundation_Code_of_Policies.md | 596 KB | 10,423 | rotary-foundation-code-of-policies-en-2026-10.pdf (The Rotary Foundation Code of Policies, October 2026) | 2026 |
+| 8_2026_Rotary_Foundation_Code_of_Policies.md | 597 KB | 10,434 | rotary-foundation-code-of-policies-en-2027-01.pdf (The Rotary Foundation Code of Policies, January 2027) | 2026 |
 
-Total: approximately 2.4 MB of markdown across 42,836 lines.
+Total: approximately 2.4 MB of markdown across 42,807 lines.
 
 ## Metadata files
 
 | Filename | Size | Purpose |
 |---|---:|---|
-| manifest.json | 1.23 KB | Programmatic index of source documents, with doc_id, source PDF filename, and year. |
+| manifest.json | 2.57 KB | Programmatic index of source documents, with doc_id, filename, year, title, edition, and the address where RI publishes each one. |
 | reference_index.json | 243 B | Retrieval priority weights for each document. Higher weight means Archie should prefer that source when answering. |
 | semantic_units.json | 5.27 KB | Cross-reference units (one JSON object per line) that link related provisions across documents. |
 
@@ -53,13 +53,13 @@ When deploying or updating the knowledge base, confirm:
 
 ## Provenance
 
-All eight core governing documents are publicly published by Rotary International. The markdown conversions in this folder were produced from the official 2025 PDF releases (documents 1 to 3 and 5 to 7) and the official October 2026 PDF releases (documents 4 and 8). Conversion fidelity was verified character-for-character against the source.
+All eight core governing documents are publicly published by Rotary International. The markdown conversions in this folder were produced from the official 2025 PDF releases (documents 1 to 3 and 5 to 7) and the official January 2027 PDF releases (documents 4 and 8). Conversion fidelity was verified character-for-character against the source.
 
 The supplementary AI guidance files in the reference folder are also publicly published by RI.
 
-## Updating each Rotary year
+## Keeping the documents current
 
-Each Rotary year RI revises some of its governing documents (the post-June Code of Policies edition appears around mid-August with an October cover). To update Archie:
+RI revises its governing documents on different schedules: the two Codes of Policies after each Board or Trustees meeting, the constitutional documents and the Manual of Procedure every three years. The project checks RI's site for new editions once a month. To update Archie when one appears:
 
 1. Run the project's RI source check script (`check-ri-sources.sh`) and read its source-freshness log (both live in the project folder, outside this package) to learn which documents RI has actually revised; in most years only the two Codes of Policies move, and the Council-on-Legislation documents change every three years. Download only the editions that moved.
 2. Convert each to markdown using a reliable converter (the project's `scripts/convert-pdf-to-kb.py`, or pandoc or marker with the same layout).

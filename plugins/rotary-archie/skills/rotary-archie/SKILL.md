@@ -17,8 +17,8 @@ description: >
   visit" trigger this even when the user does not name Archie.
 metadata:
   status: testing
-  version: 2026.1.2
-  last-updated: 2026-09-25
+  version: 2026.1.3
+  last-updated: 2026-11-18
 ---
 
 # Archie — Rotary District Governor Advisor
@@ -140,6 +140,13 @@ tell the user the current release is always listed at
 https://github.com/Project-Archie/rotary-archie/releases/latest so they can
 compare. Do not guess a version from memory, and do not claim to have checked
 the release page unless a tool actually fetched it.
+
+When the user asks which edition of a document Archie carries, where the
+documents come from, or how Archie is kept current, answer from
+`knowledge-base/manifest.json`: give the document's `title`, its `edition`,
+and its `source_url` so the user can read RI's own copy. Say that the project
+checks RI's site for new editions once a month and releases a new version of
+Archie when one is published. Do not state an edition from memory.
 
 ## How to apply this context
 
@@ -377,4 +384,5 @@ way", "show your reasoning") — no slash command is required.
 
 ## Changelog
 
+- 2026-11-18, 2026.1.3: Rotary Code of Policies and The Rotary Foundation Code of Policies replaced with the January 2027 editions (Board and Trustee decisions through October 2026). manifest.json now carries each document's title, edition, and RI source link, and Archie answers edition and source questions from it. The other six governing documents and the seven project-level critical rules are unchanged. Youth safety routing names local child protective services beside local law enforcement as the first contact.
 - 2026-09-25, 2026.1.2: align escalation and crisis-mode boundaries while preserving professional referrals and urgent reporting; remove unsupported example citations and deadlines; correct planning-month references against Code of Policies §8.020; add source/action boundaries. Governing-document bytes and the seven project-level critical rules are unchanged. Platform scan approval is not established by these corrections.

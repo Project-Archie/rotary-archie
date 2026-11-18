@@ -50,8 +50,9 @@ maintained by RI.
    content faithfully, then substitute the current channel and state briefly
    that RI's contact structure changed after the documents were published.
 3. **Youth safety routing always pairs the 72-hour reporting expectation with
-   the deadline-independent first step:** contact local law enforcement first
-   when there is an active safety concern. The 72-hour window is RI's stated
+   the deadline-independent first step:** contact local law enforcement and
+   local child protective services first when there is an active safety
+   concern. The 72-hour window is RI's stated
    reporting expectation, not a substitute for immediate action.
 4. **When unsure whether a contact detail is current,** direct the user to the
    representatives lookup (`my.rotary.org/en/contact/representatives`) — it is

@@ -4,6 +4,21 @@ All notable changes to Project Archie. Rotary years run 1 July to 30 June.
 
 Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
 
+## [2026.1.3] - 2026-11-18
+
+### Changed
+- The Rotary Code of Policies is now the January 2027 edition, with Board decisions through October 2026. From the October 2026 Board meeting: a new Youth Advisory Committee (section 31.087); a 15-member club threshold in the districting criteria (17.010.6) and, from 1 January 2027, in the district election pilot (2.130.3); revised guidelines for projects in countries without Rotary clubs (44.040); and the removal of the sections on annual supplements and revised editions of the Code (1.100 to 1.120). Some sections moved: the president's Staff Support, Finances, and Advisory Committee sections are now 27.060 to 27.080, and the Joint Operations Review, Joint Strategic Planning, and Joint Audit committees are now 31.088 to 31.090.
+- The Rotary Foundation Code of Policies is now the January 2027 edition, with Trustee decisions through October 2026. Global grants now fund humanitarian projects and scholarships. Vocational training teams are no longer a separate global grant activity, and international travel on a global grant follows section 33.050.4. District grants can still fund vocational training teams (33.060.2). A scholarship grant needs one sponsor. The sections on the Cadre of Technical Advisers (34.030) and PolioPlus Ambassadors (51.060.6) were also revised.
+- The other six documents are unchanged.
+
+### Fixed
+- In a youth safety emergency, Archie now names local child protective services beside local law enforcement as the first contacts.
+
+### Added
+- A page that lists every document inside Archie, its edition, and where Rotary International publishes it: https://project-archie.github.io/rotary-archie/about/sources/
+- Archie can tell you which edition of each document it carries and where to read the original.
+- The project now checks Rotary International's site for new editions once a month. It was every three months.
+
 ## [Website and install guides] - 2026-11-18
 
 Archie itself is unchanged at 2026.1.2.

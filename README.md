@@ -30,7 +30,7 @@ Restart Claude Code afterwards. Update later with `/plugin marketplace update pr
 
 ## Install Archie
 
-Download the newest zip by clicking [this link](https://github.com/Project-Archie/rotary-archie/releases/latest/download/rotary-archie.zip). Your browser saves `rotary-archie.zip`. If the link does not work, open the [latest release](https://github.com/Project-Archie/rotary-archie/releases/latest) and click `rotary-archie.zip` under **Assets**. Then follow the guide for your assistant. Claude desktop app users can double-click `rotary-archie-v2026.1.2.skill` from the same **Assets** list.
+Download the newest zip by clicking [this link](https://github.com/Project-Archie/rotary-archie/releases/latest/download/rotary-archie.zip). Your browser saves `rotary-archie.zip`. If the link does not work, open the [latest release](https://github.com/Project-Archie/rotary-archie/releases/latest) and click `rotary-archie.zip` under **Assets**. Then follow the guide for your assistant. Claude desktop app users can double-click `rotary-archie-v2026.1.3.skill` from the same **Assets** list.
 
 | Assistant | Plans that support skills | Guide |
 |---|---|---|
@@ -49,9 +49,13 @@ Ask Archie: **"What version of Archie are you?"** It answers with its version an
 
 Get notified: on this page click **Watch**, then **Custom**, then tick **Releases**.
 
-## Rotary year updates
+## Where the documents come from and how Archie stays current
 
-Rotary International revises its governing documents on its own schedule. The Rotary Code of Policies changes after each RI Board meeting, so updates can come more than once a year. Archie's version number starts with the Rotary year of its documents (2026.x.x means the 2026 Rotary year, July 2026 to June 2027). A new Rotary year is a new first number.
+The eight governing documents inside Archie are published by Rotary International (RI) on My Rotary. The [sources page](https://project-archie.github.io/rotary-archie/about/sources/) lists each one with its edition and a link to RI's copy.
+
+RI revises these documents on its own schedule. The Rotary Code of Policies changes after each RI Board meeting and The Rotary Foundation Code of Policies after each Trustees meeting, so updates can come more than once a year. Once a month the project checks My Rotary for new editions. When one appears, the project adds it, checks it against RI's amendments, and publishes a new version here.
+
+Archie's version number starts with the Rotary year of its documents (2026.x.x means the 2026 Rotary year, July 2026 to June 2027). The third number goes up for updates within the year. A new Rotary year is a new first number.
 
 ## License
 

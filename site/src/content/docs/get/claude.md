@@ -21,7 +21,7 @@ Claude offers skills on every plan, including the free one. If you can sign in t
 8. If you installed Archie before, Claude asks **Replace "rotary-archie" skill?** Click **Upload and replace**. Earlier versions stay in the skill's version history.
 9. Confirm **rotary-archie** appears in your skills list, marked as updated just now.
 
-Claude desktop app shortcut: download `rotary-archie-v2026.1.2.skill` from the **Assets** list on the release page (https://github.com/Project-Archie/rotary-archie/releases/latest) instead and double-click it. Claude Desktop installs it directly.
+Claude desktop app shortcut: download `rotary-archie-v2026.1.3.skill` from the **Assets** list on the release page (https://github.com/Project-Archie/rotary-archie/releases/latest) instead and double-click it. Claude Desktop installs it directly.
 
 ## Paid plans: add Archie from GitHub
 

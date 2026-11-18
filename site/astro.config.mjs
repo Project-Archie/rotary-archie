@@ -23,7 +23,7 @@ export default defineConfig({
         { label: 'Use Archie', items: ['use/prompts', 'use/prompts/basic', 'use/prompts/intermediate', 'use/prompts/strategic', 'use/answers', 'use/memory'] },
         'customize',
         'companions',
-        { label: 'About', items: ['about', 'about/changelog'] },
+        { label: 'About', items: ['about', 'about/sources', 'about/changelog'] },
       ],
     }),
   ],

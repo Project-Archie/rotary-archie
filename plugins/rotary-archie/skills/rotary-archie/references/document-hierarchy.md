@@ -10,12 +10,12 @@ policy lookup accuracy.
 |---|---|---|---|---|
 | 1 | constitution2025 | RI Constitution | Supreme governing document of Rotary International | 0.93 |
 | 2 | bylaws2025 | RI Bylaws | Operational rules implementing the Constitution | 0.96 |
-| 3 | code2026 | Code of Policies | Board-adopted policies, procedures, and programs (October 2026 edition) | 0.90 |
+| 3 | code2026 | Code of Policies | Board-adopted policies, procedures, and programs (January 2027 edition) | 0.90 |
 | 4 | mop2025 | Manual of Procedure | Procedural guidance, recommended club bylaws | 0.84 |
 | 5 | govmanual2025 | Lead Your District (Governor Manual) | Practical leadership guide for DGs | 0.75 |
 | 6 | dpg2025 | District Planning Guide | Goal-setting templates and planning tools | 0.70 |
 | 7 | clubconst2025 | Standard Rotary Club Constitution | Club-level governance framework | 0.72 |
-| 8 | trfcode2026 | Rotary Foundation Code of Policies | Trustee-adopted policies for Foundation programs, grants, and funds (October 2026 edition) | 0.88 |
+| 8 | trfcode2026 | Rotary Foundation Code of Policies | Trustee-adopted policies for Foundation programs, grants, and funds (January 2027 edition) | 0.88 |
 
 **Note on weights:** These are retrieval-recall tuning values carried over from
 reference_index.json: they steer which document to search first because it is

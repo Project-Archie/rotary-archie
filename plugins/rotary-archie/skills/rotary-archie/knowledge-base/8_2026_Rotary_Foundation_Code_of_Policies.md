@@ -1,7 +1,8 @@
 THE ROTARY FOUNDATION
 CODE OF POLICIES
-October 2026
-(Containing Trustee Decisions Through June 2026)
+January 2027
+(Containing Trustee Decisions Through October 2026)
+As of 22 October 2026
 
 Preface
 Rotary Foundation Code of Policies
@@ -60,7 +61,7 @@ refers to The Rotary Foundation Board of Trustees.
 Source: April 1993 Trustees Mtg., Dec. 131
 
 Codification Outline
-October 2026
+January 2027
 The Rotary Foundation Code of Policies
 Table of Contents
 Note: If you are viewing this Code of Policies as a PDF, you may click or select a heading from the table of contents below
@@ -97,116 +98,116 @@ ARTICLE 21. OFFICERS ... 19
 21.040. Chair of The Rotary Foundation Board of Trustees Job Description ... 25
 21.050. Aide to the Chair and Chair-Elect ... 27
 21.060. Authorization ... 27
-21.070. Corporate Credit Card ... 28
-ARTICLE 22. MEETINGS ... 29
-22.010. Meetings of Trustees, Decisions, and Meeting Minutes ... 29
-ARTICLE 23. COMMITTEES ... 32
-23.010. Foundation Committee Appointments ... 32
-23.020. Consultants ... 33
-23.030. Orientation and Meetings ... 34
-23.040. Liaison Trustees to Committees ... 35
-23.045. Advisory Role of Committees ... 36
-23.050. Foundation Committees ... 37
-23.060. Joint Committees ... 49
-ARTICLE 24. REGIONAL LEADERS ... 61
+21.070. Corporate Credit Card ... 27
+ARTICLE 22. MEETINGS ... 28
+22.010. Meetings of Trustees, Decisions, and Meeting Minutes ... 28
+ARTICLE 23. COMMITTEES ... 31
+23.010. Foundation Committee Appointments ... 31
+23.020. Consultants ... 32
+23.030. Orientation and Meetings ... 33
+23.040. Liaison Trustees to Committees ... 34
+23.045. Advisory Role of Committees ... 35
+23.050. Foundation Committees ... 36
+23.060. Joint Committees ... 48
+ARTICLE 24. REGIONAL LEADERS ... 60
 1
 
 Codification Outline
-October 2026
-24.010. Regional Leaders ... 61
-24.020. Regional Rotary Foundation Coordinators (RRFCs) ... 63
-24.030. Endowment/Major Gifts Advisers ... 67
-24.040. End Polio Now Coordinators ... 70
-ARTICLE 25. DISTRICT STRUCTURE ... 75
-25.010. District Rotary Foundation Chair and District Rotary Foundation Committee ... 75
-25.020. District Rotary Foundation Subcommittees ... 78
-ARTICLE 26. ASSOCIATE FOUNDATIONS ... 83
-26.010. Arrangements for Tax-Related Benefits of Contribution ... 83
-26.020. Associate Foundations ... 83
-26.030. Existing Associate Foundations ... 88
-ARTICLE 27 STAFF ... 90
-27.010. Secretariat Organization and Operation ... 90
-27.020. Foundation Staff Participation in Presidents-elect Learning Seminars ... 90
-27.030. Foundation Staff Development Efforts ... 90
-27.040. Standard of Conduct for Interactions with Secretariat Staff ... 91
-CHAPTER III – PROGRAMS ... 92
-ARTICLE 30. GENERAL POLICIES ... 92
-30.010. Adoption of New Programs and Services ... 92
-30.020. Strategic Alignment Evaluation of Programs and Services ... 93
-30.030. Additional Strategic Alignment Evaluations ... 94
-30.040. Conflict of Interest Policy for Program Participants ... 94
-30.050. Sexual Abuse and Harassment Prevention Guidelines ... 96
-30.051 Statement of Conduct for Working with Youth ... 97
-30.060. Participation of Spouses and Other Family Members of Rotarians in Foundation Programs ... 98
-ARTICLE 31. AREAS OF FOCUS ... 100
-31.010. Areas of Focus ... 100
-ARTICLE 32. POLIOPLUS ... 124
-32.010. Commitment to Global Polio Eradication ... 124
-32.020. Funding Policies ... 125
-32.030. Advocacy ... 126
-32.040. National Polio Eradication Advocacy Task Forces ... 126
-32.050. National Advocacy Advisers ... 127
-32.060. PolioPlus Relations with Other Organizations ... 128
-32.070. Grants ... 129
-32.080. International PolioPlus Committee ... 131
-32.090. National PolioPlus Committees ... 133
-32.100. End Polio Now: Countdown to History Campaign Committee ... 135
-ARTICLE 33. ROTARY FOUNDATION GRANTS ... 136
-33.010. Grant Structure for the Future ... 136
-33.020. Distributable Funds Model ... 139
-33.030. Definition of Program Participants ... 139
-33.040. Rotary Foundation Grants ... 140
+January 2027
+24.010. Regional Leaders ... 60
+24.020. Regional Rotary Foundation Coordinators (RRFCs) ... 62
+24.030. Endowment/Major Gifts Advisers ... 66
+24.040. End Polio Now Coordinators ... 69
+ARTICLE 25. DISTRICT STRUCTURE ... 74
+25.010. District Rotary Foundation Chair and District Rotary Foundation Committee ... 74
+25.020. District Rotary Foundation Subcommittees ... 77
+ARTICLE 26. ASSOCIATE FOUNDATIONS ... 82
+26.010. Arrangements for Tax-Related Benefits of Contribution ... 82
+26.020. Associate Foundations ... 82
+26.030. Existing Associate Foundations ... 87
+ARTICLE 27 STAFF ... 89
+27.010. Secretariat Organization and Operation ... 89
+27.020. Foundation Staff Participation in Presidents-elect Learning Seminars ... 89
+27.030. Foundation Staff Development Efforts ... 89
+27.040. Standard of Conduct for Interactions with Secretariat Staff ... 90
+CHAPTER III – PROGRAMS ... 91
+ARTICLE 30. GENERAL POLICIES ... 91
+30.010. Adoption of New Programs and Services ... 91
+30.020. Strategic Alignment Evaluation of Programs and Services ... 92
+30.030. Additional Strategic Alignment Evaluations ... 93
+30.040. Conflict of Interest Policy for Program Participants ... 93
+30.050. Sexual Abuse and Harassment Prevention Guidelines ... 95
+30.051 Statement of Conduct for Working with Youth ... 96
+30.060. Participation of Spouses and Other Family Members of Rotarians in Foundation Programs ... 97
+ARTICLE 31. AREAS OF FOCUS ... 99
+31.010. Areas of Focus ... 99
+ARTICLE 32. POLIOPLUS ... 123
+32.010. Commitment to Global Polio Eradication ... 123
+32.020. Funding Policies ... 124
+32.030. Advocacy ... 125
+32.040. National Polio Eradication Advocacy Task Forces ... 125
+32.050. National Advocacy Advisers ... 126
+32.060. PolioPlus Relations with Other Organizations ... 127
+32.070. Grants ... 128
+32.080. International PolioPlus Committee ... 130
+32.090. National PolioPlus Committees ... 132
+32.100. End Polio Now: Countdown to History Campaign Committee ... 134
+ARTICLE 33. ROTARY FOUNDATION GRANTS ... 135
+33.010. Grant Structure for the Future ... 135
+33.020. Distributable Funds Model ... 138
+33.030. Definition of Program Participants ... 138
+33.040. Rotary Foundation Grants ... 139
 33.050. Global Grants ... 143
-33.060. District Grants ... 152
-33.070. The Rotary Foundation and Sustainability ... 155
+33.060. District Grants ... 151
+33.070. The Rotary Foundation and Sustainability ... 154
 33.080. Qualification ... 155
-33.090. Evaluation Plan for Foundation Grants Program ... 156
+33.090. Evaluation Plan for Foundation Grants Program ... 155
 33.100. Grants to Other Organizations ... 156
-33.110. Fund for Special Initiatives ... 157
-33.120. Disaster Relief Policy ... 157
-33.130. Policy on Grants for Vaccine Related-Projects ... 159
+33.110. Fund for Special Initiatives ... 156
+33.120. Disaster Relief Policy ... 156
+33.130. Policy on Grants for Vaccine Related-Projects ... 158
 2
 
 Codification Outline
-October 2026
-33.140. Programs of Scale ... 159
-ARTICLE 34. STEWARDSHIP ... 162
-34.010. Stewardship of Foundation Funds ... 162
-34.020. Annual Stewardship Plan ... 163
-34.030. The Rotary Foundation Cadre of Technical Advisers ... 163
-34.040. Grant Auditing and Monitoring Activities ... 166
-34.050. Grant Reporting ... 169
-ARTICLE 35. ROTARY PEACE CENTERS ... 172
-35.010. General Policies ... 172
-35.020. Funding ... 173
-35.030. Recognition ... 176
-35.040. Award Amount ... 177
-35.050. Fellow Eligibility and Selection Process ... 177
-35.060. Ambassadorial Activities of Rotary Peace Fellows ... 181
-35.070. Responsibilities of Districts ... 182
-CHAPTER IV – PUBLIC IMAGE ... 186
-ARTICLE 40. GENERAL POLICIES ... 186
-40.010. Public Relations and Information ... 186
-CHAPTER V - FINANCES ... 187
-ARTICLE 50. CONTRIBUTIONS ... 187
-50.010. Fundraising Goals ... 187
-50.020. Encouraging Rotarians to Give Annually to the Foundation ... 187
-50.030. New Gift Proposals ... 188
-50.040. Rotary Exchange Rates ... 188
-50.050. Terminology for the Funds of the Foundation ... 188
-50.060. Gift Options ... 189
-50.070. Gift Acceptance Manual ... 194
-50.080. Endowment Fund ... 194
-50.090. Annual Fund ... 198
-50.100. Donor Advised Funds Program ... 198
-ARTICLE 51. DONOR RECOGNITION ... 202
-51.010. Statement of Principles for Contribution Recognition ... 202
-51.020. Major Gifts Recognition ... 203
-51.030. Paul Harris Fellow Recognition ... 205
-51.040. Major Gifts Initiatives Naming Opportunities ... 210
-51.050. Other Recognition ... 211
-51.060. Awards ... 216
-51.070 Family Attendance at Donor Recognition Events ... 223
+January 2027
+33.140. Programs of Scale ... 158
+ARTICLE 34. STEWARDSHIP ... 161
+34.010. Stewardship of Foundation Funds ... 161
+34.020. Annual Stewardship Plan ... 162
+34.030. The Rotary Foundation Cadre of Technical Advisers ... 162
+34.040. Grant Auditing and Monitoring Activities ... 165
+34.050. Grant Reporting ... 168
+ARTICLE 35. ROTARY PEACE CENTERS ... 171
+35.010. General Policies ... 171
+35.020. Funding ... 172
+35.030. Recognition ... 175
+35.040. Award Amount ... 176
+35.050. Fellow Eligibility and Selection Process ... 176
+35.060. Ambassadorial Activities of Rotary Peace Fellows ... 180
+35.070. Responsibilities of Districts ... 181
+CHAPTER IV – PUBLIC IMAGE ... 185
+ARTICLE 40. GENERAL POLICIES ... 185
+40.010. Public Relations and Information ... 185
+CHAPTER V - FINANCES ... 186
+ARTICLE 50. CONTRIBUTIONS ... 186
+50.010. Fundraising Goals ... 186
+50.020. Encouraging Rotarians to Give Annually to the Foundation ... 186
+50.030. New Gift Proposals ... 187
+50.040. Rotary Exchange Rates ... 187
+50.050. Terminology for the Funds of the Foundation ... 187
+50.060. Gift Options ... 188
+50.070. Gift Acceptance Manual ... 193
+50.080. Endowment Fund ... 193
+50.090. Annual Fund ... 197
+50.100. Donor Advised Funds Program ... 197
+ARTICLE 51. DONOR RECOGNITION ... 201
+51.010. Statement of Principles for Contribution Recognition ... 201
+51.020. Major Gifts Recognition ... 202
+51.030. Paul Harris Fellow Recognition ... 204
+51.040. Major Gifts Initiatives Naming Opportunities ... 209
+51.050. Other Recognition ... 210
+51.060. Awards ... 215
+51.070 Family Attendance at Donor Recognition Events ... 222
 ARTICLE 52. SHARE SYSTEM ... 224
 52.010. Allocations ... 224
 52.020. Program Options Catalog ... 224
@@ -223,7 +224,7 @@ ARTICLE 54. THE ROTARY FOUNDATION FUNDING MODEL ... 230
 3
 
 Codification Outline
-October 2026
+January 2027
 54.020. Objectives of this Policy ... 230
 54.030. Definitions ... 230
 54.040. Funding Model - Funding Sources ... 231
@@ -261,11 +262,11 @@ ARTICLE 61. ROTARY ALUMNI... 255
 61.040. Rotary Alumni Involvement in Trustee Activities ... 256
 61.050. Alumni Awards ... 257
 ARTICLE 62. STRATEGIC PLANNING ... 261
-62.010. Strategic Planning Committee ... 261
+62.010. Joint Strategic Planning Committee ... 261
 4
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 CHAPTER I – GENERAL
 Articles
 Article 10. Organization
@@ -298,7 +299,7 @@ Source: June 2017 Trustees Mtg., Dec. 141; September 2017 Trustees Mtg., Dec. 12
 1
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 10.040. Foundation Priorities and Goals
 The trustee chair-elect shall select up to four priorities to be addressed over a three-
 year cycle, to be presented at the October meeting of the Trustees.
@@ -338,7 +339,7 @@ current level of programs and to build the Foundation for the future.
 2
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Furthermore, the Board and Trustees, while acknowledging the value of projects
 throughout the world, appeal to the Rotary world to acknowledge the universality of
 The Rotary Foundation as our primary means to implement the international service
@@ -363,7 +364,7 @@ Amended by January 2009 Trustees mtg., Dec. 66
 3
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 CHAPTER II - ADMINISTRATION
 Articles
 Article 20. Trustees
@@ -401,7 +402,7 @@ a Rotary Foundation Committee shall use his or her position, or the knowledge
 4
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 gained therefrom, in such a manner that a conflict between the interest of The
 Rotary Foundation and his or her personal interest arises.
 B. Each Trustee and Rotary Foundation committee member has a duty to place the
@@ -443,7 +444,7 @@ Member of the board of Directors of Rotary International, key employees or highe
 5
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 compensated independent contractors of The Rotary Foundation as those
 individuals or firms are identified annually by the general secretary.
 II. Disclosure
@@ -485,7 +486,7 @@ Foundation as well as to protect its mission. Many of these provisions are desig
 6
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 to assure good governance and promote an ethical image. Adhering to these policies
 demonstrates a commitment to these ideals while protecting the Foundation.
 4. Trustees will serve for the benefit of The Rotary Foundation and to serve at its
@@ -532,7 +533,7 @@ and precludes the appearance of impropriety.
 7
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 11. Trustees will interact with RI and TRF staff in a professional and respectful manner
 and shall understand and abide by Rotary International’s non-harassment policy.
 Trustees come into regular contact with RI and TRF staff. Maintaining a
@@ -576,7 +577,7 @@ Dec. 84)
 8
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: February 2006 Trustees Mtg., Dec. 93
 Amended by January 2020 Trustees Mtg., Dec. 61; April 2024 Trustees Mtg., Dec. 84
 20.020.2. Seminar on Governance
@@ -614,7 +615,7 @@ travel to Rotary Institutes.
 9
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 7. Lead by example in support of The Rotary Foundation in terms of time, talent, and
 treasure.
 8. Motivate Rotarians, donors, and potential donors to support and engage in the
@@ -657,7 +658,7 @@ Dec. 12)
 10
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: April 2017 Trustees Mtg., Dec. 102
 Amended by September 2017 Trustees Mtg., Dec. 12
 20.030.4. Qualifications
@@ -695,7 +696,7 @@ See also: COL 25-31
 11
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 20.030.5. Nomination of Trustees
 The chair-elect, upon being consulted by the president-elect prior to nominating
 candidates to be elected as trustees by the Board, shall, in consultation with the
@@ -732,7 +733,7 @@ to submit comments whether or not they attend the meeting. The trustee chair sha
 12
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 consider on a case-by-case basis the benefit and expense of having the liaison trustee
 actually attend the meeting of the various committees. (June 2003 Trustees Mtg., Dec.
 175)
@@ -770,7 +771,7 @@ representative before the latter’s departure for the Institute that the Instit
 13
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 bear such expenses. The Foundation also will pay all transportation costs. (April 2000
 Trustees Mtg., Dec. 126)
 Source: April 1998 Trustees Mtg., Dec. 134
@@ -808,7 +809,7 @@ Source: June 1999 Trustees Mtg., Dec. 204
 14
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by October 2013 Trustees Mtg., Dec. 8; April 2024 Trustees Mtg., Dec. 84
 Cross-Reference
 20.080. Trustees Attendance at Rotary Institutes
@@ -847,7 +848,7 @@ support the chair at the International Convention
 15
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ▪ Up to $12,000 USD for hotel and meals during their travels, intended to
 support cultivation activities with prospective donors
 ▪ Up to $2,400 USD for gifts to distribute to dignitaries and senior leaders
@@ -889,7 +890,7 @@ Trustees Mtg., Dec. 9; April 2024 Trustees Mtg., Dec. 91; October 2024 Trustees 
 16
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 20.130. Foundation Representative and Representative’s Spouse to Attend General RI
 Meetings
 The Chair of The Rotary Foundation Trustees shall appoint a Trustee or a past Trustee
@@ -932,7 +933,7 @@ Amended by April 2000 Trustees Mtg., Dec. 126
 17
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 20.140.1. Responsibilities of Spouses of Trustees of The Rotary Foundation at the International
 Assembly
 The role of spouses of the Trustees in preparing for and attending the International
@@ -970,7 +971,7 @@ Cross-Reference
 18
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 21. OFFICERS
 21.010. Delegation of Authority
 21.020. Election of Officers
@@ -1012,7 +1013,7 @@ International PolioPlus Committee or its chair; b) does not exceed US$250,000.
 19
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 7. Approve the creation of a Disaster of Magnitude Fund that is eligible for increased
 Disaster Response grant awards of US$50,000 and a maximum of two open grants
 per impacted district for a period of one year after being recommended by a current
@@ -1054,7 +1055,7 @@ exception basis
 20
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 4. Waive reporting responsibilities for a host or international sponsor when the
 sponsor has proven due diligence in trying to ascertain a report
 5. Extend the processing of pending/unapproved, approved/unpaid, or paid/no
@@ -1086,41 +1087,39 @@ d. Approve changes within the budget of an approved grant, provided that these
 changes do not affect the purpose or dollar limit of the grant
 e. Approve requests for project sponsors to use interest earned and currency gains
 for additional items that will enhance the project
-3. Global Grants for Vocational Training Teams
-a. Authorize team travel if all award conditions have been met
-b. Authorize additional travel associated with learning activities
-c. Postpone by one year the originally scheduled vocational training award
+f. Authorize team travel if all award conditions have been met
+g. Authorize additional travel associated with learning activities
+h. Postpone by one year the originally scheduled international travel
+i. Authorize brief visits outside of the host sponsor district in adjacent districts as
+part of the international travel itinerary when such visits pertain to learning or
+associated area of focus activity
 21
 
 Rotary Foundation Code of Policies
-October 2026
-d. Authorize brief visits outside of the host sponsor district in adjacent districts as
-part of the vocational training team itinerary when such visits pertain to learning
-or associated area of focus activity
-e. Grant transportation payment for a vocational training team member in the
-event of the death of the team member’s mother, father, sibling, spouse, or child
-f. Waive an established predeparture requirement for a vocational training team
-member or team leader
-g. Waive citizenship and residency criteria when extenuating circumstances
-warrant
-h. Enforce submission of all post-training reporting
-4. Global Grants for Scholarships
+January 2027
+j. Grant transportation payment for an international traveler in the event of the
+death of the team member’s mother, father, sibling, spouse, or child
+k. Waive an established predeparture requirement for international travelers
+l. Waive citizenship and residency criteria when extenuating circumstances
+warren
+3. Global Grants for Scholarships
 a. Make final decisions on all matters raised by scholarship candidates, scholars,
 and their supporters concerning the administration of the scholarship
 b. Approve district-endorsed candidates if eligible under existing Code of Policies
 and determine whether the scholar’s study plan is within an area of focus
-c. Waive a published pre-departure requirement for any scholar
-d. Postpone scholar’s use of a scholarship by 12 months when warranted by
-extenuating circumstances (such as host and international sponsor issues and
-district approval delays)
-e. Approve “late” scholarship candidates (those who were not originally awarded
+c. Approve scholarship applications submitted by club or district sponsors with
+overdue reports
+d. Waive a published pre-departure requirement for any scholar
+e. Postpone scholar’s use of a scholarship by 12 months when warranted by
+extenuating circumstances (such as sponsor issues and district approval delays)
+f. Approve “late” scholarship candidates (those who were not originally awarded
 a scholarship for reasons of incomplete applications or unsubmitted
 applications)
-f. Grant roundtrip transportation payment or single-trip transportation for a
+g. Grant roundtrip transportation payment or single-trip transportation for a
 scholar in the event of the death of the scholar’s mother, father, sibling, spouse,
 or child
-g. Grant a delay of up to one year in a scholar’s return home
-h. Enforce submission of all post-training reporting
+h. Grant a delay of up to one year in a scholar’s return home
+i. Enforce submission of all post-training reporting
 C. Rotary Foundation District Grants
 1. Approve all grant awards
 D. PolioPlus
@@ -1128,15 +1127,15 @@ D. PolioPlus
 the recommendation of the International PolioPlus Committee or its chair on the
 committee’s behalf, up to a maximum of $25,000 per grant
 2. Approve PolioPlus Partners Grants of up to US$100,000 per grant
-22
-
-Rotary Foundation Code of Policies
-October 2026
 E. Strategic Partnerships and Collaborating Organizations
 1. Initiate solicitation of potential Strategic Partners
 2. Determine designation criteria for collaborating organizations and oversee their
 selection and approval
 F. Awards
+22
+
+Rotary Foundation Code of Policies
+January 2027
 Approve all nominations for Citations for Meritorious Service
 G. Fund Development
 Approve or disapprove donor requested distributions from donor advised funds
@@ -1164,25 +1163,25 @@ Committee shall report any actions taken with regard to such appeals to the firs
 available Trustees meeting. With respect to the grant programs, should the Trustees
 believe a change in policy is needed as a result of an appeal, it shall refer the matter to
 the Programs Committee, which will work with the general secretary to include the
-23
-
-Rotary Foundation Code of Policies
-October 2026
-issue in the regular evaluation of the grant programs. (April 2024 Trustees Mtg., Dec.
-84)
-Source: October 2000 Trustees Mtg., Dec. 49; April 2005 Trustees Mtg., Dec. 97; October 2006
-Trustees Mtg., Dec. 55; April 2007 Trustees Mtg., Dec. 104; April 2008 Trustees Mtg., Dec. 115; October
-2008 Trustees Mtg., Dec. 24; October 2009 Trustees Mtg., Dec. 16; October 2009 Trustees Mtg., Dec.
-44; October 2010 Trustees Mtg., Dec. 15; October 2012 Trustees Mtg., Dec. 16; April 2013 Trustees
-Mtg., Dec. 113; June 2015 Trustees Mtg., Dec. 146; October 2018 Trustees Mtg., Dec. 46; October 2018
-Trustees Mtg., Dec. 47; April 2021 Trustees Mtg., Dec. 107; January 2022 Trustees Mtg., Dec. 41; April
-2024 Trustees Mtg., Dec. 84
+issue in the regular evaluation of the grant programs.
 IV. The Stewardship Committee is authorized to
 1. Take any of the actions outlined in the Stewardship Committee Terms of Reference
 2. Act on behalf of the Trustees on all matters relating to qualification
-(October 2012 Trustees Mtg., Dec. 16)
-Source: October 2006 Trustees Mtg., Dec. 49; April 2009 Trustees Mtg., Dec.102; October 2012
-Trustees Mtg., Dec. 16
+(October 2026 Trustees Mtg., Dec. 23)
+Source: October 2000 Trustees Mtg., Dec. 49;
+Amended by April 2005 Trustees Mtg., Dec. 97; October 2006 Trustees Mtg., Dec. 55; April 2007
+Trustees Mtg., Dec. 104; April 2008 Trustees Mtg., Dec. 115; October 2008 Trustees Mtg., Dec. 24;
+October 2009 Trustees Mtg., Dec. 16; October 2009 Trustees Mtg., Dec. 44; October 2010 Trustees
+Mtg., Dec. 15; October 2012 Trustees Mtg., Dec. 16; April 2013 Trustees Mtg., Dec. 113; June 2015
+Trustees Mtg., Dec. 146; October 2018 Trustees Mtg., Dec. 46; October 2018 Trustees Mtg., Dec. 47;
+April 2021 Trustees Mtg., Dec. 107; January 2022 Trustees Mtg., Dec. 41; April 2024 Trustees Mtg., Dec.
+84; October 2026 Trustees Mtg., Dec. 22; October 2026 Trustees Mtg., Dec. 23
+23
+
+Rotary Foundation Code of Policies
+January 2027
+See also October 2006 Trustees Mtg., Dec. 49; April 2009 Trustees Mtg., Dec. 102; October 2012
+Trustees Mtg., dec. 16
 21.020. Election of Officers
 The annual election of officers for the following year shall be conducted at the annual
 meeting of the Trustees in October. The election of officers shall be conducted by
@@ -1203,10 +1202,6 @@ the President and the Trustees and present the plan for such segments for approv
 of the Trustees at the second (January/February) meeting of the year
 3. Report to the Trustees within ten (10) days any emergency actions taken on behalf
 of the Trustees pursuant to the authority granted in the Bylaws
-24
-
-Rotary Foundation Code of Policies
-October 2026
 4. Promote the work of TRF and the need for Rotarians to maintain their financial
 support
 (October 2024 Trustees Mtg., Dec. 7)
@@ -1219,6 +1214,10 @@ President-elect regularly
 2. Coordinate the program for TRF segments of the International Assembly in
 consultation with the President-Elect and the Trustees and present the plan for such
 segments for approval of the Trustees at their last (June) meeting of the year
+24
+
+Rotary Foundation Code of Policies
+January 2027
 3. Make appointments of Trustee representatives to the following year’s Rotary
 Institutes. Before making any such appointments, the Trustees shall be provided a
 list of all of the Rotary Institutes occurring in the following year at the second
@@ -1240,10 +1239,6 @@ In addition to the duties and responsibilities of a Trustee, the chair also
 1. Presides at all meetings of the Trustees.
 2. Travels on behalf of the Foundation to motivate donors and potential donors and to
 encourage the charitable and humanitarian activities of the Foundation.
-25
-
-Rotary Foundation Code of Policies
-October 2026
 3. In collaboration with the Board of Trustees, appoints members of Foundation
 committees, coordinators, consultants, liaisons to RI Board committees and
 meetings, and similar positions.
@@ -1258,6 +1253,10 @@ presents the plan for such segments for approval of the Trustees
 pursuant to the authority granted in the Bylaws
 9. Promotes the programs of TRF.
 10. Reports to the Trustees on decisions made between meetings.
+25
+
+Rotary Foundation Code of Policies
+January 2027
 11. Consults regularly and collaborates with the Vice-Chair and Chair-elect.
 12. Performs such other duties as pertain to the office, including those delegated to the
 Trustee chair by the Board of Trustees
@@ -1279,10 +1278,6 @@ philanthropy, or the nonprofit sector. His/her accomplishments will allow him/he
 work collaboratively with other well-qualified, high-performing board members and
 organizational leaders.
 Ideal candidates should have the following qualifications
-26
-
-Rotary Foundation Code of Policies
-October 2026
 1. Professional experience with significant executive leadership accomplishments in
 business, government, philanthropy, or the nonprofit sector.
 2. Commitment to and understanding of Rotary’s members, donors, program
@@ -1297,6 +1292,10 @@ operations, and administration.
 or charitable aims.
 7. Strong collaboration and negotiation skills.
 8. Effective communication skills (both verbal and written).
+26
+
+Rotary Foundation Code of Policies
+January 2027
 9. Ability to translate the organizational vision into an effective action plan during
 his/her year as chair, in collaboration with the Board of Trustees.
 10. Ability to work collaboratively with predecessors and successors.
@@ -1315,19 +1314,15 @@ all certificates, articles, applications, designations, appointments, assignment
 sale, agreements, documents, and instruments. (April 2000 Trustees Mtg., Dec. 126)
 Source: May-June 1983 Trustees Mtg., Dec. 13
 Amended by April 2000 Trustees Mtg., Dec. 126
-27
-
-Rotary Foundation Code of Policies
-October 2026
 21.070. Corporate Credit Card
 The trustee chair and chair-elect shall be authorized to use a TRF corporate credit card
 in paying for reimbursable business expenses. (October 2015 Trustees Mtg., Dec. 7)
 Source: October 2002 Trustees Mtg., Dec. 10
 Amended by October 2015 Trustees Mtg., Dec. 7
-28
+27
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 22. MEETINGS
 22.010. Meetings of Trustees, Decisions, and Meeting Minutes
 22.010. Meetings of Trustees, Decisions, and Meeting Minutes
@@ -1361,10 +1356,10 @@ be obtained by telephone, email, fax, or other means of communication under the
 direction of the general secretary. Such informal polling by the general secretary shall
 continue only until the consent of a majority of Trustees, including the trustee chair, is
 obtained. Any action for which informal consent is sought and obtained, including the
-29
+28
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 names of all Trustees consenting to such action, shall be reported by the general
 secretary to all Trustees within 10 business days. (April 2005 Trustees Mtg., Dec. 97)
 Source: April 2005 Trustees Mtg., Dec. 97
@@ -1402,10 +1397,10 @@ and make recommendations to the full board of Trustees for consideration and dec
 The general secretary shall update The Rotary Foundation Code of Policies after each
 Trustees meeting for distribution in loose-leaf form to the Trustees and appropriate
 TRF and RI staff, and for publication on the RI website.
-30
+29
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 The general secretary is requested to ensure that all suggested Trustee decisions make
 reference to any provisions of The Rotary Foundation Code of Policies that are affected
 by the suggested Trustees’ decision, such suggested decisions to be drafted so they may
@@ -1422,10 +1417,10 @@ The Rotary Foundation Code of Policies shall be issued only in English at this t
 (October 2013 Trustees Mtg., Dec. 8)
 Source: June 2001 Trustees Mtg., Dec. 207
 Amended by April 2003 Trustees Mtg., Dec. 129; October 2013 Trustees Mtg., Dec. 8
-31
+30
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 23. COMMITTEES
 23.010. Foundation Committee Appointments
 23.020. Consultants
@@ -1462,10 +1457,10 @@ more than 90 days
 • Shall be ineligible for any Rotary appointments or assignments that require the
 approval of the Board until these obligations have been met to the satisfaction of
 the Joint Audit Committee.
-32
+31
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Shall be ineligible to have any payments made on their behalf by RI or TRF or to
 receive reimbursement for expenses incurred on RI or TRF business until such
 financial obligation has been repaid
@@ -1503,10 +1498,10 @@ a committee chair, for one year. The Chair-elect shall appoint consultants to se
 during his or her term as chair, subject to the approval of the Trustees.
 A committee, if it so wishes, may have fewer than two consultants or none. The chair
 of the Trustees may, at the request of a chair of one of these committees and if he or
-33
+32
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 she deems it necessary and cost-effective, appoint additional consultant(s) for a
 committee, who shall have one-year terms.
 Consultants may be reappointed but may not serve more than four consecutive years.
@@ -1542,10 +1537,10 @@ the committee’s first meeting of the year, or may be delivered electronically,
 teleconference, webinar, or other electronic means. The orientation program should
 include the following:
 • History of the subject area
-34
+33
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Terms of reference, scope of the committee’s work and committee goals for the
 year
 • Sections of the Code of Policies that apply to all committees
@@ -1583,10 +1578,10 @@ The liaison Trustee shall present the committee’s report to the Trustees. The 
 Trustee is expected to communicate the committee’s thinking and deliberations as
 contained in the formal written report or as otherwise known in the capacity as liaison
 Trustee. (October 2003 Trustees Mtg., Dec. 11)
-35
+34
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: October 2003 Trustees Mtg., Dec. 11
 23.040.3. Liaison Trustees’ Expenses
 Appropriation shall be made in the annual TRF budget to cover all expenses of the
@@ -1621,10 +1616,10 @@ Minutes or other reports from a committee shall be distributed to all members an
 liaisons of the committee as soon as possible after the meeting of the committee, but
 no later than the date such minutes or report is submitted to the Trustees for
 consideration or review.
-36
+35
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 With the guidance of the committee’s chair and assistance of the staff each TRF
 committee shall prepare and include, as part of the committee’s minutes or report, its
 specific recommendations to the Trustees (or to the general secretary), with a brief
@@ -1659,10 +1654,10 @@ recommendations regarding them to the Trustees
 • Review reports of committees and, when necessary, take action on matters
 contained therein where the policy of the Trustees has been established or where an
 emergency exists
-37
+36
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Make decisions, when necessary, relative to expenditures for which appropriations
 have been made by the Trustees and make appropriations for administrative
 purposes not to exceed US$25,000
@@ -1702,10 +1697,10 @@ be appointed each year.
 Membership is limited to Rotarians and Rotaractors and 3 must be Trustees. The non-
 trustee members shall have significant experience in Foundation programs. Non-trustee
 members shall have either served as the primary contact on a district or global grant,
-38
+37
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 have subject matter expertise in the areas of focus, or have served as a member of the
 Cadre of Technical Advisers.
 The Committee shall have one Board liaison and no Trustee liaison.
@@ -1743,10 +1738,10 @@ October 2018 Trustees Mtg., Dec. 46; April 2019 Trustees Mtg., Dec. 127; October
 Dec. 4; April 2024 Trustees Mtg., Dec. 84
 23.050.3. Finance Committee
 Purpose: Advises the Trustees with respect to all finances of the Foundation
-39
+38
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Composition: At least 4 Trustees, appointed by the Trustee Chair. The Chair and Vice
 Chair shall be appointed by the Trustee Chair.
 Terms shall be two years with two members appointed each year. Members may be
@@ -1779,10 +1774,10 @@ year. Members may be reappointed
 Membership shall be limited to Rotarians and Rotaractors. Members shall have
 significant fund development or fundraising professional experience.
 There shall be no Board liaison and no Trustee liaison.
-40
+39
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Responsibilities: Provide guidance and advice to the Trustees of the Rotary Foundation
 on all aspects of fundraising. Committee members actively fundraise and support the
 Rotary Foundation financially. The Committee shall also:
@@ -1820,10 +1815,10 @@ and former AOF MG Advisers, Endowment/Major Gift Advisers, to identify
 candidates with the skill and aptitude for the open AOF MG position. The trustee
 chair-elect makes the selections to occur by 31 December of each year or in advance
 of the third trustee meeting, whichever is earlier.
-41
+40
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Each Area of Focus team will have a Lead Adviser. Typically, lead advisers are
 experienced fundraisers who have previously served as an AOF MGI Adviser
 and/or have experience as an Endowment/Major Gift Adviser (E/MGA). Lead
@@ -1862,10 +1857,10 @@ of focus through presentations at district conferences and other Rotary
 activities.
 • Keep regional, zone, and district leaders updated about major gift opportunities
 for the areas of focus and Rotary Peace Centers.
-42
+41
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Be a resource and/or present on the Major Gifts Initiatives at zone and district
 activities and/or participate in or host an annual training in the area of focus or
 the impact of major gifts.
@@ -1900,10 +1895,10 @@ changes as appropriate based on review of pertinent issues around stewardship an
 compliance
 • Make decisions regarding the qualification of districts and clubs
 • Review annual stewardship plan
-43
+42
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Review annual grant model evaluation performed by the General Secretary and
 make related recommendations for changes to the grant model to improve
 stewardship practices
@@ -1940,10 +1935,10 @@ of that person. The IC is subject to certain duties and responsibilities, includ
 limited to:
 2.1 Know the standards, laws, and trust provisions that impact the investment process
 of the Portfolios.
-44
+43
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2.2 Prudently diversify the portfolios to a specific risk/return profile.
 2.3 Prepare, execute and maintain an investment policy statement.
 2.4 Have investment decisions made by prudent experts.
@@ -1985,10 +1980,10 @@ prior to the commencement of the meeting.
 recommended decisions shall be provided to the entire Board of Trustees and
 maintained by the Office of Investment.
 4.6 Separate minutes will be prepared for the RIFC on those items impacting RI.
-45
+44
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 IC Portal
 4.7 A secure site for the IC has been established on Rotary.org to facilitate the
 timely dissemination of pertinent investment information and to provide ready
@@ -2025,10 +2020,10 @@ Amended by September 2011 Trustees Mtg., Dec. 63; June 2017 Trustees Mtg., Dec. 
 2021 Trustees Mtg., Dec. 98
 23.050.7.2. Conflict of Interest Policy for Members of the Investment Committee
 I. Policy
-46
+45
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 1. The Investment Committee (“Committee”) has oversight responsibility for
 Rotary’s investment portfolios. The portfolios are generally managed on Rotary’s
 behalf by external investment and financial firms. Each Committee member has a
@@ -2070,10 +2065,10 @@ Committee, which will attempt to resolve any actual or potential conflicts and, 
 absence of resolution, refer the matter to the trustee chair. (June 2017 Trustees Mtg.,
 Dec. 161)
 Source: October 2005 Trustees Mtg., Dec. 74
-47
+46
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by June 2007Trustees Mtg., Dec. 181; September 2011 Trustees Mtg., Dec. 63; June 2017
 Trustees Mtg., Dec. 161
 23.050.8. Participant Experience Committee
@@ -2108,10 +2103,10 @@ Purpose: Selects the Rotary Peace Fellows and advises the Trustees with respect 
 policies for the Rotary Peace Centers program
 Composition: 10 members, appointed by the Trustee Chair. The Chair and Vice Chair
 shall be appointed by the Trustee Chair
-48
+47
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Terms shall be 3 years and staggered with 3 or 4 members appointed each year.
 Members may be reappointed.
 Membership shall be limited to Rotarians and Rotaractors, specialists in the field,
@@ -2147,10 +2142,10 @@ Purpose: Advises the Board and the Trustees with respect to audited financial re
 internal and external audits, and internal control systems.
 Composition: 8 members, two current RI directors, two current TRF trustees, four non-
 directors/non-trustees. One non-Director/non-Trustee member appointed jointly
-49
+48
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 annually by the RI President and the Trustee Chair in consultation with the RI
 president-elect and the Trustee Chair-elect. One Director appointed annually by the RI
 President, and one Trustee appointed annually by the Trustee Chair. Chair and Vice
@@ -2180,16 +2175,16 @@ TRF and RI Finance Committees, as appropriate. (October 2025 Trustees Mtg., Dec.
 30)
 Source: October 2022 Trustees Mtg., Dec. 13.
 Amended by October 2025 Trustees Mtg., Dec. 30
-23.060.1.1. Audit Committee Charter
+23.060.1.1. Joint Audit Committee Charter
 I. Authority
 The Joint Audit Committee has authority to conduct or authorize investigations into
 any matters within its scope of responsibility. It is empowered to:
 1. Recommend the engagement of and the compensation for, and oversee the work of
 any registered public accounting firm employed to audit the books of RI and TRF
-50
+49
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2. Resolve any disagreements between management and the external auditor
 regarding financial reporting
 3. Retain independent counsel, accountants, or others to advise the committee or assist
@@ -2223,10 +2218,10 @@ section 17.020.
 D. Responsibilities
 The committee will carry out the following responsibilities:
 Financial Statements
-51
+50
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 1. Review significant accounting and reporting issues, including complex or unusual
 transactions and highly judgmental areas, and recent professional and regulatory
 pronouncements, and understand their impact on the financial statements.
@@ -2265,10 +2260,10 @@ the appointment, replacement, or dismissal of the general auditor.
 performance relative to its plan.
 15. Review with the general auditor the internal audit budget, resource plan, activities,
 and organizational structure of the internal audit function.
-52
+51
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 16. Review the effectiveness of the internal audit function, including conformance with
 The Institute of Internal Auditors' Definition of Internal Auditing and Code of
 Ethics and the Global Internal Auditing Standards.
@@ -2306,10 +2301,10 @@ board approval for proposed changes, and ensure appropriate disclosure as may be
 required by law or regulation.
 30. Confirm annually that all responsibilities outlined in this charter have been carried
 out.
-53
+52
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 31. Evaluate the committee's and individual members' performance on a regular basis.
 (October 2025 Trustees Mtg., Dec. 30)
 Source: October 2022 Trustees Mtg., Dec. 13.
@@ -2345,10 +2340,10 @@ The Advisory Council should collaborate with the Membership Growth Committee,
 the RI Programs Committee, and the Joint Operations Review Committee. (April 2024
 Trustees Mtg., Dec. 84)
 Source: October 2022 Trustees Mtg., Dec. 13
-54
+53
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by October 2023 Trustees Mtg., Dec. 4; April 2024 Trustees Mtg., Dec. 84
 23.060.3. Joint Learning Committee
 Purpose: Advises the Board and Trustees with respect to creating effective learning
@@ -2385,10 +2380,10 @@ opportunities on Rotary’s Learning Center, requesting content to be added to a
 meeting, or creating new materials for members. (April 2024 Trustees Mtg., Dec. 84)
 Source: October 2022 Trustees Mtg., Dec. 13.
 Amended by April 2024 Trustees Mtg., Dec. 84
-55
+54
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 20.060.4. Joint Communications Committee
 Purpose: Advises the Board and Trustees with respect to Rotary’s overall public image,
 branding, communications, content strategy, and approach.
@@ -2422,10 +2417,10 @@ the RI President and Trustee Chair in consultation with the RI President-elect a
 Trustee Chair-elect. Chair and Vice Chair appointed jointly by the RI president and
 Trustee Chair in consultation with the RI President-elect and the Trustee Chair-elect.
 Terms shall be staggered, 3-year terms. Members may be re-appointed.
-56
+55
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 A majority of the members shall be Rotarians and Rotaractors. Non-Rotarian
 technology experts may be appointed.
 The Committee shall have one Board liaison and one Trustee liaison.
@@ -2458,10 +2453,10 @@ Terms shall be 6 years. Members cannot be reappointed unless a member has served
 three years or less.
 Membership is limited to past RI Directors and past TRF Trustees. No member shall
 be a past president, current or incoming Director, or current or incoming Trustee.
-57
+56
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Furthermore, no member shall be a member of the Joint Audit Committee, a member
 of the Finance Committee of Rotary International, or a member of the Finance
 Committee of The Rotary Foundation.
@@ -2501,10 +2496,10 @@ matters of TRF shall be provided to the Trustees at its next meeting.
 The Operations Review Committee maintains lines of communication with the
 president, president-elect, Trustee chair, Trustee chair-elect, general secretary, and
 senior management. (October 2022 Trustees Mtg., Dec. 13)
-58
+57
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: October 2022 Trustees Mtg., Dec. 13.
 23.060.7. Joint Strategic Planning Committee
 Purpose: Advises the Board and Trustees on matters regarding the strategic plan for the
@@ -2537,10 +2532,10 @@ scenarios and strategies to address those issues
 • Consider Rotary’s position and comparative advantage relative to market trends as
 well as global trends in volunteerism, membership, charitable causes, and
 humanitarian service
-59
+58
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 The Committee should collaborate with the TRF and RI Finance Committees to assure
 long-term financial stability, Joint Operations Review Committee, and Membership
 Growth Committee, as appropriate. (January 2026 Trustees Mtg., Dec. 49)
@@ -2548,10 +2543,10 @@ Source: October 2022 Trustees Mtg., Dec. 13
 Amended by October 2023 Trustees Mtg., Dec. 9; January 2026 Trustees Mtg., Dec. 38
 Cross-Reference
 32.080. International PolioPlus Committee
-60
+59
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 24. REGIONAL LEADERS
 24.010. Regional Leaders
 24.020. Regional Rotary Foundation Coordinators (RRFCs)
@@ -2588,10 +2583,10 @@ The regional team is strongly encouraged to jointly:
 (April 2024 Trustees Mtg., Dec. 84)
 Source: August 2018 Trustees Mtg., Dec. 23
 Amended by January 2020 Trustees Mtg., Dec. 65; April 2024 Trustees Mtg., Dec. 84
-61
+60
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 24.010.2. Learning Events
 Regional Leader Learning Event
 Incoming regional leaders attend one of two in-person learning events to orient them
@@ -2631,10 +2626,10 @@ Rotarians, especially district leaders, with new information, resources, tools, 
 an opportunity to share best practices.
 • President-elect Learning Seminars (PELS) – Regional leaders and their teams
 should collaborate with their governors and governors-elect to support preparing
-62
+61
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 presidents-elect and other district leaders for their roles, including providing
 assistance to the learning event and curriculum development, and, if invited,
 facilitating or participating in district learning events.
@@ -2671,10 +2666,10 @@ Amended by August 2018 Trustees Mtg., Dec. 23
 The purpose of RRFCs is to proactively promote The Rotary Foundation’s goals and
 Rotary’s Strategic plan by facilitating increased giving to and participation in The
 Rotary Foundation’s Annual Fund and PolioPlus efforts as well as greater participation
-63
+62
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 in The Rotary Foundation’s district and global grants, and programs. RRFCs work in
 collaboration with the district structure to support and encourage Rotarians and clubs
 to fully participate in The Rotary Foundation’s fund-raising, programs, and grant
@@ -2712,10 +2707,10 @@ RRFCs understand and effectively communicate The Rotary Foundation’s:
 • Annual goals and priorities
 • Fund-raising opportunities for the Annual Fund and the need for funding
 • Grants and programs
-64
+63
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Alumni importance
 RRFCs lead by example locally and regionally by:
 • Supporting fund development and grant participation in their Rotary club and the
@@ -2752,10 +2747,10 @@ Committee Chairs, and District International Service Committee Chairs (DISCs).
 RRFCs inspire, motivate, train, advise, strategize, communicate, and promote
 Foundation programs and activities directly to district Rotary Foundation committee
 and subcommittee chairs. (August 2018 Trustees Mtg., Dec. 23)
-65
+64
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: August 2018 Trustees Mtg., Dec. 23
 24.020.6. Key Network
 Senior Leadership
@@ -2793,10 +2788,10 @@ serve, especially in relation to geographic coverage, functional expertise, and 
 ability. Assistants should not serve concurrently with a significant regional or district-
 level role. Assistants help the RRFC with education, motivation, and learning about
 grants, programs, and giving opportunities.
-66
+65
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Candidates for assistant RRFCs must be vetted with the general secretary for
 compliance with Rotary policy related to stewardship, youth protection, financial, and
 other obligations before the appointments are finalized.
@@ -2832,10 +2827,10 @@ leadership
 • Proven performance in major gift fundraising for The Rotary Foundation
 Preference for E/MGA candidates will be given to candidates with demonstrated:
 • Collaborative leadership styles
-67
+66
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Service as a district endowment/major gifts subcommittee chair or the district
 Rotary Foundation chair
 Due to the intensive nature of this role and to expand leadership opportunities, E/MGAs
@@ -2872,10 +2867,10 @@ US$25,000 or more
 Rotary’s Endowment, PolioPlus, Rotary Peace Centers, and areas of focus major
 gifts initiatives
 • The development of effective district endowment/major gifts subcommittees
-68
+67
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Where regionally appropriate, the identification of Gift and Estate Planning
 Professionals in their region and provide opportunities for their involvement in
 district fund-raising activities
@@ -2913,10 +2908,10 @@ Source: August 2018 Trustees mtg., Dec. 23
 Amended by October 2021 Trustees Mtg., 23; January 2022 Trustees Mtg., Dec. 41
 24.030.6. Key Network
 Senior Leadership
-69
+68
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 RI Directors lead regional leader teams in reaching their goals in the districts they serve.
 E/MGAs are expected to regularly communicate, plan, confer, collaborate, and
 cooperate with their RI Director and either a Trustee that resides in the zones of that
@@ -2955,10 +2950,10 @@ annual review. Each of the 34 zones has at least one regional leader team that i
 assigned to the districts within the zone, zone section, or part of the zone. (January
 2026 Trustees Mtg., Dec. 49)
 Source: October 2022 Trustees Mtg., Dec. 24
-70
+69
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by April 2023 Trustees Mtg., Dec. 84; January 2026 Trustees Mtg., Dec. 49
 24.040.1. Purpose
 The purpose of the EPNCs is to provide leadership and to foster fundraising, advocacy,
@@ -2996,10 +2991,10 @@ Source: October 2022 Trustees Mtg., Dec. 24
 Amended by April 2023 Trustees Mtg., Dec. 84; January 2026 Trustees Mtg., Dec. 49
 24.040.4. Role Responsibilities
 EPNCs understand and effectively communicate:
-71
+70
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Inclusion in Rotary’s strategic plan
 • Annual goals and priorities
 • Fundraising, advocacy, and awareness-raising opportunities
@@ -3036,10 +3031,10 @@ leadership team
 share status reports with districts
 • Reporting to the vice chair responsible for club and district fundraising on the End
 Polio Now: Countdown to History Campaign Committee, the Regional Leadership
-72
+71
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Team, the director and trustee assigned to the region on the status of district support,
 participation, and feedback in the polio eradication effort
 • Encouraging clubs and districts to plan and implement World Polio Day and World
@@ -3077,10 +3072,10 @@ End Polio Now Countdown to History Campaign Committee
 EPNCs shall regularly communicate and cooperate with the End Polio now Countdown
 to History Campaign Committee to develop, implement, and monitor fundraising goals.
 Regional Leaders
-73
+72
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 EPNCs collaborate and communicate with their predecessor and successor to ensure
 continuity, consistency, and successful knowledge management related to PolioPlus
 and the End Polio Now fundraising campaign. Additionally, EPNCs plan,
@@ -3109,10 +3104,10 @@ Any changes to the terms of reference of the EPNCs should be considered by the
 IPPC before being submitted to the Trustees for approval. (January 2026 Trustees
 Mtg., Dec. 49)
 Source: January 2026 Trustees Mtg., Dec. 49
-74
+73
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 25. DISTRICT STRUCTURE
 25.010. District Rotary Foundation Chair and District Rotary Foundation Committee
 25.020. District Rotary Foundation Subcommittees
@@ -3148,10 +3143,10 @@ Amended by January 2020 Trustees Mtg., Dec. 65; April 2023 Trustees Mtg., Dec. 8
 25.010.3. Learning Opportunities
 All members of the district Rotary Foundation committee are encouraged to attend a
 regional Rotary Foundation seminar conducted by a regional Rotary Foundation
-75
+74
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 coordinator (RRFC). In addition, all committee members are expected to attend and
 participate in the district team learning seminar and other district meetings as outlined
 in Article 20 of the Rotary Code of Policies. Committee members are expected to
@@ -3191,10 +3186,10 @@ governors who serve or will serve during the remainder of the DRFC’s original 
 A replacement chair is selected following the above policy. When a chair resigns or is
 replaced, the new chair shall serve the rest of the current Rotary year, followed by a
 standard three-year term. Due to the investment of considerable resources in the chair
-76
+75
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 role, the Trustees shall be notified of districts that have a pattern of replacing chairs
 annually for their consideration and future action. (October 2024 Trustees Mtg., Dec.
 18)
@@ -3231,10 +3226,10 @@ seminars, focusing on agenda and content.
 timely implementation of all grant projects.
 11. Work with the stewardship subcommittee chair to help resolve any potential misuse
 of grant funds or other irregularities in grant-related activity.
-77
+76
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 12. Assist the governor-elect in obtaining input from Rotary members before
 establishing district Foundation goals for implementation during his/her term as
 governor.
@@ -3270,10 +3265,10 @@ leading the district PolioPlus subcommittee. The district PolioPlus subcommittee
 responsible for supporting Rotary’s commitment to polio eradication and for
 encouraging participation in PolioPlus activities by all Rotary members.
 Additional Qualifications of Members
-78
+77
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 In appointing members of the district PolioPlus subcommittee, preference should be
 given to Rotary members with club-level experience with the PolioPlus program. At
 least one member of the committee should be a professional in a relevant field, such as
@@ -3307,10 +3302,10 @@ The Grants Subcommittee shall:
 1. Complete the grant management seminar learning plan in Rotary’s Learning Center
 before the start of their term
 2. Serve as a district expert and resource on all Rotary grants.
-79
+78
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 3. Manage the district policy for the distribution of funds for district grants as
 established by the district Rotary Foundation committee, including working with
 the DRFC to disburse grant funds and establish and maintain appropriate grant
@@ -3346,10 +3341,10 @@ initiatives.
 4. Coordinate donor appreciation events within the district to ensure that donors are
 given appropriate recognition.
 5. Provide input on DDF distribution.
-80
+79
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 (April 2023Trustees Mtg., Dec. 80)
 Source: April 2009 Trustees Mtg., Dec. 102
 Amended by April 2023 Trustees Mtg., Dec. 80
@@ -3384,10 +3379,10 @@ Foundation and conduct initial local investigations into any reports of misuse.
 (April 2023 Trustees Mtg., Dec. 80)
 Source: March 2012 Trustees Mtg., Dec. 120
 Amended by October 2012 Trustees Mtg., Dec. 16; April 2023 Trustees Mtg., Dec. 80
-81
+80
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 25.020.5. District Rotary Peace Fellowship Subcommittee Chair and District Rotary Peace
 Fellowship Subcommittee
 Purpose: The Rotary Peace Fellowship subcommittee chair is a required position and
@@ -3422,10 +3417,10 @@ Districts are able to appoint additional subcommittee chairs. The responsibiliti
 these subcommittees would be determined by the district by reallocating some of the
 responsibilities from the other subcommittees. (March 2012 Trustees Mtg., Dec. 120)
 Source: March 2012 Trustees Mtg., Dec. 120
-82
+81
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 26. ASSOCIATE FOUNDATIONS
 26.010. Arrangements for Tax-Related Benefits of Contributions
 26.020. Associate Foundations
@@ -3460,10 +3455,10 @@ provide tax-related benefits for contributions that support the Foundation or it
 programs.
 The goals and purposes of an associate foundation are to:
 1. Increase donations in support of The Rotary Foundation and its programs
-83
+82
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2. Provide tax-related benefits to donors
 3. Enhance services and support to Foundation programs.
 (April 2017 Trustees Mtg., Dec. 103)
@@ -3501,10 +3496,10 @@ International from all liability which might arise from its activities.
 more than 5% of annual giving contributions received by that proposed associate
 foundation in the most recently completed fiscal year.
 (April 2017 Trustees Mtg., Dec. 103)
-84
+83
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: October 1994 Trustees Mtg., Dec. 15
 Amended by June 2018 Trustees Mtg., Dec. 178; April 2009 Trustees Mtg., Dec. 107; April 2017 Trustees
 Mtg., Dec. 103
@@ -3540,10 +3535,10 @@ bank statements
 b. Weekly contribution reports (at the donor’s level) to world headquarters or the
 appropriate international office. These reports must include all weekly activity,
 unless an alternate reporting schedule is agreed to by the general secretary
-85
+84
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 c. Copies of all government filings or reports within five working days of
 submission to the government
 d. Reports and documentation regarding any review or audit by any regulatory
@@ -3584,10 +3579,10 @@ reporting requirements.
 e. Notify and invite TRF Trustee Liaison to appropriate meetings.
 11. Any material amendments or changes to corporate documents require prior Trustee
 approval.
-86
+85
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 12. Eligible expenses that the associate foundations can expense on behalf of TRF are:
 a. Travel and lodging costs for board members to attend in-person board meetings
 b. Meeting room rental charges and meals for in-person board meetings
@@ -3623,10 +3618,10 @@ Trustee Liaisons shall:
 • Make diligent efforts to attend associate foundation controlling body meetings
 either in person or remotely in a cost-effective manner for the duration of their
 terms
-87
+86
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Maintain effective communication between the Trustees and the associate
 foundation’s governing bodies, including raising issues at meetings of the Trustees
 and/or associate foundation controlling body
@@ -3661,10 +3656,10 @@ Trustees in 1990
 • The Australian Rotary Foundation Trust, established in 1994, approved by Trustees
 in 1994 (whose corporate trustee is Rotary Foundation Australia Ltd., established
 in 2016, approved by Trustees in 2015)
-88
+87
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Associaçao Brasileira da The Rotary Foundation, established in 2003, approved by
 Trustees in 2003
 • Public Interest Incorporated Foundation, Rotary Foundation Japan, established in
@@ -3683,10 +3678,10 @@ See Also: April 2023 Trustees Mtg., Dec. 79
 Amended by October 2006 Trustees Mtg., Dec. 18; October 2009 Trustees Mtg., Dec. 15; October 2010
 Trustees Mtg., Dec. 13; January 2011 Trustees Mtg., Dec. 60; April 2017 Trustees Mtg., Dec. 103;
 December 2020 Trustees Mtg., Dec. 68
-89
+88
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 27 STAFF
 27.010. Secretariat Organization and Operation
 27.020. Foundation Staff Participation in Presidents-elect Learning Seminars
@@ -3720,10 +3715,10 @@ Donors without neglecting other contributors, participation in Foundation develo
 seminars throughout the Rotary world to educate Rotary’s valuable volunteers, and
 increased computerization of the Foundation’s recognition system. (April 2024
 Trustees Mtg., Dec. 84)
-90
+89
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: May-June 1984 Trustees Mtg., Dec. 72
 Amended by April 2024 Trustees Mtg., Dec. 84
 27.040. Standard of Conduct for Interactions with Secretariat Staff
@@ -3744,10 +3739,10 @@ Rotary business, then the employee is encouraged to report the alleged harassmen
 his or her manager or another manager within Rotary. (September 2017 Trustees Mtg.,
 Dec. 12)
 Source: April 2017 Trustees Mtg., Dec. 102
-91
+90
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 CHAPTER III – PROGRAMS
 Articles
 Article 30. General Policies
@@ -3782,10 +3777,10 @@ general secretary shall submit a detailed evaluation of the program or service t
 Trustees, which shall then decide whether to continue it
 7. if the Trustees do not adopt or extend the program or service, it will terminate at
 the end of the trial and evaluation period
-92
+91
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 For purposes of this section, programs and services include Rotary International and
 Rotary Foundation programs and other integrated sets of resources and activities
 supported by the general secretary and geared to provide service(s) to Rotarians,
@@ -3823,10 +3818,10 @@ lack thereof, to Rotary’s strategic plan.
 lack thereof, the general secretary will use the evaluation survey results to take
 administrative action, which may include increasing support, decreasing support,
 eliminating support, or no change in support.
-93
+92
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 7. The general secretary will report to the Board and Trustees at least annually on the
 activity related to the strategic alignment evaluation
 (April 2024 Trustees Mtg., Dec. 87)
@@ -3863,10 +3858,10 @@ process. Such remedy may include the cancellation of current or suspension of fu
 TRF program grants or awards involving a particular Rotarian, Rotary club, or Rotary
 district.
 1. Award Recipient Eligibility
-94
+93
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Pursuant to section 9.3 of the TRF bylaws, those individuals defined below shall not
 be candidates or final award recipients or beneficiaries of any TRF program. Such
 individuals shall include current Rotarians; employees of clubs, districts, and other
@@ -3879,10 +3874,10 @@ Former Rotarians shall continue to be ineligible for a period of 36 months after
 termination of their membership. Persons who were ineligible based on their familial
 relationship to a former Rotarian shall continue to be ineligible for a period of 36
 months after termination of their family member’s membership.
-Notwithstanding the foregoing, such individuals shall be eligible to participate on
-vocational training teams and in individual travel for humanitarian projects (when such
-individuals are determined to be qualified) funded by district grants and global grants
-as long as they are providing a benefit to others.
+Notwithstanding the foregoing, such individuals shall be eligible to participate in global
+grant international travel projects (when such individuals are determined to be
+qualified) funded by district grants and global grants as long as they are providing a
+benefit to others.
 2. Impartiality of Selection Committees
 Rotarians who serve on a club or district-level selection committee for a TRF program
 are expected to exercise complete transparency in their familiar, personal, or business
@@ -3906,10 +3901,10 @@ must be conducted to ensure that the best services are secured at a reasonable c
 despite any connection between a vendor and a Rotary Entity. Possible conflicts of
 interest may arise when a Rotary Entity is considering business in which funds will be
 paid to a Rotarian; a goods and/or services provider owned or managed by a Rotarian,
-95
+94
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Honorary Rotarian, employee of a club, district, or other Rotary Entity or of Rotary
 International, Rotarian’s spouse, lineal descendants (child or grandchild by blood, legal
 adoption, or marriage without adoption), spouses of lineal descendants, and ancestors
@@ -3933,23 +3928,23 @@ particular case. If, upon review of the situation, the general secretary conclud
 there is or has been a conflict of interest in the execution of a TRF program grant or
 award, the general secretary shall fashion an appropriate remedy. Such remedy may
 include the cancellation of current or suspension of future TRF program grants or
-awards involving a particular Rotary, Rotary club or Rotary district. (October 2021
-Trustees Mtg., Dec. 15)
+awards involving a particular Rotary, Rotary club or Rotary district. (October 2026
+Trustees Mtg., Dec. 23)
 Source: November 1983 Board Mtg., Bd. Dec. 166; May 1988 Trustees Mtg., Dec. 127; March 1992
 Trustees Mtg., Dec. 114; June 1994 Trustees Mtg., Dec. 165; October 2006 Trustees Mtg., Dec. 55
 Amended by June 2010 Trustees Mtg., Dec. 139; April 2011 Trustees Mtg., Dec. 93; April 2013 Trustees
 Mtg., Dec. 104; October 2014 Trustees Mtg., Dec. 53; January 2017 Trustees Mtg., Dec. 78; April 2018
-Trustees Mtg., Dec. 108; October 2021 Trustees Mtg., Dec. 15
+Trustees Mtg., Dec. 108; October 2021 Trustees Mtg., Dec. 15; October 2026 Trustees Mtg., Dec. 23
 30.050. Sexual Abuse and Harassment Prevention Guidelines
 All Rotarians, clubs, and districts are held to the following guidelines adopted by The
 Rotary Foundation Trustees:
 1. TRF has a zero-tolerance policy against sexual abuse and harassment.
 2. An independent and thorough investigation must be made into any claims of sexual
 abuse or harassment.
-96
+95
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 3. Any person involved in a TRF program against whom an allegation of sexual abuse
 or harassment is made must be removed from all contact with TRF program
 participants until the matter is resolved.
@@ -3989,10 +3984,10 @@ Source: January 2026 Trustees Mtg., Dec. 51
 30.051.1. Compliance
 All individuals, clubs, districts, and zones are required to follow the Statement of
 Conduct for Working with Youth. All individuals, including but not limited to
-97
+96
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 grant-funded travelers, scholars, and Rotary Peace Fellows have a duty of care to
 children and young people. Rotary Foundation activities shall abide by Rotary
 International’s youth protection policies, including abuse and harassment
@@ -4030,10 +4025,10 @@ The Rotary Foundation, recognition ceremonies, and other events in such a manner
 that the spouses and other family members of Rotarians can attend and participate
 3. The Trustee chair, general secretary, and relevant Foundation committees are
 requested to organize Foundation events at the Convention, the International
-98
+97
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Assembly, and other international meetings in such a manner as to encourage the
 participation of the spouses and other family members of Rotarians in such events
 4. To further the goals of the Foundation and to serve as a model for the broad
@@ -4049,10 +4044,10 @@ international meetings, as appropriate.
 (April 2024 Trustees Mtg., Dec. 84)
 Source: October 2005 Trustees Mtg., Dec. 14
 Amended by April 2024 Trustees Mtg., Dec. 84
-99
+98
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 31. AREAS OF FOCUS
 31.010. Areas of Focus
 31.010. Areas of Focus
@@ -4082,10 +4077,10 @@ implemented.
 focus.
 (June 2012 Trustees Mtg., Dec. 167)
 Source: March 2012 Trustees Mtg., Dec. 121; June 2012 Trustees Mtg., Dec. 167
-100
+99
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 31.010.2.1. Peacebuilding and Conflict Prevention
 Rotary supports training, education, and practices related to peacebuilding and conflict
 prevention through initiatives that help transform conflict in our communities and
@@ -4123,16 +4118,16 @@ conflict prevention area of focus and not eligible for global grant funding:
 integration of a robust peacebuilding and/or conflict prevention curriculum.
 3. Programs with a focus on music, sports, or extra-curricular activities without
 integration of a robust peacebuilding and/or conflict prevention curriculum.
-101
+100
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 4. Projects that consist exclusively of infrastructure, vehicles, or equipment purchases
 (such as books, furniture, or computers) without integration of a robust
 peacebuilding and/or conflict prevention curriculum.
 5. Enrollment at a Rotary Peace Center partner university in the same, or similar,
 academic program as those pursued by Rotary Peace Fellows.
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Peacebuilding and conflict prevention global grants are:
 1. Sustainable – Communities can continue to make progress in peacebuilding and
 conflict prevention after the Rotary clubs or districts complete their work.
@@ -4160,13 +4155,14 @@ or conflict prevention and resolution, as well as other general social developme
 degrees.
 6. The applicant’s career plans as they relate to peace and conflict transformation,
 prevention, and resolution.
-(April 2024 Trustees Mtg., Dec. 102)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: March 2012 Trustees Mtg., Dec. 121; June 2012 Trustees Mtg., Dec. 167
-Amended by April 2019 Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102
-102
+Amended by April 2019 Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102; October 2026
+Trustees Mtg., Dec. 23
+101
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 31.010.2.2. Disease Prevention and Treatment
 Rotary supports activities that reduce the causes and effects of disease. Projects
 strengthen the health care system by improving access to and expanding medical
@@ -4202,10 +4198,10 @@ diagnosis and treatment of disease
 • Treating communicable diseases through an approach that also helps prevent
 disease, improves the training of medical professionals, or enhances public health
 education to promote a community’s long-term well-being
-103
+102
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Preventing and controlling illnesses transmitted by mosquitoes and other vectors.
 High priority projects will include identifying environmental hazards specific to
 vector-borne diseases and remedial strategies.
@@ -4245,10 +4241,10 @@ programs or significant capacity-building in the project country with the
 exception of lifesaving surgeries and surgeries to address congenital problems
 • Eco-stove/indoor stove-top projects
 • Alternative treatments or therapies for treating physical and mental disabilities
-104
+103
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Treatment of pervasive developmental disorders, and other spectral disorders,
 including autism, unless there are measurable clinical interventions that
 demonstrate an improvement of the disorder’s long-term impact
@@ -4262,7 +4258,7 @@ repair systems in place
 outcomes
 • School-based feeding programs, general nutrition or nutrition education
 interventions, and general gardening and feeding programs.
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Disease prevention and treatment global grants are:
 1. Sustainable — Communities can address their disease prevention and treatment
 needs after the Rotary club or district completes its work.
@@ -4279,14 +4275,15 @@ treatment
 2. The academic program’s alignment with disease prevention and treatment, such as
 public health and advanced degrees in nursing and medicine
 3. The applicant’s career plans as they relate to disease prevention and treatment.
-(April 2024 Trustees Mtg., Dec. 102)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: March 2012 Trustees Mtg., Dec. 121; June 2012 Trustees Mtg., Dec. 167; September 2017
 Trustees Mtg., Dec. 27
-Amended by April 2019 Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102
-105
+Amended by April 2019 Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102; October 2026
+Trustees Mtg., Dec. 23
+104
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 31.010.2.3. Water, Sanitation and Hygiene
 Rotary supports activities that encourage the management and protection of freshwater
 resources and provides universal and equitable access to safe drinking water, sanitation,
@@ -4325,10 +4322,10 @@ treating and disposing of solid waste materials
 5. Using watershed management practices to protect water sources and recharge
 surface and groundwater resources
 6. Supplying water for crop, livestock, and fisheries production
-106
+105
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 7. Developing sustainable management practices to support water and sanitation
 services, including community governance, financing and planning, system
 maintenance, and delivery
@@ -4344,7 +4341,7 @@ sessions are not eligible.
 waste/pollution or behavioral change
 3. Projects that solely construct water and sanitation systems
 4. Projects that consist exclusively of infrastructure, vehicles, or equipment purchases
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Water, sanitation and hygiene global grants are:
 1. Sustainable — Communities and governments can better address their water,
 sanitation, and hygiene needs after the Rotary club or district completes its work.
@@ -4366,13 +4363,14 @@ resource management. Examples include water and sanitation engineering,
 environmental engineering, integrated water resource and systems management,
 hydrology, and public health.
 3. The applicant’s career plans as they relate to water and sanitation
-(April 2024 Trustees Mtg., Dec. 102)
-107
+(October 2026 Trustees Mtg., Dec. 23)
+106
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: March 2012 Trustees Mtg., Dec. 121; June 2012 Trustees Mtg., Dec. 167
-Amended by April 2019 Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102
+Amended by April 2019 Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102; October 2026
+Trustees Mtg., Dec. 23
 31.010.2.4. Maternal and Child Health
 Rotary supports activities and training to improve maternal health and reduce mortality
 for children under five. Projects strengthen the health care system by improving access
@@ -4406,10 +4404,10 @@ system
 5. Immunizations for women, adolescent girls, and children under five
 6. Interventions to combat pneumonia, diarrhea, malaria, measles, and other major
 causes of disease in women and children under five
-108
+107
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 7. Interventions to reduce the transmission and impact of sexually transmitted disease
 in adolescents and women
 8. Prevention of mother-to-child transmission of HIV
@@ -4439,7 +4437,7 @@ child health project that meets the eligibility parameters for global grants
 8. General health education and public safety programs
 9. Wheelchairs used primarily for mobility, social, educational, or vocational
 outcomes
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Maternal and child health global grants are:
 1. Sustainable — Communities can address their maternal and child health needs after
 the Rotary club or district completes its work.
@@ -4447,10 +4445,10 @@ the Rotary club or district completes its work.
 project outcomes. Standard measures are listed in the Global Grant Monitoring and
 Evaluation Plan Supplement.
 3. Community-driven — Projects meet the needs identified by the host community.
-109
+108
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 IV. Elements of Successful Scholarships
 Global grants support graduate-level scholarships for professionals interested in
 pursuing careers related to maternal and child health. TRF considers the following
@@ -4460,10 +4458,10 @@ when evaluating global grant scholarship applications:
 include epidemiology, nutrition, global health, public health, and health promotion,
 as well as advanced degrees in nursing and medicine.
 3. The applicant’s career plans as they relate to maternal and child health
-(April 2024 Trustees Mtg., Dec. 102)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: March 2012 Trustees Mtg., Dec. 121
 Amended by June 2012 Trustees Mtg., Dec. 167; April 2019 Trustees Mtg., Dec. 116; October 2019
-Trustees Mtg., Dec. 27; April 2024 Trustees Mtg., Dec. 102
+Trustees Mtg., Dec. 27; April 2024 Trustees Mtg., Dec. 102; October 2026 Trustees Mtg., Dec. 23
 31.010.2.5. Basic Education and Literacy
 Rotary supports activities and training to improve education for all children, and
 literacy for children and adults:
@@ -4485,10 +4483,10 @@ levels, in collaboration with local school officials
 3. Providing professional development opportunities for teachers with a qualified
 trainer in curriculum implementation, effective instructional methods or student
 assessments
-110
+109
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 4. Strengthening basic educational outcomes by providing improved learning
 materials and facilities supported by enhanced curricula and new professional
 development for teachers
@@ -4518,7 +4516,7 @@ programs that will function only during the life of the grant
 7. Projects that provide only technology equipment or projects that provide equipment
 and only basic computer or digital literacy training (e.g., how to use the internet or
 how to use specific programs) without the inclusion of pedagogical teacher training.
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Basic education and literacy global grants are:
 1. Sustainable — Communities can address their basic education and literacy needs
 after the Rotary club or district completes its work.
@@ -4527,10 +4525,10 @@ project outcomes. Standard measures are listed in the Global Grant Monitoring an
 Evaluation Plan Supplement.
 3. Community driven — Projects meet the needs identified by the host community.
 IV. Elements of Successful Scholarships
-111
+110
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Global grants support graduate-level scholarships for professionals interested in
 pursuing careers in basic education and literacy. TRF considers the following when
 evaluating global grant scholarship applications:
@@ -4540,10 +4538,10 @@ literacy
 include education, literacy, curriculum development, special education, and school
 administration.
 3. The applicant’s future career plans as they relate to basic education and literacy
-(April 2024 Trustees Mtg., Dec. 102)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: March 2012 Trustees Mtg., Dec. 121; June 2012 Trustees Mtg., Dec. 167
 Amended by April 2013 Trustees Mtg., Dec. 106; April 2016 Trustees Mtg., Dec. 117; April 2019
-Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102
+Trustees Mtg., Dec. 116; April 2024 Trustees Mtg., Dec. 102; October 2026 Trustees Mtg., Dec. 23
 31.010.2.6. Community Economic Development
 Rotary supports investments in people and communities to alleviate poverty, creating
 measurable and enduring economic improvements in poor and underserved areas.
@@ -4567,10 +4565,10 @@ conservation skills for economic gain
 to environmental and climate-related hazards and natural disasters
 9. Developing and supporting community-based basic emergency preparedness
 services to improve economic resilience
-112
+111
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 10. Funding graduate scholarships for career-minded professionals related to
 community economic development
 II. Parameters for Eligibility
@@ -4610,15 +4608,15 @@ TRF considers the following activities to be outside the scope of the community
 economic development area of focus and not eligible for global grant funding:
 1. Community infrastructure or equipment projects without direct economic results,
 or without operational and maintenance plans
-113
+112
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2. Community beautification projects such as parks and playgrounds
 3. Projects to rehabilitate community centers
 4. Solar panels or other renewable energy equipment without appropriate economic
 development benefits.
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Community economic development global grants are:
 1. Sustainable — Communities can address their economic development needs after
 the Rotary club or district completes its work.
@@ -4650,10 +4648,10 @@ e. Include “community development” in the name of the program or
 specialized track
 f. Improve the coaching or advising capability of an individual working with
 small businesses or entrepreneurs
-114
+113
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 g. Focus on strategies to address environmental issues that affect poor, low-
 income, and underserved communities, such as resource management,
 environmental and conservation studies, resilience planning, and
@@ -4692,10 +4690,10 @@ TRF defines:
 • Diversity: Includes but is not limited to race, color, ethnicity, nationality, religion,
 socioeconomic status, veteran status, education, marital status, language, age,
 gender, gender expression, gender identity, sexual orientation, mental or physical
-115
+114
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ability, genetic information, and learning styles using the country or the community
 of the applicant as a reference point.
 • Equity: The guarantee of fair treatment, access, opportunity, and advancement for
@@ -4707,10 +4705,11 @@ of effective opportunities to all groups.
 • Inclusion: Authentically bringing traditionally excluded individuals and/or groups
 into processes, activities, and decision/policy making in a way that shares power
 and ensures equal access to opportunities and resources.
-(April 2024 Trustees Mtg., Dec. 102)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: March 2012 Trustees Mtg., Dec. 121; June 2012 Trustees Mtg., Dec. 167
 Amended by April 2014 Trustees Mtg., Dec. 98; April 2016 Trustees Mtg., Dec. 117; April 2019 Trustees
-Mtg., Dec. 116; November 2020 Trustees Mtg., Dec. 56; April 2024 Trustees Mtg., Dec. 102
+Mtg., Dec. 116; November 2020 Trustees Mtg., Dec. 56; April 2024 Trustees Mtg., Dec. 102; October
+2026 Trustees Mtg., Dec. 23
 31.010.2.7. Environment
 Rotary supports activities that strengthen the conservation and protection of natural
 resources, advance environmental sustainability, and foster harmony between people
@@ -4732,12 +4731,12 @@ disproportionally affect marginalized communities
 Eligible grant projects will demonstrate one or more of the Environment Area Global
 Objectives (above) and match at least one Action Goal (below).
 II. Parameters for Eligibility
-TRF considers the following activities to be within the scope of the environment area
-of focus:
-116
+115
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+TRF considers the following activities to be within the scope of the environment area
+of focus:
 1. Protecting and restoring land, coastal, marine, and freshwater resources
 a. Protecting and restoring terrestrial ecosystems and improving their resiliency
 through initiatives such as promoting reforestation, preventing deforestation,
@@ -4774,10 +4773,10 @@ a. Increasing adoption of ecologically viable agriculture practices through
 regenerative agriculture, conservation agriculture, managed grazing,
 agroforestry, silvopasture, or tree intercropping
 b. Supporting sustainable fisheries and ecologically sound aquaculture
-117
+116
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 c. Promoting, revitalizing, and preserving the use of traditional and Indigenous
 knowledge in agricultural, land, ocean, and natural resource management
 practices
@@ -4818,10 +4817,10 @@ purpose
 b. Supporting environmental education programming in schools that aligns with
 local government curriculum (in conjunction with the policy statements and
 guidelines for basic education and literacy)
-118
+117
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 c. Implementing targeted environmental campaigns and strategic communications
 with decision-making stakeholders toward a specific large-scale result
 d. Educating in situ and disseminating information at environmental learning
@@ -4860,10 +4859,10 @@ community economic development)
 b. Supporting community-managed small-scale ecotourism initiatives based on
 proven sustainable models
 c. Advocating for public environmental incentives to positively change behavior
-119
+118
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 d. Scaling or expanding usage of environmental technologies based on
 biomimicry, natural materials, circular economy, or spatial data
 11. Funding graduate scholarships for career-minded professionals related to the
@@ -4892,7 +4891,7 @@ benefits.
 Note: This list is not a complete list of ineligible activities. For more information on
 project design requirements, refer to the Environment Guidelines for Global Grant
 Funding.
-III. Elements of Successful Humanitarian Projects and Vocational Training Teams
+III. Elements of Successful Global Grants
 Environment global grants are:
 1. Sustainable — Communities can continue to make progress in environmental
 protection and sustainability after the Rotary clubs or districts complete their work.
@@ -4900,10 +4899,10 @@ protection and sustainability after the Rotary clubs or districts complete their
 project outcomes.
 3. Community-driven — Projects meet the needs identified by the host community.
 IV. Elements of Successful Scholarships
-120
+119
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Environmental Global Grants support graduate-level scholarships through two
 programs for professionals who want to pursue careers related to the environment. The
 first is a core environmental fields scholarship program. The second is a scholarship
@@ -4926,9 +4925,10 @@ first program, or from the additional options listed in the Environment Guidelin
 for Global Grant Funding
 • The applicant’s career plans as they relate to the environment or to addressing
 environmental issues that Indigenous peoples face
-(April 2024 Trustees Mtg., Dec. 102)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: September 2020 Trustees Mtg., Dec. 26
-Amended by April 2023 Trustees Mtg., Dec. 100; April 2024 Trustees Mtg., Dec. 102
+Amended by April 2023 Trustees Mtg., Dec. 100; April 2024 Trustees Mtg., Dec. 102; October 2026
+Trustees Mtg., Dec. 23
 31.010.3. Review and Evaluation of Areas of Focus
 1. Evaluation of areas of focus
 Each existing area of focus shall be evaluated by the general secretary every five years
@@ -4938,11 +4938,11 @@ for report to the Trustees. This review shall assess:
 • Success of strategic partnerships
 • Community involvement
 • Sustainability
-• Good stewardship
-121
+120
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+• Good stewardship
 • Level of Rotarian participation
 • Ease of administration
 • Ease of involvement for Rotary clubs and districts
@@ -4979,12 +4979,12 @@ demonstrates that sufficient administrative, financial, and technical resources 
 available to successfully support a new area of focus without negatively affecting
 existing areas of focus. A review of proposed areas of focus shall be conducted by the
 general secretary, in consultation with the Foundation’s Programs Committee, before
-they are considered by the Trustees. The RI Board must approve any proposed changes
-to the areas of focus.
-122
+121
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+they are considered by the Trustees. The RI Board must approve any proposed changes
+to the areas of focus.
 1. Selection Criteria for Areas of Focus
 The proposed area of focus shall:
 • be anchored in the themes outlined in the Foundation mission: peace, health,
@@ -5012,10 +5012,10 @@ International or The Rotary Foundation
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by September 2017 Trustees Mtg., Dec. 12; April 2019 Trustees Mtg., Dec. 116; October 2021
 Trustees Mtg., Dec. 15
-123
+122
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 32. POLIOPLUS
 32.010. Commitment to Global Polio Eradication
 32.020. Funding Policies
@@ -5053,10 +5053,10 @@ achieving certification
 would impact the polio eradication goal, positively or negatively
 • support efforts to immunize children from all vaccine-preventable diseases
 subject to the overriding goal of the eradication of polio
-124
+123
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • maintain Rotary’s significant role in the eradication of polio and highlight
 Rotary’s contributions to eradication efforts
 • help assure that Rotary receives appropriate recognition and visibility for
@@ -5092,10 +5092,10 @@ consultation and cooperation with partners in Rotary’s eradication efforts.
 Funds from other grant programs of the Rotary Foundation or Rotary International can
 be spent for non-polio vaccines or polio rehabilitation. However, PolioPlus funds will
 not be utilized for such activities.
-125
+124
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 The International PolioPlus Committee (IPPC) and the general secretary shall ensure
 that the Trustees of the Rotary Foundation and the Rotary International Directors are
 kept informed, at least annually, of the progress in the eradication of polio, and the
@@ -5132,10 +5132,10 @@ Composition: Each polio eradication advocacy task force shall be composed of tha
 number of members as determined by the Trustees, appointed by the Trustee chair after
 consultation with the IPPC chair. The chair and vice chair shall be appointed by the
 Trustee chair after consultation with the IPPC chair.
-126
+125
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Terms shall be one year. Members may be reappointed. Membership shall be limited
 to Rotarians and Rotaractors. There shall be no Board liaison and no Trustee liaison.
 Responsibilities: Each task force shall:
@@ -5169,10 +5169,10 @@ National advocacy advisers provide leadership and coordination of Rotary efforts
 inform their respective governments and other funding sources within their respective
 countries of the urgency, need, and benefits of investing funds required to eradicate
 polio.
-127
+126
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 After consultation with the chair of the IPPC, national advocacy advisers are appointed
 by the Trustee chair for such countries as determined by the chair to serve for one year
 terms that are renewable.
@@ -5209,10 +5209,10 @@ Since the Gates Foundation joined the GPEI in 2007 and Gavi, the Vaccine Allianc
 and Gavi, the Vaccine Alliance.
 Rotary leads the US Coalition to Eradicate Polio which includes the American
 Academy of Pediatrics, the March of Dimes. the Task Force for Global Health,
-128
+127
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 UNICEF USA, and the United Nations Foundation. (January 2026 Trustees Mtg., Dec.
 49)
 Source: November 1996 Trustees Mtg., Dec. 118
@@ -5247,10 +5247,10 @@ eradication.
 Source: June 1995 Trustees Mtg., Dec. 224; June 1997 Trustees Mtg., Dec. 285
 Amended by October 2003 Trustees Mtg., Dec. 7; June 2015 Trustees Mtg., Dec. 146; October 2019
 Trustees Mtg., Dec. 45
-129
+128
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 32.070.1.1. Policy on Termination of PolioPlus Grants
 PolioPlus Grants will have a specified termination date. The term of the grant may only
 be extended with the approval of the Trustee chair upon the recommendation of the
@@ -5288,10 +5288,10 @@ engagement. (January 2026 Trustees Mtg., Dec. 49)
 Source: June 1996 Trustees Mtg., Dec. 235
 Amended by June 2015 Trustees Mtg., Dec. 146; October 2019 Trustees Mtg., Dec. 45; January 2026
 Trustees Mtg., Dec. 49
-130
+129
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 32.070.3. Administrative Grants to National PolioPlus Committees
 Administrative grants to National PolioPlus Committees are awarded to provide for the
 administration and support of such committees. (June 2015 Trustees Mtg., Dec. 146)
@@ -5326,10 +5326,10 @@ the RI President, all others appointed by the Trustee Chair. The Chair and Vice 
 shall be appointed by the Trustee chair.
 Terms shall be one year for the RI Director. Terms for all other members shall be 3
 years and staggered. Members may be reappointed.
-131
+130
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Membership shall be limited to Rotarians and Rotaractors. Membership should include
 members with experience in polio eradication field activities, polio eradication
 advocacy, and polio eradication fundraising.
@@ -5365,10 +5365,10 @@ serve as chairs and members of national PolioPlus committees, task forces, and a
 national advocacy advisers.
 2. Appoint IPPC members and others to Global Polio Eradication Initiative
 governance and management groups and other multilateral organizations.
-132
+131
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 3. Invite such expert advisers to the IPPC meeting that the committee chair considers
 are needed for the proper conduct of the business of the committee.
 4. Endorse proposals for the Polio Eradication Champion Award.
@@ -5404,10 +5404,10 @@ The Terms of Reference for National PolioPlus committees are as follows:
 National PolioPlus committees (NPPC) assist The Rotary Foundation in achieving its
 objectives in polio eradication in the committee’s country in accordance with the
 established policies and goals of the Trustees.
-133
+132
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 The committee:
 1. Maintains contact with key governmental business and community leaders to
 advocate the eradication of polio and achievement of the objectives of the
@@ -5449,10 +5449,10 @@ report on the status of all PolioPlus funds:
 • At each meeting of the national committee
 • When requested by the national committee chair or the general secretary of The
 Rotary Foundation
-134
+133
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Annually
 (January 2026 Trustees Mtg., Dec. 49)
 Source: October 1994 Trustees Mtg., Dec. 67
@@ -5487,10 +5487,10 @@ Polio Now Coordinators, Endowment/Major Gift Advisers, district PolioPlus
 subcommittee chairs, other volunteers, and PolioPlus and philanthropy staff.
 (January 2026 Trustees Mtg., Dec. 49)
 Source: January 2026 Trustees Mtg., Dec. 49
-135
+134
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 33. ROTARY FOUNDATION GRANTS
 33.010. Grant Structure for the Future
 33.020. Distributable Funds Model
@@ -5525,10 +5525,10 @@ Trustees Mtg., Dec. 16)
 Source: June 2007 Trustees Mtg., Dec. 165
 Amended by October 2007 Trustees Mtg., Dec. 28; April 2008 Trustees Mtg., Dec. 114; April 2008
 Trustees Mtg., Dec. 115; October 2010 Trustees Mtg., Dec. 16; October 2012 Trustees Mtg., Dec. 16
-136
+135
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 33.010.1. Rotary Foundation District Grants
 Rotary Foundation District Grants have the following characteristics:
 1. relate and conform to the mission of The Rotary Foundation
@@ -5563,10 +5563,10 @@ for Rotary scholarships).
 10. encourage or require sustainability.
 11. include club and district developed grants.
 12. encourage international partnerships between clubs and districts.
-137
+136
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 (October 2021 Trustees Mtg., Dec. 15)
 Source: October 2007 Trustees Mtg., Dec. 28
 Amended by April 2008 Trustees Mtg., Dec. 113; April 2008 Trustees Mtg., Dec. 114; April 2008
@@ -5586,8 +5586,10 @@ following requirements:
 practices.
 2. clubs must be appropriately qualified by their respective districts for stewardship
 practices.
-3. international partnerships will be required for club- and district-developed grants.
-4. active participation will be required for both international and host partners.
+3. international partnerships will be required for club- and district-developed grants,
+except scholarships.
+4. active participation will be required for both international and host partners, except
+scholarships.
 5. club- and district-developed grants shall take place in Rotary countries and areas
 Grants are a privileged opportunity only to be awarded to clubs and districts.
 Rotary Action Groups may act as consultants, advisers, and strategic partners for clubs
@@ -5596,13 +5598,14 @@ Non-Rotary organizations and academic institutions may cooperate with clubs and
 districts in the planning and implementation of projects.
 Clubs and districts may use District Grants to support projects in and citizens from non-
 Rotary countries where permitted by applicable governing laws and in accordance with
-Foundation policies. (October 2012 Trustees Mtg., Dec. 16)
+Foundation policies. (October 2026 Trustees Mtg., Dec. 22)
 Source: April 2008 Trustees Meeting, Dec. 113
-Amended by April 2008 Trustees Mtg., Dec. 114; April 2008 Trustees Mtg., Dec. 115
-138
+Amended by April 2008 Trustees Mtg., Dec. 114; April 2008 Trustees Mtg., Dec. 115; October 2026
+Trustees Mtg., Dec. 22
+137
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 33.020. Distributable Funds Model
 33.020.1. Distributable Funds Model Characteristics
 The Distributable Funds Model for the future has the following characteristics:
@@ -5636,17 +5639,17 @@ Foundation programs, including:
 • Rotary Friendship Exchange
 • Rotary Youth Exchange
 • Rotary Youth Leadership Awards (RYLA)
-• Rotary Peace Fellowships
-• Global Grant Scholarships
-139
+138
 
 Rotary Foundation Code of Policies
-October 2026
-• Vocational training teams (members and leaders)
+January 2027
+• Rotary Peace Fellowships
+• Global Grant Scholarships
 • District Grant Scholarships
 • New Generations Service Exchange
-(September 2016 Trustees Mtg., Dec. 14)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: September 2016 Mtg., Dec. 14
+Amended by October 2026 Trustees Mtg., Dec. 23
 33.040. Rotary Foundation Grants
 Rotary Foundation grants include global grants, district grants, and all grants funded
 by The Rotary Foundation. (October 2024 Trustees Mtg., Dec. 7)
@@ -5673,12 +5676,12 @@ Source: October 2008 Trustees Mtg., Dec. 24
 Rotary Foundation grants cannot be used
 1. To unfairly discriminate based on race, ethnicity, gender, age, language, religion,
 political or other opinion, national or social origin, property, birth, or other status
-2. To promote a particular political or religious viewpoint
-3. To support purely religious functions at churches and other places of worship
-140
+139
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+2. To promote a particular political or religious viewpoint
+3. To support purely religious functions at churches and other places of worship
 4. To support activities that involve abortion or that are undertaken solely for sex
 determination
 5. To fund the purchase of arms or ammunition
@@ -5714,13 +5717,13 @@ staff of a cooperating or beneficiary organization associated with the grant pro
 6. Funds received from Rotary Foundation grants cannot be used as a new
 contribution to The Rotary Foundation or as a contribution to another Rotary
 Foundation grant.
+140
+
+Rotary Foundation Code of Policies
+January 2027
 7. Governors will be copied on key communications with clubs in their districts,
 including communication regarding approvals and disapprovals.
 (April 2023 Trustees Mtg., Dec. 80)
-141
-
-Rotary Foundation Code of Policies
-October 2026
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by April 2023 Trustees Mtg., Dec. 80
 33.040.3. Reporting
@@ -5743,25 +5746,27 @@ club/district) the club or district outside of the country/geographical area whe
 project or activity takes place (does not apply to district grants)
 3. primary sponsor: the clubs and districts submitting applications and taking
 responsibility for implementation and reporting. For district grants, the district is
-always considered the primary sponsor.
-(October 2008 Trustees Mtg., Dec. 24)
+always considered the primary sponsor. For scholarships, the primary sponsor is
+responsible for all aspects of the grant.
+(October 2026 Trustees Mtg., Dec. 22)
 Source: October 2008 Trustees Mtg., Dec. 24
+Amended by October 2026 Trustees Mtg., Dec. 22
 33.040.5. Cooperating Organizations
 A Cooperating Organization shall be defined as a reputable, governmental or non-
 governmental organization or academic institution that is involved in project
 implementation or ensuring project goals and financial sustainability of a grant project
 are met including providing expertise, infrastructure, advocacy, training, education,
 monitoring, maintenance, and ownership, or other support for grant-funded activities.
+141
+
+Rotary Foundation Code of Policies
+January 2027
 Universities that host scholars are not considered cooperating organizations. (April
 2025 Trustees Mtg., Dec. 102)
 Source: April 2010 Trustees Mtg., Dec. 120
 Amended: April 2025 Trustees Mtg., Dec. 102
 33.040.5.1. Grants involving Cooperating Organizations
 A grant involving a Cooperating Organization must meet the following conditions:
-142
-
-Rotary Foundation Code of Policies
-October 2026
 1. The Rotary sponsor(s) must clearly demonstrate that the project is initiated,
 controlled and conducted by the Rotary clubs or districts involved; Rotary members
 must participate in giving their time, resources, and personal involvement to the
@@ -5793,43 +5798,48 @@ Source: October 2012 Trustees Mtg., Dec. 16
 33.040.7. Duty of Care to Grant Travelers
 In the event of emergencies, The Rotary Foundation will offer reasonable assistance to
 grant funded travelers upon their request but will not proactively offer travel security
+142
+
+Rotary Foundation Code of Policies
+January 2027
 measures or accept responsibility for evacuating them. (September 2016 Trustees Mtg.,
 Dec. 14)
 Source: April 2016 Trustees Mtg., Dec. 126
 33.050. Global Grants
-Global grants fund three main international activities: humanitarian projects, vocational
-training teams, and scholarships. (October 2012 Trustees Mtg., Dec. 16)
-143
-
-Rotary Foundation Code of Policies
-October 2026
+Global grants fund two main international activities: humanitarian projects and
+scholarships. (October 2026 Trustees Mtg., Dec. 23)
 Source: October 2008 Trustees Mtg., Dec. 24
-Amended by October 2012 Trustees Mtg., Dec. 16
+Amended by October 2012 Trustees Mtg., Dec. 16; October 2026 Trustees Mtg., Dec. 23
 33.050.1. Requirements
 All global grants must
 1. assist in the development of stronger Rotary networks as clubs and districts from
 different communities or countries/geographical areas work together
 2. support activities sponsored by two Rotary clubs or districts; one located in the
 country where the activity will take place (host) and one outside of that country
-(international)
+(international), except scholarships
 3. take place in Rotary countries and geographical areas, or non-Rotary countries
 where the RI Board is actively pursuing extension
 4. provide sustainable outcomes (i.e., fulfill a need on a long-term basis after grant
 funds have been expended)
 5. include active participation by Rotarians from all primary clubs and districts
-6. include one primary host and one primary international club or district sponsor.
-Nonprimary clubs and districts can contribute funds to support the grant.
+6. include one primary host and one primary international club or district sponsor,
+except scholarships. Nonprimary clubs and districts can contribute funds to support
+the grant.
 7. conform to one or more of the selected areas of focus
 8. produce measurable outcomes and be able to account for success in a quantifiable
 or observable manner
-(October 2014 Trustees Mtg., Dec. 36)
+(October 2026 Trustees Mtg., Dec. 22)
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by March 2012 Trustees Mtg., Dec. 124; October 2012 Trustees Mtg., Dec. 16; October 2014
-Trustees Mtg., Dec. 36
+Trustees Mtg., Dec. 36; October 2026 Trustees Mtg., Dec. 22
 33.050.2. General Criteria
 1. Global grants are only to be awarded to clubs and/or districts.
 2. The minimum global grant budget shall be US$30,000 and the maximum award by
 The Rotary Foundation’s World Fund is US$400,000.
+143
+
+Rotary Foundation Code of Policies
+January 2027
 3. DDF contributions are matched by The Rotary Foundation at 80 percent.
 4. When an eligibility/activity requirement is inconsistent with local law, the sponsors
 may request the general secretary to waive the requirement to comply with local
@@ -5839,10 +5849,6 @@ the same multi-country district, the district itself cannot be a primary sponsor
 grant.
 6. At least 15% of contributions to global grants funding humanitarian projects
 exclusively must come from outside of the project country.
-144
-
-Rotary Foundation Code of Policies
-October 2026
 7. The board of Trustees must approve all global grant awards from US$200,001 to
 $400,000.
 8. Grant sponsors are required to conduct appropriate community assessments for
@@ -5868,6 +5874,10 @@ agreement between the organization and the grant sponsors.
 C. Eligibility
 1. Global grants for humanitarian projects can fund
 a. construction of infrastructure, including but not limited to:
+144
+
+Rotary Foundation Code of Policies
+January 2027
 i. toilet blocks and sanitation systems
 ii. access roads
 iii. dams
@@ -5876,26 +5886,12 @@ v. storage units
 vi. fences and security systems
 vii. water/irrigation systems
 viii. greenhouses
-145
-
-Rotary Foundation Code of Policies
-October 2026
 b. renovation, repair, and refurbishment of structures that are currently occupied
 or operational in which individuals live, work, or spend a significant amount of
 time. This may include the provision of new services or upgrade of utilities (i.e.,
 electrical, plumbing, and heating), repair of roofs, elevators, renovation of
 bathrooms, etc.
-c. international travel for up to two people to implement a service project or to
-provide training, provided the host sponsors have confirmed that the skill set is
-not readily accessible locally and warrants funding international travel. Staff,
-officers or members of a cooperating organization involved in the project are
-not eligible to receive grant funding for travel expenses. In special
-circumstances where these individuals have specific skills or qualifications
-necessary to implement the project, consideration will be given to permit
-funding their travel. A humanitarian project budget may not be used to solely
-fund international travel; it must be a component of a larger humanitarian
-project budget, and the travel portion must be reasonable in proportion to the
-project budget.
+c. international travel as outlined in section 33.050.4.
 d. domestic travel for beneficiaries and both Rotarian and non-Rotarian
 professionals needed to provide direct project implementation.
 e. direct program costs, salaries, stipends, or honorariums related to project
@@ -5920,10 +5916,10 @@ individuals carry out any type of activity including manufacturing and processin
 If the grant depends on the construction of a building, the construction must be
 funded by additional club/district funds (nonmatched cash contributions not
 processed by The Rotary Foundation) or funded by another entity
-146
+145
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 f. renovations to complete buildings that are partially constructed (including
 buildings with only the exterior completed) but have never been occupied or
 operational
@@ -5960,11 +5956,11 @@ appropriately set.
 appropriate level of assessment is not commensurate with the award amount and either
 waive or add additional requirements to the level of assessment. Applications that
 include directed gifts or endowment earnings shall be assessed based upon their total
-funding, not the award amount. (April 2025 Trustees Mtg., Dec. 102)
-147
+funding, not the award amount. (October 2026 Trustees Mtg., Dec. 23)
+146
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by October 2010 Trustees Mtg., Dec. 16; October 2010 Trustees Mtg., Dec. 43; January 2011
 Trustees Mtg., Dec. 63; September 2011 Trustees Mtg., Dec. 24; March 2012 Trustees Mtg., Dec. 124;
@@ -5972,57 +5968,58 @@ October 2012 Trustees Mtg., Dec. 16; April 2013 Trustees Mtg., Dec. 114; April 2
 Dec. 96; October 2014 Trustees Mtg., Dec. 36; April 2015 Trustees Mtg., Dec. 122; September 2016
 Trustees Mtg., Dec. 43; January 2017 Trustees Mtg., Dec. 76; April 2017 Trustees Mtg., Dec. 125;
 January 2019 Trustees Mtg., Dec. 80; October 2019 Trustees Mtg., Dec. 27; June 2020 Trustees Mtg.,
-Dec. 133; February 2021 Trustees Mtg., Dec. 84; April 2025 Trustees Mtg., Dec. 102
-33.050.4. Vocational Training Teams
-General Criteria
-1. Each team will be given the opportunity to either enhance its own vocational skills
-or provide professional training to others within the areas of focus in response to a
-humanitarian need.
-2. Teams must demonstrate capacity building by learning or teaching information
-related to one of the areas of focus and may partner with an institution, organization,
-corporation, or other entity approved by The Rotary Foundation.
-3. Vocational teams must have a clear purpose, proposal of intent, defined sustainable
-outcomes, and preparation plan.
-4. Any expenses incurred as a result of personal travel must be paid by the individual
+Dec. 133; February 2021 Trustees Mtg., Dec. 84; April 2025 Trustees Mtg., Dec. 102; October 2026
+Trustees Mtg., Dec. 23
+33.050.4. Global Grant International Travel
+Global Grant International Travel composition and criteria
+1. International travel must have a clear purpose, proposal of intent, defined
+sustainable outcomes, and preparation plan.
+2. International travel for those who are traveling to provide training, receive training,
+or implement the project will be considered, provided the local sponsor has
+confirmed that the skill set of the traveler(s) is not readily accessible locally.
+3. No more than three staff, officers, or members of a cooperating organization
+involved in the project are eligible to receive grant funding for travel expenses.
+4. Traveler’s name, email, travel dates, and travel locations must be provided to The
+Rotary Foundation.
+5. International travelers must provide emergency contact information to their global
+grant sponsor.
+6. Any expenses incurred as a result of personal travel must be paid by the individual
 team member outside of grant funds.
-5. A single grant can be used to support one or more training teams.
-6. A committee must be appointed by the international sponsor to select team
-members. The committee must be led by the club president for club-sponsored
-grants or the district governor for district-sponsored grants.
 7. All grants must be carried out within the proposed timeline.
-Team Composition and Criteria
-1. Each team shall consist of highly qualified professionals and a team leader. It is
-preferred that the team leader be a Rotarian. However, a non-Rotarian may serve
-as team leader if the advantage of such person serving as team leader is established
-in the grant application.
-2. A vocational training team must be composed of an experienced team leader and a
-minimum of two members. There is no limit to the total number of team members.
-3. Applicants must demonstrate expertise/experience in a specific area of focus and
-preferably be currently employed in a recognized business or profession related to
-the area of focus.
-4. All applicants must meet medical requirements ensuring that they can fully
-participate in international travel and activities during their vocational training
-grant.
-5. Relatives of a team member may also be members on the same team if they meet
-all eligibility and area of focus requirements.
-148
+8. International travelers shall be highly qualified professionals.
+9. International travel shall be limited to 10 travelers for each trip planned.
+10. International travelers can travel from multiple countries to one location provided
+that they are delivering training or supporting project implementation in one of the
+sponsor countries.
+11. International travel for those receiving benefit from the project such as training or
+services must come from a global grant sponsor country.
+12. International travel on a single grant cannot exceed four trips.
+13. International travel cannot exceed more than 21 days on each trip.
+14. International travelers who are traveling to provide training, receive training, or
+implement the project must demonstrate a minimum of two years of professional
+experience within an area of focus.
+15. All international travelers must meet medical requirements ensuring that they can
+fully participate in international travel and activities during the grant travel.
+147
 
 Rotary Foundation Code of Policies
-October 2026
-6. Team members are strongly encouraged to travel to and from their training as a
-group, but staggered travel is permissible if it best serves the humanitarian goals of
-the grant.
+January 2027
+16. Relatives of international travelers may also travel on the same grant if they meet
+all eligibility and area of focus requirements.
+17. International travelers are strongly encouraged to travel to and from the project
+location as a group, but staggered travel is permissible if it best serves the grant’s
+project goals.
+18. Reporting on global grant international travel must be provided with project reports.
+19. The general secretary must approve all travelers.
 Participation
-1. All team members must attend a club, district, or multidistrict organized outbound
-orientation session before departing their international sponsor district.
-2. All vocational training teams must make a Rotary-related presentation and
-participate in service or community projects.
-Levels of Grant Application Assessment
-1. Vocational training team applications will be reviewed by an area of focus expert
-as needed.
-(October 2012 Trustees Mtg., Dec. 16)
+1. All global grant international travelers must attend a club, district, or multidistrict
+organized outbound orientation session before departing their international sponsor
+district.
+2. All global grant international travelers are encouraged to make a Rotary-related
+presentation and participate in service or community projects.
+(October 2026 Trustees Mtg., Dec. 23)
 Source: April 2009 Trustees Mtg., Dec. 103
-Amended by October 2012 Trustees Mtg., Dec. 16
+Amended by October 2012 Trustees Mtg., Dec. 16; October 2026 Trustees Mtg., Dec. 23
 33.050.5. Global Grants for Scholarships
 The term “Rotary Scholar” shall be used when referring to any global grant scholar
 recipient.
@@ -6039,42 +6036,42 @@ Center partner university in the same or similar academic program as those pursu
 by Rotary Peace Fellows.
 6. Grant funding covers tuition, travel, living, insurance, and other education-related
 expenses as approved by The Rotary Foundation.
-7. The host sponsor club or district must designate a host counselor for an inbound
-scholar.
+7. The sponsor is responsible for ensuring a host counselor is designated for a scholar
+in the location of their study.
 8. If the scholar leaves or terminates the grant without the prior written approval of
 The Rotary Foundation, or if the grant is canceled by The Rotary Foundation, the
-international sponsor club or district is expected to help recover the funds for return
-to The Rotary Foundation by the scholar.
-Scholar Requirements
-149
+148
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+sponsor club or district is expected to help recover the funds for return to The
+Rotary Foundation by the scholar.
+Scholar Requirements
 1. Scholar candidates should have a good knowledge of Rotary and a solid
 commitment to activities and service within both sponsoring clubs and districts.
-2. All scholars are required to attend a club, district, or multidistrict organized outbound
-orientation session prior to departing their international (home) sponsor district and shall forfeit
-their award if unable to attend without a valid reason.
-3. Scholars must provide proof to The Rotary Foundation of unconditional [or conditional]
-university admission to a graduate-level program or letter of invitation to conduct
-postgraduate-level research when applying for their grant.
-4. Scholars must apply for their grant via an international sponsor club or district in association
-with a host sponsor club or district.
+2. All scholars are required to attend a club, district, or multidistrict organized
+outbound orientation session prior to departing and shall forfeit their award if
+unable to attend without a valid reason.
+3. Scholars must provide proof to The Rotary Foundation of unconditional [or
+conditional] university admission to a graduate-level program or letter of invitation
+to conduct postgraduate-level research when applying for their grant.
+4. Scholars must apply for their grant via a sponsor club or district.
 Participation
 1. Scholars are expected to participate in club or district activities before, during, and
 after the grant in accordance with the terms and conditions.
-2. Both host and international sponsor clubs should issue invitations to enable scholars
-to participate in club/district activities such as speaking and presenting at club or
-district meetings and participating in service projects.
+2. Sponsor clubs should issue invitations to enable scholars to participate in
+club/district activities such as speaking and presenting at club or district meetings
+and participating in service projects.
 Levels of Grant Application Assessment
 Scholarship applications will be reviewed by an area of focus expert as needed.
 Deadline
 Scholarship applications must be received by 30 June for studies that begin in August,
-September, or October. (September 2017 Trustees Mtg., Dec. 12)
+September, or October. (October 2026 Trustees Mtg., Dec. 22)
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by April 2011 Trustees Mtg., Dec. 100; January 2012 Trustees Mtg., Dec. 96; January 2012
 Trustees Mtg., Dec. 80; March 2012 Trustees Mtg., Dec. 112; April 2013 Trustees Mtg., Dec. 108; April
-2016 Trustees Mtg., Dec. 127; April 2017 Trustees Mtg., Dec. 114
+2016 Trustees Mtg., Dec. 127; April 2017 Trustees Mtg., Dec. 114; September 2017 Trustees Mtg., Dec.
+12; October 2026 Trustees Mtg., Dec. 22
 33.050.6. Global Grant Directed Gifts
 Donors may contribute directed gifts of US$15,000 or more to a specific area of focus,
 which would be used instead of the first portion of World Fund match for a global
@@ -6084,13 +6081,13 @@ of focus and a district to participate.
 Clubs and districts may add additional district designated funds or flow-through
 contributions if the grant is larger than US$30,000.
 Directed gifts are not eligible for World Fund match.
+149
+
+Rotary Foundation Code of Policies
+January 2027
 Directed gifts will be recorded as temporarily restricted contributions on the
 Foundation’s audited financial statements per applicable accounting rules and
 standards.
-150
-
-Rotary Foundation Code of Policies
-October 2026
 Such contributions will be available in the Rotary year immediately following the year
 in which they were received, unless otherwise specified in the gift agreement.
 All global grant directed gifts must be awarded for activities that comply with The
@@ -6111,8 +6108,8 @@ Naming opportunities are available to those who wish to support global grant act
 through a directed gift. This is generally a one-time gift, used in its entirety for its
 intended purpose and carries the name of the donor or loved one. Each directed gift
 will be individually tracked and reported on to the donor.
-Directed global grants will provide support to humanitarian projects, scholarships, and
-vocational training teams in one of Rotary’s areas of focus.
+Directed global grants will provide support to humanitarian projects and scholarships
+in one of Rotary’s areas of focus.
 Options vary depending on the size of the gift:
 $15,000+
 Funds one or more global grant with an area of focus option specified by the donor. A
@@ -6122,14 +6119,14 @@ information regarding the grant.
 $30,000+
 Funds one or more global grant with an area of focus option specified by the donor.
 Donors may specify the area of focus and a district to develop the grant, as well as the
-project or activity type: humanitarian project, scholarship, or vocational training team.
-A geographic preference for the grant, such as Africa, Asia, or Latin America, will be
-considered. Donors will receive a report when the directed gift is used with specific
-information on the grant funded by the gift.
-151
+project or activity type: humanitarian project or scholarship. A geographic preference
+150
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+for the grant, such as Africa, Asia, or Latin America, will be considered. Donors will
+receive a report when the directed gift is used with specific information on the grant
+funded by the gift.
 $150,000+
 Funds one or more global grant as described above. Additionally, donors may specify
 up to two areas of focus and the option to support any current special initiatives of the
@@ -6138,9 +6135,10 @@ a personalized report when the directed gift is used, including general informat
 the grant, how much additional funds were leveraged and pictures when available.
 Directed global grants are typically supplemented with other Rotary funding which
 leverages and maximizes each gift. Combined directed and endowed gift opportunities
-are available. (January 2024 Trustees Mtg., Dec. 56)
+are available. (October 2026 Trustees Mtg., Dec. 23)
 Source: April 2016 Trustees Mtg., Dec. 110
-Amended by April 2018 Trustees Mtg., Dec. 103; January 2024 Trustees Mtg., Dec. 56
+Amended by April 2018 Trustees Mtg., Dec. 103; January 2024 Trustees Mtg., Dec. 56; October 2026
+Trustees Mtg., Dec. 23
 33.050.7. Endowed Global Grant Funding Model
 1. There is no spendable earnings threshold for endowed global grants.
 2. Spendable earnings from global grant endowed funds are eligible to be used as a
@@ -6160,14 +6158,14 @@ Source: April 2013 Trustees Mtg., Dec. 118
 District grants support the services and activities of humanitarian and educational
 endeavors in which districts wish to engage. (October 2008 Trustees Mtg., Dec. 24)
 Source: October 2008 Trustees Mtg., Dec. 24
+151
+
+Rotary Foundation Code of Policies
+January 2027
 33.060.1. General Criteria
 All district grants must:
 1. Adhere to the mission statement of The Rotary Foundation
 2. Include the active participation of Rotarians or Rotaractors
-152
-
-Rotary Foundation Code of Policies
-October 2026
 (November 2020 Trustees Mtg., Dec. 58)
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by November 2020 Trustees Mtg., Dec. 58
@@ -6202,15 +6200,15 @@ bathrooms
 • immunization activities, including the purchase of polio vaccines, as long as
 polio vaccine is not the only vaccine that is being purchased, however, the
 purchase of COVID-19 vaccine shall not be allowed
+152
+
+Rotary Foundation Code of Policies
+January 2027
 • The following programs of Rotary International: Interact, Rotaract, RYLA,
 Rotary Youth Exchange, and Rotary Friendship Exchanges that comply with
 the Conflict of Interest policy as outlined in section 10.030.
 • Travel for staff of cooperating organizations
 • Activities primarily implemented by an organization other than Rotary
-153
-
-Rotary Foundation Code of Policies
-October 2026
 • Rotary events focused on educational and humanitarian training (such as
 scholar orientation seminars and grant management training seminars)
 • travel to and participation in Rotary Project Fairs
@@ -6221,19 +6219,19 @@ bearing account
 • Purchase of land and buildings
 • Fundraising activities
 • Expenses related to Rotary events such as district conferences, hosting of
-scholars or vocational training teams, anniversary celebrations, or
-entertainment activities
+scholars, anniversary celebrations, or entertainment activities
 • Operating, administrative, or indirect program expenses of another organization
 • Unrestricted cash donations to a beneficiary or cooperating organization
 • Activities for which the expense has already been incurred
 • Activities primarily sponsored by a non-Rotary organization
 • Transportation of vaccines or immunizations by hand over national borders
-(February 2021 Trustees Mtg., Dec. 84)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by January 2011 Trustees Mtg., Dec. 63; January 2012 Trustees Mtg., Dec. 96; March 2012
 Trustees Mtg., Dec. 112; October 2012 Trustees Mtg., Dec. 16; April 2013 Trustees Mtg., Dec. 114; April
 2014 Trustees Mtg., Dec. 96; January 2017 Trustees Mtg., Dec. 78; January 2018 Trustees Mtg., Dec.
-77; April 2018 Trustees Mtg., Dec. 119; February 2021 Trustees Mtg. Dec. 84
+77; April 2018 Trustees Mtg., Dec. 119; February 2021 Trustees Mtg. Dec. 84; October 2026 Trustees
+Mtg., Dec. 23
 33.060.3. Funding
 District grants are funded by The Rotary Foundation solely with allocations from the
 District Designated Fund (DDF).
@@ -6243,13 +6241,13 @@ of annual giving plus Endowment Fund earnings calculated from the prior year.
 (October 2012 Trustees Mtg., Dec. 16)
 Source: October 2008 Trustees Mtg., Dec. 24
 Amended by October 2012 Trustees Mtg., Dec. 16
+153
+
+Rotary Foundation Code of Policies
+January 2027
 33.060.4. Requests
 The Rotary Foundation will not process or approve district grant requests after the end
 of the program year for which the funds were requested.
-154
-
-Rotary Foundation Code of Policies
-October 2026
 Districts are strongly encouraged to submit district grant requests and receive grant
 approvals in the year prior to the year in which funds are made available. (October
 2008 Trustees Mtg., Dec. 24)
@@ -6277,16 +6275,16 @@ Monitoring and Evaluation – Projects should include a measurement plan that co
 significant improvement, ideally for three or more years. (October 2012 Trustees Mtg.,
 Dec. 16)
 Source: October 2012 Trustees Mtg., Dec. 16
+154
+
+Rotary Foundation Code of Policies
+January 2027
 33.080. Qualification
 In furtherance of the stewardship policies adopted by the Trustees, qualification is the
 process of ensuring that districts and their member clubs have the appropriate legal,
 financial, and stewardship controls in place to effectively participate Rotary
 Foundation grants. The qualification process prepares districts and their member clubs
 to administer a program that includes effective and careful oversight of grant funds and
-155
-
-Rotary Foundation Code of Policies
-October 2026
 helps to ensure the quality and consistency of compliance with stewardship
 requirements. Districts must agree to implement the financial and stewardship
 requirements in the district qualification memorandum of understanding (MOU) to be
@@ -6317,14 +6315,14 @@ how TRF is performing over time to identify and implement improvements. (April 2
 Trustees Mtg., Dec. 93)
 Source: June 2007 Trustees Mtg., Dec. 165; October 2010 Trustees Mtg., Dec. 17
 Amended by October 2012 Trustees Mtg., Dec. 16; April 2023 Trustees Mtg., Dec. 93
+155
+
+Rotary Foundation Code of Policies
+January 2027
 33.100. Grants to Other Organizations
 Making grants-in-aid to support the normal operating or program expenses of other
 organizations is against Foundation policy. (April 2000 Trustees Mtg., Dec. 126)
 Source: October 1985 Trustees Mtg., Dec. 61
-156
-
-Rotary Foundation Code of Policies
-October 2026
 33.110. Fund for Special Initiatives
 The Trustees have established a Fund for Special Initiatives of US$100,000 authorizing
 the Chair to release Special Initiative grants of up to US$20,000 per grant for
@@ -6355,6 +6353,10 @@ Source: November 1996 Trustees Mtg., Dec. 37; October 2001 Trustees Mtg., Dec. 3
 to assist in long term disaster recovery
 • A disaster relief page on rotary.org shall include procedures that a district in a
 disaster area should follow, stories and images of Rotarians participating in disaster
+156
+
+Rotary Foundation Code of Policies
+January 2027
 relief efforts, and information on where donations are being accepted in support of
 a particular disaster relief effort
 • The Disaster Network of Assistance (DNA) Rotarian Action Group is encouraged
@@ -6362,10 +6364,6 @@ to publish on its website a list of Rotarians with disaster response experience 
 list of organizations that work with Rotary
 • When a disaster is reported to Rotary International, the Rotary president shall send
 a sympathy letter containing disaster relief-related resources to the affected districts
-157
-
-Rotary Foundation Code of Policies
-October 2026
 • The general secretary shall direct those donors interested in making immediate
 donations to a disaster relief effort to a local established disaster relief committee,
 not The Rotary Foundation, to avoid delays, unnecessary processing, and
@@ -6395,6 +6393,10 @@ Source: January 2019 Trustees Mtg., Dec. 82
 Cross-Reference
 30.020.1. Evaluation of Pilot Programs
 Article 33 Rotary Foundation Grants
+157
+
+Rotary Foundation Code of Policies
+January 2027
 33.120.1.2. Individual Disaster Response Funds for Disasters of Magnitude
 Individual disaster response funds and grants may be established separately from the
 general Disaster Response Fund for specific disasters of magnitude. Rotary’s presence
@@ -6402,10 +6404,6 @@ in the impacted area must be strong enough to ensure the successful implementati
 and oversight of disaster response grants in order to establish an individual disaster
 response fund or grant. Additionally, a disaster must meet three of the following criteria
 to qualify as a disaster of magnitude:
-158
-
-Rotary Foundation Code of Policies
-October 2026
 1. It is a natural disaster.
 2. At least one million people are impacted, including physical injury or death,
 prolonged disruption to services, property damage, psychological distress, and
@@ -6434,15 +6432,15 @@ Source: October 2023 Trustees Mtg., Dec. 31
 33.140.1. Requirements
 All Programs of Scale applicants must
 1. Explain how the program aligns with at least one of Rotary’s areas of focus’
+158
+
+Rotary Foundation Code of Policies
+January 2027
 2. Include an implementation timeline of three to five years
 3. Request US$2 million in funding from The Rotary Foundation
 4. Demonstrate additional investment from organizations other than Rotary clubs and
 districts, including (effective for the 2024-25 program selection cycle) a minimum
 cash contribution of US$500,000
-159
-
-Rotary Foundation Code of Policies
-October 2026
 5. Include at least one implementation partner that shares the responsibility for
 achieving successful outcomes and supports the long-term impact of the program.
 6. Include a letter of intent or commitment for each partner that clearly outlines their
@@ -6474,15 +6472,15 @@ Source: October 2023 Trustees Mtg., Dec. 31
 The Programs of Scale Selection Committee members are appointed by the Programs
 Committee Chair and approved by the Trustee Chair. This committee is composed of
 at least three sitting Trustees of The Rotary Foundation, along with representatives
+159
+
+Rotary Foundation Code of Policies
+January 2027
 from the Cadre of Technical Advisers, and Rotaract. The composition of the Committee
 should be geographically representative and aim for gender balance. Committee
 members should also have relevant experience to the success of high-impact, scalable
 programming that represents Rotary. (October 2023 Trustees Mtg., Dec. 31)
 Source: October 2023 Trustees Mtg., Dec. 31
-160
-
-Rotary Foundation Code of Policies
-October 2026
 33.140.2.3. Funding
 Each year, the Trustees will allocate US$2 million from the World Fund to support the
 award. This funding will be disbursed throughout the lifecycle of the program as
@@ -6510,10 +6508,10 @@ includes a report on progress toward:
 future corporate signature programming.
 (October 2023 Trustees Mtg., Dec. 31)
 Source: October 2023 Trustees Mtg., Dec. 31
-161
+160
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 34. STEWARDSHIP
 34.010. Stewardship of Foundation Funds
 34.020. Annual Stewardship Plan
@@ -6551,10 +6549,10 @@ at the level of standard business practice and always in consonance with the
 Four Way Test
 5. Report immediately any irregularity in grant-related activity to The Rotary
 Foundation
-162
+161
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 6. Implement projects as approved by the Trustees in their grant award. Any deviation
 from the agreed terms or changes in the implementation of the project must receive
 prior written authorization from The Rotary Foundation
@@ -6589,14 +6587,14 @@ chair. To be a registered member of the Cadre, a Rotary member must meet the
 following qualifications:
 1. Be a current, active member of a functioning Rotary or Rotaract club
 2. Be in good standing with The Rotary Foundation and Rotary International
-3. Register with the Cadre every three years
-4. Have professional experience in at least one of the Trustee-approved areas of focus
-and/or financial auditing.
-163
+3. Meet membership requirements as directed by the general secretary in coordination
+with the Cadre chair
+162
 
 Rotary Foundation Code of Policies
-October 2026
-5. Complete the new Cadre member orientation process.
+January 2027
+4. Have professional experience in at least one of the Trustee-approved areas of focus
+and/or financial auditing
 The Cadre shall support the Foundation’s programs as follows:
 1. Provide project planning guidance to Rotary members as requested
 2. Provide technical review and feedback per the guidelines outlined in Rotary
@@ -6608,11 +6606,11 @@ Trustee-approved levels of grant application assessment.
 with qualification requirements.
 4. Assist in the investigation and resolution of allegations.
 5. Maintain confidentiality of reports upon completion of any assignments.
-(April 2022 Trustees Mtg., Dec.89)
+(October 2026 Trustees Mtg., Dec.32)
 Source: October 1995 Trustees Mtg., Dec. 75
 Amended by October 2001 Trustees Mtg., Dec. 34; October 2010 Trustees Mtg., Dec. 43; October 2012
 Trustees Mtg., Dec. 16; October 2014 Trustees Mtg., Dec. 55; April 2016 Trustees Mtg., Dec. 136; April
-2022 Trustees Mtg., Dec. 89
+2022 Trustees Mtg., Dec. 89; October 2026 Trustees Mtg., Dec. 32
 Cross-Reference
 33.050.3. C.3. Humanitarian Projects: Levels of Grant Application Assessment
 34.030.1. Report
@@ -6628,12 +6626,12 @@ Amended by October 2010 Trustees Mtg., Dec. 43; April 2016 Trustees Mtg., Dec. 1
 34.030.3. The Rotary Foundation Cadre Chair Responsibilities
 The Cadre chair responsibilities shall be to:
 1. Orient and support technical coordinators
-2. Receive a quarterly report of all assignments for technical advisers who traveled to
-project sites and report back to the Foundation
-164
+163
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+2. Receive a quarterly report of all assignments for technical advisers who traveled to
+project sites and report back to the Foundation
 3. Ensure quality and consistency of all technical adviser reports
 4. Maintain integrity and confidentiality of all technical adviser reports.
 (January 2019 Trustees Mtg., Dec. 86)
@@ -6665,11 +6663,11 @@ Amended by October 2018 Trustees Mtg., Dec. 53; October 2020 Trustees Mtg., Dec.
 34.030.6.1. Technical Coordinator Responsibilities
 The technical coordinator responsibilities shall be to:
 • Provide technical expertise to enhance project quality
-• Perform complicated or sensitive assignments
-165
+164
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+• Perform complicated or sensitive assignments
 • Serve as a resource for Rotary members, technical advisers, and the general
 secretary
 • Recruit Rotary members, particularly individuals from underrepresented groups, to
@@ -6704,11 +6702,11 @@ concerning mismanagement and misuse of funds are identified and addressed in a
 timely manner, thereby enhancing the likelihood of project success in reaching the
 intended beneficiaries. The guidelines that follow explain how these important
 stewardship tools for auditing and monitoring are employed in TRF’s large grants.
-• Adequately budget for required auditor and monitor activities.
-166
+165
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
+• Adequately budget for required auditor and monitor activities.
 • Perform random and targeted audits each Rotary year.
 • Schedule and conduct an interim monitor or audit of all global grants greater than
 a level three assessment after one year of the release of 30% funds to review
@@ -6741,10 +6739,10 @@ district leader response(s), the general secretary will determine whether the al
 have merit and take appropriate action. (October 2012 Trustees Mtg., Dec. 16)
 Source: October 1992 Trustees Mtg., Dec. 44
 Amended by October 2005 Trustees Mtg., Dec. 63; October 2012 Trustees Mtg., Dec. 16
-167
+166
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 34.040.4. Alleged Misuse of Foundation Grant Funds
 34.040.4.1. Policy For Responding To Allegations Of Misuse Of Foundation Grant Funds
 The Rotary Foundation is committed to reviewing, investigating and resolving all
@@ -6780,10 +6778,10 @@ Any of the following sanctions may be imposed as follows:
 1. The stewardship committee acting on behalf of the Trustees may deem any Rotarian
 ineligible to receive any Foundation awards or participate in any Foundation
 program for a period of up to five years, or until certain conditions are satisfied.
-168
+167
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2. The stewardship committee acting on behalf of the Trustees may recommend to the
 RI president that a Rotarian be ineligible for any appointment or assignment for a
 period of up to five years, or until certain conditions are satisfied.
@@ -6823,10 +6821,10 @@ with a final report due within two months of completion of the project. Incomple
 reports may be returned to the project sponsor with a brief explanation of missing items.
 Complete reports must at minimum include the following:
 1. Narrative statement with project outcomes clearly defined
-169
+168
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2. Full description of Rotarian oversight, management and involvement with the
 project
 3. Statement of income and expense
@@ -6865,10 +6863,10 @@ responsibility of the district(s), which will have six months to submit an accep
 report. (October 2022 Trustees Mtg., Dec. 7)
 Source: April 2006 Trustees Mtg., Dec. 163; October 2022 Trustees Mtg., Dec. 7
 Amended by April 2011 Trustees Mtg., Dec. 127
-170
+169
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 34.050.2. Expectations for Being Current and Compliant with Reporting Requirements
 An important component of effective stewardship is the preparation and submission of
 timely and accurate grant reports. Districts and their member Rotary clubs are expected
@@ -6906,10 +6904,10 @@ the Rotary year
 (April 2026 Trustees Mtg., Dec. 85)
 Source: April 2023 Trustees Mtg., Dec. 103
 Amended by April 2026 Trustees Mtg., Dec. 85
-171
+170
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 35. ROTARY PEACE CENTERS
 35.010. General Policies
 35.020. Funding
@@ -6948,10 +6946,10 @@ fellowships awarded shall be subject to annual review by the Trustees.
 • Candidates for the Rotary Peace Fellowships must have the requisite training,
 academic background and significant work experience in relevant fields as
 required by the university partners for a master’s level program or for the
-172
+171
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 certificate program, so that the candidates selected will have the ability to make
 the greatest impact on peace and development during their future careers.
 3. Rotary Peace Fellows will study for up to two academic years in master’s degree
@@ -6988,10 +6986,10 @@ Documents” for this Code to raise a cumulative amount of US$150 million in ter
 endowed support to cover Rotary Peace Fellowship program expenses by 30 June 2017.
 The Trustees shall consider providing World Fund support in future budgets to help
 cover any short-term funding gaps for the Rotary Peace Centers.
-173
+172
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Donations of District Designated Funds, either from a single district or multiple
 districts, may be accepted to establish endowments within the Endowment Fund with
 the annual spendable earnings to be applied to Rotary Peace Fellowships. Districts may
@@ -7025,10 +7023,10 @@ General Support provides general support to the program
 (January 2014 Trustees Mtg., Dec. 57)
 Source: October 2013 Trustees Mtg., Dec. 20
 Amended by January 2014 Trustees Mtg., Dec. 57
-174
+173
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 35.020.4. Pioneer Districts
 Districts that committed funding from their district designated funds equal to
 US$50,000 for the 2002-04 or 2003-05 years are known as Pioneer Districts. (April
@@ -7064,10 +7062,10 @@ assist Rotary Peace Fellows in meeting various expenses, at an amount and under 
 established by the general secretary. (April 2005 Trustees Mtg., Dec. 95)
 Source: February 2005 Trustees Mtg., Dec. 86
 Amended by April 2005 Trustees Mtg., Dec. 95
-175
+174
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 35.020.8. Directed Gifts
 A five percent deduction will be assessed from all directed gifts for the Rotary Peace
 Centers to cover the administrative and program costs associated with these gifts.
@@ -7105,10 +7103,10 @@ Amended by January 2020 Trustees Mtg., Dec. 61
 Recognition for Global Peacebuilder Districts includes a certificate and a digital
 package of printable Global Peacebuilder District signage that can be used at district
 events, conferences, and elsewhere. (April 2023 Trustees Mtg., Dec. 90)
-176
+175
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: January 2002 Trustees Mtg., Dec. 93
 Amended by April 2013 Trustees Mtg., Dec. 95; April 2023 Trustees Mtg., Dec. 90
 35.040. Award Amount
@@ -7142,10 +7140,10 @@ Candidates for the Rotary Peace Fellowship should be experienced professionals a
 have completed a minimum of three years for the master’s program and five years for
 the certificate program combined paid or unpaid full-time work experience in a relevant
 field. The Rotary Foundation welcomes eligible candidates from all backgrounds.
-177
+176
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Candidates for the master’s degree program must have at least three years between the
 completion of their most recent academic degree program (i.e. undergraduate or
 graduate degree) and their intended start date for the fellowship.
@@ -7182,10 +7180,10 @@ Additionally, a standardized three-year waiting period is required between Rotar
 Peace Fellowship programs and for Global or District Grant Scholars applying to the
 Rotary Peace Fellowship. (October 2025 Trustees Mtg., Dec.23)
 Source: April 1999 Trustees Mtg., Dec. 152; February 2005 Trustees Mtg., Dec. 86
-178
+177
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by April 2000 Trustees Mtg., Dec. 142; April 2004 Trustees Mtg., Dec. 113; October 2008
 Trustees Mtg., Dec. 8; January 2018 Trustees Mtg., Dec. 75; November 2020 Trustees Mtg., Dec. 60;
 April 2023 Trustees Mtg., Dec. 90; January 2024 Trustees Mtg., Dec. 71; October 2025 Trustees Mtg.,
@@ -7225,10 +7223,10 @@ Trustees Mtg., Dec. 143; October 2014 Trustees Mtg., Dec. 20; January 2015 Trust
 January 2018 Trustees Mtg., Dec. 75; November 2020 Trustees Mtg., Dec. 60; October 2021 Trustees
 Mtg., Dec. 30; January 2023 Trustees Mtg., Dec. 55; April 2023 Trustees Mtg., Dec. 90; October 2025
 Trustees Mtg., Dec. 23
-179
+178
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 35.050.3. World-Competitive Selection Process Guidelines
 1. Each master’s and certificate application will be read by a minimum of three
 application evaluators: one application evaluator from the applicant’s first
@@ -7272,10 +7270,10 @@ and compile a list of its top 20 candidates per session. This list will be share
 the RPC Committee prior to the selection meeting. Members of the RPC Committee
 will evaluate these candidates and discuss during the selection meeting before a
 joint selection is made on the final candidates from each center.
-180
+179
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 6. At the RPC Committee meeting, discussion among Rotarians and university
 representatives will result in consensus on the final list so that each master’s degree
 program has up to ten fellows and eight alternates and each certificate session has
@@ -7310,10 +7308,10 @@ Rotary Peace Fellows may be asked to collaborate and participate in the preparat
 a document containing their findings as part of the seminar or degree requirements.
 Rotary Peace Fellows in their second year may be asked to serve as a mentor to a first
 year Rotary Peace Fellow.
-181
+180
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Applied field experience of Rotary Peace Fellows shall be conducted in a country other
 than the fellow’s country of citizenship, with requests for exceptions to be considered
 by the trustee chair. (November 2020 Trustees Mtg., Dec. 60)
@@ -7348,10 +7346,10 @@ Sponsor districts shall:
 1. Promote the program locally to attract superior candidates.
 2. Provide appropriate orientation to ensure that fellows understand the mission of
 The Rotary Foundation and their responsibilities as alumni.
-182
+181
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 3. Maintain close contact with the fellow during his or her fellowship period. Publicize
 the fellow’s activities to the district.
 4. Consider developing club and/or district international service projects or
@@ -7389,10 +7387,10 @@ conferences and Rotary club meetings.
 6. Should assist in evaluating the program on a regular basis by completing surveys
 and offering feedback.
 (November 2020 Trustees Mtg., Dec. 60)
-183
+182
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: April 1999 Trustees Mtg., Dec. 152; June 2001 Trustees Mtg., Dec. 232
 Amended by October 2000 Trustees Mtg., Dec. 97; November 2020 trustees Mtg., Dec. 60
 35.070.4. Host Area Coordinators
@@ -7433,10 +7431,10 @@ the Rotary Peace Center director.
 and The Rotary Foundation to receive and provide program updates. Assist in
 program evaluation, as directed by the Rotary Peace Centers committee, if
 necessary.
-184
+183
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 10. Facilitate all Rotary Peace Fellows’ attendance, individually or in groups, at
 significant Rotary events, particularly within the first three months of the beginning
 of classes in the host area.
@@ -7455,10 +7453,10 @@ tasks, as needed.
 Source: October 2003 Trustees Mtg., Dec. 44
 Amended by February 2006 Trustees Mtg., Dec. 110; October 2008 Trustees Mtg., Dec. 42; January
 2009 Trustees Mtg., Dec. 66
-185
+184
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 CHAPTER IV – PUBLIC IMAGE
 Articles
 Article 40. General Policies
@@ -7489,10 +7487,10 @@ general secretary is requested to include the design in The Rotary Foundation gr
 publications and correspondence. (September 2011 Trustees Mtg., Dec. 7)
 Source: April 2011 Trustees Mtg., Dec. 125
 Amended by September 2011 Trustees Mtg., Dec. 7
-186
+185
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 CHAPTER V - FINANCES
 Articles
 Article 50. Contributions
@@ -7525,10 +7523,10 @@ supporting the Rotary Foundation. (April 2000 Trustees Mtg., Dec. 126)
 Source: April 1998 Trustees Mtg., Dec. 148
 Amended by April 2000 Trustees Mtg., Dec. 126
 Reaffirmed October 1999 Trustees Mtg., Dec. 40
-187
+186
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.030. New Gift Proposals
 New gift proposals should be used to support current programs rather than to create
 new programs; however, any exceptional gift proposal, as determined by the trustee
@@ -7564,10 +7562,10 @@ The following terms have been adopted with respect to the funds of the Foundatio
 • PolioPlus Fund
 • Other funds
 (January 2013 Trustees Mtg., Dec. 68)
-188
+187
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: October 1994 Trustees Mtg., Dec. 26
 Amended by January 2013 Trustees Mtg., Dec. 68
 50.060. Gift Options
@@ -7601,10 +7599,10 @@ charitable lead trust is US$100,000, with exceptions to be permitted at the disc
 of the general secretary. (April 2000 Trustees Mtg., Dec. 126)
 Source: April 1991 Trustees Mtg., Dec. 122
 Amended by April 2000 Trustees Mtg., Dec. 126
-189
+188
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.060.4. Insurance Gifts
 50.060.4.1. Minimum Amounts
 The following minimum insurance and real property gift amounts have been
@@ -7639,10 +7637,10 @@ at a minimum face value of US$1,000, provided that the life expectancy of the
 insured, on an actuarially determined basis, is not more than 15 years. The
 Foundation will accept ownership of fully paid-up policies exceeding the 15 year
 expectancy threshold with the understanding of the donor that the Foundation’s
-190
+189
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 policy is that it may liquidate such policies for cash value, net of any policy loans
 or other charges.
 • The Foundation will also accept life insurance policies upon which premium
@@ -7679,10 +7677,10 @@ Members.
 • All gifts restricted to a program or project, which at the time of receipt by the
 Trustees is no longer in existence or is fully funded, shall not lapse but may be
 utilized by the Trustees for another Foundation program or project.
-191
+190
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 (January 2013 Trustees Mtg., Dec. 60)
 Source: October 1982 Trustees Mtg., Dec. 44; October 1985 Trustees Mtg., Dec. 54; May 1986 Trustees
 Mtg., Dec. 86
@@ -7720,10 +7718,10 @@ received from corporations.
 Section A: CSR Funding scenario:
 • Minimum CSR contribution is US$21,000, including 5% additional contribution to
 offset administrative expenses.
-192
+191
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Up to a maximum of 5% added to the gift will be kept by the Foundation as an
 administrative cost. CSR amount levels to charge administrative cost varying from
 a minimum of 3% to a maximum of 5% will be as follows:
@@ -7762,10 +7760,10 @@ Advisers is required.
 (October 2024 Trustees Mtg., Dec. 7)
 Source: October 2020 Trustees Mtg., Dec. 39
 Amended by April 2021 Trustees Mtg., Dec. 102
-193
+192
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.070. Gift Acceptance Manual
 A Gift Acceptance Manual has been approved. The general secretary may incorporate
 operational changes in the manual on a continuing basis. Modifications to the
@@ -7796,10 +7794,10 @@ shall support the programs of the Rotary Foundation and accompanying operational
 expenses
 • provide sufficient funds to support programs, Endowment Fund development,
 investment management, and program operating expenses
-194
+193
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • preserve purchasing power of the corpus through asset growth at a rate minimally
 equal to the inflation rate so that inflation adjusted spending is perpetuated
 • minimize the impact of market volatility on year to year spending by basing the
@@ -7833,10 +7831,10 @@ costs, according to terms agreed on at the time of acceptance
 Source: February-March 1985 Trustees Mtg., Dec. 56
 Amended by October 1989 Trustees Mtg., Dec. 17; April 1991 Trustees Mtg., Dec. 111; October 2009
 Trustees Mtg., Dec. 49
-195
+194
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.080.6. Endowment Fund and Pooled Gifts in Support of Special Uses
 • A district or club, in addition to an individual donor, may make a direct contribution
 to the Endowment Fund in any amount, but Benefactor recognition is available to
@@ -7875,10 +7873,10 @@ activity within the Foundation. (April 2000 Trustees Mtg., Dec. 126)
 Source: April 1991 Trustees Mtg., Dec. 112
 Amended by April 2000 Trustees Mtg., Dec. 126
 Reaffirmed May 1997 Trustees Mtg., Dec. 199
-196
+195
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.080.9. Endowment Fund Naming Opportunities
 Named Funds of $25,000 or more
 Special opportunities exist to create a custom fund within the Endowment Fund. A fund
@@ -7888,14 +7886,14 @@ Options vary depending upon the size and purpose of the gift:
 $500,000+ Customized Global Grant Endowed Fund*
 A customized endowed fund may be created with up to three of the following options
 below:
-1. Activity—humanitarian project, scholarship, vocational training team
+1. Activity—humanitarian project and scholarship
 2. Area of Focus
 3. District
 4. Geographic location such as Africa, Asia, or Latin America
 $250,000+ Customized Global Grant Endowed Fund*
 A customized endowed fund may be created with up to two of the following options
 below:
-1. Activity—humanitarian project, scholarship, vocational training team
+1. Activity—humanitarian project and scholarship
 2. Area of Focus
 3. District
 4. Geographic location such as Africa, Asia, or Latin America
@@ -7905,15 +7903,16 @@ humanitarian projects, scholarships, or vocational training teams
 $25,000 Named Endowed Fund
 Provides general support to the World Fund, SHARE, Rotary Peace Centers or general
 support to a global grant developed around the world in one of Rotary’s areas of focus.
-(January 2024 Trustees Mtg., Dec. 56)
+(October 2026 Trustees Mtg., Dec. 23)
 Source: April 2016 Trustees Mtg., Dec. 110
-Amended by September 2016 Trustees Mtg., Dec. 14; January 2024 Trustees Mtg., Dec. 56
+Amended by September 2016 Trustees Mtg., Dec. 14; January 2024 Trustees Mtg., Dec. 56; October
+2026 Trustees Mtg., Dec. 23
 Cross-Reference
 35.020.2. Fund Development Plan for Endowed Support to Rotary Peace Centers
-197
+196
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.090. Annual Fund
 50.090.1. Worldwide Marketing Plan for Annual Giving
 The Trustees have adopted the Every Rotarian, Every Year Annual Fund Marketing
@@ -7951,10 +7950,10 @@ year are encouraged.
 Minimum percentage of account that must b5e0 %
 allocated to the Endowment when an individual
 DAF dies or the fund is terminated
-198
+197
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Minimum dollar amount required to extend aUn S$150,000 on the date of the
 individual DAF to child(ren) of the first generationd.e ath of the last individual from
 A minimum of 50% of the fair market value of thteh e first generation or after estate
@@ -7991,10 +7990,10 @@ regulations thereunder or any other applicable laws relating to DAFs. (January 2
 Trustees Mtg., Dec. 78)
 Source: October 2001 Trustees Mtg., Dec. 25
 Amended by January 2002 Trustees Mtg., Dec. 78
-199
+198
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 50.100.5. Guidelines for Recognition
 Donor recognition extended for outright grant distributions to The Rotary Foundation
 and future commitments from Rotary Donor Advised Funds shall be in accordance with
@@ -8034,10 +8033,10 @@ Amended by April 2019 Trustees Mtg., Dec. 94
 50.100.6. Donor Advised Fund Legacy Accounts
 The following policy regarding Donor Advised Fund (DAF) Legacy accounts as a
 subset of DAF group accounts has been adopted:
-200
+199
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Minimum Initial Contribution US$75,000
 Minimum SubsequenUt S$1,000
 Contribution
@@ -8069,10 +8068,10 @@ quarters will be transferred to the Endowment
 (April 2019 Trustees Mtg., Dec. 94)
 Source: September 2011 Trustees Mtg., Dec. 31
 Amended by April 2019 Trustees Mtg., Dec. 94
-201
+200
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 51. DONOR RECOGNITION
 51.010. Statement of Principles for Contribution Recognition
 51.020. Major Gifts Recognition
@@ -8101,10 +8100,10 @@ increasing levels of program and financial participation.
 (April 2000 Trustees Mtg., Dec. 126)
 Source: March 1994 Trustees Mtg., Dec. 97
 Amended by October 1995 Trustees Mtg., Dec. 17; April 2000 Trustees Mtg., Dec. 126
-202
+201
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 51.020. Major Gifts Recognition
 51.020.1. Guidelines for Major Donor and Arch Klumph Society Recognition
 1. Only outright personal contributions to The Rotary Foundation qualify for Major
@@ -8142,10 +8141,10 @@ Level 5 Arch Klumph Society Platinum$5 million - $9,999,999.99
 Chair’s Circ le
 Level 6 Arch Klumph Society Platinum$1 0 million and above
 Foundation Circle
-203
+202
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 8. Arch Klumph Society members receive pins and pendants with a number of stones
 corresponding to the level of contribution. In addition, members are entitled to pins
 and pendants that will signify membership but not indicate the level of giving.
@@ -8184,10 +8183,10 @@ The general secretary shall offer a universal pin and pendant for Bequest Societ
 of US$250,000 and above. (April 2019 Trustees Mtg., Dec. 94)
 Source: April 2010 Trustees Mtg., Dec. 101
 Amended by October 2014 Trustees Mtg., Dec. 25; April 2019 Trustees Mtg., Dec. 94
-204
+203
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 51.020.3 Legacy Society Levels
 A Legacy Society member is an individual or couple who have made commitments to
 Rotary’s Endowment in the cumulative amount of US$1 million or more. The levels
@@ -8221,10 +8220,10 @@ Paul Harris Fellow recognition is provided only to individuals.
 Paul Harris Fellow recognition credit remains in the donor’s account and cannot be
 extended to others like Foundation recognition points. (April 2010 Trustees Mtg., Dec.
 103)
-205
+204
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: January 1957 Board Mtg., Bd. Dec. 178; October 1987 Trustees Mtg., Dec. 14; November 1996
 Trustees Mtg., Dec. 18; June 2007 Trustees Mtg., Dec. 159
 Amended by January 1964 Board Mtg., Bd. Dec. 161; April 2010 Trustees Mtg., Dec. 103
@@ -8259,10 +8258,10 @@ circumstances warrant providing Paul Harris Fellow Recognition for such
 contributions in advance of grant approval. (October 2012 Trustees Mtg., Dec. 16)
 Source: April 1998 Trustees Mtg., Dec. 175
 Amended by October 2012 Trustees Mtg., Dec. 16
-206
+205
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 51.030.6. Multiple Paul Harris Fellow Recognition Policies
 Each Paul Harris Fellow Recognition awarded must represent US$1,000 in
 contributions to The Rotary Foundation. A current Paul Harris Fellow who makes an
@@ -8300,10 +8299,10 @@ Name: 100% Paul Harris Fellow Club
 Criteria: 100% of all dues paying members are Paul Harris Fellows
 Award: Banner (to include “The Rotary Foundation” across the top and the
 year in which it was awarded), letter of presentation and
-207
+206
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 congratulations from the trustee chair, placement of club name and
 year of award on recognition plaque displayed in the Hall of Honor
 Color: White
@@ -8344,10 +8343,10 @@ Fund (+ three diamond stones)
 Fund (+ four diamond stones)
 500,000 to 999,999 to Annual Fund or to EndowmenPt aul Harris Fellow pin
 Fund (+ five diamond stones)
-208
+207
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 1,000,000 and above to Annual Fund or to EndowmenPt aul Harris Fellow pin
 Fund (+ six diamond stones)
 (April 2000 Trustees Mtg., Dec. 126)
@@ -8384,10 +8383,10 @@ official Paul Harris Society wearable recognition item.
 The Paul Harris Society wearable recognition will be provided to all districts for
 presentation to individuals giving at the Paul Harris Society level or above. (January
 2013 Trustees Mtg., Dec. 60)
-209
+208
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: April 2010 Trustees Mtg., Dec. 102; October 2012 Trustees Mtg., Dec. 21
 Amended by January 2013 Trustees Mtg., Dec. 60
 51.030.12.2. Recognition Banner for 100% Paul Harris Society Club
@@ -8422,10 +8421,10 @@ Directed gifts are fully expended, usually within 24 months. These gifts work wi
 the current global grant or Rotary Peace Centers structure and have appeal to donors
 who seek to inspire and support new programs.
 $500,000–$1 million Entrepreneurial Endowed Fund for Peace
-210
+209
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Spendable earnings provide partial to full support for new opportunities within Rotary’s
 peace programs. Examples may be workshops, retreats, and other new initiatives.
 $75,000–$1 million Entrepreneurial Directed Gift for Peace
@@ -8460,10 +8459,10 @@ minimum cash value thereof is US$1,000.
 of an individual under age 21 and which have a minimum cash value of US$1,000,
 shall be eligible for “Benefactor” recognition.
 3. Benefactor recognition will be given only to the insured.
-211
+210
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 4. Recognition for all irrevocable life income gifts, such as charitable gift annuities
 and charitable remainder trusts, shall be based on the greatest determinable value
 of such gifts.
@@ -8499,10 +8498,10 @@ year
 year.
 (April 2000 Trustees Mtg., Dec. 126)
 Source: October 1995 Trustees Mtg., Dec. 26
-212
+211
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by April 2000 Trustees mtg., Dec. 126
 51.050.6. Businesses Assisting the Foundation
 The Trustees have approved a certificate for contributions from corporations or
@@ -8538,10 +8537,10 @@ The value at the time of the gift, rather than the face value, of a life insuran
 should be used in recognizing an individual’s eligibility for major gifts recognition, as
 well as in totaling a club’s historical giving and in computing a club’s total giving and
 per-capita giving for the current year. (August 2020 Trustees Mtg., Dec. 14)
-213
+212
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: April 1991 Trustees Mtg., Dec. 106
 Amended by February 1999 Trustees Mtg., Dec. 116; June 2020 Trustees Mtg., Dec. 125; August 2020
 Trustees Mtg., Dec. 14
@@ -8579,10 +8578,10 @@ Source: April 1991 Trustees Mtg., Dec. 107
 Amended by April 2000 Trustees Mtg., Dec. 126
 51.050.7.4. “Rotary’s Promise Club” Designation
 A special club designation shall be created with the following specifications:
-214
+213
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Name: 100% Rotary’s Promise Club
 Criteria: Every dues-paying member supports The Rotary Foundation’s
 Endowment with a minimum of $1,000 by outright gift or commitment
@@ -8617,10 +8616,10 @@ Polio Day and the Rotary International Convention receive rights and benefits
 according to their sponsorship package and are not included in Rotary’s
 Recognition of Organizations.
 3. The levels established for Rotary’s Recognition for Organizations are as follows:
-215
+214
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Level 1: US$100,000 - $249,999
 Level 2: US$250,000 - $499,999
 Level 3: US$500,000 - $999,999
@@ -8656,10 +8655,10 @@ Proposals for the award are to be endorsed by the IPPC chair and forwarded to th
 Trustee chair and the RI president for approval. (January 2026 Trustees Mtg., Dec. 49)
 Source: June 1996 Trustees Mtg., Dec. 237
 Amended by October 2019 Trustees Mtg., Dec. 45; January 2026 Trustees Mtg., Dec. 49
-216
+215
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 51.060.2. Service Award for a Polio-Free World
 The criteria and guidelines for The Service Award for A Polio-Free World are as
 follows:
@@ -8698,10 +8697,10 @@ Any Rotary member is eligible except:
 • Current and incoming trustees of The Rotary Foundation, current and incoming
 directors of Rotary International, current members of the International PolioPlus
 Committee, and current and incoming district governors.
-217
+216
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Rotary members who have previously received the international award are
 ineligible for the regional award.
 (January 2026 Trustees Mtg., Dec. 49)
@@ -8738,10 +8737,10 @@ be endorsed by the current governor of the nominee’s district. District govern
 only endorse one nomination from their district per year. (April 2018 Trustees Mtg.,
 Dec. 125)
 Source: April 2002 Trustees Mtg., Dec. 114
-218
+217
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Amended by April 2018 Trustees Mtg., Dec. 125
 51.060.3.3. Eligible Nominees
 Any active Rotarian or Rotaractor in good standing may be nominated except current,
@@ -8757,11 +8756,10 @@ of eligible service include, but are not limited to:
 • Service on Foundation committees at the club, district, or international level
 • Participation in Foundation grants or programs
 • Support of Ambassadorial or Rotary Scholars or Rotary Peace Fellows
-• Participation in Group Study Exchange teams or vocational training teams
 Financial contributions to the Foundation, however notable, are not relevant
-considerations for this award. (April 2018 Trustees Mtg., Dec. 125)
+considerations for this award. (October 2026 Trustees Mtg., Dec. 23)
 Source: April 1991 Trustees Mtg., Dec. 104
-Amended by September 2011 Trustees Mtg., Dec. 56
+Amended by September 2011 Trustees Mtg., Dec. 56; October 2026 Trustees Mtg., Dec. 23
 51.060.3.5. Selection of Recipients
 The General Secretary shall review the nominations to confirm the nominee has not
 previously been awarded the Citation for Meritorious Service and that the nomination
@@ -8777,10 +8775,10 @@ Rotary International or The Rotary Foundation at the time of selection. (June 20
 Trustees Mtg., Dec. 147)
 Source: September 2011 Trustees Mtg., Dec. 56
 Amended by June 2020 Trustees Mtg., Dec. 147
-219
+218
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 51.060.4. Foundation Distinguished Service Awards
 The Trustees recognize up to fifty Rotarians and Rotaractors worldwide for their
 outstanding efforts on behalf of The Rotary Foundation each year. (June 2020 Trustees
@@ -8819,10 +8817,10 @@ include detailed information concerning the specific Foundation activities and
 responsibilities of the nominee since he or she received the Citation for Meritorious
 Service.
 • Serving on a district Rotary Foundation committee for a total of at least five years
-220
+219
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Providing significant leadership at district or multidistrict Foundation learning
 events
 • Presenting on The Rotary Foundation at district or regional events
@@ -8831,8 +8829,6 @@ two year period
 • Serving as a Scholar counselor and/or host at least three times
 • Organizing and carrying out successful fundraising efforts at the district or
 multidistrict level
-• Providing significant leadership in district or multidistrict scholar and GSE team
-(Vocational Training Team) orientation
 • Serving as the designated project contact person for a successful grant project for
 which a final report has been received
 • Providing substantial leadership in PolioPlus projects and activities
@@ -8841,11 +8837,12 @@ which a final report has been received
 clearly defined and described in detail by the nominator).
 The Foundation Distinguished Service Award shall be given only for exceptional active
 service to The Rotary Foundation. Financial contributions to the Foundation, however
-notable, are not relevant considerations for this award. (May 2024 Trustees Mtg., Dec.
-123)
+notable, are not relevant considerations for this award. (October 2026 Trustees Mtg.,
+Dec. 23)
 Source: April 1991 Trustees Mtg., Dec. 104
 Amended by October 1995 Trustees Mtg., Dec. 14; September 2011 Trustees Mtg., Dec. 56; April 2018
-Trustees Mtg., Dec. 125; April 2024 Trustees Mtg., Dec. 84; May 2024 Trustees Mtg., Dec. 123
+Trustees Mtg., Dec. 125; April 2024 Trustees Mtg., Dec. 84; May 2024 Trustees Mtg., Dec. 123; October
+2026 Trustees Mtg., Dec. 23
 51.060.4.4. Selection of Recipients
 The trustee chair shall select up to five current trustees to review the nominations prior
 to the April Trustees meeting. The recommendations will be presented to the full board
@@ -8862,11 +8859,11 @@ Rotary International or The Rotary Foundation at the time of selection.
 The general secretary is further authorized to rescind an individual’s Foundation
 Distinguished Service Award if requested by the nominator and in consultation with
 the Trustee chair, provided the award has not been presented or announced publicly
-221
+and there are extraordinary circumstances that warrant such action. The general
+220
 
 Rotary Foundation Code of Policies
-October 2026
-and there are extraordinary circumstances that warrant such action. The general
+January 2027
 secretary in consultation with the Trustee chair may rescind past awards from recipients
 provided there are extraordinary circumstances that warrant such action. (June 2020
 Trustees Mtg., Dec. 147)
@@ -8886,36 +8883,46 @@ However, there is a suggested standard recognition certificate for this purpose.
 2020 Trustees Mtg., Dec. 147)
 Source: May-June 1983 Trustees Mtg., Dec. 71
 Amended by June 2020 Trustees Mtg., Dec. 147
-51.060.6. Rotary PolioPlus Ambassadors Recognition Award
-The criteria and guidelines for the Rotary PolioPlus Ambassador Recognition Award
-are as follows:
-1. The primary objective of the Rotary PolioPlus Ambassador Recognition Award is
-to recognize Rotary PolioPlus Ambassadors who have distinguished themselves by
-their public support and efforts to raise awareness for the polio eradication
-initiative.
-2. The award is particularly designed to be received by celebrities and other notable
-figures who have used their status to publicly support the campaign.
-3. Examples of participation include but are not limited to the following:
-4. Participation in Rotary’s public service announcements for polio.
-5. High profile media interviews around timely polio-focused news, milestones and
-events.
-6. Social media engagement (inclusion of Rotary messaging into participants’
-editorial calendars for Facebook posts and tweets and including links back to
-Rotary’s online properties).
-7. Inclusion of PolioPlus messaging and links to Rotary online properties in their own
-web properties.
-222
+51.060.6. Rotary PolioPlus Ambassadors and Rotary PolioPlus Advocates
+Rotary PolioPlus Ambassadors are celebrities and other notable figures who have
+agreed to engage with Rotary and utilize their position and platform to advance
+Rotary’s goal of a polio-free world and raise awareness for global polio eradication
+efforts. Rotarians and Rotaractors are not eligible to be appointed to this role.
+Any Rotary member or staff may propose someone as a Rotary PolioPlus Ambassador.
+Activities that Rotary PolioPlus Ambassadors may undertake include, but are not
+limited to:
+1. utilizing social media to advocate for the cause of polio eradication
+2. meeting with various polio eradication stakeholders including but not limited to
+Rotary members, government officials, polio eradication partners, health experts,
+and community leaders
+3. speaking at Rotary and other events relative to polio eradication efforts
+4. participating in high-profile media interviews around timely polio-focused news,
+milestones and events
+5. social media engagement (inclusion of Rotary messaging into editorial calendars,
+including links back to Rotary’s online properties)
+221
 
 Rotary Foundation Code of Policies
-October 2026
-8. Appearances at/participation in Rotary events.
-9. Travels on a Rotary trip to immunize a child against polio and agree to media
+January 2027
+6. including PolioPlus messaging and links to Rotary online properties in their own
+web properties.
+7. traveling on a Rotary trip to immunize children against polio and agree to media
 interaction.
-10. Attends or speaks at a high-profile Global Polio Eradication Initiative (GPEI) event.
-Endorsement and Approval
-Proposals for the award are to be endorsed by the chair of the International PolioPlus
-Committee and forwarded to the chair of the Trustees. (June 2026 Trustees Mtg., Dec.
-97)
+Appointment Process
+The selection and appointment of Rotary PolioPlus Ambassadors will occur after
+vetting by staff and in consultation with the chair of the International PolioPlus
+Committee. Upon approval, a formal letter of appointment by the general secretary as
+an Ambassador will be sent to the proposed individual.
+Rotary PolioPlus Advocates are celebrities or other notable figures who engage
+sporadically with Rotary on the issue of polio eradication, for example around key
+moments such as World Polio Day and World Immunization Week. They do not
+commit to deeper engagement. Rotarians and Rotaractors are not eligible to be
+appointed to this role.
+Any Rotary member or staff may propose an individual as a Rotary PolioPlus
+Supporter.
+Appointment Process
+Proposals for Rotary PolioPlus Advocates will be vetted and endorsed by the general
+secretary. (June 2026 Trustees Mtg., Dec. 97)
 Source: January 2015 Trustees Mtg., Dec. 81
 Amended by April 2015 Trustees Mtg., Dec. 108; June 2026 Trustees Mtg., Dec. 97
 51.060.7. Replacement
@@ -8934,6 +8941,10 @@ Source: April 2018 Trustees Mtg., Dec. 125
 Minor children (under the age of 18) and other immediate family members of an invited
 donor are permitted to accompany the invited donor to donor recognition events
 organized by the general secretary on behalf of the Foundation. Such family members
+222
+
+Rotary Foundation Code of Policies
+January 2027
 may attend, provided the invited donor registers them for the event and pays the
 appropriate ticket price (except that no ticket shall be required for children under the
 age of 5). Minor children must be under the care and supervision of their parents or
@@ -8945,7 +8956,7 @@ Source: January 2023 Trustees Mtg., Dec. 49
 223
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 52. SHARE SYSTEM
 52.010. Allocations
 52.020. Program Options Catalog
@@ -8981,7 +8992,7 @@ A donor who makes a general gift does not specify a use for the funds
 224
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 2. The general giving totals for each district will be divided into two categories,
 indicating the actual fund into which they will be placed: the District Designated
 Fund (50%) and the World Fund (50%)
@@ -9019,7 +9030,7 @@ Amended by October 1994 Trustees Mtg., Dec. 26; April 2000 Trustees Mtg., Dec. 1
 225
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 52.040. Using SHARE District Designated Funds for PolioPlus
 52.040.1. PolioPlus Fund
 The PolioPlus Fund is eligible to receive district designated funds. (October 2003
@@ -9056,7 +9067,7 @@ projects. (October 2012 Trustees Mtg., Dec. 16)
 226
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: April 2003 Trustees Mtg., Dec. 137
 Amended by October 2012 Trustees Mtg., Dec. 16
 Cross-Reference
@@ -9065,7 +9076,7 @@ Committee Chair
 227
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 53. INVESTMENTS
 53.010. Investment Policy and Guidelines
 53.020. Protection of Funds Held Outside the USA
@@ -9101,13 +9112,13 @@ as deemed necessary. (June 2017 Trustees Mtg., Dec. 158)
 228
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: June 1998 Trustees Mtg., Dec. 221
 Amended by June 2009 Trustees Mtg., Dec. 145; June 2017 Trustees Mtg., Dec. 158
 229
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 54. THE ROTARY FOUNDATION FUNDING MODEL
 54.010. Purpose
 54.020. Objectives of This Policy
@@ -9144,7 +9155,7 @@ expenses associated with the management of investments.
 230
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Endowment Fund Spendable Earnings is an annual distribution from an eligible
 endowment fund to provide funding for the programs and operations of The Rotary
 Foundation.
@@ -9182,7 +9193,7 @@ Source: January 2018 Trustees Mtg., Dec. 86
 231
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 54.050. Funding Model – Operations
 MEASUREMENT 1
 At the end of each fiscal year, the Funding Model Sources will be measured to
@@ -9221,7 +9232,7 @@ Trustees Mtg., Dec. 86)
 232
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: October 2013 Trustees Mtg., Dec. 47
 Amended by January 2018 Trustees Mtg., Dec. 86
 54.070. Review of Policy
@@ -9234,7 +9245,7 @@ Amended by January 2018 Trustees Mtg., Dec. 86
 233
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 55. TRAVEL AND BUSINESS EXPENSES
 55.010. Travel Policy
 55.020. Travel and Reimbursement
@@ -9272,7 +9283,7 @@ Source: April 2010 Trustees Mtg., Dec. 131
 234
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 55.010.4. Acknowledgment of Obligation
 Each Trustee will annually acknowledge that he or she is familiar with and will abide
 by the requirements of this section. (October 2019 Trustees Mtg., Dec. 27)
@@ -9311,7 +9322,7 @@ Trustees Mtg., Dec. 80
 235
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 56. AUDITS AND REPORTS
 56.010. Independent Audits
 56.020. Internal Audits
@@ -9349,7 +9360,7 @@ which explains the encumbered nature of Annual Program Fund assets and provides
 236
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 easily understood financial information explaining the nature of the internally classified
 encumbered funds and other complex financial matters. (April 2000 Trustees Mtg.,
 Dec. 126)
@@ -9386,7 +9397,7 @@ Amended by April 2000 Trustees Mtg., Dec. 126
 237
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 CHAPTER VI – JOINT POLICIES
 Articles
 Article 60. Partnerships
@@ -9426,7 +9437,7 @@ religious orientation will be carefully researched by staff (including financial
 238
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 considerations and accountability), reviewed by a Foundation Committee, and
 approved by the Trustees and the RI Board to ensure the proposed partnership is
 appropriate. Any such partnership is open to review and possible termination if analysis
@@ -9469,7 +9480,7 @@ and the number of Rotarians likely to participate
 239
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 RI/TRF shall not enter into partnerships with other organizations that:
 • Conflict with Rotary’s values
 • Support the use of addictive or harmful products and activities
@@ -9508,7 +9519,7 @@ Amended by September 2011 Trustees Mtg., Dec. 53; January 2019 Trustees Mtg., De
 240
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 60.010.3. Contact with Other Organizations
 No officer of Rotary International or The Rotary Foundation shall enter into any
 agreement on behalf of the organization unless approved by the appropriate authority
@@ -9551,7 +9562,7 @@ Amended by May 2003 Board Mtg., Bd. Dec. 325; April 2007 Trustees Mtg., Dec. 116
 241
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 60.010.5. Amendment of Guidelines
 To ensure a unified approach by RI and TRF to contacts and partnerships with other
 organizations, this amendment and subsequent amendments to the guidelines for
@@ -9591,7 +9602,7 @@ Source: October 2024 Trustees Mtg., Dec. 33
 242
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 60.020.2. Appointment
 The volunteer members of the liaison team will be appointed by the Rotary
 International president and the Trustee chair to serve a three-year term, with the
@@ -9628,7 +9639,7 @@ Amended by October 2015 Trustees Mtg., Dec. 30; September 2017 Trustees Mtg., De
 243
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 60.030.1. Resource Partner Proposals
 The general secretary is authorized to solicit other organizations that would have the
 capacity and interest to be resource partners for either Rotary International or The
@@ -9670,7 +9681,7 @@ club or district projects in one or more of the avenues of service or the areas 
 244
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 The general secretary is authorized to contact other organizations who have the
 potential to be service partners. (September 2011 Trustees Mtg., Dec. 53)
 Source: September 2011 Trustees Mtg., Dec. 53
@@ -9712,7 +9723,7 @@ Source: September 2011 Trustees Mtg., Dec. 53
 245
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 60.050.2. Review and Approval of Project Partners
 The general secretary may grant project partner status to other organizations. Project
 partners that will seek financial contributions from Rotarians must be approved by both
@@ -9750,7 +9761,7 @@ other organization in the following manner:
 246
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 1. Evaluate the meetings in terms of both potential program information and Rotary
 visibility
 2. Identify Rotarians – such as general officers, members of RI committees, as well
@@ -9792,7 +9803,7 @@ materials are allowed to be displayed in the various venues of RI authorized
 247
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 meetings, RI or TRF events or publicly displayed otherwise in connection with the
 sponsorship, partnership or alliance.
 5. Sponsor recognizes that RI (or TRF) reserves the right to pre-approve publications
@@ -9839,7 +9850,7 @@ Rotary emblem should not be included on the labels of the alcohol products.
 248
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 (January 2014 Trustees Mtg., Dec. 57)
 Source: October 1998 Board Mtg., Bd. Dec. 86
 Amended by August 2000 Board Mtg., Bd. Dec. 64; November 2000 Board Mtg., Bd. Dec. 133;
@@ -9881,7 +9892,7 @@ bono relationship.
 249
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Editorial Review: RI/TRF staff retains full editorial review of all material released
 by the corporate entity. This activity will ensure the release of factual information
 to the media, general public and membership audiences of the corporate entity and
@@ -9925,7 +9936,7 @@ Amended by January 2012 Trustees Mtg., Dec. 73; January 2024 Trustees Mtg., Dec.
 250
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 60.110. Strategic Partnerships Model
 A strategic partnership is a formal relationship between TRF and another organization,
 such as a nongovernmental organization, corporation, or university, to facilitate
@@ -9965,7 +9976,7 @@ should be permitted to accept sponsorships; however, the Council on Legislation 
 251
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 not an acceptable sponsorship venue. Each sponsorship relationship should
 terminate either within a defined period of time or with the completion of the
 sponsored event. It is important to maintain the appropriate level of decorum at any
@@ -10011,7 +10022,7 @@ projects or programs of necessity shall be guaranteed in writing by the intended
 252
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 sponsor. Moreover, such written intent shall clearly state what, if anything, the
 sponsor expects in return for its assistance.
 • Donations-in-kind shall be considered as sponsorship to the extent of their lowest
@@ -10056,7 +10067,7 @@ with the president (when known) who presides over the convention, at least three
 253
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 months before the meeting, event, project, or program to ensure that the sponsoring
 organization can comply with RI’s contractual requirements, including but not
 limited to insurance and indemnification requirements. First aid/medical sponsors
@@ -10092,7 +10103,7 @@ Trustees Mtg., Dec. 22; October 2025 Trustees Mtg., Dec. 5
 254
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 61. ROTARY ALUMNI
 61.010. Definition of Rotary Alumni
 61.020. Rotary Alumni Relations Activities
@@ -10131,7 +10142,7 @@ sponsoring district, as required by their program’s guidelines
 255
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Encourage Rotary Alumni to join a Rotary Alumni Association, or establish one if
 one does not already exist in their geographic area
 • Encourage Rotary Alumni to participate in Rotary projects
@@ -10171,7 +10182,7 @@ Source: October 2007 Trustees Mtg., Dec. 54
 256
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 61.050. Alumni Awards
 61.050.1. Rotary Alumni Global Service Award
 The purpose of the Rotary Alumni Global Service Award is to honor an outstanding
@@ -10210,7 +10221,7 @@ Trustees Mtg., Dec. 124; January 2016 Trustees Mtg., Dec. 79
 257
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 61.050.1.3. Nomination of Candidates
 1. Any member of the Rotary community, including Rotarians, alumni, and current
 program participants can nominate a candidate.
@@ -10254,7 +10265,7 @@ Trustees Mtg., Dec. 98; April 2017 Trustees Mtg., Dec. 95; April 2018 Trustees M
 258
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Rotary Institute conveners and regional coordinators are encouraged to invite Award
 recipients to speak at the Rotary Institute as appropriate and if practicable.
 Governors and Governors-elect of those districts where Award recipients reside are
@@ -10294,7 +10305,7 @@ other sites
 259
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 Source: January 2011 Trustees Mtg., Dec. 71
 Amended by October 2014 Trustees Mtg., Dec. 45
 61.050.2.2. Nomination Procedure
@@ -10331,11 +10342,11 @@ Trustees Mtg., Dec. 35; October 2019 Trustees Mtg., Dec. 27; January 2022 Truste
 260
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 ARTICLE 62. STRATEGIC PLANNING
 62.010. Strategic Planning Committee
-62.010. Strategic Planning Committee
-Rotary International and The Rotary Foundation shall have a joint Strategic Planning
+62.010. Joint Strategic Planning Committee
+Rotary International and The Rotary Foundation shall have a Joint Strategic Planning
 Committee in accordance with RI Bylaws section 17.050., which will meet as needed
 and determined by the RI Board and The Rotary Foundation Trustees. The committee
 shall counsel both the directors and trustees on one strategic plan for RI and TRF.
@@ -10343,10 +10354,10 @@ shall counsel both the directors and trustees on one strategic plan for RI and T
 Source: April 2015 Trustees Mtg., Dec. 114
 Amended by January 2017 Trustees Mtg., Dec. 63
 62.010.1. Responsibilities
-It is the responsibility of the Strategic Planning Committee to counsel the Board and
-Trustees on all current and future strategic matters of Rotary, including recommending
-and monitoring the multi-year strategic plan. Where appropriate and necessary, the
-committee shall:
+It is the responsibility of the Joint Strategic Planning Committee to counsel the Board
+and Trustees on all current and future strategic matters of Rotary, including
+recommending and monitoring the multi-year strategic plan. Where appropriate and
+necessary, the committee shall:
 • Advise the Board and Trustees on a shared vision and strategic plan for Rotary’s
 future, along with providing counsel regarding alignment of initiatives and
 activities.
@@ -10371,7 +10382,7 @@ scenarios and strategies.
 261
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 • Consider Rotary’s position and comparative advantage relative to market trends as
 well as global trends in volunteerism, membership, charitable causes and
 humanitarian service.
@@ -10382,8 +10393,8 @@ Rotarians by geographic region, including countries that may open to expansion.
 Source: April 2015 Trustees Mtg., Dec. 114
 Amended by January 2017 Trustees Mtg., Dec. 63; September 2017 Trustees Mtg., Dec. 12; April 2021
 Trustees Mtg., Dec. 102; October 2023 Trustees Mtg., Dec. 9
-62.010.2. Role of Board of Directors and Foundation Trustees to Strategic Planning and Strategic
-Planning Committee
+62.010.2. Role of Board of Directors and Foundation Trustees to Strategic Planning and Joint
+Strategic Planning Committee
 The boards of directors and trustees each have defined roles as outlined in the bylaws
 and code of policies in regard to Rotary’s strategic plan. RI and TRF will have one
 strategic plan with goals and measures to support the overall strategic plan. Depending
@@ -10391,13 +10402,13 @@ on the need of the organization, the plan will generally cover a 3-5-year period
 can be adjusted to address current needs of Rotary International and/or The Rotary
 Foundation. (October 2015 Trustees Mtg., Dec. 7)
 Source: April 2015 Trustees Mtg., Dec. 114
-62.010.3. Meetings of the Strategic Planning Committee
-The Strategic Planning Committee shall meet at such times and places and upon such
-notice as may be determined by the RI president, TRF Trustee chair, or the board of
-directors or board of trustees. It is recommended that any meetings be arranged so the
-report of the first meeting is included in the Board and Trustees’ second meeting agenda
-(typically in October). Any second committee meeting shall coincide so that the report
-is included in the Board and Trustees’ fourth meeting agenda (typically
+62.010.3. Meetings of the Joint Strategic Planning Committee
+The Joint Strategic Planning Committee shall meet at such times and places and upon
+such notice as may be determined by the RI president, TRF Trustee chair, or the board
+of directors or board of trustees. It is recommended that any meetings be arranged so
+the report of the first meeting is included in the Board and Trustees’ second meeting
+agenda (typically in October). Any second committee meeting shall coincide so that
+the report is included in the Board and Trustees’ fourth meeting agenda (typically
 April/May/June). (January 2017 Trustees Mtg., Dec. 63)
 Source: April 2015 Trustees Mtg., Dec. 114
 Amended by January 2017 Trustees Mtg., Dec. 63
@@ -10410,7 +10421,7 @@ Amended by October 2015 Trustees Mtg., Dec. 7
 262
 
 Rotary Foundation Code of Policies
-October 2026
+January 2027
 62.010.5. Incoming Presidents and Trustee Chair Attendance at Meetings
 The president-elect and president-nominee of RI and chair-elect and chair-elect
 designee shall be invited to the meetings and serve as ex-officio members of the
@@ -10418,5 +10429,5 @@ committee. (January 2017 Trustees Mtg., Dec. 63)
 Source: April 2015 Trustees Mtg., Dec. 114
 Amended by January 2017 Trustees Mtg., Dec. 63
 End of TRF Code of Policies
-October 2026
+January 2027
 263

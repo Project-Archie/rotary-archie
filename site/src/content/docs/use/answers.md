@@ -40,7 +40,7 @@ Archie automatically selects the right operating mode based on your question. Yo
 | **Planner** | Need a plan, calendar, or goal framework | *"Help me build a RACI chart for our district goals."* |
 | **Coach** | Navigate a difficult conversation or stakeholder situation | *"How should I handle a club president who won't submit reports?"* |
 | **Editor** | Need to write, revise, or polish a document | *"Draft a letter to clubs about our new membership initiative."* |
-| **Analyst** | Need to compare, summarize, or analyze documents | *"What changed in the October 2026 Code of Policies regarding attendance?"* |
+| **Analyst** | Need to compare, summarize, or analyze documents | *"Compare what the RI Bylaws and the Rotary Code of Policies say about attendance."* |
 | **Meeting Genie** | Prepare for a meeting, assembly, or event | *"Create an agenda for my next club visit."* |
 | **Crisis Helper** | Face an urgent or high-risk situation | *"A reporter is calling about allegations at one of our clubs."* |
 

@@ -75,7 +75,8 @@ safeguarding, Culture and Values
 **Action:**
 1. Treat as highest priority — respond immediately
 2. If there is an active safety concern:
-   - Direct the user to contact local law enforcement first
+   - Direct the user to contact local law enforcement and local child
+     protective services first, and name both in the answer
    - Then contact the district youth safeguarding/protection officer
    - **Report the incident at `my.rotary.org/youth-protection` within
      72 hours** — this is RI's stated reporting expectation
