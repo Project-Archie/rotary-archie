@@ -4,35 +4,34 @@ A skill is a folder of instructions that an AI assistant carries with it. Archie
 
 You install the skill once. After that it works in every conversation you have with that assistant. You do not have to remember to turn it on, and you do not have to paste anything at the start of a chat.
 
-The same file installs on Claude, ChatGPT, and Grok. Pick whichever assistant you already use.
+The same file installs on Claude, ChatGPT, and Grok. Pick whichever assistant you already use. ChatGPT Free cannot add skills; the table below says where each assistant stands.
 
 ## Get the file
 
-1. Open https://github.com/Project-Archie/rotary-archie/releases/latest in your web browser.
-2. Scroll down to the heading **Assets**.
-3. Click `rotary-archie.zip`. Your browser saves it to your Downloads folder.
-4. Leave the file zipped. Do not open it, and do not unzip it. Every assistant below wants the zip exactly as you downloaded it.
+1. Click this link: https://github.com/Project-Archie/rotary-archie/releases/latest/download/rotary-archie.zip. Your browser saves `rotary-archie.zip` to your Downloads folder. The link always gives you the newest version.
+2. If the link does not work for you, open https://github.com/Project-Archie/rotary-archie/releases/latest instead, scroll down to the heading **Assets**, and click `rotary-archie.zip`.
+3. Leave the file zipped. A zip file is one compressed file. Do not open it, and do not unzip it. Every assistant below wants the zip exactly as you downloaded it.
 
-If you use the Claude desktop app on a Mac or a Windows PC, download `rotary-archie-v2026.1.0.skill` from that same **Assets** list instead. You install it by double-clicking it. See claude.md.
+If you use the Claude desktop app on a Mac or a Windows PC, download `rotary-archie-v2026.1.2.skill` from the **Assets** list on that release page instead. You install it by double-clicking it. See claude.md.
 
 ## Pick your assistant
 
 | Assistant | Works on these plans | Guide |
 | --- | --- | --- |
-| Claude | Free, Pro, Max, Team, and Enterprise | claude.md |
-| ChatGPT | Business, Enterprise, Edu, and Healthcare workspaces only. Skills are not available on Free, Plus, or Pro. | chatgpt.md |
+| Claude | Every plan, including Free | claude.md |
+| ChatGPT | Plus, and work and school workspaces. Archie answers in Work mode only. Not available on Free. | chatgpt.md |
 | Grok | SuperGrok and SuperGrok Heavy | grok.md |
 | A command-line agent | Claude Code, Codex, Gemini CLI, Grok Build | cli.md |
 
 Claude Code users have a shorter path: Archie installs as a plugin with two commands and updates with one. See the plugin section at the top of cli.md.
 
-Companion skills ship beside Archie. The first is `rotary-brand-voice`, which covers how Rotary content sounds and looks (voice, names, fonts, colors, logos, lockups) and never answers policy. Its packages sit on the same release page as Archie's: `rotary-brand-voice.zip` for the Claude, ChatGPT, and Grok upload dialogs and `rotary-brand-voice-v0.2.1.skill` for Claude Desktop. Install it the same way you installed Archie. Claude Code users run `/plugin install rotary-brand-voice@project-archie` instead.
+Companion skills ship beside Archie. The first is `rotary-brand-voice`, which covers how Rotary content sounds and looks (voice, names, fonts, colors, logos, lockups) and never answers policy. Its packages sit on the same release page as Archie's: `rotary-brand-voice.zip` for the Claude, ChatGPT, and Grok upload dialogs and `rotary-brand-voice-v0.2.4.skill` for Claude Desktop. Install it the same way you installed Archie. Claude Code users run `/plugin install rotary-brand-voice@project-archie` instead.
 
-If you are on ChatGPT Free, Plus, or Pro, your account cannot install skills of any kind. You have two good options instead. Use the public Archie GPT, which needs no setup at all and is described in tier-1-use.md. Or set up a ChatGPT Project and upload the eight Rotary documents by hand, which is described in ../add-memory-projects.md.
+If the skill will not load for you, for example on ChatGPT Free, use Claude's free plan with the same file. On ChatGPT Go, Plus, or higher you can also set up a ChatGPT Project and upload the eight Rotary documents by hand (a Free project holds only five files). That is described in ../add-memory-projects.md. The public Archie GPT stops working on December 11, 2026, so do not rely on it. The Archie website has a page for this: https://project-archie.github.io/rotary-archie/get/no-assistant/
 
 Setup takes about five minutes.
 
-Gemini is not supported yet. Google's skills feature is in beta, and in our tests it mixed web search results into Archie's answers, including outdated Rotary contact details. We will add Gemini when it passes the same checks as the others.
+The Gemini app is not supported yet. Google's skills feature is in beta, and in our tests it mixed web search results into Archie's answers, including outdated Rotary contact details. We will add Gemini when it passes the same checks as the others.
 
 ## When Archie switches on
 
@@ -46,13 +45,13 @@ A Project fixes that. A Project is a workspace that holds your instructions and 
 
 Setting one up takes about 15 minutes and is entirely optional. See ../add-memory-projects.md.
 
-A Project with your own district documents in it is also where Tier 3 begins. See tier-3-customize.md.
+A Project with your own district documents in it is also the first step toward a setup for your whole district. See tier-3-customize.md.
 
 ## Keeping Archie up to date
 
-Rotary International publishes revised governing documents each July, and Archie gets a new version to match. Here is how to tell whether the copy you installed is still current.
+Archie gets a new version whenever Rotary International revises a governing document. The Rotary Code of Policies changes after each RI Board meeting, so that can happen more than once a year. Here is how to tell whether the copy you installed is still current.
 
-1. Start a conversation and type "What version are you?" Archie answers with a version number and a date.
+1. Start a conversation and type "What version of Archie are you?" Archie answers with a version number and a date.
 2. Compare that number against the one at https://github.com/Project-Archie/rotary-archie/releases/latest.
 3. If the release is newer, download the new file and install it the same way you installed the first one.
 
@@ -60,4 +59,4 @@ You can also just wait to be told. Your Zone coordinator sends a note whenever a
 
 To have GitHub tell you directly, open https://github.com/Project-Archie/rotary-archie, click **Watch** near the top right, choose **Custom**, and tick **Releases**. GitHub then emails you when a new version goes up.
 
-The first part of the version number is the Rotary year the documents come from. Version 2026.1.0 carries the documents Rotary International published for the 2026 Rotary year, including the October 2026 Code of Policies and, new this year, The Rotary Foundation Code of Policies. When the 2027 documents land, the version becomes 2027 followed by its own numbers.
+The first part of the version number is the Rotary year the documents come from. Version 2026.1.2 carries the documents Rotary International published for the 2026 Rotary year, including the October 2026 Code of Policies and, new this year, The Rotary Foundation Code of Policies. When the 2027 documents land, the version becomes 2027 followed by its own numbers.

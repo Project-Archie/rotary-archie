@@ -1,0 +1,83 @@
+---
+title: "Optional: give Archie memory"
+---
+
+The memory steps on this page are optional. The one exception is the section "If the skill will not load for you", which is the route for anyone whose skill will not install. If you have installed the skill and Archie is answering your questions well, you can stop here and come back another day.
+
+## Why you might want one
+
+The skill gives you a well-behaved Archie in every conversation. What it cannot do is remember you. Each new chat starts from nothing, so you find yourself typing "I am the governor-elect of District 5400" over and over.
+
+A Project is a workspace that holds a set of instructions and remembers what you have discussed. Tell Archie once inside a Project which district you serve and what role you hold, and it carries that into every later conversation in the same Project. Ongoing work carries over too, so a conference planning thread you started in October still makes sense in February.
+
+A Project is also where your own documents live. District standing rules, your operating policies, a committee roster, last year's budget. Archie reads them alongside the Rotary International documents and can cite both in the same answer. Rotary policy still governs unless a lawful local rule applies.
+
+Setting up a Project takes about 15 minutes. A Project with your own district documents in it is also the first step toward a setup for your whole district. See [Customize for your district](/rotary-archie/customize/).
+
+## Claude
+
+1. Open Claude and click **Projects** in the left sidebar.
+2. Click **Create Project**.
+3. Give it a name that will still make sense to you in a year, such as "Archie, District 5400".
+4. Open [the Claude Project instructions](https://github.com/Project-Archie/rotary-archie/blob/main/docs/instructions/claude-project.md). Copy the text that sits between the two horizontal dividers, and nothing outside them.
+5. Paste that text into the Project's **Instructions** field and save.
+6. Optional. Add your own district documents under **Project Knowledge**.
+7. Start a conversation in the Project and tell Archie your district number and your role.
+
+You do not need to upload the eight Rotary International governing documents. They are already inside the skill you installed, and uploading a second copy only makes the Project slower to search.
+
+## ChatGPT
+
+Which set of steps you follow depends on whether the skill loads for you. Both end in the same place.
+
+### If the skill loads for you
+
+1. Install the skill first, following [Install on ChatGPT](/rotary-archie/get/chatgpt/).
+2. In ChatGPT, find the **Projects** heading in the left sidebar.
+3. Click the **+** next to that heading to create a project, and give it a name.
+4. Open [the ChatGPT Project instructions](https://github.com/Project-Archie/rotary-archie/blob/main/docs/instructions/chatgpt-project.md) and copy the text between the two horizontal dividers.
+5. Open the project, find its instructions box (ChatGPT labels it Instructions in the project's settings), paste the text there, and save.
+6. Optional. Add your own district documents to the project.
+7. Start a conversation in the project and tell Archie your district number and your role.
+
+The Rotary documents are already inside the skill, so there is nothing else to upload.
+
+### If the skill will not load for you
+
+Use this if your plan will not take the skill, or your install failed. The Project has to carry everything itself, including the Rotary documents. It needs ChatGPT Go, Plus, or a higher plan: Archie has eight documents, and OpenAI allows five files in a Free project (25 on Go and Plus). On ChatGPT Free, use Claude's free plan instead; see [Install on Claude](/rotary-archie/get/claude/). This is also what to use now that the public Archie GPT is ending (it stops working on December 11, 2026).
+
+1. In ChatGPT, find the **Projects** heading in the left sidebar.
+2. Click the **+** next to that heading to create a project, and give it a name.
+3. Upload the eight Rotary International governing documents from the `knowledge-base` folder inside `rotary-archie.zip` (unzip a copy for this; keep the original zipped for installing):
+   - `1_2025_Lead_Your_District_-_GOV_MANUAL.md`
+   - `2_2025_District_Planning_Guide.md`
+   - `3_2025_Manual_of_Procedure.md`
+   - `4_2026_Code_of_Policies.md`
+   - `5_Rotary_International_Bylaws.md`
+   - `6_Rotary_International_Constitution.md`
+   - `7_Rotary_Club_Constitution.md`
+   - `8_2026_Rotary_Foundation_Code_of_Policies.md`
+4. Open [the ChatGPT Project instructions (no skill)](https://github.com/Project-Archie/rotary-archie/blob/main/docs/instructions/chatgpt-project-no-skill.md) and copy the text between the two horizontal dividers.
+5. Open the project, find its instructions box (ChatGPT labels it Instructions in the project's settings), paste the text there, and save.
+6. Optional. Add your own district documents to the project alongside the eight.
+7. Start a conversation in the project and tell Archie your district number and your role.
+
+Use the no-skill instructions file for this path. It carries the behavior that the skill would otherwise supply, so the ordinary Claude or with-skill text would leave gaps.
+
+## Advanced: build your own Custom GPT
+
+Most people should skip this section. OpenAI ends Custom GPTs on December 11, 2026, so a GPT you build now stops working then, and so does the public Archie GPT. Use the skill, or the Project steps above, instead. These steps remain only for people who need a GPT until that date.
+
+1. Create a new Custom GPT in ChatGPT.
+2. Open [the Custom GPT instructions](https://github.com/Project-Archie/rotary-archie/blob/main/docs/instructions/custom-gpt.md) and paste its system message into the GPT's instructions field.
+3. Upload the same eight governing documents listed above as the GPT's Knowledge.
+4. Turn **Code Interpreter** on.
+5. Turn **Web Browsing** on.
+6. Leave **Actions** empty. Archie does not use them.
+7. Turn image generation off.
+
+## Test it
+
+Run through [Test your setup](/rotary-archie/get/test/). It walks six questions past Archie and tells you what a good answer looks like for each one.
+
+A Project deserves one extra check that a plain skill install does not need, because memory is the whole reason you built it. Tell Archie something about yourself in one conversation, such as your district number. Then wait until the next day, open a brand new conversation inside the same Project, and ask a question that depends on knowing it, such as "Who is my Zone coordinator?" or "Remind me which district I serve." If Archie has to ask you again, the Project is not holding context, and the usual cause is that the conversation was started outside the Project rather than inside it.

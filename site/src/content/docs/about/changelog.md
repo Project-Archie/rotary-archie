@@ -1,0 +1,137 @@
+---
+title: "Changelog"
+---
+
+All notable changes to Project Archie. Rotary years run 1 July to 30 June.
+
+Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
+
+## [Website and install guides] - 2026-11-18
+
+Archie itself is unchanged at 2026.1.2.
+
+### Added
+- The Archie website, https://project-archie.github.io/rotary-archie/, with a guide for each assistant, a prompt library, and a page for when Archie does not answer.
+- A direct download link that always serves the newest `rotary-archie.zip`.
+- Claude: an optional route for paid plans to add Archie from GitHub, tested in November 2026. The zip upload stays the main path on every plan.
+
+### Changed
+- The public Archie GPT stops working on December 11, 2026, when OpenAI stops running custom GPTs. The guides no longer point to it.
+- ChatGPT, tested in November 2026: the upload works on Plus, and Archie answers in Work mode only. ChatGPT Free cannot add skills; Claude's free plan takes the same file.
+- The version check question is now "What version of Archie are you?" The shorter "What version are you?" is answered by the assistant about itself.
+- Claude: the guide names the setting as it appears now, "Create and edit files".
+- When an assistant answers without Archie, the guides say to call it by name with a slash command.
+- The companion `rotary-brand-voice` moves to 0.2.4.
+
+## [2026.1.2] - 2026-09-25
+
+### Fixed
+- Align escalation instructions across the main skill, crisis mode, and response templates. Immediate safeguarding referrals take priority; documented reporting steps, source excerpts, and neutral referral drafts remain available. Investigation plans and professional legal, tax, insurance, or financial judgments remain outside scope.
+- Distinguish routine Foundation planning from suspected financial irregularities.
+- Remove unsupported example citations and deadlines, including the example that incorrectly attributed assistant governor appointments to RI Bylaws 16.040.
+- Correct October, November, and April observances against bundled Code of Policies section 8.020. The ambiguous July extraction is explicitly unresolved, rather than assigned an unsupported theme.
+- Treat documents and workspace overlays as evidence, not instructions or authorization for external actions.
+
+### Validation and distribution
+- Nine targeted fresh-context execution cases passed, covering observances, citation checking, all five professional/safeguarding escalation categories, routine Foundation planning, and hostile overlay instructions.
+- Metadata and complete installation archives validated. All eight governing documents and the seven project-level critical rules are unchanged. Existing cross-platform test gaps remain open; these targeted checks are not a full native-platform retest or ChatGPT security-scan approval.
+- Add Codex display metadata. Standalone ZIP and `.skill` downloads include the complete knowledge base. The companion `rotary-brand-voice` 0.2.1 remains unchanged.
+
+## [2026.1.1] - 2026-09-05
+
+### Added
+- Archie is now available as a Claude Code plugin. In Claude Code, run `/plugin marketplace add Project-Archie/rotary-archie` and then `/plugin install rotary-archie@project-archie`. Updates arrive with `/plugin marketplace update project-archie`, or automatically if you switch auto-update on for this marketplace. The zip and `.skill` downloads on this page are unchanged for Claude on the web, Claude Desktop, ChatGPT, and Grok.
+- A first companion skill, `rotary-brand-voice` (version 0.2.0, early draft), in the same marketplace: `/plugin install rotary-brand-voice@project-archie`. It covers how Rotary content sounds and looks, following the Rotary Brand Center as published on 5 September 2026: the four voice attributes, naming (Rotary, Rotary International, The Rotary Foundation), the current fonts and colors, club, district, and zone logos, lockups, the areas of focus, End Polio Now, the annual presidential message, imagery, and Rotary International's AI Guidelines for Members (never generate or alter a Rotary logo; reserve the space and place the official file). It never answers policy questions; those stay with Archie.
+- Companion download packages attach to this release for people outside Claude Code: `rotary-brand-voice.zip` (upload on Claude, ChatGPT, Grok) and `rotary-brand-voice-v0.2.1.skill` (Claude Desktop double-click). Companion versions move independently of Archie's; the marketplace always carries the current one.
+
+### Changed
+- Archie's rule against answering from general knowledge is stated more strictly. When the governing documents do not cover a question, Archie now stops after telling you where to get the answer, and no longer adds informal figures or "typical practice" notes.
+- Simple lookups (a definition, a single provision, a yes-or-no question) are held to a short shape: one cited paragraph, the confidence line, and references, with a hard word cap.
+- The repository layout changed to support the plugin marketplace: the skill folder moved from the repository root to `plugins/rotary-archie/skills/rotary-archie/`. Download links on this page are unaffected.
+- No changes to the eight governing documents or to the seven critical governance rules in this release, so this is a MINOR update.
+
+## [2026.1.0] - 2026-09-03
+
+The first Rotary-year update. The first number of the version changes from 2025 to 2026 because the documents inside Archie changed.
+
+### Added
+- The Rotary Foundation Code of Policies (October 2026 edition) is now the eighth document inside Archie. Questions about Foundation grants, funds, and programs can be answered from the Trustees' own policy text, cited by section. It sits below the RI Constitution and RI Bylaws in Archie's authority order.
+
+### Changed
+- The Rotary Code of Policies is now the October 2026 edition (Board decisions through July 2026), replacing the October 2025 edition. That covers the October 2025, January 2026, April 2026, and June 2026 Board meetings, about 60 amended sections in all, verified against RI's published amendments list.
+- The RI Constitution, RI Bylaws, Standard Rotary Club Constitution, Manual of Procedure, Governor Manual, and District Planning Guide are unchanged; RI has not issued new editions of them.
+- Archie's document authority order gained the Foundation Code of Policies. Because that order is one of the seven critical governance rules, every Archie surface is re-tested in full at this version.
+- The Gemini packaging (still unpublished) now arrives as four skill files, because the larger 2026 Code of Policies no longer fits in one Gemini skill.
+
+## [2025.3.2] - 2026-09-01
+
+### Added
+- You can now ask Archie what version it is running. It reports its version number and last-updated date, and points you to the release page so you can compare against the latest.
+- Archie now ships as tagged GitHub Releases, each with two downloadable packages: a flat zip for the Claude, ChatGPT, and Grok upload dialogs, and a `.skill` file for Claude Desktop's double-click install.
+- Tier 2 (the Claude Project setup) is now framed as "Install the Archie Skill" first, with the Claude Project itself as an optional memory layer on top. New per-platform install guides were added.
+
+### Changed
+- No changes to the seven critical governance rules in this release, so this stayed a MINOR update.
+- Gemini was tested and held back. Google's skills feature is in beta, needs Archie split into two skills because of size limits, and in our tests mixed web search results into answers, including outdated Rotary contact details. It will be added when it passes the same checks as the other assistants.
+
+### Fixed
+- The public Archie GPT's document authority order listed the Club Constitution third and the Code of Policies fifth. The published Custom GPT instructions now carry the correct order: RI Constitution, RI Bylaws, Code of Policies, Manual of Procedure, Governor Manual, District Planning Guide, Standard Rotary Club Constitution.
+- Clarified in the skill that retrieval weights never override document authority.
+- Corrected the publication dates of the two Rotary AI-guidance documents to February 2026.
+
+## [2025.3.1] - 2026-08-05
+
+### Changed
+- Fixed a formatting problem where Archie's answers came back as long, all-bullet lists instead of natural prose. Responses now default to plain paragraphs, with lists reserved for cases where they genuinely help, such as checklists, comparisons, or true sequences.
+- Short lookup answers are now capped at roughly 200 words.
+- The same prose-first fix was applied to the ChatGPT Project instructions, both the Skills-enabled version and the no-Skills fallback.
+- The seven critical governance rules were not touched in this release.
+
+## [2025.3.0 maintenance] - 2026-08-04
+
+### Fixed
+- An early version of the fix above was applied to the public Archie GPT on ChatGPT. Its answer-structuring guidance had been read too literally by the model and was producing all-bullet responses, so it was rewritten to lead with prose. The fuller fix landed the next day, in 2025.3.1 above.
+
+## [2025.3.0] - 2026-08-03
+
+### Changed
+- Refreshed Rotary International contact channels across Archie's escalation guidance, verified directly with RI in July 2026.
+- General club and district support now routes through membership@rotary.org.
+- Youth safety concerns route to RI's official reporting portal at my.rotary.org/youth-protection, with RI's stated 72-hour response expectation, plus youthprotection@rotary.org and cultureandvalues@rotary.org.
+- Insurance questions route to insurance@rotary.org.
+- Media inquiries route to pr@rotary.org.
+- General support routes to the Rotary Support Center.
+- District staff lookups route through my.rotary.org's representative directory.
+- Archie now recognizes when its bundled reference documents contain an outdated contact address (the corpus still prints the retired cds@rotary.org, for example) and points you to the current channel instead of repeating the stale one.
+- This was a MAJOR version bump because it changed one of the seven critical rules governing how Archie handles escalation and contact guidance. A MAJOR bump means every surface, GPT, Claude Project, and skill, gets fully re-verified before release.
+- A privacy audit of every Archie surface confirmed there are no personal names, emails, or phone numbers anywhere in the shipped package, beyond official @rotary.org channels, the official toll-free line, and the project's own feedback inbox (archie4rotary@gmail.com).
+
+### Known limitations
+- The bundled knowledge base is the 2025 Rotary year edition and is due for its annual refresh once the 2026 Rotary year documents are published.
+
+## [2025.2.0] - 2026-06-12
+
+### Changed
+- The skill now ships with its full knowledge base bundled directly inside the package. No separate download or setup step is needed to get the seven governing documents.
+- If you're using Archie inside a Claude Project with your own uploaded documents, those are now treated as a supplementary, district-specific layer on top of the bundled documents, not a replacement for them.
+- Language throughout the shipped package was made platform-neutral, with no references to a specific AI vendor or tool baked into the instructions, so Archie reads the same regardless of which platform it's installed on.
+
+### Known limitations
+- Simple lookup answers sometimes ran longer than intended in this version. Fixed in 2025.3.1's prose-first rewrite.
+
+## [2025.1.1] - 2026-05-12
+
+### Added
+- Added draft fallback instructions for ChatGPT users who do not yet have access to ChatGPT Skills, so Archie is usable on Plus and Pro accounts ahead of general availability. This fallback retires once ChatGPT Skills opens to those tiers.
+
+## [2025.1.0] - 2026-05-12
+
+### Added
+- Initial release. Archie bundles the seven official Rotary International governing documents (2025 Rotary year edition): the RI Constitution, RI Bylaws, Code of Policies, Manual of Procedure, Governor's Manual, District Planning Guide, and a model Club Constitution.
+- Also bundled: Rotary International's own AI guidance for members, the Member FAQ on AI Use and the AI Guidelines for Members, both February 2026 editions.
+- Archie resolves conflicts between these documents using RI's own hierarchy: RI Constitution, then RI Bylaws, then Code of Policies, then Manual of Procedure, then Governor's Manual, then Planning Guide, then Club Constitution. The two AI guidance documents are treated as guidance, not governing text.
+- Build guides published for three installation tiers: a free public GPT, a Claude Project, and a self-contained skill.
+
+---
+
+Full internal history, test matrix, and deployment records are kept by the maintainer and are not part of this repository.

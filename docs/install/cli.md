@@ -27,7 +27,7 @@ To get a newer version later, run `/plugin marketplace update project-archie` an
 
 There is a second plugin in the same marketplace, `rotary-brand-voice`, which helps with Rotary writing and design rather than policy. Install it the same way if you want it: `/plugin install rotary-brand-voice@project-archie`. It is optional. Archie works on its own.
 
-The version check further down this page still applies. Ask "What version are you?" after you restart.
+The version check further down this page still applies. Ask "What version of Archie are you?" after you restart.
 
 ## The one command
 
@@ -64,12 +64,12 @@ Start a new session and ask:
 
 You should get a short cited answer with a confidence marker. Then ask:
 
-> What version are you?
+> What version of Archie are you?
 
-Archie should answer **2026.1.0** or newer, with a date. If it does not name a version, the skill did not load. Confirm that the folder landed in the right directory for your agent, and that you restarted the agent after installing.
+Archie should answer with a version number and a date. Compare it with the version on the Archie website home page (https://project-archie.github.io/rotary-archie/). If it does not name a version, the skill did not load. Confirm that the folder landed in the right directory for your agent, and that you restarted the agent after installing.
 
 ## How updates arrive
 
 If you installed the plugin in Claude Code, run `/plugin marketplace update project-archie`, then restart Claude Code. That is the whole update.
 
-Everyone else: run `npx skills add Project-Archie/rotary-archie` again and let it overwrite the old copy. If you cloned the repository instead, run `git pull` in it. Either way, restart your agent afterwards. Every release is listed at https://github.com/Project-Archie/rotary-archie/releases/latest, and your Zone coordinator announces new versions when Rotary International publishes revised governing documents each July.
+Everyone else: run `npx skills add Project-Archie/rotary-archie` again and let it overwrite the old copy. If you cloned the repository instead, run `git pull` in it. Either way, restart your agent afterwards. Every release is listed at https://github.com/Project-Archie/rotary-archie/releases, and your Zone coordinator announces each new version.

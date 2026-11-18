@@ -1,6 +1,6 @@
 # Optional: give Archie memory with a Project
 
-Everything on this page is optional. If you have installed the skill and Archie is answering your questions well, you can stop here and come back another day.
+The memory steps on this page are optional. The one exception is the section "If the skill will not load for you", which is the route for anyone whose skill will not install. If you have installed the skill and Archie is answering your questions well, you can stop here and come back another day.
 
 ## Why you might want one
 
@@ -10,7 +10,7 @@ A Project is a workspace that holds a set of instructions and remembers what you
 
 A Project is also where your own documents live. District standing rules, your operating policies, a committee roster, last year's budget. Archie reads them alongside the Rotary International documents and can cite both in the same answer. Rotary policy still governs unless a lawful local rule applies.
 
-Setting up a Project takes about 15 minutes. A Project with your own district documents in it is also where Tier 3 begins, so if you go on to build something for your whole district, this is the first step of it. See tier-3-customize.md.
+Setting up a Project takes about 15 minutes. A Project with your own district documents in it is also the first step toward a setup for your whole district. See tier-3-customize.md.
 
 ## Claude
 
@@ -26,9 +26,9 @@ You do not need to upload the eight Rotary International governing documents. Th
 
 ## ChatGPT
 
-Which set of steps you follow depends on your plan. Both end in the same place.
+Which set of steps you follow depends on whether the skill loads for you. Both end in the same place.
 
-### If your workspace has skills (Business, Enterprise, Edu, Healthcare)
+### If the skill loads for you
 
 1. Install the skill first, following install/chatgpt.md.
 2. In ChatGPT, find the **Projects** heading in the left sidebar.
@@ -40,13 +40,13 @@ Which set of steps you follow depends on your plan. Both end in the same place.
 
 The Rotary documents are already inside the skill, so there is nothing else to upload.
 
-### If you are on Free, Plus, or Pro
+### If the skill will not load for you
 
-Your account cannot install skills, so the Project has to carry everything itself. That includes the Rotary documents.
+Use this if your plan will not take the skill, or your install failed. The Project has to carry everything itself, including the Rotary documents. It needs ChatGPT Go, Plus, or a higher plan: Archie has eight documents, and OpenAI allows five files in a Free project (25 on Go and Plus). On ChatGPT Free, use Claude's free plan instead; see install/claude.md. This is also what to use now that the public Archie GPT is ending (it stops working on December 11, 2026).
 
 1. In ChatGPT, find the **Projects** heading in the left sidebar.
 2. Click the **+** next to that heading to create a project, and give it a name.
-3. Upload the eight Rotary International governing documents from `plugins/rotary-archie/skills/rotary-archie/knowledge-base/`:
+3. Upload the eight Rotary International governing documents from the `knowledge-base` folder inside `rotary-archie.zip` (unzip a copy for this; keep the original zipped for installing):
    - `1_2025_Lead_Your_District_-_GOV_MANUAL.md`
    - `2_2025_District_Planning_Guide.md`
    - `3_2025_Manual_of_Procedure.md`
@@ -64,7 +64,7 @@ Use the no-skill instructions file for this path. It carries the behavior that t
 
 ## Advanced: build your own Custom GPT
 
-Most people should skip this section. A public Archie GPT already exists at https://bit.ly/project-archie, it is free to use, and it needs no setup. Build your own only if you want to hand a private, differently configured Archie to a specific group of people.
+Most people should skip this section. OpenAI ends Custom GPTs on December 11, 2026, so a GPT you build now stops working then, and so does the public Archie GPT. Use the skill, or the Project steps above, instead. These steps remain only for people who need a GPT until that date.
 
 1. Create a new Custom GPT in ChatGPT.
 2. Open `instructions/custom-gpt.md` and paste its system message into the GPT's instructions field.

@@ -1,0 +1,13 @@
+{
+  "version": "2026.1.2",
+  "lastUpdated": "2026-09-25",
+  "documents": 8,
+  "companions": [
+    {
+      "name": "rotary-brand-voice",
+      "displayName": "Rotary Brand Voice",
+      "description": "Rotary voice, naming, and visual identity for club, district, and zone communications.",
+      "version": "0.2.4"
+    }
+  ]
+}

@@ -4,6 +4,23 @@ All notable changes to Project Archie. Rotary years run 1 July to 30 June.
 
 Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
 
+## [Website and install guides] - 2026-11-18
+
+Archie itself is unchanged at 2026.1.2.
+
+### Added
+- The Archie website, https://project-archie.github.io/rotary-archie/, with a guide for each assistant, a prompt library, and a page for when Archie does not answer.
+- A direct download link that always serves the newest `rotary-archie.zip`.
+- Claude: an optional route for paid plans to add Archie from GitHub, tested in November 2026. The zip upload stays the main path on every plan.
+
+### Changed
+- The public Archie GPT stops working on December 11, 2026, when OpenAI stops running custom GPTs. The guides no longer point to it.
+- ChatGPT, tested in November 2026: the upload works on Plus, and Archie answers in Work mode only. ChatGPT Free cannot add skills; Claude's free plan takes the same file.
+- The version check question is now "What version of Archie are you?" The shorter "What version are you?" is answered by the assistant about itself.
+- Claude: the guide names the setting as it appears now, "Create and edit files".
+- When an assistant answers without Archie, the guides say to call it by name with a slash command.
+- The companion `rotary-brand-voice` moves to 0.2.4.
+
 ## [2026.1.2] - 2026-09-25
 
 ### Fixed

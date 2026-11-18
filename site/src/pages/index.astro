@@ -1,0 +1,373 @@
+---
+// Home page: "Archie is moving". Hand-built, outside the Starlight page chrome.
+// Design spec: the narrative home spec of 2026-11-17. Styles and the role-to-Rotary-token map: src/styles/landing.css.
+// Version, date and document count come from src/data/release.json, which scripts/stage_site.py writes at stage time.
+import '@fontsource/open-sans/400.css';
+import '@fontsource/open-sans/600.css';
+import '@fontsource/open-sans/800.css';
+import '../styles/landing.css';
+import { Image } from 'astro:assets';
+import archie from '../assets/archie.png';
+import release from '../data/release.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const u = (p: string) => `${base}/${p}`;
+const DOWNLOAD = 'https://github.com/Project-Archie/rotary-archie/releases/latest/download/rotary-archie.zip';
+const REPO = 'https://github.com/Project-Archie/rotary-archie';
+const updated = new Date(`${release.lastUpdated}T12:00:00Z`).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+// The one true comparison for the Spotlight count: 7 documents last Rotary year, 8 this year.
+const PRIOR_DOCUMENTS = 7;
+const counts = release.documents === PRIOR_DOCUMENTS + 1;
+const pageUrl = new URL(`${base}/`, Astro.site).href;
+const ogImage = new URL(`${base}/favicon.png`, Astro.site).href;
+const title = 'Archie for Rotary leaders';
+// Widened 2026-11-18 to match the umbrella headline (Jason: "accept all three").
+const description = 'Archie helps Rotary leaders plan the year, draft letters and check the rules, citing the governing documents. Add it to Claude, ChatGPT or Grok.';
+const pt = (id: string) => `<!-- ${id} -->`;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={pageUrl} />
+  <link rel="icon" href={u('favicon.png')} type="image/png" />
+  <meta name="theme-color" content="#17458f" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={pageUrl} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:image:alt" content="The Archie icon, a gold letter a on a blue circle" />
+  <meta name="twitter:card" content="summary" />
+  <script is:inline>document.documentElement.classList.add('motion');</script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <!-- Icon paths after Tabler Icons (MIT), 24px grid -->
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></symbol>
+    <symbol id="i-cal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="5" width="16" height="16" rx="2"/><path d="M16 3v4M8 3v4M4 11h16"/></symbol>
+    <symbol id="i-down" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v12M7 11l5 5 5-5M5 20h14"/></symbol>
+  </svg>
+
+  <header class="bar">
+    <div class="wrap">
+      <a class="brand" href={u('')}><Image src={archie} width={64} height={64} alt="" />Archie</a>
+      <nav aria-label="Site">
+        <a href="#helps">How it helps</a>
+        <a href="#proof">Example answer</a>
+        <a href={u('start-here/')}>Guides</a>
+      </nav>
+      <a class="btn go sq" href="#get">Get Archie</a>
+    </div>
+  </header>
+
+  <div class="stage">
+    <div class="wrap">
+      <div class="stage-copy">
+        <!-- Headline chosen by Jason 2026-11-18 ("Umbrella + more rows"): it names three of Archie's jobs; the lede carries the citation. -->
+        <h1 class="arrive"><span class="hl">Plan the year,</span> draft the letter, check the rule.</h1>
+        <p class="lede arrive">Archie works from Rotary's governing documents and names the section behind every answer.</p>
+        <!-- The version lives in the version check below; the hero keeps only the facts the action depends on (house websites guide, section 7). -->
+        <ul class="facts arrive" aria-label="At a glance">
+          <li><svg class="ico" aria-hidden="true"><use href="#i-check"/></svg>Archie is free</li>
+          <li><svg class="ico" aria-hidden="true"><use href="#i-check"/></svg>Works in Claude, ChatGPT and Grok</li>
+        </ul>
+        <div class="ctas arrive-2">
+          <a class="btn go big sq" href="#get">Get Archie</a>
+          <a class="btn ghost sq" href="#proof">See an example answer</a>
+        </div>
+      </div>
+      <!-- Hero visual: the citation itself, taken from the verified example answer below. A citation card, not a mock chat window. No link of its own: the ghost button beside it already says "See an example answer" (one label per intent). -->
+      <div class="ask sq" aria-label="A question and the section Archie cites">
+        <p class="q">Can a club exempt members from attendance under the Rule of 85?</p>
+        <div class="cite">
+          <p class="who"><Image src={archie} width={56} height={56} alt="" />Archie cites</p>
+          <b>Standard Rotary Club Constitution, Article 10, <span class="nowrap">Section 5(b)</span></b>
+          <span>Confidence: directly supported</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main id="main">
+    <div class="notice" role="note">
+      <div class="wrap"><div class="box sq">
+        <p class="when"><svg class="ico" aria-hidden="true"><use href="#i-cal"/></svg><b>The Archie GPT stops working on December 11, 2026.</b></p>
+        <p class="what">That is when OpenAI stops running custom GPTs. Archie is now one file you add to Claude, ChatGPT or Grok. Setup takes about five minutes. <a href="#get">Get Archie</a></p>
+      </div></div>
+    </div>
+
+    <section id="proof" aria-labelledby="h-proof">
+      <div class="wrap proof">
+      <div class="lead">
+        <div class="head">
+          <h2 id="h-proof">Every answer names the <span class="hl" data-sweep>document and section</span> it came from</h2>
+          <p>A club president asks about the Rule of 85, which lets a long-serving member be excused from attendance. This is the kind of answer Archie gives for a simple lookup: one short paragraph, a confidence line and references.</p>
+        </div>
+        <figure class="answer sq">
+          <figcaption><span class="tag sq">Example answer</span><span>Checked against the bundled Club Constitution</span></figcaption>
+          <p class="q sq">Can a club exempt members from attendance under the Rule of 85?</p>
+          <p class="who"><Image src={archie} width={56} height={56} alt="" />Archie</p>
+          <div class="body">
+            <p>Yes, when the member qualifies and asks. A member's absences are excused when their age plus years of membership in one or more clubs totals 85 or more, they have been a Rotarian for at least 20 years, and they have told the club secretary in writing that they want to be excused. Only these requirements are taken into consideration. If an excused member attends, the attendance still counts in the club's figures, and the club's bylaws may include attendance provisions that differ from this article (Club Constitution, Art. 10, Sec. 5(b), 6 and 7).</p>
+            <p><b>Confidence:</b> ✅ Directly supported: the Standard Rotary Club Constitution, Article 10, Sections 5(b), 6 and 7, state the requirements and their effect.</p>
+            <div>
+              <p><b>References:</b></p>
+              <ul class="refs">
+                <li>Standard Rotary Club Constitution (June 2025), Art. 10, Sec. 5(b), p. 6 (the three requirements; only these are considered)</li>
+                <li>Standard Rotary Club Constitution (June 2025), Art. 10, Sec. 6, p. 6 (an excused member who attends is counted)</li>
+                <li>Standard Rotary Club Constitution (June 2025), Art. 10, Sec. 7, p. 6 (club bylaws may differ from Article 10)</li>
+              </ul>
+            </div>
+          </div>
+        </figure>
+      </div>
+        <div class="side">
+          <div class="spot sq">
+            <span class="k">Governing documents Archie reads</span>
+            <span class="big num" aria-label={String(release.documents)}><span aria-hidden="true" data-count={counts ? String(PRIOR_DOCUMENTS) : undefined}>{release.documents}</span></span>
+            {counts && <span class="d">Up from {PRIOR_DOCUMENTS} last Rotary year, with The Rotary Foundation Code of Policies added.</span>}
+            <ul aria-label="The documents">
+              <li>Lead Your District, the governor's manual</li>
+              <li>District Planning Guide</li>
+              <li>Manual of Procedure</li>
+              <li>Rotary Code of Policies</li>
+              <li>Rotary International Bylaws</li>
+              <li>Rotary International Constitution</li>
+              <li>Standard Rotary Club Constitution</li>
+              <li>The Rotary Foundation Code of Policies</li>
+            </ul>
+          </div>
+          <div class="levels">
+            <h3>When the documents are silent, Archie says so</h3>
+            <dl>
+              <div><dt>✅ Directly supported</dt><dd>A provision answers the question, and Archie cites it.</dd></div>
+              <div><dt>⚠️ Inferred</dt><dd>Related provisions exist. Archie names what it read and suggests you verify.</dd></div>
+              <div><dt>❌ Not found</dt><dd>The documents do not cover it. Archie does not guess; it points you to the person who can answer.</dd></div>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="helps" aria-labelledby="h-helps">
+      <div class="wrap helps">
+      <div class="head">
+        <h2 id="h-helps">A planning partner, not an answer machine</h2>
+        <p>Leading people toward service is the real job. Archie carries the lookups and the first drafts, so more of your week goes to the people.</p>
+      </div>
+      <!-- Four groups (Jason, 2026-11-18). Requests and lines from skill/rotary-archie/references/capability-modes.md. -->
+      <ul class="groups">
+        <li class="group sq">
+          <h3>Plan the year</h3>
+          <ul class="asks"><li>Help me plan my year as district governor.</li><li>What should I cover in my club visit?</li></ul>
+          <p>Archie builds calendars, charts of who does what and timed agendas, with owners by role and dates set to the Rotary year.</p>
+        </li>
+        <li class="group sq">
+          <h3>Draft the letter</h3>
+          <ul class="asks"><li>Draft a letter to club presidents about the district conference.</li><li>A club president disagrees with the change. How do I approach it?</li></ul>
+          <p>Archie writes letters, messages and scripts ready to edit, and suggests wording for hard conversations, grounded in Rotary's Four-Way Test.</p>
+        </li>
+        <li class="group sq">
+          <h3>Check the rule</h3>
+          <ul class="asks"><li>Is this allowed under our club constitution?</li><li>Compare our club bylaws with the Standard Rotary Club Constitution.</li></ul>
+          <p>Archie answers from the governing documents, names the document and section, and compares long sections side by side in a table.</p>
+        </li>
+        <li class="group sq">
+          <h3>Know who to ask</h3>
+          <ul class="asks"><li>A member asked whether our raffle needs a license.</li></ul>
+          <p>Legal, tax, insurance and youth-safety questions, and any sign of a financial irregularity, go to the people who handle them. Archie does not guess at these; it tells you who to contact and can draft a neutral note to them.</p>
+        </li>
+      </ul>
+      </div>
+    </section>
+
+    <section id="get" aria-labelledby="h-get">
+      <div class="wrap get">
+      <div class="head center">
+        <h2 id="h-get">Which assistant do you use?</h2>
+        <p>Archie is a skill: a set of instructions your assistant keeps and uses when you ask about Rotary. It comes as one compressed file, <b class="file">rotary-archie.zip</b>, that you add to the assistant you already use. Pick yours for the steps. Setup takes about five minutes.</p>
+      </div>
+      <div class="picker">
+        <!-- UX review 2026-11-18: each panel follows its own choice in the source, so on a phone the steps open directly under the
+             tapped choice; from 720px a grid places the choices left and the open panel right. Radios plus :has(), so it works without JavaScript. -->
+        <fieldset class="choices">
+          <legend>Your assistant</legend>
+          <div class="pick">
+          <div class="choice"><input type="radio" name="assistant" id="c-claude" value="claude" checked aria-controls="p-claude" /><label for="c-claude" class="sq"><b>Claude</b><span>Every plan, including Free</span></label></div>
+          <section class="panel sq" id="p-claude" aria-labelledby="h-claude">
+            <div><h3 id="h-claude">Add Archie to Claude</h3><p class="plan">Works on every Claude plan, including Free.</p></div>
+            <ol>
+              <li><span>Download <b class="file">rotary-archie.zip</b>. Do not open or unzip it.</span></li>
+              <li><span>In Claude, open <b>Settings</b>, then <b>Capabilities</b>, and turn on <b>Create and edit files</b>.</span></li>
+              <li><span>Open <b>Customize</b>, then <b>Skills</b>. Choose <b>Add</b>, then <b>Upload skill</b>, and pick <span class="file">rotary-archie.zip</span>.</span></li>
+              <li><span>Start a new conversation and ask <q>What version of Archie are you?</q></span></li>
+            </ol>
+            <p class="aside">If Claude answers without Archie, type <b>/</b> in the message box and choose <b>rotary-archie</b>.</p>
+            <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Always the newest version.</small></div>
+            <p class="more"><a href={u('get/claude/')}>Full Claude guide</a></p>
+          </section>
+          <div class="choice"><input type="radio" name="assistant" id="c-chatgpt" value="chatgpt" aria-controls="p-chatgpt" /><label for="c-chatgpt" class="sq"><b>ChatGPT</b><span>Plus, in Work mode. Not on Free</span></label></div>
+          <section class="panel sq" id="p-chatgpt" aria-labelledby="h-chatgpt">
+            <div><h3 id="h-chatgpt">Add Archie to ChatGPT</h3><p class="plan">Tested on a Plus account in November 2026. Archie answers only in Work mode. ChatGPT Free cannot add skills.</p></div>
+            <ol>
+              <li><span>Download <b class="file">rotary-archie.zip</b>. Do not open or unzip it.</span></li>
+              <li><span>In ChatGPT, open <b>Plugins</b> and choose the <b>Skills</b> tab.</span></li>
+              <li><span>Choose <b>Add</b>, then <b>Upload from your computer</b>, and pick <span class="file">rotary-archie.zip</span>.</span></li>
+              <li><span>Start a new conversation, switch the toggle at the top from <b>Chat</b> to <b>Work</b>, and ask <q>What version of Archie are you?</q></span></li>
+            </ol>
+            <p class="aside">In Chat mode, ChatGPT does not use Archie and may answer from the web. To call Archie directly in Work mode, type <b>/</b> and choose <b>Rotary Archie</b> under Skills. On ChatGPT Free, choose ChatGPT Free above.</p>
+            <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Always the newest version.</small></div>
+            <p class="more"><a href={u('get/chatgpt/')}>Full ChatGPT guide</a></p>
+          </section>
+          <div class="choice"><input type="radio" name="assistant" id="c-work" value="work" aria-controls="p-work" /><label for="c-work" class="sq"><b>ChatGPT work account</b><span>Business, Enterprise, Edu or Healthcare</span></label></div>
+          <section class="panel sq" id="p-work" aria-labelledby="h-work">
+            <div><h3 id="h-work">Add Archie to a ChatGPT work account</h3><p class="plan">For Business, Enterprise, Edu and Healthcare workspaces.</p></div>
+            <ol>
+              <li><span>Download <b class="file">rotary-archie.zip</b>. Do not open or unzip it.</span></li>
+              <li><span>Check that your workspace name shows at the bottom left, so Archie goes into your work account.</span></li>
+              <li><span>Open <b>Plugins</b>, choose the <b>Skills</b> tab, then <b>Add</b>, then <b>Upload from your computer</b>, and pick <span class="file">rotary-archie.zip</span>.</span></li>
+              <li><span>Start a new conversation in <b>Work</b> mode (the toggle at the top) and ask <q>What version of Archie are you?</q></span></li>
+            </ol>
+            <p class="aside">If Skills is missing, your workspace administrator may have turned skills off.</p>
+            <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Always the newest version.</small></div>
+            <p class="more"><a href={u('get/chatgpt/')}>Full ChatGPT guide</a></p>
+          </section>
+          <div class="choice"><input type="radio" name="assistant" id="c-grok" value="grok" aria-controls="p-grok" /><label for="c-grok" class="sq"><b>Grok</b><span>SuperGrok or SuperGrok Heavy</span></label></div>
+          <section class="panel sq" id="p-grok" aria-labelledby="h-grok">
+            <div><h3 id="h-grok">Add Archie to Grok</h3><p class="plan">For SuperGrok and SuperGrok Heavy. The free tier cannot add skills.</p></div>
+            <ol>
+              <li><span>Download <b class="file">rotary-archie.zip</b>. Do not open or unzip it.</span></li>
+              <li><span>At grok.com, open <b>Plugins</b> in the left sidebar, then the <b>Skills</b> tab.</span></li>
+              <li><span>Choose <b>New Skill</b>, then <b>Upload skill file</b>, and drop <span class="file">rotary-archie.zip</span> on the box.</span></li>
+              <li><span>Start a new conversation and ask <q>What version of Archie are you?</q> Grok may first ask for your birth year.</span></li>
+            </ol>
+            <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Always the newest version.</small></div>
+            <p class="more"><a href={u('get/grok/')}>Full Grok guide</a></p>
+          </section>
+          <div class="choice"><input type="radio" name="assistant" id="c-help" value="help" aria-controls="p-help" /><label for="c-help" class="sq"><b>ChatGPT Free</b><span>Skills are not available there</span></label></div>
+          <section class="panel sq" id="p-help" aria-labelledby="h-help">
+            <div><h3 id="h-help">If you use ChatGPT Free</h3><p class="plan">ChatGPT Free cannot add skills. Claude's free plan takes the same file, so that is the way forward.</p></div>
+            <ol>
+              <li><span>Go to claude.ai and sign in. A free account works.</span></li>
+              <li><span>Download <b class="file">rotary-archie.zip</b>. Do not open or unzip it.</span></li>
+              <li><span>Choose <a href="#get" data-pick="c-claude">Claude</a> in the list above and follow its steps.</span></li>
+            </ol>
+            <p class="aside">A ChatGPT Project is not a route on Free: a Free project holds five files, and Archie needs eight documents. On Go, Plus or higher, a Project works.</p>
+            <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Do not open or unzip it.</small></div>
+            <p class="more"><a href={u('get/claude/')}>Full Claude guide</a><a href={u('get/no-assistant/')}>If Archie does not answer</a></p>
+          </section>
+          </div>
+        </fieldset>
+      </div>
+      </div>
+    </section>
+
+    <section id="version" aria-labelledby="h-version">
+      <div class="wrap version">
+        <p class="fig"><b class="num">{release.version}</b><span>The current version, updated {updated}</span></p>
+        <div class="copy">
+          <h2 id="h-version">Ask Archie its version to confirm it loaded</h2>
+          <p>In a new conversation, ask <q>What version of Archie are you?</q> Archie answers with its version and the date it was last updated. Compare them with the version here. If your assistant answers without Archie, call it by name: type <b>/</b> in the message box and choose Archie from the list. On ChatGPT Free, see <a href="#get" data-pick="c-help">ChatGPT Free</a> in the picker above.</p>
+          <p class="links"><a href={u('get/test/')}>Test your setup</a><a href={u('get/update/')}>How updates arrive</a></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <div>
+        <a class="brand" href={u('')}><Image src={archie} width={64} height={64} alt="" />Archie</a>
+        <p class="about">A community-built companion for Rotary district and club leaders.</p>
+      </div>
+      <div><h2>Get Archie</h2><ul>
+        <li><a href={u('start-here/')}>Start here</a></li>
+        <li><a href={u('get/claude/')}>Claude</a></li>
+        <li><a href={u('get/chatgpt/')}>ChatGPT</a></li>
+        <li><a href={u('get/grok/')}>Grok</a></li>
+        <li><a href={u('get/cli/')}>Command line</a></li>
+        <li><a href={u('get/no-assistant/')}>If Archie does not answer</a></li>
+        <li><a href={u('get/test/')}>Test your setup</a></li>
+        <li><a href={u('get/update/')}>Updates</a></li>
+      </ul></div>
+      <div><h2>Use Archie</h2><ul>
+        <li><a href={u('use/prompts/')}>Prompt library</a></li>
+        <li><a href={u('use/answers/')}>Reading an answer</a></li>
+        <li><a href={u('use/memory/')}>Give Archie memory</a></li>
+        <li><a href={u('customize/')}>Customize for your district</a></li>
+        <li><a href={u('companions/')}>Companions</a></li>
+      </ul></div>
+      <div><h2>About</h2><ul>
+        <li><a href={u('about/')}>About Archie</a></li>
+        <li><a href={u('about/changelog/')}>Changelog</a></li>
+        <li><a href={REPO}>Archie on GitHub</a></li>
+        <li><a href="mailto:archie4rotary@gmail.com">archie4rotary@gmail.com</a></li>
+      </ul></div>
+      <div class="legal">
+        <p>Archie is built on publicly available Rotary International documents and is not an official Rotary International product.</p>
+        <p>Archie's own text is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. The knowledge base documents are copyright Rotary International. Questions and ideas: <a href="mailto:archie4rotary@gmail.com">archie4rotary@gmail.com</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script is:inline>
+  (() => {
+    const root = document.documentElement;
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    // Picker (UX review 2026-11-18). Phone (under 720px): the steps open directly under the tapped choice, and the page starts
+    // with all five choices closed so the reader sees every option. From 720px: choices left, the open panel right, Claude open.
+    // After every pick the result is kept on screen: on a phone the tapped choice sits just under the bar; wider, the panel does.
+    const pick = document.querySelector('.pick');
+    const radios = pick ? [...pick.querySelectorAll('input[name=assistant]')] : [];
+    const narrow = matchMedia('(max-width: 719px)');
+    if (narrow.matches) radios.forEach((r) => { r.checked = false; });
+    narrow.addEventListener('change', (e) => { if (!e.matches && !radios.some((r) => r.checked)) radios[0].checked = true; });
+    const barBottom = () => document.querySelector('.bar').getBoundingClientRect().bottom;
+    const keepInView = (r, always) => {
+      const panel = document.getElementById(r.getAttribute('aria-controls'));
+      const target = narrow.matches ? r.closest('.choice') : panel;
+      const top = target.getBoundingClientRect().top, first = panel.querySelector('ol li');
+      const hidden = top < barBottom() + 8 || (first && first.getBoundingClientRect().bottom > innerHeight);
+      if (always || hidden) scrollBy(0, top - barBottom() - 12);
+    };
+    // click, not change: tapping the choice that is already open still brings its steps into view (arrow keys fire click too).
+    radios.forEach((r) => r.addEventListener('click', () => keepInView(r, false)));
+    // A link to a picker choice selects it and brings it into view; without JavaScript it still lands on the picker (#get).
+    document.querySelectorAll('a[data-pick]').forEach((a) => a.addEventListener('click', (e) => {
+      const r = document.getElementById(a.dataset.pick); if (!r) return;
+      e.preventDefault(); r.checked = true; keepInView(r, true); r.focus({ preventScroll: true });
+    }));
+    if (reduce || !('IntersectionObserver' in window)) return;
+    // Attention devices: once per load, at 60 percent in view, loudest only (spotlight over highlight).
+    const marks = [...document.querySelectorAll('.hl[data-sweep]')];
+    const counter = document.querySelector('[data-count]');
+    marks.forEach((m) => m.classList.add('wait'));
+    const runCount = (el) => {
+      const from = +el.dataset.count, to = +el.textContent, t0 = performance.now(), dur = 960;
+      const ease = (t) => (t < .5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2);
+      el.textContent = from;
+      const step = (now) => { const t = Math.min(1, (now - t0) / dur); el.textContent = Math.round(from + (to - from) * ease(t)); if (t < 1) requestAnimationFrame(step); };
+      requestAnimationFrame(step);
+    };
+    const io = new IntersectionObserver((entries) => {
+      const shown = entries.filter((e) => e.isIntersecting);
+      const spot = shown.find((e) => e.target === counter);
+      shown.forEach((e) => {
+        io.unobserve(e.target);
+        if (e.target === counter) { runCount(counter); return; }
+        if (spot) { e.target.classList.remove('wait'); return; }
+        e.target.classList.add('run');
+      });
+    }, { threshold: 0.6 });
+    marks.forEach((m) => io.observe(m));
+    if (counter) io.observe(counter);
+  })();
+  </script>
+</body>
+</html>

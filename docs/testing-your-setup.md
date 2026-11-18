@@ -45,6 +45,6 @@ Archie should give you one short paragraph with a citation and a confidence mark
 
 Finish with this one:
 
-> What version are you?
+> What version of Archie are you?
 
-Archie should answer **2026.1.0** or newer, with a date. An answer that names no version means the skill is not loaded at all, and the other six checks were being answered from general knowledge rather than from the Rotary documents.
+Archie should answer with a version number and a date. Compare it with the version on the Archie website home page (https://project-archie.github.io/rotary-archie/). An answer that names no version means the skill is not loaded at all, and the other six checks were being answered from general knowledge rather than from the Rotary documents.

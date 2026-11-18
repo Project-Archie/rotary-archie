@@ -16,11 +16,14 @@ description: >
   "what colors should we use." Do NOT use for Rotary policy or governance
   questions (RI Bylaws, Code of Policies, club constitution, grant rules,
   youth protection, district procedure), which belong to the rotary-archie
-  skill. Do NOT use for content unrelated to Rotary.
+  skill. Do NOT use for content unrelated to Rotary. Worksheets, handouts,
+  feedback forms and compilations, reports, memos, meeting notes, session specs,
+  and trackers follow the document standard (brand marks, document formatting,
+  plain voice), not the full marketing standard.
 metadata:
   status: draft
-  version: 0.2.1
-  last-updated: 2026-09-05
+  version: 0.2.4
+  last-updated: 2026-09-06
 ---
 # Rotary Brand Voice and Visual Identity
 
@@ -31,6 +34,37 @@ How Rotary content sounds and looks: voice, naming, color, typography, logos and
 ## Handoff contract with rotary-archie
 
 **rotary-archie decides what is policy correct. This skill decides how it sounds and looks.** Hand any policy question ("can our club do this," "what does RI require," "is this grant eligible") to rotary-archie if installed, or to the Rotary Support Center. Never answer policy here. When a piece needs both, settle policy first, then shape the copy.
+
+## Two standards: marketing material and documents
+
+Brand compliance in full is for material that carries Rotary's name to an audience. Everything else Rotary-produced is a document: it carries the brand marks but is formatted and written as a document.
+
+| Standard | What it covers | What applies |
+|---|---|---|
+| Marketing standard | Anything a member, club, prospect, sponsor, or the public will see as a finished piece: newsletters, social, flyers, posters, decks, websites, email blasts, speeches, press, event collateral, recognition text | Everything in this skill: voice attributes, naming, Brand Center colors and fonts, logos and lockups, presidential message, imagery, readability floors, call to action |
+| Document standard | Worksheets and handouts, workbooks, feedback forms and compilations, reports, planning memos, meeting notes, session specs, trackers, rosters, handoffs, and anything else that is a document first | Brand marks with document formatting: the club, district, or zone logo file top left, placed unaltered; headings in Open Sans bold (Arial if unavailable) in Rotary Royal Blue `#17458f`; one Rotary Gold `#f7a81b` rule under the title at most; body in Calibri or Arial 11 to 12pt in near-black; a plain one-line footer naming the program. Naming accuracy, the silent corrections, and no em dashes. Plain documentation voice. |
+
+On the document standard, do not: impose the four voice attributes, add a call to action, set body text in Georgia or Sentinel or any serif, push body type above 12pt, color body text, add a second accent color, run the marketing self-check, or reserve extra logo zones. Standard headings, tables, bullets, and fill lines are the layout. The zone's worked examples are the Partner Education Track handouts (P4 roadmap worksheet v0.3, P7 feedback form): lockup, blue Open Sans or Arial headings, gold rule, Arial body, gray footer. The Brand Center publishes no document template; Calibri body and the gold rule are this zone's house choice, so label them that way if asked.
+
+Deciding: is it a finished piece for an audience, or a document someone works from or reads for information? Piece means marketing standard. Document means document standard, whether it goes to a room of participants or three co-leads. Printed for a room of Rotarians, the 60+ readability floors still apply, because that is about the reader.
+
+### Casing pass, required before a document ships
+
+Run it on the whole document, quotes included. Verbatim quotes from members, survey responses, and transcripts get their casing normalized; that counts as a light spelling fix, not an edit to meaning.
+
+1. Acronyms in capitals: DG, DGE, DGN, PDG, AG, RI, IA, TRF, GELS, GNLS, PELS, DLA, RYLA, RLI, Q&A. Plural with a lowercase s and no apostrophe: PDGs, DGEs.
+2. Named things capitalized: sessions and tracks (Speaking with Confidence, Partner Education Track), events (International Assembly, Education Week), pages and tools (Home Base, ABC's of Rotary), and standing groups (Education Team, Past-Partner Panel when used as a name).
+3. Rotary naming per the table in `naming-and-trademarks.md`: Rotary, Rotary International, The Rotary Foundation, Rotaract, Interact.
+4. Headers, footers, and frontmatter get the same pass as the body. A footer that says "education team" while the body says "Education Team" fails.
+5. Rendered check: after building a Word or PDF file, extract its text and grep for the lowercase forms. Do not trust the source file alone.
+
+### Working alongside humanizer
+
+The humanizer skill often loads on the same task. The two agree on no em dashes and plain prose. Where they meet, this order holds:
+
+- Humanizer's rule against title case applies to headings only. It never lowercases a proper noun, an acronym, a session name, or a group name. The casing pass above wins.
+- On the document standard, humanizer runs in its own reference-text mode: no injected opinions, no first person, no added personality. Plain documentation voice is the correct human voice there.
+- Humanizer's ban on bold-header bullet lists stands. Use a table or a plain list.
 
 ## Reference files
 

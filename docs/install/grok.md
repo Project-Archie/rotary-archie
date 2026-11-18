@@ -27,18 +27,18 @@ Start a new conversation and ask:
 
 You should get a short answer in prose with a citation to a specific document and section, and a confidence marker (✅ Directly supported, ⚠️ Inferred, or ❌ Not found). Then ask:
 
-> What version are you?
+> What version of Archie are you?
 
-Archie should answer **2026.1.0** (or newer) with a date. If it does not name a version, the skill did not load; see Troubleshooting.
+Archie should answer with a version number and a date. Compare it with the version on the Archie website home page (https://project-archie.github.io/rotary-archie/). If it does not name a version, the skill did not load; see Troubleshooting.
 
 ## Troubleshooting
 
 **The upload was rejected.** Check that you still have a zip rather than a folder. If your Downloads folder holds a `rotary-archie` folder, your browser unzipped the file when it arrived. Download it again and do not open it. On a Mac, you can stop Safari from unzipping downloads by opening Safari's **Settings**, clicking **General**, and unticking **Open "safe" files after downloading**.
 
-**You cannot find Skills in the sidebar.** Skills are a paid feature. Check which plan your account is on, and look for SuperGrok or SuperGrok Heavy. If you are on the free tier, the option will not appear anywhere in the app. If you are on a paid plan and still cannot see it, sign out, sign back in, and look again, since the sidebar sometimes needs a reload after a subscription change.
+**You cannot find Plugins in the sidebar, or the Skills tab.** Skills are a paid feature. Check which plan your account is on, and look for SuperGrok or SuperGrok Heavy. If you are on the free tier, the option will not appear anywhere in the app. If you are on a paid plan and still cannot see it, sign out, sign back in, and look again, since the sidebar sometimes needs a reload after a subscription change.
 
 **Archie answers, but with no citations or confidence markers.** A skill loads when a conversation begins, so a chat you already had open will not pick it up. Start a brand new conversation and ask the test question again. If a fresh conversation still gives you plain answers, go back to **Skills** and confirm that `rotary-archie` is listed and switched on.
 
 ## How updates arrive
 
-New versions are posted at https://github.com/Project-Archie/rotary-archie/releases/latest. To update, download the new `rotary-archie.zip` and upload it the same way you did here, replacing the old one. Your Zone coordinator will also announce updates when Rotary International releases new governing documents each July. To be notified by GitHub, open that page, click **Watch**, choose **Custom**, and tick **Releases**.
+New versions are posted at https://github.com/Project-Archie/rotary-archie/releases/latest. To update, download the new `rotary-archie.zip` and upload it the same way you did here, replacing the old one. Your Zone coordinator will also announce updates when a new version is released. To be notified by GitHub, open that page, click **Watch**, choose **Custom**, and tick **Releases**.

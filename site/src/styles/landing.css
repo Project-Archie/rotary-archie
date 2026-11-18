@@ -1,0 +1,367 @@
+/* Archie home page ("Archie is moving").
+   Base layer: the house style (Calm spec v0.3.0, websites guide, sample-landing.html): anatomy, attention levels,
+   texture devices (blueprint dots and big numbers), spacing, squircle corners, motion and checks.
+   Brand layer: the Rotary design system (colors_and_type.css, tokens.json). Every color below is one of the
+   26 published Rotary colors or a Rotary design system neutral, used pure: never tinted, screened or mixed.
+
+   Role mapping, house-style role to Rotary token:
+   role                 light                         dark                          why
+   --canvas             white          #ffffff        black          #000000        quiet sections, the 60
+   --surface            white          #ffffff        black          #000000        cards carry a ring, not a new color
+   --sunken             cloud          #d6d1ca        charcoal       #54565a        question bubble, example prompts
+   --text-strong        royal blue     #17458f        white          #ffffff        headings (Rotary headline color)
+   --text               charcoal       #54565a        silver         #d0cfcd        body
+   --border             silver         #d0cfcd        charcoal       #54565a        rules between rows
+   --border-strong      pewter         #898a8d        pewter         #898a8d        control edges (3:1)
+   --structure          royal blue     #17458f        royal blue     #17458f        nav and footer bands, the 30
+   --on-structure       white          #ffffff        white          #ffffff
+   --stage              royal blue     #17458f        royal blue     #17458f        the hero (Stage)
+   --stage-raised       royal blue     #17458f        royal blue     #17458f        the Spotlight card (sits on canvas)
+   --stage-dot          azure          #0067c8        azure          #0067c8        blueprint dots on royal blue
+   --on-stage           white          #ffffff        white          #ffffff        hero headline
+   --on-stage-2         powder blue    #b9d9eb        powder blue    #b9d9eb        lede, captions on royal blue
+   --stage-line         powder blue    #b9d9eb        powder blue    #b9d9eb        ghost button edge on the Stage
+   --stage-action       gold           #f7a81b        gold           #f7a81b        "Get Archie", the 10
+   --on-stage-action    royal blue     #17458f        royal blue     #17458f        text on gold (4.63:1)
+   --stage-figure       gold           #f7a81b        gold           #f7a81b        the Spotlight number (large text)
+   --accent             royal blue     #17458f        gold           #f7a81b        filled download button on canvas
+   --on-accent          white          #ffffff        black          #000000
+   --accent-text        azure          #0067c8        sky blue       #00a2e0        links
+   --mark               gold           #f7a81b        gold           #f7a81b        Highlight, drawn as a rule under the phrase, never behind text
+   --note               powder blue    #b9d9eb        charcoal       #54565a        Note ground
+   --on-note            royal blue     #17458f        white          #ffffff        Note words
+   Gold never carries small text on white; it is a ground (buttons, with royal blue text) or a rule.
+   Fonts: Open Sans (primary, headlines and navigation) at 400, 600, 800; Georgia (secondary) for Archie's own words. */
+
+:root {
+  --rotary-royal-blue: #17458f; --rotary-azure: #0067c8; --rotary-sky-blue: #00a2e0; --rotary-gold: #f7a81b;
+  --rotary-powder-blue: #b9d9eb; --rotary-charcoal: #54565a; --rotary-pewter: #898a8d; --rotary-silver: #d0cfcd;
+  --rotary-cloud: #d6d1ca; --white: #ffffff; --black: #000000;
+
+  --canvas: var(--white); --surface: var(--white); --sunken: var(--rotary-cloud);
+  --text-strong: var(--rotary-royal-blue); --text: var(--rotary-charcoal);
+  --border: var(--rotary-silver); --border-strong: var(--rotary-pewter);
+  --structure: var(--rotary-royal-blue); --on-structure: var(--white);
+  --stage: var(--rotary-royal-blue); --stage-raised: var(--rotary-royal-blue); --stage-dot: var(--rotary-azure);
+  --on-stage: var(--white); --on-stage-2: var(--rotary-powder-blue); --stage-line: var(--rotary-powder-blue);
+  --stage-action: var(--rotary-gold); --on-stage-action: var(--rotary-royal-blue); --stage-figure: var(--rotary-gold);
+  --accent: var(--rotary-royal-blue); --on-accent: var(--white); --accent-text: var(--rotary-azure);
+  --mark: var(--rotary-gold); --note: var(--rotary-powder-blue); --on-note: var(--rotary-royal-blue);
+  --ring: inset 0 0 0 1px var(--border);
+  --card: 0 0 0 1px var(--rotary-silver), 0 12px 28px -14px rgb(23 69 143 / .28);
+
+  --font: "Open Sans", Arial, "Helvetica Neue", sans-serif;
+  --serif: Georgia, "Times New Roman", serif;
+  --radius-lg: 14px; --radius-md: 10px; --radius-sm: 8px;
+  --ease-standard: cubic-bezier(.4, 0, .2, 1);
+  --dur-press: 320ms; --dur-hover: 300ms; --dur-band: 320ms; --dur-enter-authored: 560ms; --gap-step: 160ms;
+  --dur-mark: 480ms; --dur-count: 960ms; --dur-fade-rm: 160ms;
+  --wrap: 1180px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --canvas: var(--black); --surface: var(--black); --sunken: var(--rotary-charcoal);
+    --text-strong: var(--white); --text: var(--rotary-silver);
+    --border: var(--rotary-charcoal);
+    --accent: var(--rotary-gold); --on-accent: var(--black); --accent-text: var(--rotary-sky-blue);
+    --note: var(--rotary-charcoal); --on-note: var(--white);
+    --card: 0 0 0 1px var(--rotary-charcoal);
+    color-scheme: dark;
+  }
+}
+@supports (corner-shape: squircle) {
+  :root { --radius-lg: 22px; --radius-md: 16px; --radius-sm: 12px; }
+  .sq { corner-shape: squircle; }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; overflow-x: clip; scroll-padding-top: 64px; scroll-behavior: auto; }
+body { margin: 0; overflow-x: clip; background: var(--canvas); color: var(--text); font: 400 1rem/1.55 var(--font); -webkit-font-smoothing: antialiased; caret-color: var(--accent-text); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--structure); }
+::selection { background: var(--rotary-royal-blue); color: var(--white); }
+:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 2px; }
+.bar :focus-visible, .stage :focus-visible, .spot :focus-visible, .foot :focus-visible { outline-color: var(--rotary-gold); }
+a { color: var(--accent-text); text-underline-offset: 2px; text-decoration-thickness: 1px; }
+h1, h2, h3, p, figure, ol, ul, dl, dd, blockquote { margin: 0; }
+h1, h2, h3 { text-wrap: balance; font-weight: 800; color: var(--text-strong); }
+p, li { text-wrap: pretty; }
+.wrap { width: 100%; max-width: var(--wrap); margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.num { font-variant-numeric: tabular-nums; }
+.ico { width: 20px; height: 20px; flex: none; }
+.nowrap { white-space: nowrap; }
+.skip { position: absolute; left: 16px; top: -100px; z-index: 20; background: var(--rotary-gold); color: var(--rotary-royal-blue); font-weight: 800; padding: 12px 16px; border-radius: var(--radius-md); text-decoration: none; }
+.skip:focus { top: 12px; }
+
+/* Buttons: rounded rectangles, never pills */
+.btn { -webkit-appearance: none; appearance: none; display: inline-flex; align-items: center; justify-content: center; gap: 8px; font: inherit; font-weight: 800; min-height: 44px; padding: 0 18px; border: 0; border-radius: var(--radius-md); text-decoration: none; cursor: pointer; white-space: nowrap; transition: transform var(--dur-press) var(--ease-standard), background-color var(--dur-hover) var(--ease-standard); }
+.btn:active { transform: scale(.97); }
+.btn.go { background: var(--stage-action); color: var(--on-stage-action); }
+.btn.go.big { min-height: 52px; padding: 0 24px; font-size: 1.0625rem; }
+.btn.ghost { background: transparent; color: var(--on-stage); box-shadow: inset 0 0 0 1.5px var(--stage-line); min-height: 52px; font-weight: 600; }
+.btn.fill { background: var(--accent); color: var(--on-accent); min-height: 48px; }
+
+/* Nav: the structure band */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--structure); color: var(--on-structure); }
+.bar .wrap { display: flex; align-items: center; gap: 12px; min-height: 64px; }
+.brand { color: var(--on-structure); text-decoration: none; font-weight: 800; font-size: 1.125rem; letter-spacing: -.01em; margin-right: auto; display: inline-flex; align-items: center; gap: 10px; min-height: 44px; }
+.brand img { width: 32px; height: 32px; border-radius: 50%; }
+.bar nav { display: flex; gap: 2px; }
+.bar nav a { color: var(--on-structure); text-decoration: none; font-size: 1rem; font-weight: 600; padding: 10px 12px; border-radius: var(--radius-sm); display: inline-flex; align-items: center; min-height: 44px; }
+
+/* The Stage: hero and the one authored moment */
+.stage { position: relative; isolation: isolate; overflow: hidden; background: var(--stage); color: var(--on-stage); }
+.stage::before { content: ""; position: absolute; inset: 0; z-index: -1; background-image: radial-gradient(var(--stage-dot) 1.2px, transparent 1.5px); background-size: 18px 18px; background-position: 9px 9px; }
+.stage .wrap { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 56px; align-items: center; padding-block: 88px 96px; }
+.stage-copy { display: grid; gap: 24px; justify-items: start; }
+/* Headline: three lines at most at 1440 (house guide, Display "two or three lines"); 4rem by 16ch fits the 7fr column */
+.stage h1 { padding-bottom: .14em; color: var(--on-stage); font-size: clamp(2.5rem, 4.5vw, 4rem); line-height: 1.05; letter-spacing: -.03em; max-width: 16ch; }
+.stage .lede { font-size: 1.25rem; line-height: 1.5; color: var(--on-stage-2); max-width: 44ch; }
+.facts { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 8px 24px; color: var(--on-stage); font-weight: 600; font-size: 1rem; }
+.facts li { display: inline-flex; align-items: center; gap: 8px; }
+.facts .ico { width: 18px; height: 18px; color: var(--rotary-gold); }
+.ctas { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 4px; }
+.hl { position: relative; white-space: nowrap; }
+.hl::after { content: ""; position: absolute; left: 0; right: 0; bottom: -.04em; height: .12em; background: var(--mark); border-radius: 2px; transform-origin: left center; }
+
+/* Hero visual: the citation itself, set as an index card (the question, then the section Archie cites).
+   Not a chat bubble: the proof section below shows the answer as it appears in the assistant. */
+.ask { background: var(--surface); color: var(--text); border-radius: var(--radius-lg); padding: 28px; display: grid; gap: 20px; box-shadow: 0 24px 48px -24px rgb(0 0 0 / .45); }
+.ask .q { color: var(--text-strong); font-weight: 600; font-size: 1.0625rem; line-height: 1.45; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
+.who { display: flex; align-items: center; gap: 10px; font-weight: 800; color: var(--text-strong); font-size: 1rem; }
+.who img { width: 28px; height: 28px; border-radius: 50%; }
+.cite { display: grid; gap: 8px; border-left: 3px solid var(--mark); padding: 2px 0 2px 16px; }
+.cite b { color: var(--text-strong); font-family: var(--serif); font-weight: 400; font-size: 1.5rem; line-height: 1.25; }
+.cite > span { font-size: .875rem; }
+
+/* Sections. Each section is full width and carries its own .wrap, so a section can take a ground of its own. */
+main { padding-block: 0 56px; }
+section { min-width: 0; padding-block: 56px; scroll-margin-top: 0; }
+section > .wrap { display: grid; gap: 32px; }
+.head { display: grid; gap: 12px; align-content: start; }
+.head h2 { font-size: 2.0625rem; line-height: 1.1; letter-spacing: -.025em; max-width: 24ch; }
+.head p { font-size: 1.0625rem; line-height: 1.5; max-width: 58ch; }
+/* The picker head is the page's one centered group: it asks the visitor a direct question above a two-column control */
+.head.center { justify-items: center; text-align: center; }
+.head.center h2 { max-width: none; }
+
+/* Moving notice: a Note, full container width. The statement takes the left column; the detail and the action take the right,
+   so the line length stays near 65 characters and the right side carries content instead of empty space. */
+.notice { padding-block: 40px 0; }
+.notice .box { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 12px 48px; align-items: center; background: var(--note); color: var(--on-note); border-radius: var(--radius-lg); padding: 28px 32px; }
+.notice .when { display: flex; gap: 14px; align-items: flex-start; font-size: 1.4375rem; line-height: 1.25; letter-spacing: -.015em; text-wrap: balance; }
+.notice .when b { font-weight: 800; }
+.notice .when .ico { width: 28px; height: 28px; margin-top: 1px; }
+.notice .what { font-size: 1.0625rem; line-height: 1.5; max-width: 58ch; }
+.notice .what a { color: inherit; font-weight: 800; white-space: nowrap; }
+
+/* Proof: the heading and the example answer on the left, the Spotlight beside the heading on the right */
+.proof { grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 32px; align-items: start; }
+.lead { display: grid; gap: 32px; min-width: 0; }
+.answer { background: var(--surface); box-shadow: var(--card); border-radius: var(--radius-lg); padding: 32px 36px; display: grid; gap: 18px; }
+.answer figcaption { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: .875rem; font-weight: 600; }
+.answer .tag { color: var(--text-strong); box-shadow: inset 0 0 0 1px var(--border-strong); border-radius: var(--radius-sm); padding: 4px 10px; }
+.answer .q { justify-self: end; max-width: 34ch; background: var(--sunken); color: var(--text-strong); border-radius: var(--radius-md); padding: 12px 14px; font-weight: 600; }
+.answer .body { display: grid; gap: 14px; font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; color: var(--text); }
+.answer .body b { font-family: var(--font); font-weight: 800; color: var(--text-strong); font-size: 1rem; }
+.answer .refs { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; font-size: 1rem; }
+.side { display: grid; gap: 32px; }
+.spot { position: relative; isolation: isolate; overflow: hidden; background: var(--stage-raised); color: var(--on-stage); border-radius: var(--radius-lg); padding: 32px; display: grid; gap: 8px; }
+.spot::before { content: ""; position: absolute; inset: 0; z-index: -1; background-image: radial-gradient(var(--stage-dot) 1.2px, transparent 1.5px); background-size: 18px 18px; }
+.spot .k { font-size: 1rem; font-weight: 600; color: var(--on-stage-2); }
+.spot .big { font-size: clamp(5rem, 9vw, 7.5rem); line-height: .9; font-weight: 800; letter-spacing: -.04em; color: var(--stage-figure); display: inline-block; min-width: 1ch; }
+.spot .d { color: var(--on-stage); max-width: 36ch; }
+.spot ul { list-style: none; padding: 16px 0 0; margin-top: 8px; border-top: 1px solid var(--stage-line); display: grid; gap: 6px; font-size: 1rem; color: var(--on-stage-2); }
+.levels { display: grid; gap: 0; }
+.levels h3 { font-size: 1.1875rem; letter-spacing: -.012em; margin-bottom: 8px; }
+.levels dl { display: grid; }
+.levels div { display: grid; gap: 2px; padding-block: 12px; }
+.levels div + div { border-top: 1px solid var(--border); }
+.levels dt { font-weight: 800; color: var(--text-strong); }
+
+/* How Archie helps: four groups in a 2 by 2 grid under a stacked heading (Jason, 2026-11-18). The first three echo the headline
+   (plan the year, draft the letter, check the rule); the fourth is the hand-off. UX review 2026-11-18: the fourth no longer sits
+   on the sunken ground. Cloud read as a disabled or unfinished tile in light, and in dark its Charcoal ran into the Charcoal
+   picker band right below it. Its heading and words already say it is the boundary, so all four cards share one treatment. */
+.helps { grid-template-columns: minmax(0, 1fr); }
+.groups { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.group { background: var(--surface); box-shadow: var(--card); border-radius: var(--radius-lg); padding: 32px; display: grid; gap: 16px; align-content: start; }
+.group h3 { font-size: 1.4375rem; line-height: 1.2; letter-spacing: -.015em; }
+.group .asks { list-style: none; margin: 0; padding: 0 0 0 16px; border-left: 3px solid var(--mark); display: grid; gap: 10px; }
+.group .asks li { font-family: var(--serif); font-size: 1.25rem; line-height: 1.35; color: var(--text-strong); max-width: 34ch; }
+.group p { max-width: 58ch; }
+
+/* Picker: radios with :has(); works without JavaScript and by keyboard. UX review 2026-11-18: each panel follows its choice in
+   the source. Under 720px it is an accordion: the steps open directly under the tapped choice. From 720px a grid puts the
+   choices in the left column and the open panel in the right, level with the first choice. */
+.picker { min-width: 0; }
+.choices { border: 0; margin: 0; padding: 0; min-width: 0; }
+.pick { display: grid; gap: 8px; }
+.pick .panel { margin-bottom: 16px; }
+.file { white-space: nowrap; }
+.choices legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.choice { position: relative; }
+.choice input { position: absolute; opacity: 0; width: 1px; height: 1px; margin: 0; }
+.choice label { display: grid; gap: 2px; min-height: 56px; align-content: center; padding: 12px 16px; border-radius: var(--radius-md); background: var(--surface); box-shadow: var(--card); cursor: pointer; transition: background-color var(--dur-hover) var(--ease-standard), transform var(--dur-press) var(--ease-standard); }
+.choice label b { color: var(--text-strong); font-weight: 800; font-size: 1.0625rem; }
+.choice label span { font-size: .875rem; }
+.choice label:active { transform: scale(.98); }
+.choice input:checked + label { background: var(--rotary-royal-blue); box-shadow: none; }
+.choice input:checked + label b { color: var(--white); }
+.choice input:checked + label span { color: var(--rotary-powder-blue); }
+.choice input:focus-visible + label { outline: 2px solid var(--accent-text); outline-offset: 2px; }
+/* Phone accordion affordance (UX review 2026-11-18): a chevron says the tile opens; it turns when its steps are open. */
+@media (max-width: 719px) {
+  .choice label { grid-template-columns: minmax(0, 1fr) 20px; column-gap: 12px; }
+  .choice label > * { grid-column: 1; }
+  .choice label::after { content: ""; grid-column: 2; grid-row: 1 / span 2; align-self: center; justify-self: center; width: 9px; height: 9px; margin-top: -5px; border: solid var(--text-strong); border-width: 0 2.5px 2.5px 0; transform: rotate(45deg); transition: transform var(--dur-press) var(--ease-standard); }
+  .choice input:checked + label::after { border-color: var(--white); margin-top: 5px; transform: rotate(-135deg); }
+}
+.panel { background: var(--surface); box-shadow: var(--card); border-radius: var(--radius-lg); padding: 28px; display: grid; gap: 20px; align-content: start; }
+.panel h3 { font-size: 1.4375rem; letter-spacing: -.015em; line-height: 1.2; }
+.panel .plan { margin-top: 4px; }
+.panel .plan, .panel ol li > span, .panel .aside { max-width: 58ch; }
+.panel ol { margin: 0; padding: 0; list-style: none; counter-reset: s; display: grid; gap: 14px; }
+.panel ol li { counter-increment: s; display: grid; grid-template-columns: 32px minmax(0, 1fr); gap: 12px; align-items: start; }
+.panel ol li::before { content: counter(s); width: 32px; height: 32px; display: grid; place-items: center; border-radius: var(--radius-sm); background: var(--sunken); color: var(--text-strong); font-weight: 800; font-size: .9375rem; }
+.panel b { color: var(--text-strong); font-weight: 700; }
+.dl { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
+.dl small { font-size: .875rem; }
+.panel .more { display: flex; flex-wrap: wrap; gap: 4px 20px; padding-top: 16px; border-top: 1px solid var(--border); }
+.panel .more a { font-weight: 600; display: inline-flex; align-items: center; min-height: 44px; }
+.pending { font-size: .875rem; font-weight: 600; color: var(--text-strong); white-space: nowrap; }
+.aside { font-size: 1rem; }
+@supports selector(:has(*)) {
+  .picker .panel { display: none; }
+  .picker:has(#c-claude:checked) #p-claude,
+  .picker:has(#c-chatgpt:checked) #p-chatgpt,
+  .picker:has(#c-work:checked) #p-work,
+  .picker:has(#c-grok:checked) #p-grok,
+  .picker:has(#c-help:checked) #p-help { display: grid; }
+  @media (min-width: 720px) {
+    .pick { grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); grid-template-rows: repeat(5, auto) 1fr; gap: 8px 24px; align-items: start; }
+    .pick .choice { grid-column: 1; }
+    .pick .panel { grid-column: 2; grid-row: 1 / -1; margin: 0; }
+  }
+}
+
+/* Action band (ground B, Jason 2026-11-18): the picker section sits on a full-width band, the page's one quiet band.
+   Light: Powder Blue, the same ground as the moving notice, so one color means "the move to the skill". Dark: Charcoal.
+   Both through --note and --on-note; cards and tiles stay on --surface. */
+#get { background: var(--note); padding-block: 88px; }
+#get .head h2, #get .head p { color: var(--on-note); }
+#version { padding-top: 88px; }
+
+/* Version check */
+.version { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 32px 56px; align-items: center; }
+.version .fig { display: grid; gap: 8px; }
+.version .fig b { font-size: clamp(3rem, 7vw, 5.5rem); line-height: 1; font-weight: 800; letter-spacing: -.035em; color: var(--text-strong); }
+.version .fig span { font-size: 1rem; }
+.version .copy { display: grid; gap: 14px; }
+.version .copy h2 { font-size: 1.4375rem; line-height: 1.2; letter-spacing: -.015em; }
+.version .copy p { max-width: 58ch; }
+.version .copy q { font-family: var(--serif); color: var(--text-strong); }
+.version .links { display: flex; flex-wrap: wrap; gap: 4px 20px; }
+.version .links a { font-weight: 600; display: inline-flex; align-items: center; min-height: 44px; }
+
+/* Footer: the structure band again */
+.foot { background: var(--structure); color: var(--on-structure); }
+.foot .wrap { display: grid; grid-template-columns: minmax(0, 2fr) repeat(3, minmax(0, 1fr)); gap: 32px; padding-block: 56px 40px; }
+.foot .brand { margin: 0; }
+.foot p, .foot li { color: var(--on-stage-2); font-size: 1rem; }
+.foot .about { margin-top: 8px; max-width: 34ch; }
+.foot h2 { color: var(--on-stage-2); font-size: .875rem; font-weight: 600; margin-bottom: 8px; }
+.foot ul { list-style: none; padding: 0; display: grid; }
+.foot a { color: var(--on-structure); text-decoration: none; display: inline-flex; align-items: center; min-height: 44px; }
+/* Legal lines: two columns at full width, each near 60 characters, instead of one 120-character line */
+.foot .legal { grid-column: 1 / -1; border-top: 1px solid var(--stage-line); padding-top: 20px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px 32px; }
+.foot .legal p { font-size: .875rem; max-width: 58ch; }
+.foot .legal a { min-height: 0; text-decoration: underline; display: inline; }
+
+@supports (corner-shape: squircle) { .btn, .ask, .answer, .answer .q, .answer .tag, .spot, .notice .box, .group, .choice label, .panel, .panel ol li::before, .skip { corner-shape: squircle; } }
+.choice label { scroll-margin-top: 76px; }
+
+@media (hover: hover) and (pointer: fine) {
+  .bar nav a:hover { background: var(--rotary-azure); }
+  .btn.go:hover { background: var(--white); }
+  .btn.ghost:hover { background: var(--rotary-azure); }
+  .choice input:not(:checked) + label:hover { box-shadow: 0 0 0 1.5px var(--border-strong); }
+  .foot a:hover { text-decoration: underline; }
+}
+
+/* One column under 960px (house websites guide). Every multi-column block is listed here. */
+@media (max-width: 960px) {
+  .bar nav { display: none; }
+  .stage .wrap, .proof, .version, .notice .box, .foot .legal, .groups { grid-template-columns: minmax(0, 1fr); }
+  .stage .wrap { padding-block: 40px 56px; gap: 40px; }
+  .foot .wrap { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .foot .wrap > div:first-child { grid-column: 1 / -1; }
+}
+/* Tablet, 640 to 960px (UX review 2026-11-18). One column made every block a full-width slab at 600 to 960. The hero stays one
+   column (the Display line needs the width); the blocks with two parts get two columns again at widths that hold them:
+   the four help cards from 640 (each card at least 300px), and from 720 the notice, the Spotlight beside the levels, the
+   version figure beside its copy, the picker (above) and the legal lines. The hero card and the answer hold a measure. */
+@media (min-width: 640px) and (max-width: 960px) {
+  .groups { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+  .group { padding: 24px; }
+  .ask { max-width: 34rem; }
+  .answer { max-width: 38rem; }
+}
+@media (min-width: 720px) and (max-width: 960px) {
+  .notice .box { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 12px 32px; }
+  .side { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; align-items: start; }
+  .version { grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); }
+  .foot .legal { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .stage .wrap { padding-block: 56px 72px; }
+}
+@media (max-width: 480px) {
+  #get { padding-block: 56px; scroll-margin-top: -32px; }
+  #get > .wrap { gap: 24px; }
+  .pick { gap: 6px; }
+  .choice label { padding-block: 10px; }
+  #version { padding-top: 56px; }
+  section { padding-block: 40px; }
+  main { padding-bottom: 40px; }
+  .notice { padding-top: 24px; }
+  .stage h1 { font-size: 2.5rem; }
+  .stage .lede { font-size: 1.0625rem; }
+  .head h2 { font-size: 1.75rem; }
+  .notice .when { font-size: 1.1875rem; }
+  .notice .box { padding: 20px; }
+  .cite b { font-size: 1.25rem; }
+  .answer, .spot, .panel, .ask { padding: 20px; }
+  .answer .body { font-size: 1.0625rem; }
+  .ctas .btn { flex: 1 1 auto; }
+  .group { padding: 20px; }
+  .group .asks li { font-size: 1.125rem; }
+  .foot .wrap { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Motion: the Stage arrival, the Highlight sweep and the Spotlight count, once per load, loudest only.
+   Only runs when the page script has marked <html class="motion">; with JavaScript off everything is at rest. */
+html.motion .stage::before { animation: band var(--dur-band) var(--ease-standard) both; }
+html.motion .arrive { animation: arrive var(--dur-enter-authored) var(--ease-standard) both; }
+html.motion .arrive-2 { animation: arrive-small var(--dur-enter-authored) var(--ease-standard) var(--gap-step) both; }
+html.motion .hl.wait::after { transform: scaleX(0); }
+html.motion .hl.run::after { transform: scaleX(1); transition: transform var(--dur-mark) var(--ease-standard); }
+@keyframes band { from { opacity: 0; } }
+@keyframes arrive { from { opacity: 0; transform: translateY(4px); filter: blur(4px); } }
+@keyframes arrive-small { from { opacity: 0; transform: translateY(4px) scale(.98); filter: blur(4px); } }
+@keyframes fade { from { opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0s !important; animation-iteration-count: 1 !important; }
+  html.motion .stage::before { animation: none; }
+  html.motion .arrive, html.motion .arrive-2 { animation: fade var(--dur-fade-rm) ease-out both; }
+  .btn:active, .choice label:active { transform: none; }
+}
+@media (prefers-contrast: more) {
+  .answer, .panel, .choice label { box-shadow: inset 0 0 0 1px var(--border-strong); }
+  .levels div + div { border-color: var(--border-strong); }
+  .group { box-shadow: inset 0 0 0 1px var(--border-strong); }
+}
+@media (forced-colors: active) {
+  .btn, .choice label, .panel, .answer, .ask, .group { border: 1px solid CanvasText; }
+  .stage::before, .spot::before { display: none; }
+  .choice input:checked + label { outline: 3px solid Highlight; }
+}

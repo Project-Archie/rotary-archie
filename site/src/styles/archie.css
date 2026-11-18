@@ -1,0 +1,17 @@
+:root {
+  --sl-font: 'Open Sans', Arial, sans-serif;
+  --sl-color-accent-low: #0e2e63;
+  --sl-color-accent: #4a7bd0;
+  --sl-color-accent-high: #c9d6ee;
+}
+:root[data-theme='light'] {
+  --sl-color-accent-low: #d6e0f2;
+  --sl-color-accent: #17458f;
+  --sl-color-accent-high: #0e2e63;
+}
+.hero h1 { border-bottom: 3px solid #f7a81b; padding-bottom: 0.25rem; }
+.archie-version {
+  display: inline-block; padding: 0.15rem 0.7rem; border-radius: 6px;
+  background: var(--sl-color-accent-low); color: var(--sl-color-accent-high); font-size: var(--sl-text-sm);
+}
+.archie-disclaimer { font-size: var(--sl-text-sm); color: var(--sl-color-gray-3); margin-top: 1.5rem; }
