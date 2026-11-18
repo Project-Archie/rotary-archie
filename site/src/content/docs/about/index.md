@@ -16,7 +16,7 @@ During Education Week it became clear that the broader district leadership team,
 
 ## A community project
 
-Archie is a community project and not an official Rotary International product. Rotary International has not formally endorsed or adopted it. It is built entirely on publicly available Rotary International documents and provides appropriate safeguards.
+Archie is a community project and not an official Rotary International product. Rotary International has not endorsed or adopted it. Archie answers from governing documents that Rotary International publishes on My Rotary, copied without changes to their wording. [Where Archie's documents come from](/rotary-archie/about/sources/) lists each one with its edition and a link to Rotary International's copy, and explains how the project checks for new editions.
 
 Those safeguards are built into Archie's programming. It does not provide legal, financial, or insurance advice. It directs users to RI staff or appropriate leadership channels when escalation is required. It reinforces compliance with official RI policy throughout. And it encourages verification through proper RI or district channels for sensitive matters. These guardrails make Archie a research and reference tool, not a decision-making authority.
 
@@ -56,7 +56,7 @@ Archie does not access your club database, make financial decisions, provide leg
 
 | Generic AI (ChatGPT, Claude, etc.) | Archie |
 | --- | --- |
-| General knowledge, may have outdated or inaccurate Rotary info | Grounded in current RI governing documents |
+| General knowledge, may have outdated or inaccurate Rotary info | Answers from named editions of RI governing documents, listed on the [sources page](/rotary-archie/about/sources/) and checked monthly for updates |
 | No citations or source references | Cites specific documents and sections (for example, RI Bylaws §9.030) |
 | Generic tone, no awareness of Rotary culture | Rotary-appropriate tone aligned with Service Above Self values |
 | Will attempt answers on any topic, including sensitive ones | Hard escalation boundaries on legal, financial, and youth safety matters |
@@ -64,7 +64,7 @@ Archie does not access your club database, make financial decisions, provide leg
 
 ## License
 
-Archie's own text is licensed CC BY 4.0. The Rotary International documents inside the knowledge base are copyright Rotary International and are not covered by that license. See the [LICENSE file](https://github.com/Project-Archie/rotary-archie/blob/main/LICENSE).
+Archie's own text is licensed CC BY 4.0, and the website code is under the MIT License. The Rotary International documents inside Archie belong to Rotary International and The Rotary Foundation. Neither license covers them. See the [LICENSE file](https://github.com/Project-Archie/rotary-archie/blob/main/LICENSE).
 
 ## Contact
 

@@ -1,19 +1,97 @@
 NOTICE
 
-Project Archie (https://github.com/Project-Archie/rotary-archie)
+Project Archie
+https://github.com/Project-Archie/rotary-archie
+Copyright 2026 Project Archie contributors. Contact: archie4rotary@gmail.com
 
-1. Everything in this repository EXCEPT the directory rotary-archie/knowledge-base/
-   is licensed under the Creative Commons Attribution 4.0 International License
-   (CC BY 4.0). Full text below. Attribution: "Project Archie, archie4rotary".
+Project Archie is a community project. It is not an official Rotary
+International product. Rotary International is not affiliated with it and
+has not endorsed it.
 
-2. The files in rotary-archie/knowledge-base/ are the governing documents of
-   Rotary International (Manual of Procedure, Code of Policies, RI Bylaws, RI
-   Constitution, Standard Rotary Club Constitution, Lead Your District: Governor
-   Manual, District Planning Guide) and Rotary International guidance on AI use.
-   They are copyright Rotary International, reproduced from publicly available
-   publications for reference, and converted to Markdown without changes to
-   their text. They are NOT covered by the CC BY 4.0 license above and are not
-   relicensed. Rotary International is not affiliated with Project Archie.
+This repository holds three kinds of material under three sets of terms.
+
+1. ARCHIE'S OWN TEXT: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+   Covers everything in this repository that sections 2 and 3 do not name.
+   That includes the skill instructions (SKILL.md and the references folder
+   in each skill), the guides in docs/ and site/src/content/, the images in
+   site/src/assets/ and site/public/, the README, CHANGELOG and CONTRIBUTING
+   files, and the index files Project Archie wrote inside the knowledge base
+   folder: MANIFEST.md, manifest.json, reference_index.json and
+   semantic_units.json.
+
+   You may copy, share and adapt this material, including to make a version
+   for your own district or club. You must give credit, link to the license,
+   and say whether you changed anything.
+
+   Credit line: "Project Archie, archie4rotary@gmail.com,
+   https://github.com/Project-Archie/rotary-archie"
+
+   The full license text is below, and at
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. WEBSITE CODE: MIT License
+
+   Covers the code that builds the Archie website: everything under site/
+   except site/src/content/, site/src/assets/ and site/public/, and the
+   files in .github/workflows/. The MIT License text is at the end of this
+   file.
+
+3. ROTARY INTERNATIONAL DOCUMENTS: not licensed by Project Archie
+
+   The files listed here are publications of Rotary International and The
+   Rotary Foundation. Project Archie did not write them, does not own them
+   and cannot license them. They are included so that Archie can cite them,
+   and they were converted to Markdown without changes to their wording.
+
+   All rights in these files remain with Rotary International and The Rotary
+   Foundation. Sections 1 and 2 do not apply to them. Nothing in this
+   repository grants or implies permission to copy, share or adapt them.
+   Rotary's Terms of Use are at https://my.rotary.org/en/terms-of-use
+
+   In plugins/rotary-archie/skills/rotary-archie/knowledge-base/, and in the
+   knowledge-base folder of the rotary-archie.zip and .skill release files:
+
+     1_2025_Lead_Your_District_-_GOV_MANUAL.md
+         Lead Your District: Governor (2020-21 edition)
+     2_2025_District_Planning_Guide.md
+         District Planning Guide (2025)
+     3_2025_Manual_of_Procedure.md
+         Manual of Procedure (2025)
+     4_2026_Code_of_Policies.md
+         Rotary Code of Policies, January 2027 edition
+     5_Rotary_International_Bylaws.md
+         Bylaws of Rotary International (June 2025)
+     6_Rotary_International_Constitution.md
+         Constitution of Rotary International (June 2025)
+     7_Rotary_Club_Constitution.md
+         Standard Rotary Club Constitution (June 2025)
+     8_2026_Rotary_Foundation_Code_of_Policies.md
+         The Rotary Foundation Code of Policies, January 2027 edition
+     reference/rotary-ai-guidelines-for-members.md
+         AI Guidelines for Members, February 2026
+     reference/rotary-member-faq-on-ai-use.md
+         Member FAQ on AI Use, February 2026
+
+   The rotary-brand-voice skill summarizes guidance published on the Rotary
+   Brand Center (brandcenter.rotary.org) and in places follows its wording
+   closely. That underlying guidance is Rotary International's.
+
+4. ROTARY NAMES AND MARKS
+
+   "Rotary", "Rotary International", "The Rotary Foundation", "Rotarian",
+   "People of Action" and the other Rotary Marks are trademarks of Rotary
+   International. No license in this file covers them. This repository
+   contains no Rotary logo files.
+
+5. NO WARRANTY
+
+   Archie is offered as is, with no warranty. It is a reference aid, not
+   legal, tax, insurance or financial advice. The disclaimers in the CC BY
+   4.0 license (Section 5) and in the MIT License apply.
+
+If you hold rights in anything in this repository and want it corrected or
+removed, write to archie4rotary@gmail.com.
 
 --------------------------------------------------------------------------------
 
@@ -413,3 +491,26 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+================================================================================
+
+MIT License (applies only to the website code named in section 2 of the NOTICE)
+
+Copyright (c) 2026 Project Archie contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

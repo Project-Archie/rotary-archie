@@ -3,7 +3,7 @@ title: "Where Archie's documents come from"
 description: The Rotary International documents inside Archie, where each one is published, and how Archie keeps up with new editions.
 ---
 
-Archie answers from eight governing documents that Rotary International (RI) publishes on My Rotary. The text inside Archie is RI's own wording, copied from RI's PDF files without paraphrasing. Each title below links to RI's copy, so you can read any document at its source.
+Archie answers from eight governing documents that Rotary International (RI) publishes on My Rotary. The text inside Archie is RI's own wording, copied from RI's PDF files without paraphrasing. Each title below links to RI's copy, so you can read any document at its source. The one exception is noted in the table.
 
 ## The documents
 
@@ -14,7 +14,7 @@ Archie answers from eight governing documents that Rotary International (RI) pub
 | [Rotary Code of Policies](https://my.rotary.org/en/document/rotary-code-policies) | January 2027 (Board decisions through October 2026) |
 | [The Rotary Foundation Code of Policies](https://my.rotary.org/en/document/rotary-foundation-code-policies) | January 2027 (Trustee decisions through October 2026) |
 | [Manual of Procedure](https://my.rotary.org/en/document/manual-procedure-035) | 2025 |
-| [Lead Your District: Governor](https://my.rotary.org/document/lead-your-district-governor) | 2020-21 |
+| Lead Your District: Governor | 2020-21 (the latest edition published; RI no longer posts this manual on My Rotary) |
 | [District Planning Guide](https://my.rotary.org/en/document/district-planning-guide) | 2025 |
 | [Standard Rotary Club Constitution](https://my.rotary.org/en/document/standard-rotary-club-constitution) | June 2025 |
 
@@ -28,7 +28,7 @@ RI revises these documents on different schedules.
 
 - The Constitution, the Bylaws, the Standard Rotary Club Constitution, and the Manual of Procedure change every three years, after the Council on Legislation. The Council last met in 2025 and meets next in 2028.
 - The Rotary Code of Policies is revised after each RI Board meeting, about four times a year. The Rotary Foundation Code of Policies is revised after each Trustees meeting.
-- Lead Your District: Governor and the District Planning Guide are training publications that RI updates on its own schedule.
+- The District Planning Guide is a training publication that RI updates on its own schedule. Lead Your District: Governor was too, but RI no longer posts it; governor training now runs through courses in the Rotary Learning Center. Archie keeps the last published edition for reference.
 
 ## How Archie keeps up
 
