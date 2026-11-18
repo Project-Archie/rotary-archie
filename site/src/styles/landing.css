@@ -57,6 +57,10 @@
   --dur-press: 320ms; --dur-hover: 300ms; --dur-band: 320ms; --dur-enter-authored: 560ms; --gap-step: 160ms;
   --dur-mark: 480ms; --dur-count: 960ms; --dur-fade-rm: 160ms;
   --wrap: 1180px;
+  /* Section rhythm (Jason, 2026-11-18: "the page is really really dense"). One scale for every break between sections, a step
+     above the house minimum (112 at 1440, 80 at 375) because each section here is long and card-heavy: 144 desktop, 120 tablet,
+     96 phone. White sections carry half each, so two meet at the full gap; the picker band carries its own inside padding. */
+  --gap-section: 144px; --pad-band: 112px;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -135,8 +139,8 @@ p, li { text-wrap: pretty; }
 .cite > span { font-size: .875rem; }
 
 /* Sections. Each section is full width and carries its own .wrap, so a section can take a ground of its own. */
-main { padding-block: 0 56px; }
-section { min-width: 0; padding-block: 56px; scroll-margin-top: 0; }
+main { padding-block: 0 calc(var(--gap-section) / 2); }
+section { min-width: 0; padding-block: calc(var(--gap-section) / 2); scroll-margin-top: 0; }
 section > .wrap { display: grid; gap: 32px; }
 .head { display: grid; gap: 12px; align-content: start; }
 .head h2 { font-size: 2.0625rem; line-height: 1.1; letter-spacing: -.025em; max-width: 24ch; }
@@ -147,7 +151,7 @@ section > .wrap { display: grid; gap: 32px; }
 
 /* Moving notice: a Note, full container width. The statement takes the left column; the detail and the action take the right,
    so the line length stays near 65 characters and the right side carries content instead of empty space. */
-.notice { padding-block: 40px 0; }
+.notice { padding-block: 48px calc(var(--gap-section) / 2); }
 .notice .box { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 12px 48px; align-items: center; background: var(--note); color: var(--on-note); border-radius: var(--radius-lg); padding: 28px 32px; }
 .notice .when { display: flex; gap: 14px; align-items: flex-start; font-size: 1.4375rem; line-height: 1.25; letter-spacing: -.015em; text-wrap: balance; }
 .notice .when b { font-weight: 800; }
@@ -248,9 +252,9 @@ section > .wrap { display: grid; gap: 32px; }
 /* Action band (ground B, Jason 2026-11-18): the picker section sits on a full-width band, the page's one quiet band.
    Light: Powder Blue, the same ground as the moving notice, so one color means "the move to the skill". Dark: Charcoal.
    Both through --note and --on-note; cards and tiles stay on --surface. */
-#get { background: var(--note); padding-block: 88px; }
+#get { background: var(--note); padding-block: var(--pad-band); }
 #get .head h2, #get .head p { color: var(--on-note); }
-#version { padding-top: 88px; }
+#version { padding-top: calc(var(--gap-section) / 2 + 24px); }
 
 /* Version check */
 .version { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 32px 56px; align-items: center; }
@@ -291,6 +295,7 @@ section > .wrap { display: grid; gap: 32px; }
 
 /* One column under 960px (house websites guide). Every multi-column block is listed here. */
 @media (max-width: 960px) {
+  :root { --gap-section: 120px; --pad-band: 96px; }
   .bar nav { display: none; }
   .stage .wrap, .proof, .version, .notice .box, .foot .legal, .groups { grid-template-columns: minmax(0, 1fr); }
   .stage .wrap { padding-block: 40px 56px; gap: 40px; }
@@ -315,13 +320,11 @@ section > .wrap { display: grid; gap: 32px; }
   .stage .wrap { padding-block: 56px 72px; }
 }
 @media (max-width: 480px) {
-  #get { padding-block: 56px; scroll-margin-top: -32px; }
+  :root { --gap-section: 96px; --pad-band: 72px; }
+  #get { scroll-margin-top: -48px; }
   #get > .wrap { gap: 24px; }
   .pick { gap: 6px; }
   .choice label { padding-block: 10px; }
-  #version { padding-top: 56px; }
-  section { padding-block: 40px; }
-  main { padding-bottom: 40px; }
   .notice { padding-top: 24px; }
   .stage h1 { font-size: 2.5rem; }
   .stage .lede { font-size: 1.0625rem; }
