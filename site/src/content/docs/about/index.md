@@ -6,11 +6,11 @@ title: "About Project Archie"
 
 Archie is an AI-powered companion built specifically for Rotary District Governors and their leadership teams. It turns Rotary International's governing documents into a structured, searchable, cited reference. Rather than spending hours searching through the RI Constitution, Bylaws, Code of Policies, Manual of Procedure, and other documents, you can ask Archie a question in plain language and receive a structured answer in seconds, complete with specific section references.
 
-The name comes from *archi*, a Sanskrit word meaning illumination, a ray or flame of light. The metaphor reflects what Archie is built to do: light the way for district leaders by making policy easier to find, easier to interpret, and easier to apply with confidence. Whether you need to double-check your reading of a Bylaw, develop an idea for your district year, or work through a sensitive question, Archie is designed to help you see the path more clearly.
+The name was inspired by *archi*, a Sanskrit word meaning illumination, a ray or flame of light. The metaphor reflects what Archie is built to do: light the way for district leaders by making policy easier to find, easier to interpret, and easier to apply with confidence. Whether you need to double-check your reading of a Bylaw, develop an idea for your district year, or work through a sensitive question, Archie is designed to help you see the path more clearly.
 
 ## Where Archie came from
 
-Archie was originally developed for Zones 26 and 27's 2024 Education Week in Albuquerque. That event focuses on preparing the incoming District Governor line, specifically District Governors-elect and District Governor-nominees, to be fully equipped for their governor year. The goal was to create a 24/7 resource that governors could rely on for guidance, helping them interpret policy, navigate governance questions, and work through challenges in real time.
+Archie was originally developed for Zones 26 and 27's 2025 Education Week in Albuquerque. That event focuses on preparing the incoming District Governor line, specifically District Governors-elect and District Governor-nominees, to be fully equipped for their governor year. The goal was to create a 24/7 resource that governors could rely on for guidance, helping them interpret policy, navigate governance questions, and work through challenges in real time.
 
 During Education Week it became clear that the broader district leadership team, including executive secretaries, committee chairs, and other district leaders, would also benefit from access. Archie evolved from a governor-only tool into a leadership support resource for anyone operating at the district level.
 
