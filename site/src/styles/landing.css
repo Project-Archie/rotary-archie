@@ -240,10 +240,9 @@ section > .wrap { display: grid; gap: 32px; }
   .picker:has(#c-claude:checked) #p-claude,
   .picker:has(#c-chatgpt:checked) #p-chatgpt,
   .picker:has(#c-work:checked) #p-work,
-  .picker:has(#c-grok:checked) #p-grok,
-  .picker:has(#c-help:checked) #p-help { display: grid; }
+  .picker:has(#c-grok:checked) #p-grok { display: grid; }
   @media (min-width: 720px) {
-    .pick { grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); grid-template-rows: repeat(5, auto) 1fr; gap: 8px 24px; align-items: start; }
+    .pick { grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); grid-template-rows: repeat(4, auto) 1fr; gap: 8px 24px; align-items: start; }
     .pick .choice { grid-column: 1; }
     .pick .panel { grid-column: 2; grid-row: 1 / -1; margin: 0; }
   }

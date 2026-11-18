@@ -221,9 +221,9 @@ const pt = (id: string) => `<!-- ${id} -->`;
               <li><span>Choose <b>Add</b>, then <b>Upload from your computer</b>, and pick <span class="file">rotary-archie.zip</span>.</span></li>
               <li><span>Start a new conversation, switch the toggle at the top from <b>Chat</b> to <b>Work</b>, and ask <q>What version of Archie are you?</q></span></li>
             </ol>
-            <p class="aside">In Chat mode, ChatGPT does not use Archie and may answer from the web. To call Archie directly in Work mode, type <b>/</b> and choose <b>Rotary Archie</b> under Skills. On ChatGPT Free, choose ChatGPT Free above.</p>
+            <p class="aside">In Chat mode, ChatGPT does not use Archie and may answer from the web. To call Archie directly in Work mode, type <b>/</b> and choose <b>Rotary Archie</b> under Skills.</p>
             <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Always the newest version.</small></div>
-            <p class="more"><a href={u('get/chatgpt/')}>Full ChatGPT guide</a></p>
+            <p class="more"><a href={u('get/chatgpt/')}>Full ChatGPT guide</a><a href={u('get/no-assistant/') + '#if-you-use-chatgpt-free'}>If you use ChatGPT Free</a></p>
           </section>
           <div class="choice"><input type="radio" name="assistant" id="c-work" value="work" aria-controls="p-work" /><label for="c-work" class="sq"><b>ChatGPT work account</b><span>Business, Enterprise, Edu or Healthcare</span></label></div>
           <section class="panel sq" id="p-work" aria-labelledby="h-work">
@@ -250,18 +250,6 @@ const pt = (id: string) => `<!-- ${id} -->`;
             <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Always the newest version.</small></div>
             <p class="more"><a href={u('get/grok/')}>Full Grok guide</a></p>
           </section>
-          <div class="choice"><input type="radio" name="assistant" id="c-help" value="help" aria-controls="p-help" /><label for="c-help" class="sq"><b>ChatGPT Free</b><span>Skills are not available there</span></label></div>
-          <section class="panel sq" id="p-help" aria-labelledby="h-help">
-            <div><h3 id="h-help">If you use ChatGPT Free</h3><p class="plan">ChatGPT Free cannot add skills. Claude's free plan takes the same file, so that is the way forward.</p></div>
-            <ol>
-              <li><span>Go to claude.ai and sign in. A free account works.</span></li>
-              <li><span>Download <b class="file">rotary-archie.zip</b>. Do not open or unzip it.</span></li>
-              <li><span>Choose <a href="#get" data-pick="c-claude">Claude</a> in the list above and follow its steps.</span></li>
-            </ol>
-            <p class="aside">A ChatGPT Project is not a route on Free: a Free project holds five files, and Archie needs eight documents. On Go, Plus or higher, a Project works.</p>
-            <div class="dl"><a class="btn fill sq" href={DOWNLOAD}><svg class="ico" aria-hidden="true"><use href="#i-down"/></svg>Download rotary-archie.zip</a><small>Do not open or unzip it.</small></div>
-            <p class="more"><a href={u('get/claude/')}>Full Claude guide</a><a href={u('get/no-assistant/')}>If Archie does not answer</a></p>
-          </section>
           </div>
         </fieldset>
       </div>
@@ -273,8 +261,8 @@ const pt = (id: string) => `<!-- ${id} -->`;
         <p class="fig"><b class="num">{release.version}</b><span>The current version, updated {updated}</span></p>
         <div class="copy">
           <h2 id="h-version">Ask Archie its version to confirm it loaded</h2>
-          <p>In a new conversation, ask <q>What version of Archie are you?</q> Archie answers with its version and the date it was last updated. Compare them with the version here. If your assistant answers without Archie, call it by name: type <b>/</b> in the message box and choose Archie from the list. On ChatGPT Free, see <a href="#get" data-pick="c-help">ChatGPT Free</a> in the picker above.</p>
-          <p class="links"><a href={u('get/test/')}>Test your setup</a><a href={u('get/update/')}>How updates arrive</a></p>
+          <p>In a new conversation, ask <q>What version of Archie are you?</q> Archie answers with its version and the date it was last updated. Compare them with the version here. If your assistant answers without Archie, call it by name: type <b>/</b> in the message box and choose Archie from the list.</p>
+          <p class="links"><a href={u('get/test/')}>Test your setup</a><a href={u('get/update/')}>How updates arrive</a><a href={u('get/no-assistant/')}>If Archie does not answer</a></p>
         </div>
       </div>
     </section>
@@ -321,7 +309,7 @@ const pt = (id: string) => `<!-- ${id} -->`;
     const root = document.documentElement;
     const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
     // Picker (UX review 2026-11-18). Phone (under 720px): the steps open directly under the tapped choice, and the page starts
-    // with all five choices closed so the reader sees every option. From 720px: choices left, the open panel right, Claude open.
+    // with all four choices closed so the reader sees every option. From 720px: choices left, the open panel right, Claude open.
     // After every pick the result is kept on screen: on a phone the tapped choice sits just under the bar; wider, the panel does.
     const pick = document.querySelector('.pick');
     const radios = pick ? [...pick.querySelectorAll('input[name=assistant]')] : [];
@@ -338,11 +326,6 @@ const pt = (id: string) => `<!-- ${id} -->`;
     };
     // click, not change: tapping the choice that is already open still brings its steps into view (arrow keys fire click too).
     radios.forEach((r) => r.addEventListener('click', () => keepInView(r, false)));
-    // A link to a picker choice selects it and brings it into view; without JavaScript it still lands on the picker (#get).
-    document.querySelectorAll('a[data-pick]').forEach((a) => a.addEventListener('click', (e) => {
-      const r = document.getElementById(a.dataset.pick); if (!r) return;
-      e.preventDefault(); r.checked = true; keepInView(r, true); r.focus({ preventScroll: true });
-    }));
     if (reduce || !('IntersectionObserver' in window)) return;
     // Attention devices: once per load, at 60 percent in view, loudest only (spotlight over highlight).
     const marks = [...document.querySelectorAll('.hl[data-sweep]')];
