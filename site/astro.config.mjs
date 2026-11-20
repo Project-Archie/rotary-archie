@@ -9,7 +9,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Project Archie',
-      description: 'A community-built AI companion that answers Rotary policy questions with citations to the governing documents.',
+      description: 'A community-built reference guide that plugs into your own AI assistant and answers Rotary policy questions with citations to the governing documents.',
       logo: { src: './src/assets/archie.png', alt: 'Archie' },
       favicon: '/favicon.png',
       social: [{ icon: 'github', label: 'Archie on GitHub', href: 'https://github.com/Project-Archie/rotary-archie' }],

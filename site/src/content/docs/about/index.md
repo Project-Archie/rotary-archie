@@ -4,7 +4,7 @@ title: "About Project Archie"
 
 ## What Archie is
 
-Archie is an AI-powered companion built specifically for Rotary District Governors and their leadership teams. It turns Rotary International's governing documents into a structured, searchable, cited reference. Rather than spending hours searching through the RI Constitution, Bylaws, Code of Policies, Manual of Procedure, and other documents, you can ask Archie a question in plain language and receive a structured answer in seconds, complete with specific section references.
+Archie is a reference guide for Rotary District Governors and their leadership teams that plugs into the AI assistant you already use. It brings Rotary International's governing documents and the rules for answering from them, so every answer names the document and section. Rather than spending hours searching through the RI Constitution, Bylaws, Code of Policies, Manual of Procedure, and other documents, you can ask Archie a question in plain language and receive a structured answer in seconds, complete with specific section references.
 
 The name was inspired by *archi*, a Sanskrit word meaning illumination, a ray or flame of light. The metaphor reflects what Archie is built to do: light the way for district leaders by making policy easier to find, easier to interpret, and easier to apply with confidence. Whether you need to double-check your reading of a Bylaw, develop an idea for your district year, or work through a sensitive question, Archie is designed to help you see the path more clearly.
 
@@ -18,7 +18,7 @@ During Education Week it became clear that the broader district leadership team,
 
 Archie is a community project and not an official Rotary International product. Rotary International has not endorsed or adopted it. Archie answers from governing documents that Rotary International publishes on My Rotary, copied without changes to their wording. [Where Archie's documents come from](/rotary-archie/about/sources/) lists each one with its edition and a link to Rotary International's copy, and explains how the project checks for new editions.
 
-Those safeguards are built into Archie's programming. It does not provide legal, financial, or insurance advice. It directs users to RI staff or appropriate leadership channels when escalation is required. It reinforces compliance with official RI policy throughout. And it encourages verification through proper RI or district channels for sensitive matters. These guardrails make Archie a research and reference tool, not a decision-making authority.
+Those safeguards are built into Archie's instructions. It does not provide legal, financial, or insurance advice. It directs users to RI staff or appropriate leadership channels when escalation is required. It reinforces compliance with official RI policy throughout. And it encourages verification through proper RI or district channels for sensitive matters. These guardrails make Archie a research and reference tool, not a decision-making authority.
 
 ## What Archie does
 
@@ -50,7 +50,7 @@ For legal, tax, insurance, youth safety, and financial irregularity questions, A
 
 ## What Archie does not do
 
-Archie does not access your club database, make financial decisions, provide legal advice, or replace human judgment. On its own, each conversation starts fresh. Inside a Project, Archie remembers what you tell it; see [Optional: give Archie memory](/rotary-archie/use/memory/). Archie is a tool that makes you more effective; it is not a substitute for the relationships, experience, and discernment that Rotary leadership requires.
+Archie is not an AI model or an agent. It runs on the assistant you already use and takes no actions on its own. It does not access your club database, make financial decisions, provide legal advice, or replace human judgment. On its own, each conversation starts fresh. Inside a Project, Archie remembers what you tell it; see [Optional: give Archie memory](/rotary-archie/use/memory/). Archie is a tool that makes you more effective; it is not a substitute for the relationships, experience, and discernment that Rotary leadership requires.
 
 ## Archie vs. generic AI
 

@@ -4,6 +4,14 @@ All notable changes to Project Archie. Rotary years run 1 July to 30 June.
 
 Version format: `ROTARY-YEAR.MAJOR.MINOR`. The first number is the Rotary year of the bundled governing documents. MAJOR increases when one of the seven critical governance rules changes; MINOR covers everything else.
 
+## [Website and README] - 2026-11-20
+
+Archie itself is unchanged at 2026.1.3.
+
+### Changed
+- The website and README describe Archie as a reference guide that plugs into your own AI assistant, in place of "AI companion". The README adds a technical description: a source-grounded knowledge package, not an agent or a model.
+- The About page says plainly that Archie is not an AI model or an agent and takes no actions on its own.
+
 ## [2026.1.3] - 2026-11-18
 
 ### Changed

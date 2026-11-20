@@ -4,7 +4,9 @@
 
 **New here? Start at the [Archie website](https://project-archie.github.io/rotary-archie/).** It walks you through installing in plain language.
 
-Archie is a community-built AI companion for Rotary district leaders. It answers policy and governance questions with citations to the specific Rotary International documents that apply, and it tells you how confident it is in each answer. Legal, financial, insurance, and youth-safety matters are sent to the people who handle them rather than answered with a guess.
+Archie is a community-built reference guide for Rotary district leaders that plugs into your own AI assistant. It answers policy and governance questions with citations to the specific Rotary International documents that apply, and it tells you how confident it is in each answer. Legal, financial, insurance, and youth-safety matters are sent to the people who handle them rather than answered with a guess.
+
+In technical terms, Archie is a source-grounded knowledge package: a curated, versioned set of RI documents converted word for word, indexes for finding the right passage, and rules for answering from them. It is not an agent or a model. It takes no actions on its own and runs on whichever model your assistant already uses. The work that sets it apart from uploading the documents yourself is context engineering: deciding what the assistant sees and how it uses it.
 
 Archie is a community project, not an official Rotary International product, and Rotary International has not endorsed it. It answers from governing documents that RI publishes on My Rotary; the [sources page](https://project-archie.github.io/rotary-archie/about/sources/) lists each one with its edition and a link to RI's copy. Feedback and contributions: archie4rotary@gmail.com.
 
