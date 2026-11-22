@@ -38,7 +38,7 @@ Between an RI release and the next Archie release, Archie can be one edition beh
 
 ## What the version number means
 
-Archie's version has three numbers, for example 2026.1.3.
+Archie's version has three numbers, for example 2026.1.4.
 
 - The first number is the Rotary year of the documents. 2026 means the Rotary year that runs July 2026 to June 2027.
 - The second number changes when one of the seven core rules Archie follows changes.

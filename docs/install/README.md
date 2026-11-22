@@ -12,7 +12,7 @@ The same file installs on Claude, ChatGPT, and Grok. Pick whichever assistant yo
 2. If the link does not work for you, open https://github.com/Project-Archie/rotary-archie/releases/latest instead, scroll down to the heading **Assets**, and click `rotary-archie.zip`.
 3. Leave the file zipped. A zip file is one compressed file. Do not open it, and do not unzip it. Every assistant below wants the zip exactly as you downloaded it.
 
-If you use the Claude desktop app on a Mac or a Windows PC, download `rotary-archie-v2026.1.3.skill` from the **Assets** list on that release page instead. You install it by double-clicking it. See claude.md.
+If you use the Claude desktop app on a Mac or a Windows PC, download `rotary-archie-v2026.1.4.skill` from the **Assets** list on that release page instead. You install it by double-clicking it. See claude.md.
 
 ## Pick your assistant
 
@@ -59,4 +59,4 @@ You can also just wait to be told. Your Zone coordinator sends a note whenever a
 
 To have GitHub tell you directly, open https://github.com/Project-Archie/rotary-archie, click **Watch** near the top right, choose **Custom**, and tick **Releases**. GitHub then emails you when a new version goes up.
 
-The first part of the version number is the Rotary year the documents come from. Version 2026.1.3 carries the documents Rotary International published for the 2026 Rotary year, including the January 2027 editions of the Rotary Code of Policies and The Rotary Foundation Code of Policies. The third number goes up when a document is updated during the year. When the 2027 documents land, the version becomes 2027 followed by its own numbers.
+The first part of the version number is the Rotary year the documents come from. Version 2026.1.4 carries the documents Rotary International published for the 2026 Rotary year, including the January 2027 editions of the Rotary Code of Policies and The Rotary Foundation Code of Policies. The third number goes up when a document is updated during the year. When the 2027 documents land, the version becomes 2027 followed by its own numbers.

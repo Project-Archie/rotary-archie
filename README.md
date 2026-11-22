@@ -32,7 +32,7 @@ Restart Claude Code afterwards. Update later with `/plugin marketplace update pr
 
 ## Install Archie
 
-Download the newest zip by clicking [this link](https://github.com/Project-Archie/rotary-archie/releases/latest/download/rotary-archie.zip). Your browser saves `rotary-archie.zip`. If the link does not work, open the [latest release](https://github.com/Project-Archie/rotary-archie/releases/latest) and click `rotary-archie.zip` under **Assets**. Then follow the guide for your assistant. Claude desktop app users can double-click `rotary-archie-v2026.1.3.skill` from the same **Assets** list.
+Download the newest zip by clicking [this link](https://github.com/Project-Archie/rotary-archie/releases/latest/download/rotary-archie.zip). Your browser saves `rotary-archie.zip`. If the link does not work, open the [latest release](https://github.com/Project-Archie/rotary-archie/releases/latest) and click `rotary-archie.zip` under **Assets**. Then follow the guide for your assistant. Claude desktop app users can double-click `rotary-archie-v2026.1.4.skill` from the same **Assets** list.
 
 | Assistant | Plans that support skills | Guide |
 |---|---|---|

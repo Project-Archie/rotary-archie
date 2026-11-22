@@ -12,7 +12,7 @@
       "name": "rotary-archie",
       "displayName": "Archie",
       "source": "./plugins/rotary-archie",
-      "description": "Cited Rotary policy and governance advisor for district leaders, built on the Rotary International governing documents.",
+      "description": "Cited reference guide to Rotary policy and governance for district leaders, built on the Rotary International governing documents.",
       "author": { "name": "Project Archie", "email": "archie4rotary@gmail.com" },
       "homepage": "https://github.com/Project-Archie/rotary-archie",
       "repository": "https://github.com/Project-Archie/rotary-archie",
